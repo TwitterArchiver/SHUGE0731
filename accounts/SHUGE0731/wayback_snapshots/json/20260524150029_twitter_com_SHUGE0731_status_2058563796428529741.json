@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2058454294006054912"
+      ],
+      "media_source_tweet_id": [
+        "2058454665390678057"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058563796428529741",
+    "created_at": "2026-05-24T15:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T16:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058563796428529741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990561037010153472",
+          "start": 3,
+          "username": "oz_ma33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9Cre1tR9ro",
+          "end": 115,
+          "expanded_url": "https://x.com/oz_ma33/status/2058454665390678057/video/1",
+          "media_key": "13_2058454294006054912",
+          "start": 92,
+          "url": "https://t.co/9Cre1tR9ro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058563796428529741",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 132
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058454665390678057",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oz_ma33: んあああぁぁぁぁやっと追加シーンのおさわりゲーム出来たああああああああああああああああああああああああ開脚の表現に命かけすぎてとんでもない時間かかっちゃった https://t.co/9Cre1tR9ro"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2058563796428529741].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2058563796428529741",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2058563796428529741"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 198826,
+        "height": 1834,
+        "media_key": "13_2058454294006054912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058454294006054912/img/6PwsDom7e3SrWi3W.jpg",
+        "public_metrics": {
+          "view_count": 14280
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058454294006054912/vid/avc1/320x334/dUKKJ-QElBil8W7H.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058454294006054912/vid/avc1/1080x1126/91eBj1vHNsygv2cx.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058454294006054912/vid/avc1/1756x1834/XFQfuZj0Zs_dBX_S.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058454294006054912/vid/avc1/720x750/Oc6lwBFlVOqq69UL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058454294006054912/pl/Vev92sRktQ9ftvbv.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058454294006054912/vid/avc1/480x500/wvbT1eQTuDngp3rM.mp4"
+          }
+        ],
+        "width": 1756
+      },
+      {
+        "duration_ms": 198826,
+        "height": 1834,
+        "media_key": "13_2058454294006054912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058454294006054912/img/6PwsDom7e3SrWi3W.jpg",
+        "public_metrics": {
+          "view_count": 14443
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058454294006054912/vid/avc1/320x334/dUKKJ-QElBil8W7H.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058454294006054912/vid/avc1/1080x1126/91eBj1vHNsygv2cx.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058454294006054912/vid/avc1/1756x1834/XFQfuZj0Zs_dBX_S.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058454294006054912/vid/avc1/720x750/Oc6lwBFlVOqq69UL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058454294006054912/pl/Vev92sRktQ9ftvbv.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058454294006054912/vid/avc1/480x500/wvbT1eQTuDngp3rM.mp4"
+          }
+        ],
+        "width": 1756
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058454294006054912"
+          ]
+        },
+        "author_id": "990561037010153472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058454665390678057",
+        "created_at": "2026-05-24T07:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058454665390678057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Cre1tR9ro",
+              "end": 102,
+              "expanded_url": "https://x.com/oz_ma33/status/2058454665390678057/video/1",
+              "media_key": "13_2058454294006054912",
+              "start": 79,
+              "url": "https://t.co/9Cre1tR9ro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058454665390678057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1081,
+          "impression_count": 27330,
+          "like_count": 1920,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "んあああぁぁぁぁやっと追加シーンのおさわりゲーム出来たああああああああああああああああああああああああ開脚の表現に命かけすぎてとんでもない時間かかっちゃった https://t.co/9Cre1tR9ro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 1125,
+          "like_count": 29271,
+          "listed_count": 4,
+          "media_count": 674,
+          "tweet_count": 9998
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-29T11:58:49.000Z",
+        "description": "夢を...描いているんだ…強く生きていきたいお絵かきマン🔞イラストレーター兼Live2Dモデラー\n\nファンティア　https://t.co/aJ4p1roP60\n未成年の方はこちら　@oz_ma33_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "oz_ma33_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/5714",
+                "end": 80,
+                "expanded_url": "http://fantia.jp/fanclubs/5714",
+                "start": 57,
+                "url": "https://t.co/aJ4p1roP60"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=31399228",
+                "start": 0,
+                "url": "https://t.co/qjOqmxFGuW"
+              }
+            ]
+          }
+        },
+        "id": "990561037010153472",
+        "name": "おずま",
+        "pinned_tweet_id": "2058454665390678057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1234833012803526656/XIPTdBJq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238813,
+          "following_count": 589,
+          "like_count": 2481,
+          "listed_count": 1471,
+          "media_count": 183,
+          "tweet_count": 1811
+        },
+        "url": "https://t.co/qjOqmxFGuW",
+        "username": "oz_ma33",
+        "verified": true
+      }
+    ]
+  }
+}

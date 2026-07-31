@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1872248591173267456"
+      ],
+      "media_source_tweet_id": [
+        "1872248599691853916"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1872248958686507167",
+    "created_at": "2024-12-26T11:51:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T12:51:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872248958686507167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "939390319",
+          "start": 3,
+          "username": "gigzagu123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h07l1Sukj0",
+          "end": 42,
+          "expanded_url": "https://x.com/gigzagu123/status/1872248599691853916/photo/1",
+          "media_key": "3_1872248591173267456",
+          "start": 19,
+          "url": "https://t.co/h07l1Sukj0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872248958686507167",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872248599691853916",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @gigzagu123: ☁️ https://t.co/h07l1Sukj0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_1872248591173267456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfuQLJAbsAAFxLE.jpg",
+        "width": 2828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872248591173267456"
+          ],
+          "media_source_tweet_id": [
+            "1872248599691853916"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1872248958686507167",
+        "created_at": "2024-12-26T11:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T12:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872248958686507167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "939390319",
+              "start": 3,
+              "username": "gigzagu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h07l1Sukj0",
+              "end": 42,
+              "expanded_url": "https://x.com/gigzagu123/status/1872248599691853916/photo/1",
+              "media_key": "3_1872248591173267456",
+              "start": 19,
+              "url": "https://t.co/h07l1Sukj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872248958686507167",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872248599691853916",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @gigzagu123: ☁️ https://t.co/h07l1Sukj0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872248591173267456"
+          ]
+        },
+        "author_id": "939390319",
+        "conversation_id": "1872248599691853916",
+        "created_at": "2024-12-26T11:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T12:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872248599691853916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h07l1Sukj0",
+              "end": 26,
+              "expanded_url": "https://x.com/gigzagu123/status/1872248599691853916/photo/1",
+              "media_key": "3_1872248591173267456",
+              "start": 3,
+              "url": "https://t.co/h07l1Sukj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872248599691853916",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 147,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "following",
+        "text": "☁️ https://t.co/h07l1Sukj0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1863243605252690301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 800,
+          "like_count": 4278,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 876
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-10T16:13:32.000Z",
+        "description": "◾︎お絵描きする人 ✉️実績、お仕事のご連絡は以下のforiio のプロフィールからご確認下さい（現在企業様のみ）DMは確認しておりません。◾画集 玄光社「emergence」 ︎講座Coloso https://t.co/1t4BaSrPAG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "coloso.jp/products/illus…",
+                "end": 122,
+                "expanded_url": "https://coloso.jp/products/illustrator-gawako2-jp",
+                "start": 99,
+                "url": "https://t.co/1t4BaSrPAG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fori.io/gigzagu123",
+                "end": 23,
+                "expanded_url": "https://fori.io/gigzagu123",
+                "start": 0,
+                "url": "https://t.co/XqCX7vidln"
+              }
+            ]
+          }
+        },
+        "id": "939390319",
+        "name": "がわこ",
+        "pinned_tweet_id": "1854898044292235633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641999581457309697/YmwDy38I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337933,
+          "following_count": 620,
+          "like_count": 26559,
+          "listed_count": 2453,
+          "media_count": 3586,
+          "tweet_count": 58837
+        },
+        "url": "https://t.co/XqCX7vidln",
+        "username": "gigzagu123",
+        "verified": true
+      }
+    ]
+  }
+}

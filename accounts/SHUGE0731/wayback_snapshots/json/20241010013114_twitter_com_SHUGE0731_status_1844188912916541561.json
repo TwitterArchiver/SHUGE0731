@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1844008889156800556",
+    "created_at": "2024-10-10T01:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-10T02:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1844188912916541561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596489618429562882",
+          "start": 0,
+          "username": "plzjustluvmeqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1844188912916541561",
+    "in_reply_to_user_id": "1596489618429562882",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844008889156800556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plzjustluvmeqwq 生日快乐🎂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1844008889156800556",
+        "created_at": "2024-10-10T01:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-10T02:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1844188912916541561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596489618429562882",
+              "start": 0,
+              "username": "plzjustluvmeqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844188912916541561",
+        "in_reply_to_user_id": "1596489618429562882",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844008889156800556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plzjustluvmeqwq 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596489618429562882",
+        "conversation_id": "1844008889156800556",
+        "created_at": "2024-10-09T13:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T14:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1844008889156800556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1844008889156800556",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天是我的二十岁生日"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 639,
+          "like_count": 2171,
+          "listed_count": 0,
+          "tweet_count": 377
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T13:03:22.000Z",
+        "description": "你好我是纱奈(*^ω^*)\n喜欢唱歌~在这里发一点自拍和碎碎念\n有恋人/只回关感兴趣的人/不互关互转\nI am Chinese 中文/English 🆗",
+        "id": "1596489618429562882",
+        "location": "被窝里",
+        "name": "天使ちゃんはslut",
+        "pinned_tweet_id": "1840795512951488595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842623055769800705/-6EZ4A8q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 131,
+          "like_count": 3777,
+          "listed_count": 1,
+          "tweet_count": 1257
+        },
+        "username": "plzjustluvmeqwq",
+        "verified": false
+      }
+    ]
+  }
+}
