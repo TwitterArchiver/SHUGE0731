@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996536553037021186"
+      ],
+      "media_source_tweet_id": [
+        "1996536560297386408"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1997183429243482370",
+    "created_at": "2025-12-06T05:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T06:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997183429243482370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1868105171722784768",
+          "start": 3,
+          "username": "kabosu_socute"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WxVQMkNhtc",
+          "end": 54,
+          "expanded_url": "https://x.com/kabosu_socute/status/1996536560297386408/photo/1",
+          "media_key": "3_1996536553037021186",
+          "start": 31,
+          "url": "https://t.co/WxVQMkNhtc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997183429243482370",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996536560297386408",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kabosu_socute: 今日のフォーメーション https://t.co/WxVQMkNhtc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1952,
+        "media_key": "3_1996536553037021186",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7UfarjawAImmuj.jpg",
+        "width": 2187
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996536553037021186"
+          ],
+          "media_source_tweet_id": [
+            "1996536560297386408"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1997183429243482370",
+        "created_at": "2025-12-06T05:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T06:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997183429243482370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1868105171722784768",
+              "start": 3,
+              "username": "kabosu_socute"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WxVQMkNhtc",
+              "end": 54,
+              "expanded_url": "https://x.com/kabosu_socute/status/1996536560297386408/photo/1",
+              "media_key": "3_1996536553037021186",
+              "start": 31,
+              "url": "https://t.co/WxVQMkNhtc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997183429243482370",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996536560297386408",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kabosu_socute: 今日のフォーメーション https://t.co/WxVQMkNhtc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996536553037021186"
+          ]
+        },
+        "author_id": "1868105171722784768",
+        "conversation_id": "1996536560297386408",
+        "created_at": "2025-12-04T11:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T12:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996536560297386408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WxVQMkNhtc",
+              "end": 35,
+              "expanded_url": "https://x.com/kabosu_socute/status/1996536560297386408/photo/1",
+              "media_key": "3_1996536553037021186",
+              "start": 12,
+              "url": "https://t.co/WxVQMkNhtc"
+            },
+            {
+              "display_url": "x.com/kabosu_socute/…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/kabosu_socute/status/1995456861810639110",
+              "start": 36,
+              "url": "https://t.co/dCrJK2EbLL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996536560297386408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 46133,
+          "like_count": 1066,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995456861810639110",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今日のフォーメーション https://t.co/WxVQMkNhtc https://t.co/dCrJK2EbLL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 1060,
+          "like_count": 12688,
+          "listed_count": 2,
+          "media_count": 411,
+          "tweet_count": 3523
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T01:26:17.000Z",
+        "description": "🌞🪶五彩戦隊ウロコシャイン❣️🦜 🍊かぼす🍊(24.7.22🐣)→🏠24.10.20 🥔ぽてち🥔(25.1.22🐣) 💎ひすい💎(25.2.22🐣)→🏠25.3.25 🍵お茶子🍃(25.2.25🐣)→🏠25.4.23 ⬜きぬ⬜(25.2.14🐣)→🏠25.5.7",
+        "id": "1868105171722784768",
+        "location": "このアカウントは2人で運営しています",
+        "name": "かぼす",
+        "pinned_tweet_id": "1968490595388891276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930972296937893888/koJLd-Y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 276,
+          "like_count": 7546,
+          "listed_count": 1,
+          "media_count": 711,
+          "tweet_count": 1203
+        },
+        "username": "kabosu_socute",
+        "verified": false
+      }
+    ]
+  }
+}

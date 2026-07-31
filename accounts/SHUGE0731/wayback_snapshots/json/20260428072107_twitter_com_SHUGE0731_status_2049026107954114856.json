@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048755163083800577"
+      ],
+      "media_source_tweet_id": [
+        "2048755170117591077"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2049026107954114856",
+    "created_at": "2026-04-28T07:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049026107954114856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1915945409538895872",
+          "start": 3,
+          "username": "KSH_berry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o1S2YK7KGq",
+          "end": 38,
+          "expanded_url": "https://x.com/KSH_berry/status/2048755170117591077/photo/1",
+          "media_key": "3_2048755163083800577",
+          "start": 15,
+          "url": "https://t.co/o1S2YK7KGq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049026107954114856",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 666
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048755170117591077",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KSH_berry: https://t.co/o1S2YK7KGq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2299,
+        "media_key": "3_2048755163083800577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6j909bgAEePh8.jpg",
+        "width": 2648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048755163083800577"
+          ],
+          "media_source_tweet_id": [
+            "2048755170117591077"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2049026107954114856",
+        "created_at": "2026-04-28T07:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049026107954114856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1915945409538895872",
+              "start": 3,
+              "username": "KSH_berry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o1S2YK7KGq",
+              "end": 38,
+              "expanded_url": "https://x.com/KSH_berry/status/2048755170117591077/photo/1",
+              "media_key": "3_2048755163083800577",
+              "start": 15,
+              "url": "https://t.co/o1S2YK7KGq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049026107954114856",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 666
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048755170117591077",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KSH_berry: https://t.co/o1S2YK7KGq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048755163083800577"
+          ]
+        },
+        "author_id": "1915945409538895872",
+        "conversation_id": "2048755170117591077",
+        "created_at": "2026-04-27T13:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048755170117591077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o1S2YK7KGq",
+              "end": 23,
+              "expanded_url": "https://x.com/KSH_berry/status/2048755170117591077/photo/1",
+              "media_key": "3_2048755163083800577",
+              "start": 0,
+              "url": "https://t.co/o1S2YK7KGq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048755170117591077",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 34474,
+          "like_count": 1593,
+          "quote_count": 51,
+          "reply_count": 1,
+          "retweet_count": 666
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/o1S2YK7KGq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 1085,
+          "like_count": 27266,
+          "listed_count": 4,
+          "media_count": 640,
+          "tweet_count": 9450
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T01:46:08.000Z",
+        "description": "성인/잡다계정 🚫do not repost my art \n🚫ai X\n\nhttps://t.co/BmIlPOESg4\n\n프로필사진 https://t.co/Pikf7MW60B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/kshwan",
+                "end": 61,
+                "expanded_url": "https://spin-spin.com/kshwan",
+                "start": 38,
+                "url": "https://t.co/BmIlPOESg4"
+              },
+              {
+                "display_url": "kre.pe/7PnD",
+                "end": 92,
+                "expanded_url": "https://kre.pe/7PnD",
+                "start": 69,
+                "url": "https://t.co/Pikf7MW60B"
+              }
+            ]
+          }
+        },
+        "id": "1915945409538895872",
+        "name": "KSH",
+        "pinned_tweet_id": "2044726271951921164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039741247469039617/VFFynOvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 163,
+          "like_count": 1122,
+          "listed_count": 7,
+          "media_count": 151,
+          "tweet_count": 633
+        },
+        "username": "KSH_berry",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291184917221535744",
+          "name": "Hip hop"
+        }
+      }
+    ],
+    "conversation_id": "2024555978554036254",
+    "created_at": "2026-02-19T18:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T19:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024555978554036254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lgnwsmbaw/stat…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/lgnwsmbaw/status/2024213556372394352",
+          "start": 32,
+          "url": "https://t.co/KuR2thPG9R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024555978554036254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024213556372394352",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "漏ck感觉真的没啥问题 无论男女 可能是说唱mv看多了导致的… https://t.co/KuR2thPG9R"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2024555978554036254",
+        "created_at": "2026-02-19T18:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T19:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024555978554036254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lgnwsmbaw/stat…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/lgnwsmbaw/status/2024213556372394352",
+              "start": 32,
+              "url": "https://t.co/KuR2thPG9R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024555978554036254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024213556372394352",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "漏ck感觉真的没啥问题 无论男女 可能是说唱mv看多了导致的… https://t.co/KuR2thPG9R"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962893857731084289",
+        "conversation_id": "2024213556372394352",
+        "created_at": "2026-02-18T20:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T21:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024213556372394352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024213556372394352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 238750,
+          "like_count": 1008,
+          "quote_count": 7,
+          "reply_count": 50,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "ck是我觉得唯一一个漏出来不恶心的内裤，爱发身材的男孩子们注意一下内裤管理好不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 991,
+          "like_count": 21629,
+          "listed_count": 3,
+          "media_count": 571,
+          "tweet_count": 7696
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T15:02:38.000Z",
+        "description": "猪头肉过敏体质",
+        "id": "1962893857731084289",
+        "location": "水泥平地",
+        "name": "降降火气吧",
+        "pinned_tweet_id": "2023575186860015962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024447617388990471/L0dCvQ-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9915,
+          "following_count": 93,
+          "like_count": 5010,
+          "listed_count": 23,
+          "media_count": 335,
+          "tweet_count": 4558
+        },
+        "username": "lgnwsmbaw",
+        "verified": false
+      }
+    ]
+  }
+}

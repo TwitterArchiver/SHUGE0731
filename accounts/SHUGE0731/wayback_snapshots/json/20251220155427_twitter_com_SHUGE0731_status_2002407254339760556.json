@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2002079030560915456"
+      ],
+      "media_source_tweet_id": [
+        "2002079045048246647"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2002407254339760556",
+    "created_at": "2025-12-20T15:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T16:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002407254339760556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1756512429377294336",
+          "start": 3,
+          "username": "ChiefofIsaac"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RfiAzAfxqn",
+          "end": 41,
+          "expanded_url": "https://x.com/ChiefofIsaac/status/2002079045048246647/photo/1",
+          "media_key": "16_2002079030560915456",
+          "start": 18,
+          "url": "https://t.co/RfiAzAfxqn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002407254339760556",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1613
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002079045048246647",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChiefofIsaac: https://t.co/RfiAzAfxqn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 460,
+        "media_key": "16_2002079030560915456",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G8jQRVTXgAA3c_9.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G8jQRVTXgAA3c_9.mp4"
+          }
+        ],
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2002079030560915456"
+          ],
+          "media_source_tweet_id": [
+            "2002079045048246647"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2002407254339760556",
+        "created_at": "2025-12-20T15:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T16:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002407254339760556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756512429377294336",
+              "start": 3,
+              "username": "ChiefofIsaac"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RfiAzAfxqn",
+              "end": 41,
+              "expanded_url": "https://x.com/ChiefofIsaac/status/2002079045048246647/photo/1",
+              "media_key": "16_2002079030560915456",
+              "start": 18,
+              "url": "https://t.co/RfiAzAfxqn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002407254339760556",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1613
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002079045048246647",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChiefofIsaac: https://t.co/RfiAzAfxqn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2002079030560915456"
+          ]
+        },
+        "author_id": "1756512429377294336",
+        "conversation_id": "2002079045048246647",
+        "created_at": "2025-12-19T18:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T19:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002079045048246647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RfiAzAfxqn",
+              "end": 23,
+              "expanded_url": "https://x.com/ChiefofIsaac/status/2002079045048246647/photo/1",
+              "media_key": "16_2002079030560915456",
+              "start": 0,
+              "url": "https://t.co/RfiAzAfxqn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002079045048246647",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 626,
+          "impression_count": 197023,
+          "like_count": 8479,
+          "quote_count": 79,
+          "reply_count": 8,
+          "retweet_count": 1613
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RfiAzAfxqn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 1037,
+          "like_count": 14574,
+          "listed_count": 2,
+          "media_count": 468,
+          "tweet_count": 4580
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T02:56:19.000Z",
+        "description": "Chief of the funnies on twt 👉BACKUPS: @CeoAvenged @isaac3523 👈 (if yall ever made anything for me, dm me it I’ll 100% see it and rt it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "CeoAvenged"
+              },
+              {
+                "end": 60,
+                "start": 50,
+                "username": "isaac3523"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/JetwQECqSA",
+                "end": 23,
+                "expanded_url": "https://discord.gg/JetwQECqSA",
+                "start": 0,
+                "url": "https://t.co/atm8e35kis"
+              }
+            ]
+          }
+        },
+        "id": "1756512429377294336",
+        "location": "PFP by @Real_Animal",
+        "name": "Chief ⚔️ ‼️ (Dinosaurs Are Real)",
+        "pinned_tweet_id": "1937850415028027765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927170265005301760/sJPx2l3Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109853,
+          "following_count": 1854,
+          "like_count": 30110,
+          "listed_count": 153,
+          "media_count": 11638,
+          "tweet_count": 20589
+        },
+        "url": "https://t.co/atm8e35kis",
+        "username": "ChiefofIsaac",
+        "verified": true
+      }
+    ]
+  }
+}

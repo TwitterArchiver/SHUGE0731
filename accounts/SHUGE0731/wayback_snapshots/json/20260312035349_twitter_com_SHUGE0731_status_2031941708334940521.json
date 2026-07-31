@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031722968611758080"
+      ],
+      "media_source_tweet_id": [
+        "2031722975062626526"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2031941708334940521",
+    "created_at": "2026-03-12T03:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T04:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031941708334940521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1218074854861111302",
+          "start": 3,
+          "username": "ringring_ring"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9v409fXXUh",
+          "end": 46,
+          "expanded_url": "https://x.com/ringring_ring/status/2031722975062626526/photo/1",
+          "media_key": "3_2031722968611758080",
+          "start": 23,
+          "url": "https://t.co/9v409fXXUh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031941708334940521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 184
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031722975062626526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ringring_ring: 半ドロ https://t.co/9v409fXXUh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031722968611758080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDIhRoIbIAAgAYq.jpg",
+        "width": 1451
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031722968611758080"
+          ],
+          "media_source_tweet_id": [
+            "2031722975062626526"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2031941708334940521",
+        "created_at": "2026-03-12T03:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T04:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031941708334940521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1218074854861111302",
+              "start": 3,
+              "username": "ringring_ring"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9v409fXXUh",
+              "end": 46,
+              "expanded_url": "https://x.com/ringring_ring/status/2031722975062626526/photo/1",
+              "media_key": "3_2031722968611758080",
+              "start": 23,
+              "url": "https://t.co/9v409fXXUh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031941708334940521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 184
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031722975062626526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ringring_ring: 半ドロ https://t.co/9v409fXXUh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031722968611758080"
+          ]
+        },
+        "author_id": "1218074854861111302",
+        "conversation_id": "2031722975062626526",
+        "created_at": "2026-03-11T13:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T14:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031722975062626526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9v409fXXUh",
+              "end": 27,
+              "expanded_url": "https://x.com/ringring_ring/status/2031722975062626526/photo/1",
+              "media_key": "3_2031722968611758080",
+              "start": 4,
+              "url": "https://t.co/9v409fXXUh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031722975062626526",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 11214,
+          "like_count": 1399,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 184
+        },
+        "reply_settings": "everyone",
+        "text": "半ドロ https://t.co/9v409fXXUh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 1008,
+          "like_count": 23598,
+          "listed_count": 3,
+          "media_count": 590,
+          "tweet_count": 8304
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-17T07:37:40.000Z",
+        "description": "ウマ娘の絵 猫はこっち(@daredemo_neko)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "daredemo_neko"
+              }
+            ]
+          }
+        },
+        "id": "1218074854861111302",
+        "location": "道成寺の梵鐘の中",
+        "name": "ringring",
+        "pinned_tweet_id": "2020150583458734312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017448858767527938/QjYcBOZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23596,
+          "following_count": 1788,
+          "like_count": 48425,
+          "listed_count": 120,
+          "media_count": 7052,
+          "tweet_count": 36834
+        },
+        "username": "ringring_ring",
+        "verified": false
+      }
+    ]
+  }
+}

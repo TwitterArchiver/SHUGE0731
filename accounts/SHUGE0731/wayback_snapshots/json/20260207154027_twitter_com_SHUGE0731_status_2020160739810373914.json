@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019968880928825344"
+      ],
+      "media_source_tweet_id": [
+        "2019968889791336562"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2020160739810373914",
+    "created_at": "2026-02-07T15:40:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T16:40:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020160739810373914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1689728816950988800",
+          "start": 3,
+          "username": "parfaitgul"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/riUA73T2ni",
+          "end": 41,
+          "expanded_url": "https://x.com/parfaitgul/status/2019968889791336562/photo/1",
+          "media_key": "3_2019968880928825344",
+          "start": 18,
+          "url": "https://t.co/riUA73T2ni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020160739810373914",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 502
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019968889791336562",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @parfaitgul: 🧸 https://t.co/riUA73T2ni"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019968880928825344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAhe_rUbIAA4ZJM.jpg",
+        "width": 1674
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019968880928825344"
+          ],
+          "media_source_tweet_id": [
+            "2019968889791336562"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2020160739810373914",
+        "created_at": "2026-02-07T15:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T16:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020160739810373914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1689728816950988800",
+              "start": 3,
+              "username": "parfaitgul"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/riUA73T2ni",
+              "end": 41,
+              "expanded_url": "https://x.com/parfaitgul/status/2019968889791336562/photo/1",
+              "media_key": "3_2019968880928825344",
+              "start": 18,
+              "url": "https://t.co/riUA73T2ni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020160739810373914",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 502
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019968889791336562",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @parfaitgul: 🧸 https://t.co/riUA73T2ni"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019968880928825344"
+          ]
+        },
+        "author_id": "1689728816950988800",
+        "conversation_id": "2019968889791336562",
+        "created_at": "2026-02-07T02:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T03:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019968889791336562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/riUA73T2ni",
+              "end": 25,
+              "expanded_url": "https://x.com/parfaitgul/status/2019968889791336562/photo/1",
+              "media_key": "3_2019968880928825344",
+              "start": 2,
+              "url": "https://t.co/riUA73T2ni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019968889791336562",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 354,
+          "impression_count": 25099,
+          "like_count": 3452,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 502
+        },
+        "reply_settings": "everyone",
+        "text": "🧸 https://t.co/riUA73T2ni"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 973,
+          "like_count": 19742,
+          "listed_count": 3,
+          "media_count": 551,
+          "tweet_count": 6967
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-10T20:02:13.000Z",
+        "description": "굴 입니다… • 成人済 • 無断転載禁止",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/anvz7mfai…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/anvz7mfaitifvirm/",
+                "start": 0,
+                "url": "https://t.co/0lWyJy1Nnu"
+              }
+            ]
+          }
+        },
+        "id": "1689728816950988800",
+        "location": "🌟🀄️と黄金一族",
+        "name": "ぐる",
+        "pinned_tweet_id": "1950560266355421576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730250998223196160/5ofRvswa_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3089,
+          "following_count": 76,
+          "like_count": 7231,
+          "listed_count": 23,
+          "media_count": 943,
+          "tweet_count": 12300
+        },
+        "url": "https://t.co/0lWyJy1Nnu",
+        "username": "parfaitgul",
+        "verified": false
+      }
+    ]
+  }
+}

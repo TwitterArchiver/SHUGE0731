@@ -1,0 +1,189 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1807582830391919100",
+    "created_at": "2024-07-01T01:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-01T02:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807585219454582836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1747138924450029568",
+          "start": 0,
+          "username": "overspeedwiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807585219454582836",
+    "in_reply_to_user_id": "1747138924450029568",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807582830391919100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overspeedwiki 不会！🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1807582830391919100",
+        "created_at": "2024-07-01T01:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T02:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807585219454582836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1747138924450029568",
+              "start": 0,
+              "username": "overspeedwiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807585219454582836",
+        "in_reply_to_user_id": "1747138924450029568",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807582830391919100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overspeedwiki 不会！🥺"
+      },
+      {
+        "attachments": {},
+        "author_id": "1747138924450029568",
+        "conversation_id": "1807582830391919100",
+        "created_at": "2024-07-01T01:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T02:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807582830391919100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807582830391919100",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们恨我吗…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 423,
+          "like_count": 503,
+          "listed_count": 0,
+          "tweet_count": 69
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:09:23.000Z",
+        "description": "关注overspeedwiki喵，关注oswiki喵\n\nGalgame分享：\nhttps://t.co/OXiOIO9QLM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "58game.xyz",
+                "end": 62,
+                "expanded_url": "https://58game.xyz/",
+                "start": 39,
+                "url": "https://t.co/OXiOIO9QLM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/",
+                "start": 0,
+                "url": "https://t.co/1lgsYKvyJq"
+              }
+            ]
+          }
+        },
+        "id": "1747138924450029568",
+        "name": "overspeedwiki.",
+        "pinned_tweet_id": "1807412718380720183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807010733680627712/AdpxU3mW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5811,
+          "following_count": 3006,
+          "like_count": 1817,
+          "listed_count": 4,
+          "tweet_count": 754
+        },
+        "url": "https://t.co/1lgsYKvyJq",
+        "username": "overspeedwiki",
+        "verified": false
+      }
+    ]
+  }
+}

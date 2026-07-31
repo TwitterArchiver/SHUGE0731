@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2077370971770573052",
+    "created_at": "2026-07-16T09:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T10:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077690549080129676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1957127414091505664",
+          "start": 0,
+          "username": "QwQkebukeai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077690549080129676",
+    "in_reply_to_user_id": "1957127414091505664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077370971770573052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QwQkebukeai 啃萝卜你在哪儿哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6333,
+        "height": 1280,
+        "media_key": "13_2077370896973471744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077370896973471744/img/E9nyCGvno7-dFCxn.jpg",
+        "public_metrics": {
+          "view_count": 203
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077370896973471744/vid/avc1/320x568/vuuAtJPpiTxSnIiv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077370896973471744/vid/avc1/480x852/tpBG6QGcqhGkZv-u.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077370896973471744/vid/avc1/720x1280/SAXYqjMceoVEJ_Zx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077370896973471744/pl/N6s_yg1OroCZk4-L.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2077370971770573052",
+        "created_at": "2026-07-16T09:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077690549080129676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1957127414091505664",
+              "start": 0,
+              "username": "QwQkebukeai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077690549080129676",
+        "in_reply_to_user_id": "1957127414091505664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077370971770573052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QwQkebukeai 啃萝卜你在哪儿哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077370896973471744"
+          ]
+        },
+        "author_id": "1957127414091505664",
+        "conversation_id": "2077370971770573052",
+        "created_at": "2026-07-15T12:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077370971770573052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hAA1DW6eRP",
+              "end": 27,
+              "expanded_url": "https://x.com/QwQkebukeai/status/2077370971770573052/video/1",
+              "media_key": "13_2077370896973471744",
+              "start": 4,
+              "url": "https://t.co/hAA1DW6eRP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077370971770573052",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 892,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我每天 https://t.co/hAA1DW6eRP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "Dorcus10031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTtCZA"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 1180,
+          "like_count": 33594,
+          "listed_count": 4,
+          "media_count": 738,
+          "tweet_count": 11353
+        },
+        "url": "https://t.co/ApKveTtCZA",
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T17:08:50.000Z",
+        "description": "晕\n08江苏 高三 其他不透露了\n谢谢喜欢 可以找我聊天 不回就是不想回不是没看见或者忘记回了\n互关私\nhttps://t.co/CJaOM6TcxY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%BA%91%E4%B…",
+                "end": 75,
+                "expanded_url": "https://ngl.link/%E4%BA%91%E4%BA%9169829",
+                "start": 52,
+                "url": "https://t.co/CJaOM6TcxY"
+              }
+            ]
+          }
+        },
+        "id": "1957127414091505664",
+        "name": "云云",
+        "pinned_tweet_id": "2076740436979527719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065739005778690048/kHAfX7EN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 87,
+          "like_count": 1277,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 190
+        },
+        "url": "",
+        "username": "QwQkebukeai",
+        "verified": false
+      }
+    ]
+  }
+}

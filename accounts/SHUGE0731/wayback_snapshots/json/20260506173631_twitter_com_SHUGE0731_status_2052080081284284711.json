@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051986521964916736"
+      ],
+      "media_source_tweet_id": [
+        "2051986890157683115"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2052080081284284711",
+    "created_at": "2026-05-06T17:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T18:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052080081284284711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1861144561734819840",
+          "start": 3,
+          "username": "kurotsuki_machi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9MDgupAsVZ",
+          "end": 51,
+          "expanded_url": "https://x.com/kurotsuki_machi/status/2051986890157683115/photo/1",
+          "media_key": "3_2051986521964916736",
+          "start": 28,
+          "url": "https://t.co/9MDgupAsVZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052080081284284711",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1120
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051986890157683115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kurotsuki_machi: GW💚ウミカ https://t.co/9MDgupAsVZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2052080081284284711].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2052080081284284711",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2052080081284284711"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1758,
+        "media_key": "3_2051986521964916736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoe3q2bsAA5ROG.jpg",
+        "width": 2523
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051986521964916736"
+          ]
+        },
+        "author_id": "1861144561734819840",
+        "conversation_id": "2051986890157683115",
+        "created_at": "2026-05-06T11:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051986890157683115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9MDgupAsVZ",
+              "end": 30,
+              "expanded_url": "https://x.com/kurotsuki_machi/status/2051986890157683115/photo/1",
+              "media_key": "3_2051986521964916736",
+              "start": 7,
+              "url": "https://t.co/9MDgupAsVZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051986890157683115",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3790,
+          "impression_count": 153197,
+          "like_count": 16127,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 1120
+        },
+        "reply_settings": "everyone",
+        "text": "GW💚ウミカ https://t.co/9MDgupAsVZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 1108,
+          "like_count": 27935,
+          "listed_count": 5,
+          "media_count": 652,
+          "tweet_count": 9624
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T20:27:26.000Z",
+        "description": "pixivを中心に二次創作を投稿しています。あ、お尻が好きです！\n\n🔞▶︎pixiv：https://t.co/bbx8fjYmki",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/99788933",
+                "end": 66,
+                "expanded_url": "https://www.pixiv.net/users/99788933",
+                "start": 43,
+                "url": "https://t.co/bbx8fjYmki"
+              }
+            ]
+          }
+        },
+        "id": "1861144561734819840",
+        "name": "黒月マチ",
+        "pinned_tweet_id": "2050184009242808549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877661249137426432/d89QVFw2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146909,
+          "following_count": 1797,
+          "like_count": 8274,
+          "listed_count": 704,
+          "media_count": 183,
+          "tweet_count": 6669
+        },
+        "username": "kurotsuki_machi",
+        "verified": false
+      }
+    ]
+  }
+}

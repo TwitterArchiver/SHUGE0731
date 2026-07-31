@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2067694854621044993",
+    "created_at": "2026-06-18T19:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T20:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067697812222140481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2066626659768532992",
+          "start": 0,
+          "username": "Kanakoyq"
+        },
+        {
+          "end": 17,
+          "id": "1548471557873610752",
+          "start": 10,
+          "username": "In2dTt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067697812222140481",
+    "in_reply_to_user_id": "2066626659768532992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067694854621044993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kanakoyq @In2dTt 红蓝担当！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9866,
+        "height": 1280,
+        "media_key": "13_2067694777399676928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067694777399676928/img/F6bpzSL2IwDA3UhL.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067694777399676928/vid/avc1/320x568/TCCl2rSbe6dXfGZz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067694777399676928/vid/avc1/480x852/8f2vIReCIbOQ9o5w.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067694777399676928/vid/avc1/720x1280/IFPszjaJbolMC33L.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067694777399676928/pl/88DlAjLyWlK5Ol8E.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2067694854621044993",
+        "created_at": "2026-06-18T19:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T20:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067697812222140481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2066626659768532992",
+              "start": 0,
+              "username": "Kanakoyq"
+            },
+            {
+              "end": 17,
+              "id": "1548471557873610752",
+              "start": 10,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067697812222140481",
+        "in_reply_to_user_id": "2066626659768532992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067694854621044993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanakoyq @In2dTt 红蓝担当！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067694777399676928"
+          ]
+        },
+        "author_id": "2066626659768532992",
+        "conversation_id": "2067694854621044993",
+        "created_at": "2026-06-18T19:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T20:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067694854621044993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zj0QXyEnW9",
+              "end": 27,
+              "expanded_url": "https://x.com/Kanakoyq/status/2067694854621044993/video/1",
+              "media_key": "13_2067694777399676928",
+              "start": 4,
+              "url": "https://t.co/zj0QXyEnW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067694854621044993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已合体 https://t.co/zj0QXyEnW9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "Dorcus10031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTtCZA"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 1161,
+          "like_count": 31735,
+          "listed_count": 4,
+          "media_count": 704,
+          "tweet_count": 10760
+        },
+        "url": "https://t.co/ApKveTtCZA",
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T21:02:08.000Z",
+        "description": "07 INTP 中推惨圈红色担当 無邪之翼 🚪288\n我推：@Uni_btt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "Uni_btt"
+              }
+            ]
+          }
+        },
+        "id": "2066626659768532992",
+        "name": "草莓水烟枪🍓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066628433615220736/yZceHquG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 16,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "Kanakoyq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換裏垢@tanukiniao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "tanukiniao"
+              }
+            ]
+          }
+        },
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28851,
+          "following_count": 295,
+          "like_count": 10688,
+          "listed_count": 24,
+          "media_count": 885,
+          "tweet_count": 3264
+        },
+        "url": "",
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,616 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1830741039839354881",
+        "3_1830741040929579010",
+        "3_1830741040950845440"
+      ],
+      "media_source_tweet_id": [
+        "1830741044134322587",
+        "1830741044134322587",
+        "1830741044134322587"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783335558466506752",
+          "name": "Online - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Rakuten (楽天)",
+          "id": "1038145750419435520",
+          "name": "Rakuten"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rakuten (楽天)",
+          "id": "1038145750419435520",
+          "name": "Rakuten"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407811550987972617",
+          "name": "Industries"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1407812892909473795",
+          "name": "eCommerce industry"
+        }
+      }
+    ],
+    "conversation_id": "1830865150963769597",
+    "created_at": "2024-09-03T07:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T08:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830865150963769597"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 88,
+          "start": 82,
+          "tag": "フリーレン"
+        },
+        {
+          "end": 97,
+          "start": 89,
+          "tag": "frieren"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1254943682064601088",
+          "start": 3,
+          "username": "FRIEREN_INFO"
+        }
+      ],
+      "urls": [
+        {
+          "description": "楽天 アニメストア アニメイト あみあみ",
+          "display_url": "animetoka.com/?p=12886",
+          "end": 80,
+          "expanded_url": "https://animetoka.com/?p=12886",
+          "images": [
+            {
+              "height": 660,
+              "url": "https://pbs.twimg.com/news_img/1828379707357962240/5bdGV1FR?format=jpg&name=orig",
+              "width": 880
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1828379707357962240/5bdGV1FR?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 57,
+          "status": 200,
+          "title": "葬送のフリーレン　アクロス",
+          "unwound_url": "https://animetoka.com/?p=12886",
+          "url": "https://t.co/uJysLPvwfd"
+        },
+        {
+          "display_url": "pic.x.com/xsrumwjeso",
+          "end": 121,
+          "expanded_url": "https://twitter.com/FRIEREN_INFO/status/1830741044134322587/photo/1",
+          "media_key": "3_1830741039839354881",
+          "start": 98,
+          "url": "https://t.co/XsrUMWJEso"
+        },
+        {
+          "display_url": "pic.x.com/xsrumwjeso",
+          "end": 121,
+          "expanded_url": "https://twitter.com/FRIEREN_INFO/status/1830741044134322587/photo/1",
+          "media_key": "3_1830741040929579010",
+          "start": 98,
+          "url": "https://t.co/XsrUMWJEso"
+        },
+        {
+          "display_url": "pic.x.com/xsrumwjeso",
+          "end": 121,
+          "expanded_url": "https://twitter.com/FRIEREN_INFO/status/1830741044134322587/photo/1",
+          "media_key": "3_1830741040950845440",
+          "start": 98,
+          "url": "https://t.co/XsrUMWJEso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830865150963769597",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 231
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830741044134322587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FRIEREN_INFO: 葬送のフリーレン フリーレンのマフラー\n\n楽天から予約開始！\n\n▼こちらから\nhttps://t.co/uJysLPvwfd\n\n#フリーレン #frieren https://t.co/XsrUMWJEso"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1830741039839354881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWgZRqtaoAEH17t.jpg",
+        "width": 800
+      },
+      {
+        "height": 800,
+        "media_key": "3_1830741040929579010",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWgZRuxWIAIV1c9.jpg",
+        "width": 800
+      },
+      {
+        "height": 199,
+        "media_key": "3_1830741040950845440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWgZRu2aoAAFNAo.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830741039839354881",
+            "3_1830741040929579010",
+            "3_1830741040950845440"
+          ],
+          "media_source_tweet_id": [
+            "1830741044134322587",
+            "1830741044134322587",
+            "1830741044134322587"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Rakuten (楽天)",
+              "id": "1038145750419435520",
+              "name": "Rakuten"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rakuten (楽天)",
+              "id": "1038145750419435520",
+              "name": "Rakuten"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1407812892909473795",
+              "name": "eCommerce industry"
+            }
+          }
+        ],
+        "conversation_id": "1830865150963769597",
+        "created_at": "2024-09-03T07:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T08:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830865150963769597"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 82,
+              "tag": "フリーレン"
+            },
+            {
+              "end": 97,
+              "start": 89,
+              "tag": "frieren"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1254943682064601088",
+              "start": 3,
+              "username": "FRIEREN_INFO"
+            }
+          ],
+          "urls": [
+            {
+              "description": "楽天 アニメストア アニメイト あみあみ",
+              "display_url": "animetoka.com/?p=12886",
+              "end": 80,
+              "expanded_url": "https://animetoka.com/?p=12886",
+              "images": [
+                {
+                  "height": 660,
+                  "url": "https://pbs.twimg.com/news_img/1828379707357962240/5bdGV1FR?format=jpg&name=orig",
+                  "width": 880
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1828379707357962240/5bdGV1FR?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 57,
+              "status": 200,
+              "title": "葬送のフリーレン　アクロス",
+              "unwound_url": "https://animetoka.com/?p=12886",
+              "url": "https://t.co/uJysLPvwfd"
+            },
+            {
+              "display_url": "pic.x.com/xsrumwjeso",
+              "end": 121,
+              "expanded_url": "https://twitter.com/FRIEREN_INFO/status/1830741044134322587/photo/1",
+              "media_key": "3_1830741039839354881",
+              "start": 98,
+              "url": "https://t.co/XsrUMWJEso"
+            },
+            {
+              "display_url": "pic.x.com/xsrumwjeso",
+              "end": 121,
+              "expanded_url": "https://twitter.com/FRIEREN_INFO/status/1830741044134322587/photo/1",
+              "media_key": "3_1830741040929579010",
+              "start": 98,
+              "url": "https://t.co/XsrUMWJEso"
+            },
+            {
+              "display_url": "pic.x.com/xsrumwjeso",
+              "end": 121,
+              "expanded_url": "https://twitter.com/FRIEREN_INFO/status/1830741044134322587/photo/1",
+              "media_key": "3_1830741040950845440",
+              "start": 98,
+              "url": "https://t.co/XsrUMWJEso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830865150963769597",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 231
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830741044134322587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FRIEREN_INFO: 葬送のフリーレン フリーレンのマフラー\n\n楽天から予約開始！\n\n▼こちらから\nhttps://t.co/uJysLPvwfd\n\n#フリーレン #frieren https://t.co/XsrUMWJEso"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830741039839354881",
+            "3_1830741040929579010",
+            "3_1830741040950845440"
+          ]
+        },
+        "author_id": "1254943682064601088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Rakuten (楽天)",
+              "id": "1038145750419435520",
+              "name": "Rakuten"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1407812892909473795",
+              "name": "eCommerce industry"
+            }
+          }
+        ],
+        "conversation_id": "1830741044134322587",
+        "created_at": "2024-09-02T22:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T23:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830741044134322587"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 64,
+              "tag": "フリーレン"
+            },
+            {
+              "end": 79,
+              "start": 71,
+              "tag": "frieren"
+            }
+          ],
+          "urls": [
+            {
+              "description": "楽天 アニメストア アニメイト あみあみ",
+              "display_url": "animetoka.com/?p=12886",
+              "end": 62,
+              "expanded_url": "https://animetoka.com/?p=12886",
+              "images": [
+                {
+                  "height": 660,
+                  "url": "https://pbs.twimg.com/news_img/1828379707357962240/5bdGV1FR?format=jpg&name=orig",
+                  "width": 880
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1828379707357962240/5bdGV1FR?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 39,
+              "status": 200,
+              "title": "葬送のフリーレン　アクロス",
+              "unwound_url": "https://animetoka.com/?p=12886",
+              "url": "https://t.co/uJysLPvwfd"
+            },
+            {
+              "display_url": "pic.x.com/xsrumwjeso",
+              "end": 103,
+              "expanded_url": "https://twitter.com/FRIEREN_INFO/status/1830741044134322587/photo/1",
+              "media_key": "3_1830741039839354881",
+              "start": 80,
+              "url": "https://t.co/XsrUMWJEso"
+            },
+            {
+              "display_url": "pic.x.com/xsrumwjeso",
+              "end": 103,
+              "expanded_url": "https://twitter.com/FRIEREN_INFO/status/1830741044134322587/photo/1",
+              "media_key": "3_1830741040929579010",
+              "start": 80,
+              "url": "https://t.co/XsrUMWJEso"
+            },
+            {
+              "display_url": "pic.x.com/xsrumwjeso",
+              "end": 103,
+              "expanded_url": "https://twitter.com/FRIEREN_INFO/status/1830741044134322587/photo/1",
+              "media_key": "3_1830741040950845440",
+              "start": 80,
+              "url": "https://t.co/XsrUMWJEso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830741044134322587",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 395,
+          "impression_count": 33136,
+          "like_count": 1770,
+          "quote_count": 25,
+          "reply_count": 3,
+          "retweet_count": 231
+        },
+        "reply_settings": "everyone",
+        "text": "葬送のフリーレン フリーレンのマフラー\n\n楽天から予約開始！\n\n▼こちらから\nhttps://t.co/uJysLPvwfd\n\n#フリーレン #frieren https://t.co/XsrUMWJEso"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 570,
+          "like_count": 1537,
+          "listed_count": 0,
+          "tweet_count": 218
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-28T01:21:12.000Z",
+        "description": "葬送のフリーレンのファンアカウント。グッズ情報やイベント情報をお知らせします！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "animetoka.com",
+                "end": 23,
+                "expanded_url": "https://animetoka.com/",
+                "start": 0,
+                "url": "https://t.co/dcBL6DrlFM"
+              }
+            ]
+          }
+        },
+        "id": "1254943682064601088",
+        "location": "ポストにはプロモーションが含まれます",
+        "name": "葬送のフリーレン グッズ情報",
+        "pinned_tweet_id": "1783814430591226060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705102701758226432/o4qqAn09_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11333,
+          "following_count": 4,
+          "like_count": 20154,
+          "listed_count": 62,
+          "tweet_count": 1618
+        },
+        "url": "https://t.co/dcBL6DrlFM",
+        "username": "FRIEREN_INFO",
+        "verified": false
+      }
+    ]
+  }
+}

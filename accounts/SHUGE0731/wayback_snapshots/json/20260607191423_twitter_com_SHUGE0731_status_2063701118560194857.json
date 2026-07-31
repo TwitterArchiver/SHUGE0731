@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2063665153628127602",
+    "created_at": "2026-06-07T19:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T20:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063701118560194857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1675485478878085120",
+          "start": 0,
+          "username": "WkymylFf7669364"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063701118560194857",
+    "in_reply_to_user_id": "1675485478878085120",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063665153628127602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WkymylFf7669364 ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8018,
+        "height": 1280,
+        "media_key": "7_2063665140810272768",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063665140810272768/pu/img/7KcMtewCJTNmj-9o.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063665140810272768/pu/vid/avc1/320x710/EYV1r9di5lj3fNW7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063665140810272768/pu/vid/avc1/480x1066/HKA06JMtixRHJFs8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063665140810272768/pu/vid/avc1/576x1280/_PajpQ4q4_6oZ3sq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063665140810272768/pu/pl/93x5wldPh-D1GqOn.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2063665153628127602",
+        "created_at": "2026-06-07T19:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063701118560194857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1675485478878085120",
+              "start": 0,
+              "username": "WkymylFf7669364"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063701118560194857",
+        "in_reply_to_user_id": "1675485478878085120",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063665153628127602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WkymylFf7669364 ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063665140810272768"
+          ]
+        },
+        "author_id": "1675485478878085120",
+        "conversation_id": "2063665153628127602",
+        "created_at": "2026-06-07T16:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063665153628127602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZxL57mSYxQ",
+              "end": 31,
+              "expanded_url": "https://x.com/WkymylFf7669364/status/2063665153628127602/video/1",
+              "media_key": "7_2063665140810272768",
+              "start": 8,
+              "url": "https://t.co/ZxL57mSYxQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063665153628127602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "超燃卡点小视频 https://t.co/ZxL57mSYxQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 1151,
+          "like_count": 30481,
+          "listed_count": 4,
+          "media_count": 693,
+          "tweet_count": 10379
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T12:44:10.000Z",
+        "description": "自私自利自负自卑",
+        "id": "1675485478878085120",
+        "location": " ",
+        "name": "三着",
+        "pinned_tweet_id": "1988889812841959634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011140344306679811/OWJv5hb8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 503,
+          "like_count": 14270,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 1362
+        },
+        "username": "WkymylFf7669364",
+        "verified": false
+      }
+    ]
+  }
+}

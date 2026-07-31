@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002317587196358657"
+      ],
+      "media_source_tweet_id": [
+        "2002317657836822637"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2002423835493355587",
+    "created_at": "2025-12-20T17:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T18:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002423835493355587"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "まりさ",
+          "probability": 0.4813,
+          "start": 12,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "89205387",
+          "start": 3,
+          "username": "mzkzmm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nimxTiUOfD",
+          "end": 39,
+          "expanded_url": "https://x.com/mzkzmm/status/2002317657836822637/photo/1",
+          "media_key": "3_2002317587196358657",
+          "start": 16,
+          "url": "https://t.co/nimxTiUOfD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002423835493355587",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 347
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002317657836822637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mzkzmm: まりさ https://t.co/nimxTiUOfD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 869,
+        "media_key": "3_2002317587196358657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8mpPKBbMAEpej-.png",
+        "width": 660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002317587196358657"
+          ],
+          "media_source_tweet_id": [
+            "2002317657836822637"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2002423835493355587",
+        "created_at": "2025-12-20T17:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T18:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002423835493355587"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "まりさ",
+              "probability": 0.4813,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "89205387",
+              "start": 3,
+              "username": "mzkzmm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nimxTiUOfD",
+              "end": 39,
+              "expanded_url": "https://x.com/mzkzmm/status/2002317657836822637/photo/1",
+              "media_key": "3_2002317587196358657",
+              "start": 16,
+              "url": "https://t.co/nimxTiUOfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002423835493355587",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 347
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002317657836822637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mzkzmm: まりさ https://t.co/nimxTiUOfD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002317587196358657"
+          ]
+        },
+        "author_id": "89205387",
+        "conversation_id": "2002317657836822637",
+        "created_at": "2025-12-20T09:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T10:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002317657836822637"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "まりさ",
+              "probability": 0.4828,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nimxTiUOfD",
+              "end": 27,
+              "expanded_url": "https://x.com/mzkzmm/status/2002317657836822637/photo/1",
+              "media_key": "3_2002317587196358657",
+              "start": 4,
+              "url": "https://t.co/nimxTiUOfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002317657836822637",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 20619,
+          "like_count": 2392,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 347
+        },
+        "reply_settings": "everyone",
+        "text": "まりさ https://t.co/nimxTiUOfD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1037,
+          "like_count": 14589,
+          "listed_count": 3,
+          "media_count": 468,
+          "tweet_count": 4587
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-11T15:13:35.000Z",
+        "description": "絵とか漫画描いたり。コミカライズ版の「ダンジョン・ファーム」1～4巻発売中です。 依頼等は→mzkzmm@gmail.com ◆すけぶhttps://t.co/JB7GGYyaIb ◆https://t.co/U3tdhNFeoo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@mzkzmm",
+                "end": 90,
+                "expanded_url": "http://skeb.jp/@mzkzmm",
+                "start": 67,
+                "url": "https://t.co/JB7GGYyaIb"
+              },
+              {
+                "display_url": "mzkzmm.fanbox.cc",
+                "end": 115,
+                "expanded_url": "http://mzkzmm.fanbox.cc",
+                "start": 92,
+                "url": "https://t.co/U3tdhNFeoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=143555",
+                "start": 0,
+                "url": "https://t.co/COv2hNszEj"
+              }
+            ]
+          }
+        },
+        "id": "89205387",
+        "location": "🌊",
+        "name": "もずくず",
+        "pinned_tweet_id": "2000473800014786934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591957394866814976/cOyPxlqY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54520,
+          "following_count": 995,
+          "like_count": 7200,
+          "listed_count": 611,
+          "media_count": 5600,
+          "tweet_count": 89995
+        },
+        "url": "https://t.co/COv2hNszEj",
+        "username": "mzkzmm",
+        "verified": false
+      }
+    ]
+  }
+}

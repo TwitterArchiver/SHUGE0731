@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1967158772607942656"
+      ],
+      "media_source_tweet_id": [
+        "1967158821408956885"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1967234840841089063",
+    "created_at": "2025-09-14T14:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T15:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967234840841089063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1310019588843868160",
+          "start": 3,
+          "username": "CrossRufus1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E8UWcUTqdU",
+          "end": 40,
+          "expanded_url": "https://x.com/CrossRufus1/status/1967158821408956885/video/1",
+          "media_key": "7_1967158772607942656",
+          "start": 17,
+          "url": "https://t.co/E8UWcUTqdU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967234840841089063",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 118
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967158821408956885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CrossRufus1: https://t.co/E8UWcUTqdU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 67466,
+        "height": 1024,
+        "media_key": "7_1967158772607942656",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1967158772607942656/pu/img/kVqOCiX3y0FpcL47.jpg",
+        "public_metrics": {
+          "view_count": 3913
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1967158772607942656/pu/vid/avc1/320x568/xGAfscx8haU2dKqJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1967158772607942656/pu/vid/avc1/480x852/US47f8Mv63ZbfrB5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1967158772607942656/pu/vid/avc1/576x1024/AKTJyYmRfHRZKTTs.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1967158772607942656/pu/pl/SA8arBefUG167Bqy.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1967158772607942656"
+          ],
+          "media_source_tweet_id": [
+            "1967158821408956885"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1967234840841089063",
+        "created_at": "2025-09-14T14:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T15:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967234840841089063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1310019588843868160",
+              "start": 3,
+              "username": "CrossRufus1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E8UWcUTqdU",
+              "end": 40,
+              "expanded_url": "https://x.com/CrossRufus1/status/1967158821408956885/video/1",
+              "media_key": "7_1967158772607942656",
+              "start": 17,
+              "url": "https://t.co/E8UWcUTqdU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967234840841089063",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 118
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967158821408956885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CrossRufus1: https://t.co/E8UWcUTqdU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1967158772607942656"
+          ]
+        },
+        "author_id": "1310019588843868160",
+        "conversation_id": "1967158821408956885",
+        "created_at": "2025-09-14T09:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T10:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967158821408956885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E8UWcUTqdU",
+              "end": 23,
+              "expanded_url": "https://x.com/CrossRufus1/status/1967158821408956885/video/1",
+              "media_key": "7_1967158772607942656",
+              "start": 0,
+              "url": "https://t.co/E8UWcUTqdU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967158821408956885",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 9251,
+          "like_count": 619,
+          "quote_count": 9,
+          "reply_count": 1,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/E8UWcUTqdU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 有一只牡丹鹦鹉叫uno！｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 1005,
+          "like_count": 9097,
+          "listed_count": 2,
+          "media_count": 288,
+          "tweet_count": 1919
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-27T00:53:17.000Z",
+        "description": "Bird lover",
+        "id": "1310019588843868160",
+        "name": "Flavio Meira Silva 🦜🇧🇷🔺️",
+        "pinned_tweet_id": "1875260319179927662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909759932506701824/plsLXv6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3915,
+          "following_count": 642,
+          "like_count": 5948,
+          "listed_count": 18,
+          "media_count": 4467,
+          "tweet_count": 9323
+        },
+        "username": "CrossRufus1",
+        "verified": false
+      }
+    ]
+  }
+}

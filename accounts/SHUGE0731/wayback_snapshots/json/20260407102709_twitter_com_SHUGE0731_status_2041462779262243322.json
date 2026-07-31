@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041462771217489920"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2041340325374103805",
+    "created_at": "2026-04-07T10:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T11:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041462779262243322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545898408858161154",
+          "start": 0,
+          "username": "D3XTR0M3TH_0w0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dz8G5UicjV",
+          "end": 47,
+          "expanded_url": "https://x.com/SHUGE0731/status/2041462779262243322/photo/1",
+          "media_key": "3_2041462771217489920",
+          "start": 24,
+          "url": "https://t.co/Dz8G5UicjV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041462779262243322",
+    "in_reply_to_user_id": "1545898408858161154",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041340325374103805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D3XTR0M3TH_0w0 belike： https://t.co/Dz8G5UicjV"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2041340325374103805].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2041340325374103805",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2041340325374103805"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 802,
+        "media_key": "3_2041462771217489920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFS7kwSaYAAaZsu.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041462771217489920"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2041340325374103805",
+        "created_at": "2026-04-07T10:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041462779262243322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545898408858161154",
+              "start": 0,
+              "username": "D3XTR0M3TH_0w0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dz8G5UicjV",
+              "end": 47,
+              "expanded_url": "https://x.com/SHUGE0731/status/2041462779262243322/photo/1",
+              "media_key": "3_2041462771217489920",
+              "start": 24,
+              "url": "https://t.co/Dz8G5UicjV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041462779262243322",
+        "in_reply_to_user_id": "1545898408858161154",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041340325374103805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D3XTR0M3TH_0w0 belike： https://t.co/Dz8G5UicjV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 1032,
+          "like_count": 25572,
+          "listed_count": 3,
+          "media_count": 617,
+          "tweet_count": 8924
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T22:31:24.000Z",
+        "description": "关注人=喜欢你的内容!/同类想互关喵\n成分：🏳️‍🌈🏳️‍⚧️💛🤍💜🖤｜退役ODer｜■tFtMtFtMtX\n#drugtwt #nonbinary #overdose\n不发 #shtwt #shedtwt #kleptotwt 但会看\n这边是混中推用的，画画大号可以私信我问id 只是怕被认出来",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 55,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "tag": "nonbinary"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "tag": "overdose"
+              },
+              {
+                "end": 94,
+                "start": 88,
+                "tag": "shtwt"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "tag": "kleptotwt"
+              }
+            ]
+          }
+        },
+        "id": "1545898408858161154",
+        "location": "they/them｜💉2025.8.25｜AuDHD",
+        "name": "🐱（想要互fo!｜发言都是阿普唑仑干的不代表本人）",
+        "pinned_tweet_id": "2022074802262225026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040846250405502976/V_RtxVzM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 1117,
+          "like_count": 4456,
+          "listed_count": 1,
+          "media_count": 455,
+          "tweet_count": 3053
+        },
+        "username": "D3XTR0M3TH_0w0",
+        "verified": false
+      }
+    ]
+  }
+}

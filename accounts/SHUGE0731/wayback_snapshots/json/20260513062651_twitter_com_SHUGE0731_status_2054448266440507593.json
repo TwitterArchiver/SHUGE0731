@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2054445446039486735",
+    "created_at": "2026-05-13T06:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T07:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054448266440507593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1244946297548759041",
+          "start": 0,
+          "username": "JavaSparrow_ZZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054448266440507593",
+    "in_reply_to_user_id": "1244946297548759041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054445446039486735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JavaSparrow_ZZZ 其实这样也很萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054445442780598272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILbPstbkAAU8Ac.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2054445446039486735",
+        "created_at": "2026-05-13T06:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054448266440507593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1244946297548759041",
+              "start": 0,
+              "username": "JavaSparrow_ZZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054448266440507593",
+        "in_reply_to_user_id": "1244946297548759041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054445446039486735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JavaSparrow_ZZZ 其实这样也很萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054445442780598272"
+          ]
+        },
+        "author_id": "1244946297548759041",
+        "conversation_id": "2054445446039486735",
+        "created_at": "2026-05-13T06:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054445446039486735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UEQKmuBCDz",
+              "end": 35,
+              "expanded_url": "https://x.com/JavaSparrow_ZZZ/status/2054445446039486735/photo/1",
+              "media_key": "3_2054445442780598272",
+              "start": 12,
+              "url": "https://t.co/UEQKmuBCDz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054445446039486735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不管什么鸟洗澡都会变丑 https://t.co/UEQKmuBCDz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 1107,
+          "like_count": 28385,
+          "listed_count": 4,
+          "media_count": 664,
+          "tweet_count": 9778
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-31T11:15:13.000Z",
+        "description": "🔞NSFW  18↑｜🐦Bird lover",
+        "id": "1244946297548759041",
+        "name": "Birdie",
+        "pinned_tweet_id": "2041010743873819085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018848522955792384/aZRlVlgT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 310,
+          "like_count": 5949,
+          "listed_count": 3,
+          "media_count": 91,
+          "tweet_count": 191
+        },
+        "username": "JavaSparrow_ZZZ",
+        "verified": false
+      }
+    ]
+  }
+}

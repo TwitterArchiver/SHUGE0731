@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055660142176428032"
+      ],
+      "media_source_tweet_id": [
+        "2055660242692915608"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2055863183181860866",
+    "created_at": "2026-05-17T04:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T05:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055863183181860866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "833581930385793024",
+          "start": 3,
+          "username": "0911_Sui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/exzJWxG60Y",
+          "end": 37,
+          "expanded_url": "https://x.com/0911_Sui/status/2055660242692915608/photo/1",
+          "media_key": "3_2055660142176428032",
+          "start": 14,
+          "url": "https://t.co/exzJWxG60Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055863183181860866",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1336
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055660242692915608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0911_Sui: https://t.co/exzJWxG60Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1230,
+        "media_key": "3_2055660142176428032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcsAgla4AAygu4.jpg",
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055660142176428032"
+          ],
+          "media_source_tweet_id": [
+            "2055660242692915608"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2055863183181860866",
+        "created_at": "2026-05-17T04:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055863183181860866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "833581930385793024",
+              "start": 3,
+              "username": "0911_Sui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/exzJWxG60Y",
+              "end": 37,
+              "expanded_url": "https://x.com/0911_Sui/status/2055660242692915608/photo/1",
+              "media_key": "3_2055660142176428032",
+              "start": 14,
+              "url": "https://t.co/exzJWxG60Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055863183181860866",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1336
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055660242692915608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0911_Sui: https://t.co/exzJWxG60Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055660142176428032"
+          ]
+        },
+        "author_id": "833581930385793024",
+        "conversation_id": "2055660242692915608",
+        "created_at": "2026-05-16T14:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055660242692915608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/exzJWxG60Y",
+              "end": 23,
+              "expanded_url": "https://x.com/0911_Sui/status/2055660242692915608/photo/1",
+              "media_key": "3_2055660142176428032",
+              "start": 0,
+              "url": "https://t.co/exzJWxG60Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055660242692915608",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1275,
+          "impression_count": 118777,
+          "like_count": 13050,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 1336
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/exzJWxG60Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 1112,
+          "like_count": 28657,
+          "listed_count": 4,
+          "media_count": 668,
+          "tweet_count": 9842
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-20T07:39:54.000Z",
+        "description": "废人一个，超长待机，偶尔诈尸。。\n绝赞的中文&非常下手のJapanese and English\n私信关了，需要联系可以给我发匿名箱，不一定会画的前提下如果不介意也可以点图ww→ https://t.co/KOsfuQjkaN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/gpblmiodagg3th…",
+                "end": 113,
+                "expanded_url": "https://marshmallow-qa.com/gpblmiodagg3thh#sender-authorization",
+                "start": 90,
+                "url": "https://t.co/KOsfuQjkaN"
+              }
+            ]
+          }
+        },
+        "id": "833581930385793024",
+        "name": "随。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1500523433062404100/Or4gCW8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4427,
+          "following_count": 742,
+          "like_count": 46,
+          "listed_count": 24,
+          "media_count": 343,
+          "tweet_count": 399
+        },
+        "username": "0911_Sui",
+        "verified": false
+      }
+    ]
+  }
+}

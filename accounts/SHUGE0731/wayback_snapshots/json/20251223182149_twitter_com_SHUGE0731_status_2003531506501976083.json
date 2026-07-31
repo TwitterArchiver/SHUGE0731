@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003442775656968194"
+      ],
+      "media_source_tweet_id": [
+        "2003442795177271384"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2003531506501976083",
+    "created_at": "2025-12-23T18:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T19:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003531506501976083"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 12,
+          "tag": "oc"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1402664448083456017",
+          "start": 3,
+          "username": "i_uff_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DPNkqzgaac",
+          "end": 39,
+          "expanded_url": "https://x.com/i_uff_/status/2003442795177271384/photo/1",
+          "media_key": "3_2003442775656968194",
+          "start": 16,
+          "url": "https://t.co/DPNkqzgaac"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003531506501976083",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003442795177271384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @i_uff_: #oc https://t.co/DPNkqzgaac"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2896,
+        "media_key": "3_2003442775656968194",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G82olvrbMAI1Xtz.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003442775656968194"
+          ],
+          "media_source_tweet_id": [
+            "2003442795177271384"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2003531506501976083",
+        "created_at": "2025-12-23T18:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T19:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003531506501976083"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "oc"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1402664448083456017",
+              "start": 3,
+              "username": "i_uff_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DPNkqzgaac",
+              "end": 39,
+              "expanded_url": "https://x.com/i_uff_/status/2003442795177271384/photo/1",
+              "media_key": "3_2003442775656968194",
+              "start": 16,
+              "url": "https://t.co/DPNkqzgaac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003531506501976083",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003442795177271384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @i_uff_: #oc https://t.co/DPNkqzgaac"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003442775656968194"
+          ]
+        },
+        "author_id": "1402664448083456017",
+        "conversation_id": "2003442795177271384",
+        "created_at": "2025-12-23T12:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T13:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003442795177271384"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "oc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DPNkqzgaac",
+              "end": 27,
+              "expanded_url": "https://x.com/i_uff_/status/2003442795177271384/photo/1",
+              "media_key": "3_2003442775656968194",
+              "start": 4,
+              "url": "https://t.co/DPNkqzgaac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003442795177271384",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 5521,
+          "like_count": 489,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "#oc https://t.co/DPNkqzgaac"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 1040,
+          "like_count": 15221,
+          "listed_count": 3,
+          "media_count": 476,
+          "tweet_count": 4850
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-09T16:30:49.000Z",
+        "description": "Illust×Photo×Design │ ご依頼 ▶ DM orメール │ ✉️：a4.uff.a4@gmail.com",
+        "id": "1402664448083456017",
+        "name": "A4",
+        "pinned_tweet_id": "2003442795177271384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001326942759591937/Y_8qtfHJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 75,
+          "like_count": 4772,
+          "listed_count": 17,
+          "media_count": 82,
+          "tweet_count": 203
+        },
+        "username": "i_uff_",
+        "verified": false
+      }
+    ]
+  }
+}

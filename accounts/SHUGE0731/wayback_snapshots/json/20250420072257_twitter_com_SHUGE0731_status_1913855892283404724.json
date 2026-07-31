@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913509582267457536"
+      ],
+      "media_source_tweet_id": [
+        "1913509648398770449"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1913855892283404724",
+    "created_at": "2025-04-20T07:22:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T08:22:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913855892283404724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1810826097514401793",
+          "start": 3,
+          "username": "subchannelchan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DrJrzxdLyp",
+          "end": 43,
+          "expanded_url": "https://x.com/subchannelchan/status/1913509648398770449/photo/1",
+          "media_key": "3_1913509582267457536",
+          "start": 20,
+          "url": "https://t.co/DrJrzxdLyp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913855892283404724",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5245
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913509648398770449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @subchannelchan: https://t.co/DrJrzxdLyp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1603,
+        "media_key": "3_1913509582267457536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go4m061boAAG4RU.jpg",
+        "width": 2944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913509582267457536"
+          ],
+          "media_source_tweet_id": [
+            "1913509648398770449"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1913855892283404724",
+        "created_at": "2025-04-20T07:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T08:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913855892283404724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1810826097514401793",
+              "start": 3,
+              "username": "subchannelchan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DrJrzxdLyp",
+              "end": 43,
+              "expanded_url": "https://x.com/subchannelchan/status/1913509648398770449/photo/1",
+              "media_key": "3_1913509582267457536",
+              "start": 20,
+              "url": "https://t.co/DrJrzxdLyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913855892283404724",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5245
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913509648398770449",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @subchannelchan: https://t.co/DrJrzxdLyp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913509582267457536"
+          ]
+        },
+        "author_id": "1810826097514401793",
+        "conversation_id": "1913509648398770449",
+        "created_at": "2025-04-19T08:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T09:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913509648398770449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DrJrzxdLyp",
+              "end": 23,
+              "expanded_url": "https://x.com/subchannelchan/status/1913509648398770449/photo/1",
+              "media_key": "3_1913509582267457536",
+              "start": 0,
+              "url": "https://t.co/DrJrzxdLyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913509648398770449",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6191,
+          "impression_count": 1536407,
+          "like_count": 79634,
+          "quote_count": 98,
+          "reply_count": 48,
+          "retweet_count": 5245
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DrJrzxdLyp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 914,
+          "like_count": 6699,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 1462
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T23:59:32.000Z",
+        "description": "アニメ描きたいです",
+        "id": "1810826097514401793",
+        "name": "さぶちゃんねる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909070574594469888/xBKJ_8ex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166366,
+          "following_count": 15,
+          "like_count": 65,
+          "listed_count": 343,
+          "media_count": 19,
+          "tweet_count": 33
+        },
+        "username": "subchannelchan",
+        "verified": true
+      }
+    ]
+  }
+}

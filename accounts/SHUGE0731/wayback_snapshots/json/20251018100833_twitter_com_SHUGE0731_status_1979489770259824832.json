@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1979324868114939905"
+      ],
+      "media_source_tweet_id": [
+        "1979324879120773512"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      }
+    ],
+    "conversation_id": "1979489770259824832",
+    "created_at": "2025-10-18T10:08:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T11:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979489770259824832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1756478411290075136",
+          "start": 3,
+          "username": "paladeltrabajo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cfTZ3LJiGU",
+          "end": 43,
+          "expanded_url": "https://x.com/paladeltrabajo/status/1979324879120773512/photo/1",
+          "media_key": "16_1979324868114939905",
+          "start": 20,
+          "url": "https://t.co/cfTZ3LJiGU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979489770259824832",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 521
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979324879120773512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @paladeltrabajo: https://t.co/cfTZ3LJiGU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "16_1979324868114939905",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G3f5ewsWgAEPifK.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G3f5ewsWgAEPifK.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1979324868114939905"
+          ],
+          "media_source_tweet_id": [
+            "1979324879120773512"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "1979489770259824832",
+        "created_at": "2025-10-18T10:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T11:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979489770259824832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1756478411290075136",
+              "start": 3,
+              "username": "paladeltrabajo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cfTZ3LJiGU",
+              "end": 43,
+              "expanded_url": "https://x.com/paladeltrabajo/status/1979324879120773512/photo/1",
+              "media_key": "16_1979324868114939905",
+              "start": 20,
+              "url": "https://t.co/cfTZ3LJiGU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979489770259824832",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 521
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979324879120773512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @paladeltrabajo: https://t.co/cfTZ3LJiGU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1979324868114939905"
+          ]
+        },
+        "author_id": "1756478411290075136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "1979324879120773512",
+        "created_at": "2025-10-17T23:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T00:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979324879120773512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cfTZ3LJiGU",
+              "end": 23,
+              "expanded_url": "https://x.com/paladeltrabajo/status/1979324879120773512/photo/1",
+              "media_key": "16_1979324868114939905",
+              "start": 0,
+              "url": "https://t.co/cfTZ3LJiGU"
+            },
+            {
+              "display_url": "x.com/sashimichi/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/sashimichi/status/1979081849113608524",
+              "start": 24,
+              "url": "https://t.co/J6uZSv6PRx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979324879120773512",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 859,
+          "impression_count": 129896,
+          "like_count": 8758,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 521
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979081849113608524",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/cfTZ3LJiGU https://t.co/J6uZSv6PRx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 |  中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 1069,
+          "like_count": 10060,
+          "listed_count": 2,
+          "media_count": 332,
+          "tweet_count": 2284
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T00:41:19.000Z",
+        "description": "soy una herramienta para las construcciones, arma del shovel knight y la segunda cosa más temida por los usuarios de Twitter después de la solicitud de empleo",
+        "id": "1756478411290075136",
+        "location": "en un galpon",
+        "name": "soy una pala",
+        "pinned_tweet_id": "1977869798437539895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756479784710701056/q1v-G8En_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 305,
+          "like_count": 23112,
+          "listed_count": 2,
+          "media_count": 430,
+          "tweet_count": 3572
+        },
+        "username": "paladeltrabajo",
+        "verified": false
+      }
+    ]
+  }
+}

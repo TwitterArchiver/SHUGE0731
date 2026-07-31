@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034665581954449408"
+      ],
+      "media_source_tweet_id": [
+        "2034665584601026594"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "2034698604578054352",
+    "created_at": "2026-03-19T18:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T19:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034698604578054352"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 55,
+          "tag": "東方Project"
+        },
+        {
+          "end": 78,
+          "start": 66,
+          "tag": "アリス・マーガトロイド"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "446878944",
+          "start": 3,
+          "username": "nuru_himmel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qi2qM8OaUh",
+          "end": 102,
+          "expanded_url": "https://x.com/nuru_himmel/status/2034665584601026594/photo/1",
+          "media_key": "3_2034665581954449408",
+          "start": 79,
+          "url": "https://t.co/Qi2qM8OaUh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034698604578054352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034665584601026594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nuru_himmel: よく分からないけど唐突に浮かんだポーズ_φ(･_･　あるよねそういう事。\n\n#東方Project #アリス・マーガトロイド https://t.co/Qi2qM8OaUh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034665581954449408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyVkREbwAA4orh.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034665581954449408"
+          ],
+          "media_source_tweet_id": [
+            "2034665584601026594"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2034698604578054352",
+        "created_at": "2026-03-19T18:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T19:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034698604578054352"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 55,
+              "tag": "東方Project"
+            },
+            {
+              "end": 78,
+              "start": 66,
+              "tag": "アリス・マーガトロイド"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "446878944",
+              "start": 3,
+              "username": "nuru_himmel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qi2qM8OaUh",
+              "end": 102,
+              "expanded_url": "https://x.com/nuru_himmel/status/2034665584601026594/photo/1",
+              "media_key": "3_2034665581954449408",
+              "start": 79,
+              "url": "https://t.co/Qi2qM8OaUh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034698604578054352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034665584601026594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nuru_himmel: よく分からないけど唐突に浮かんだポーズ_φ(･_･　あるよねそういう事。\n\n#東方Project #アリス・マーガトロイド https://t.co/Qi2qM8OaUh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034665581954449408"
+          ]
+        },
+        "author_id": "446878944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2034665584601026594",
+        "created_at": "2026-03-19T16:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T17:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034665584601026594"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 38,
+              "tag": "東方Project"
+            },
+            {
+              "end": 61,
+              "start": 49,
+              "tag": "アリス・マーガトロイド"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qi2qM8OaUh",
+              "end": 85,
+              "expanded_url": "https://x.com/nuru_himmel/status/2034665584601026594/photo/1",
+              "media_key": "3_2034665581954449408",
+              "start": 62,
+              "url": "https://t.co/Qi2qM8OaUh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034665584601026594",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 3719,
+          "like_count": 520,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "よく分からないけど唐突に浮かんだポーズ_φ(･_･　あるよねそういう事。\n\n#東方Project #アリス・マーガトロイド https://t.co/Qi2qM8OaUh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 1014,
+          "like_count": 24204,
+          "listed_count": 3,
+          "media_count": 596,
+          "tweet_count": 8444
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-26T07:45:55.000Z",
+        "description": "2児の父。\nサラリーマン兼子ども寝かし付けた後はお絵かきマン。\nネタに困った時は東方を主とした二次を描いてます。\n\nSkeb：https://t.co/vVTD3ggLfq\npixiv：https://t.co/MLaiDRm5Mz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@nuru_himmel",
+                "end": 86,
+                "expanded_url": "http://skeb.jp/@nuru_himmel",
+                "start": 63,
+                "url": "https://t.co/vVTD3ggLfq"
+              },
+              {
+                "display_url": "pixiv.net/users/3814982",
+                "end": 116,
+                "expanded_url": "https://www.pixiv.net/users/3814982",
+                "start": 93,
+                "url": "https://t.co/MLaiDRm5Mz"
+              }
+            ]
+          }
+        },
+        "id": "446878944",
+        "name": "himmel@どMのメル",
+        "pinned_tweet_id": "1990085165486354857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/412595215879270401/maxBR5QC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4735,
+          "following_count": 1676,
+          "like_count": 24252,
+          "listed_count": 31,
+          "media_count": 1270,
+          "tweet_count": 16651
+        },
+        "username": "nuru_himmel",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,539 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10058164171",
+          "name": "ネコぱら"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2009570329090556317",
+    "created_at": "2026-01-09T10:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T11:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009570329090556317"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "クレーネル",
+          "probability": 0.2326,
+          "start": 19,
+          "type": "Product"
+        },
+        {
+          "end": 40,
+          "normalized_text": "バニラ ゆめかわチャイナVer.",
+          "probability": 0.4488,
+          "start": 25,
+          "type": "Product"
+        },
+        {
+          "end": 59,
+          "normalized_text": "ショコラ ゆめかわチャイナVer.",
+          "probability": 0.2694,
+          "start": 43,
+          "type": "Product"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 118,
+          "start": 113,
+          "tag": "ネコぱら"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "292351939",
+          "start": 3,
+          "username": "figsoku"
+        }
+      ],
+      "urls": [
+        {
+          "description": "■グッスマ出荷情報 2026年1月の発売スケジュールが更新※実際の店頭発売日は、出荷日の2~3日後ですhttps://www.goodsmile.com/ja/news/6656・1月19日(月)出荷グッドスマイルカンパニー「ねんどろいどどーる 虎杖悠仁」JAN:45716971…",
+          "display_url": "figsoku.net/blog-entry-490…",
+          "end": 112,
+          "expanded_url": "https://figsoku.net/blog-entry-490030.html",
+          "images": [
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2009508011145035776/0pi5zk2j?format=jpg&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2009508011145035776/0pi5zk2j?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 89,
+          "status": 200,
+          "title": "【グッスマ出荷情報】ねんどろい ブルーアーカイブ「飛鳥馬トキ」「鬼方カヨコ」ほか【発売日決定】",
+          "unwound_url": "https://figsoku.net/blog-entry-490030.html",
+          "url": "https://t.co/huYhdqWLTc"
+        },
+        {
+          "display_url": "t.co/zuuSpzT",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/zuuSpzT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009570329090556317",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009508834482835558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @figsoku: 【ネコぱら】クレーネル「バニラ ゆめかわチャイナVer.」「ショコラ ゆめかわチャイナVer.」フィギュア\n\n【発売日決定！】\n・1月21日(水)出荷\nhttps://t.co/huYhdqWLTc\n#ネコぱら https://t.co/zuuSpzT…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2009508827436404736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-M1obhb0AAR8XR.jpg",
+        "width": 571
+      },
+      {
+        "height": 800,
+        "media_key": "3_2009508827453116416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-M1obla0AA8ebo.jpg",
+        "width": 571
+      },
+      {
+        "height": 800,
+        "media_key": "3_2009508827478282248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-M1obra0AgLld4.jpg",
+        "width": 571
+      },
+      {
+        "height": 800,
+        "media_key": "3_2009508827516096513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-M1ob0b0AEEqzv.jpg",
+        "width": 571
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10058164171",
+              "name": "ネコぱら"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2009570329090556317",
+        "created_at": "2026-01-09T10:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T11:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009570329090556317"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "クレーネル",
+              "probability": 0.2326,
+              "start": 19,
+              "type": "Product"
+            },
+            {
+              "end": 40,
+              "normalized_text": "バニラ ゆめかわチャイナVer.",
+              "probability": 0.4488,
+              "start": 25,
+              "type": "Product"
+            },
+            {
+              "end": 59,
+              "normalized_text": "ショコラ ゆめかわチャイナVer.",
+              "probability": 0.2694,
+              "start": 43,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 118,
+              "start": 113,
+              "tag": "ネコぱら"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "292351939",
+              "start": 3,
+              "username": "figsoku"
+            }
+          ],
+          "urls": [
+            {
+              "description": "■グッスマ出荷情報 2026年1月の発売スケジュールが更新※実際の店頭発売日は、出荷日の2~3日後ですhttps://www.goodsmile.com/ja/news/6656・1月19日(月)出荷グッドスマイルカンパニー「ねんどろいどどーる 虎杖悠仁」JAN:45716971…",
+              "display_url": "figsoku.net/blog-entry-490…",
+              "end": 112,
+              "expanded_url": "https://figsoku.net/blog-entry-490030.html",
+              "images": [
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2009508011145035776/0pi5zk2j?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2009508011145035776/0pi5zk2j?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 89,
+              "status": 200,
+              "title": "【グッスマ出荷情報】ねんどろい ブルーアーカイブ「飛鳥馬トキ」「鬼方カヨコ」ほか【発売日決定】",
+              "unwound_url": "https://figsoku.net/blog-entry-490030.html",
+              "url": "https://t.co/huYhdqWLTc"
+            },
+            {
+              "display_url": "t.co/zuuSpzT",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/zuuSpzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009570329090556317",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 127
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009508834482835558",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @figsoku: 【ネコぱら】クレーネル「バニラ ゆめかわチャイナVer.」「ショコラ ゆめかわチャイナVer.」フィギュア\n\n【発売日決定！】\n・1月21日(水)出荷\nhttps://t.co/huYhdqWLTc\n#ネコぱら https://t.co/zuuSpzT…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009508827436404736",
+            "3_2009508827453116416",
+            "3_2009508827478282248",
+            "3_2009508827516096513"
+          ]
+        },
+        "author_id": "292351939",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10058164171",
+              "name": "ネコぱら"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          }
+        ],
+        "conversation_id": "2009508834482835558",
+        "created_at": "2026-01-09T06:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T07:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009508834482835558"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "クレーネル",
+              "probability": 0.2222,
+              "start": 6,
+              "type": "Product"
+            },
+            {
+              "end": 27,
+              "normalized_text": "バニラ ゆめかわチャイナVer.",
+              "probability": 0.4306,
+              "start": 12,
+              "type": "Product"
+            },
+            {
+              "end": 46,
+              "normalized_text": "ショコラ ゆめかわチャイナVer.",
+              "probability": 0.2448,
+              "start": 30,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 100,
+              "tag": "ネコぱら"
+            }
+          ],
+          "urls": [
+            {
+              "description": "■グッスマ出荷情報 2026年1月の発売スケジュールが更新※実際の店頭発売日は、出荷日の2~3日後ですhttps://www.goodsmile.com/ja/news/6656・1月19日(月)出荷グッドスマイルカンパニー「ねんどろいどどーる 虎杖悠仁」JAN:45716971…",
+              "display_url": "figsoku.net/blog-entry-490…",
+              "end": 99,
+              "expanded_url": "https://figsoku.net/blog-entry-490030.html",
+              "images": [
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2009508011145035776/0pi5zk2j?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2009508011145035776/0pi5zk2j?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 76,
+              "status": 200,
+              "title": "【グッスマ出荷情報】ねんどろい ブルーアーカイブ「飛鳥馬トキ」「鬼方カヨコ」ほか【発売日決定】",
+              "unwound_url": "https://figsoku.net/blog-entry-490030.html",
+              "url": "https://t.co/huYhdqWLTc"
+            },
+            {
+              "display_url": "pic.x.com/zuuSpzT1Ri",
+              "end": 129,
+              "expanded_url": "https://x.com/figsoku/status/2009508834482835558/photo/1",
+              "media_key": "3_2009508827436404736",
+              "start": 106,
+              "url": "https://t.co/zuuSpzT1Ri"
+            },
+            {
+              "display_url": "pic.x.com/zuuSpzT1Ri",
+              "end": 129,
+              "expanded_url": "https://x.com/figsoku/status/2009508834482835558/photo/1",
+              "media_key": "3_2009508827453116416",
+              "start": 106,
+              "url": "https://t.co/zuuSpzT1Ri"
+            },
+            {
+              "display_url": "pic.x.com/zuuSpzT1Ri",
+              "end": 129,
+              "expanded_url": "https://x.com/figsoku/status/2009508834482835558/photo/1",
+              "media_key": "3_2009508827478282248",
+              "start": 106,
+              "url": "https://t.co/zuuSpzT1Ri"
+            },
+            {
+              "display_url": "pic.x.com/zuuSpzT1Ri",
+              "end": 129,
+              "expanded_url": "https://x.com/figsoku/status/2009508834482835558/photo/1",
+              "media_key": "3_2009508827516096513",
+              "start": 106,
+              "url": "https://t.co/zuuSpzT1Ri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009508834482835558",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 241,
+          "impression_count": 52322,
+          "like_count": 1012,
+          "quote_count": 29,
+          "reply_count": 0,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "【ネコぱら】クレーネル「バニラ ゆめかわチャイナVer.」「ショコラ ゆめかわチャイナVer.」フィギュア\n\n【発売日決定！】\n・1月21日(水)出荷\nhttps://t.co/huYhdqWLTc\n#ネコぱら https://t.co/zuuSpzT1Ri"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 997,
+          "like_count": 17689,
+          "listed_count": 3,
+          "media_count": 518,
+          "tweet_count": 6054
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-03T14:25:14.000Z",
+        "description": "美少女フィギュアやガンプラ・プラモ・玩具の\n新作情報や予約情報を配信してます！\n\nAmazonアソシエイト・プログラムの参加者です。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "figsoku.net",
+                "end": 23,
+                "expanded_url": "http://figsoku.net/",
+                "start": 0,
+                "url": "https://t.co/paQJpi7uX6"
+              }
+            ]
+          }
+        },
+        "id": "292351939",
+        "location": "ポストにはPR・アフィリエイトのリンクを使用しています。",
+        "name": "ホビー速報＠フィギュア＆プラモ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/809605551332081664/CeREvYxX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171825,
+          "following_count": 2025,
+          "like_count": 50,
+          "listed_count": 2291,
+          "media_count": 64200,
+          "tweet_count": 120807
+        },
+        "url": "https://t.co/paQJpi7uX6",
+        "username": "figsoku",
+        "verified": true
+      }
+    ]
+  }
+}

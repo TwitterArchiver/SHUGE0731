@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898200239519232000",
+        "3_1898200240433643522"
+      ],
+      "media_source_tweet_id": [
+        "1898200243034112169",
+        "1898200243034112169"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1898608656717119565",
+    "created_at": "2025-03-09T05:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T06:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898608656717119565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2909438004",
+          "start": 3,
+          "username": "Dioknarf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S5f9LCFTzh",
+          "end": 52,
+          "expanded_url": "https://x.com/Dioknarf/status/1898200243034112169/photo/1",
+          "media_key": "3_1898200239519232000",
+          "start": 29,
+          "url": "https://t.co/S5f9LCFTzh"
+        },
+        {
+          "display_url": "pic.x.com/S5f9LCFTzh",
+          "end": 52,
+          "expanded_url": "https://x.com/Dioknarf/status/1898200243034112169/photo/1",
+          "media_key": "3_1898200240433643522",
+          "start": 29,
+          "url": "https://t.co/S5f9LCFTzh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898608656717119565",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1200
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898200243034112169",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dioknarf: Phos &amp; Dia https://t.co/S5f9LCFTzh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1898200239519232000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlfDD40a8AAuXsQ.jpg",
+        "width": 1448
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1898200240433643522",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlfDD8ObwAIao_7.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898200239519232000",
+            "3_1898200240433643522"
+          ],
+          "media_source_tweet_id": [
+            "1898200243034112169",
+            "1898200243034112169"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1898608656717119565",
+        "created_at": "2025-03-09T05:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T06:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898608656717119565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2909438004",
+              "start": 3,
+              "username": "Dioknarf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S5f9LCFTzh",
+              "end": 52,
+              "expanded_url": "https://x.com/Dioknarf/status/1898200243034112169/photo/1",
+              "media_key": "3_1898200239519232000",
+              "start": 29,
+              "url": "https://t.co/S5f9LCFTzh"
+            },
+            {
+              "display_url": "pic.x.com/S5f9LCFTzh",
+              "end": 52,
+              "expanded_url": "https://x.com/Dioknarf/status/1898200243034112169/photo/1",
+              "media_key": "3_1898200240433643522",
+              "start": 29,
+              "url": "https://t.co/S5f9LCFTzh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898608656717119565",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1200
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898200243034112169",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dioknarf: Phos &amp; Dia https://t.co/S5f9LCFTzh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898200239519232000",
+            "3_1898200240433643522"
+          ]
+        },
+        "author_id": "2909438004",
+        "conversation_id": "1898200243034112169",
+        "created_at": "2025-03-08T02:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T03:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898200243034112169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S5f9LCFTzh",
+              "end": 38,
+              "expanded_url": "https://x.com/Dioknarf/status/1898200243034112169/photo/1",
+              "media_key": "3_1898200239519232000",
+              "start": 15,
+              "url": "https://t.co/S5f9LCFTzh"
+            },
+            {
+              "display_url": "pic.x.com/S5f9LCFTzh",
+              "end": 38,
+              "expanded_url": "https://x.com/Dioknarf/status/1898200243034112169/photo/1",
+              "media_key": "3_1898200240433643522",
+              "start": 15,
+              "url": "https://t.co/S5f9LCFTzh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898200243034112169",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 854,
+          "impression_count": 119617,
+          "like_count": 9643,
+          "quote_count": 12,
+          "reply_count": 1,
+          "retweet_count": 1200
+        },
+        "reply_settings": "everyone",
+        "text": "Phos &amp; Dia https://t.co/S5f9LCFTzh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 874,
+          "like_count": 5477,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 1217
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-24T23:41:33.000Z",
+        "description": "Artist from NZ ✨️🎨\nPronounced 'Dio - Narf'\nBanner by @_rexpo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 53,
+                "username": "_rexpo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dioknarf.carrd.co",
+                "end": 23,
+                "expanded_url": "http://dioknarf.carrd.co",
+                "start": 0,
+                "url": "https://t.co/31KrAEhjFh"
+              }
+            ]
+          }
+        },
+        "id": "2909438004",
+        "location": "Auckland NZ",
+        "name": "Dioknarf",
+        "pinned_tweet_id": "1790538453245165864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835279593475104768/Zta7LZEX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74847,
+          "following_count": 1902,
+          "like_count": 8771,
+          "listed_count": 589,
+          "media_count": 222,
+          "tweet_count": 1215
+        },
+        "url": "https://t.co/31KrAEhjFh",
+        "username": "Dioknarf",
+        "verified": false
+      }
+    ]
+  }
+}

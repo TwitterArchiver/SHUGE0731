@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1819740489240707374",
+    "created_at": "2024-08-03T14:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T15:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1819740489240707374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 74,
+          "id": "1711735197295579137",
+          "start": 62,
+          "username": "wordware_ai"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Check out Stargazer's analysis.",
+          "display_url": "twitter.wordware.ai/SHUGE0731?sect…",
+          "end": 100,
+          "expanded_url": "https://twitter.wordware.ai/SHUGE0731?section=previousLife",
+          "start": 77,
+          "status": 200,
+          "title": "Stargazer’s Twitter Personality Analysis by AI Agent",
+          "unwound_url": "https://twitter.wordware.ai/SHUGE0731?section=previousLife",
+          "url": "https://t.co/FXf2RyomR2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819740489240707374",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "this is my Twitter Personality analysis by AI Agent, built on @wordware_ai\n\n https://t.co/FXf2RyomR2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1819740489240707374",
+        "created_at": "2024-08-03T14:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T15:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819740489240707374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 74,
+              "id": "1711735197295579137",
+              "start": 62,
+              "username": "wordware_ai"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Check out Stargazer's analysis.",
+              "display_url": "twitter.wordware.ai/SHUGE0731?sect…",
+              "end": 100,
+              "expanded_url": "https://twitter.wordware.ai/SHUGE0731?section=previousLife",
+              "start": 77,
+              "status": 200,
+              "title": "Stargazer’s Twitter Personality Analysis by AI Agent",
+              "unwound_url": "https://twitter.wordware.ai/SHUGE0731?section=previousLife",
+              "url": "https://t.co/FXf2RyomR2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819740489240707374",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "this is my Twitter Personality analysis by AI Agent, built on @wordware_ai\n\n https://t.co/FXf2RyomR2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 517,
+          "like_count": 1037,
+          "listed_count": 0,
+          "tweet_count": 139
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-10T13:27:35.000Z",
+        "description": "Wordware is your all-in-one platform for deploying LLM applications.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wordware.ai",
+                "end": 23,
+                "expanded_url": "https://wordware.ai",
+                "start": 0,
+                "url": "https://t.co/IKEbApalZL"
+              }
+            ]
+          }
+        },
+        "id": "1711735197295579137",
+        "name": "Wordware",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711735361775263744/Lte2Inxm_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3356,
+          "following_count": 3,
+          "like_count": 460,
+          "listed_count": 15,
+          "tweet_count": 266
+        },
+        "url": "https://t.co/IKEbApalZL",
+        "username": "wordware_ai",
+        "verified": false
+      }
+    ]
+  }
+}

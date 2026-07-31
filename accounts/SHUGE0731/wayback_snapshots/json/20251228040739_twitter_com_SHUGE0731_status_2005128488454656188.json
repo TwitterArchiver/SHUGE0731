@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005108309985202177"
+      ],
+      "media_source_tweet_id": [
+        "2005114031246639369"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      }
+    ],
+    "conversation_id": "2005128488454656188",
+    "created_at": "2025-12-28T04:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T05:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005128488454656188"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "有馬記念",
+          "probability": 0.4036,
+          "start": 30,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 14,
+          "tag": "ウマ娘"
+        },
+        {
+          "end": 26,
+          "start": 19,
+          "tag": "ゲームウマ娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "769070659943235584",
+          "start": 3,
+          "username": "uma_musu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g3qtY39Uwz",
+          "end": 77,
+          "expanded_url": "https://x.com/uma_musu/status/2005114031246639369/photo/1",
+          "media_key": "3_2005108309985202177",
+          "start": 54,
+          "url": "https://t.co/g3qtY39Uwz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005128488454656188",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9680
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005114031246639369",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uma_musu: #ウマ娘 #ゲームウマ娘\n\n・「有馬記念」記念プレゼント\nマニー×100000 https://t.co/g3qtY39Uwz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2005108309985202177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9OTYmjaEAExfWd.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005108309985202177"
+          ],
+          "media_source_tweet_id": [
+            "2005114031246639369"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "2005128488454656188",
+        "created_at": "2025-12-28T04:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T05:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005128488454656188"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "有馬記念",
+              "probability": 0.4036,
+              "start": 30,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "ウマ娘"
+            },
+            {
+              "end": 26,
+              "start": 19,
+              "tag": "ゲームウマ娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "769070659943235584",
+              "start": 3,
+              "username": "uma_musu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g3qtY39Uwz",
+              "end": 77,
+              "expanded_url": "https://x.com/uma_musu/status/2005114031246639369/photo/1",
+              "media_key": "3_2005108309985202177",
+              "start": 54,
+              "url": "https://t.co/g3qtY39Uwz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005128488454656188",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9680
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005114031246639369",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uma_musu: #ウマ娘 #ゲームウマ娘\n\n・「有馬記念」記念プレゼント\nマニー×100000 https://t.co/g3qtY39Uwz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005108309985202177"
+          ]
+        },
+        "author_id": "769070659943235584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "2005114031246639369",
+        "created_at": "2025-12-28T03:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T04:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005114031246639369"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "有馬記念",
+              "probability": 0.4326,
+              "start": 16,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "ウマ娘"
+            },
+            {
+              "end": 12,
+              "start": 5,
+              "tag": "ゲームウマ娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g3qtY39Uwz",
+              "end": 63,
+              "expanded_url": "https://x.com/uma_musu/status/2005114031246639369/photo/1",
+              "media_key": "3_2005108309985202177",
+              "start": 40,
+              "url": "https://t.co/g3qtY39Uwz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005114031246639369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1483,
+          "impression_count": 557519,
+          "like_count": 28092,
+          "quote_count": 858,
+          "reply_count": 128,
+          "retweet_count": 9680
+        },
+        "reply_settings": "everyone",
+        "text": "#ウマ娘 #ゲームウマ娘\n\n・「有馬記念」記念プレゼント\nマニー×100000 https://t.co/g3qtY39Uwz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 989,
+          "like_count": 16045,
+          "listed_count": 3,
+          "media_count": 494,
+          "tweet_count": 5228
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-26T07:15:08.000Z",
+        "description": "ウマ娘プロジェクトの公式アカウントです。\nゲームやＣＤ、イベント新情報などをお届けしてまいります！公式ハッシュタグ→ #ウマ娘",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "ウマ娘"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "umamusume.jp",
+                "end": 23,
+                "expanded_url": "https://umamusume.jp/",
+                "start": 0,
+                "url": "https://t.co/6GM09845DI"
+              }
+            ]
+          }
+        },
+        "id": "769070659943235584",
+        "name": "ウマ娘プロジェクト公式アカウント",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1364370088367857669/koJ0KmpH_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555439,
+          "following_count": 24,
+          "like_count": 4,
+          "listed_count": 9548,
+          "media_count": 6193,
+          "tweet_count": 10856
+        },
+        "url": "https://t.co/6GM09845DI",
+        "username": "uma_musu",
+        "verified": true
+      }
+    ]
+  }
+}

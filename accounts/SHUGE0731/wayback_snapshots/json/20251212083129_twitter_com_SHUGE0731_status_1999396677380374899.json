@@ -1,0 +1,606 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      }
+    ],
+    "conversation_id": "1999396677380374899",
+    "created_at": "2025-12-12T08:31:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T09:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999396677380374899"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "ウマ娘 プリティーダービー",
+          "probability": 0.5204,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 53,
+          "normalized_text": "The Game Awards 2025",
+          "probability": 0.7262,
+          "start": 34,
+          "type": "Other"
+        },
+        {
+          "end": 70,
+          "normalized_text": "Best Mobile Game",
+          "probability": 0.3837,
+          "start": 55,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "769070659943235584",
+          "start": 3,
+          "username": "uma_musu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999396677380374899",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6886
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999359934111391874",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uma_musu: ゲーム「ウマ娘 プリティーダービー」が「The Game Awards 2025」Best Mobile Gameを受賞！\n\n受賞を記念して、トレーナーの皆様に「SSRメイクデビューガチャ第５R」をプレゼントにお贈りいたしました！\n\n今後ともゲーム「…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_1999359927975092224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78nQu0bIAAsOps.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "1999396677380374899",
+        "created_at": "2025-12-12T08:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999396677380374899"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "ウマ娘 プリティーダービー",
+              "probability": 0.5204,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 53,
+              "normalized_text": "The Game Awards 2025",
+              "probability": 0.7262,
+              "start": 34,
+              "type": "Other"
+            },
+            {
+              "end": 70,
+              "normalized_text": "Best Mobile Game",
+              "probability": 0.3837,
+              "start": 55,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "769070659943235584",
+              "start": 3,
+              "username": "uma_musu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999396677380374899",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6886
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999359934111391874",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uma_musu: ゲーム「ウマ娘 プリティーダービー」が「The Game Awards 2025」Best Mobile Gameを受賞！\n\n受賞を記念して、トレーナーの皆様に「SSRメイクデビューガチャ第５R」をプレゼントにお贈りいたしました！\n\n今後ともゲーム「…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999359927975092224"
+          ]
+        },
+        "author_id": "769070659943235584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "1999359934111391874",
+        "created_at": "2025-12-12T06:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T07:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999359934111391874"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "ウマ娘 プリティーダービー",
+              "probability": 0.6325,
+              "start": 4,
+              "type": "Other"
+            },
+            {
+              "end": 39,
+              "normalized_text": "The Game Awards 2025",
+              "probability": 0.7506,
+              "start": 20,
+              "type": "Other"
+            },
+            {
+              "end": 56,
+              "normalized_text": "Best Mobile Game",
+              "probability": 0.3767,
+              "start": 41,
+              "type": "Organization"
+            },
+            {
+              "end": 96,
+              "normalized_text": "SSRメイクデビューガチャ第５R",
+              "probability": 0.2688,
+              "start": 81,
+              "type": "Other"
+            },
+            {
+              "end": 137,
+              "normalized_text": "ウマ娘 プリティーダービー",
+              "probability": 0.5906,
+              "start": 125,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 157,
+              "start": 153,
+              "tag": "ウマ娘"
+            },
+            {
+              "end": 165,
+              "start": 158,
+              "tag": "ゲームウマ娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nkIZuBvb5b",
+              "end": 189,
+              "expanded_url": "https://x.com/uma_musu/status/1999359934111391874/photo/1",
+              "media_key": "3_1999359927975092224",
+              "start": 166,
+              "url": "https://t.co/nkIZuBvb5b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999359934111391874",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 780,
+          "impression_count": 714289,
+          "like_count": 25738,
+          "quote_count": 635,
+          "reply_count": 282,
+          "retweet_count": 6886
+        },
+        "reply_settings": "everyone",
+        "text": "ゲーム「ウマ娘 プリティーダービー」が「The Game Awards 2025」Best Mobile Gameを受賞！\n\n受賞を記念して、トレーナーの皆様に「SSRメイクデビューガチャ第５R」をプレゼントにお贈りいたしました！\n\n今後ともゲーム「ウマ娘 プリティーダービー」をよろしくお願いします！\n\n#ウマ娘 #ゲームウマ娘 https://t.co/nkIZuBvb5b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 1021,
+          "like_count": 13406,
+          "listed_count": 2,
+          "media_count": 442,
+          "tweet_count": 3996
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-26T07:15:08.000Z",
+        "description": "ウマ娘プロジェクトの公式アカウントです。\nゲームやＣＤ、イベント新情報などをお届けしてまいります！公式ハッシュタグ→ #ウマ娘",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "ウマ娘"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "umamusume.jp",
+                "end": 23,
+                "expanded_url": "https://umamusume.jp/",
+                "start": 0,
+                "url": "https://t.co/6GM09845DI"
+              }
+            ]
+          }
+        },
+        "id": "769070659943235584",
+        "name": "ウマ娘プロジェクト公式アカウント",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1364370088367857669/koJ0KmpH_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549325,
+          "following_count": 24,
+          "like_count": 4,
+          "listed_count": 9544,
+          "media_count": 6126,
+          "tweet_count": 10737
+        },
+        "url": "https://t.co/6GM09845DI",
+        "username": "uma_musu",
+        "verified": true
+      }
+    ]
+  }
+}

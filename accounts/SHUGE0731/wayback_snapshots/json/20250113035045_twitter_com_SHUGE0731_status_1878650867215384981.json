@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1878341515728265216"
+      ],
+      "media_source_tweet_id": [
+        "1878341546921324671"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1878650867215384981",
+    "created_at": "2025-01-13T03:50:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-13T04:50:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878650867215384981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1246474809413783553",
+          "start": 3,
+          "username": "magallan8492"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZApNWTjM4t",
+          "end": 53,
+          "expanded_url": "https://x.com/magallan8492/status/1878341546921324671/video/1",
+          "media_key": "7_1878341515728265216",
+          "start": 30,
+          "url": "https://t.co/ZApNWTjM4t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878650867215384981",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1285
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878341546921324671",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @magallan8492: アーミヤCEO「どけ」 https://t.co/ZApNWTjM4t"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9547,
+        "height": 1280,
+        "media_key": "7_1878341515728265216",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1878341515728265216/pu/img/jq3eOT5VKAZ016gl.jpg",
+        "public_metrics": {
+          "view_count": 43557
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1878341515728265216/pu/vid/avc1/320x568/H_SMg5bF6562SY3F.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1878341515728265216/pu/vid/avc1/480x852/ruUjoNpWLjuZxhhT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1878341515728265216/pu/vid/avc1/720x1280/1XxG60wdB4xF3Xd5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1878341515728265216/pu/pl/T7of77anTxLXOjuG.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1878341515728265216"
+          ],
+          "media_source_tweet_id": [
+            "1878341546921324671"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1878650867215384981",
+        "created_at": "2025-01-13T03:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T04:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878650867215384981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1246474809413783553",
+              "start": 3,
+              "username": "magallan8492"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZApNWTjM4t",
+              "end": 53,
+              "expanded_url": "https://x.com/magallan8492/status/1878341546921324671/video/1",
+              "media_key": "7_1878341515728265216",
+              "start": 30,
+              "url": "https://t.co/ZApNWTjM4t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878650867215384981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1285
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878341546921324671",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @magallan8492: アーミヤCEO「どけ」 https://t.co/ZApNWTjM4t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1878341515728265216"
+          ]
+        },
+        "author_id": "1246474809413783553",
+        "conversation_id": "1878341546921324671",
+        "created_at": "2025-01-12T07:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T08:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878341546921324671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZApNWTjM4t",
+              "end": 35,
+              "expanded_url": "https://x.com/magallan8492/status/1878341546921324671/video/1",
+              "media_key": "7_1878341515728265216",
+              "start": 12,
+              "url": "https://t.co/ZApNWTjM4t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878341546921324671",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 518,
+          "impression_count": 134284,
+          "like_count": 6062,
+          "quote_count": 21,
+          "reply_count": 9,
+          "retweet_count": 1285
+        },
+        "reply_settings": "everyone",
+        "text": "アーミヤCEO「どけ」 https://t.co/ZApNWTjM4t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1863243605252690301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 849,
+          "like_count": 4720,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 1015
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-04T16:28:53.000Z",
+        "description": "アークナイツのある日常\n一般ドクターです。マゼラン⛸️🐧推し\n\nアークナイツメインの日常アカウントになります\nたまにアークナイツ以外も呟いたりする気ままに遊んでいるだけのアカウントになります\nアイコンはヘカトンさん（@hekaton6960）より\n🐧⛸️\n＼まぜっ／\nねこすい民もやっております\n#猫咲あんじ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 154,
+                "start": 148,
+                "tag": "猫咲あんじ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 120,
+                "start": 108,
+                "username": "hekaton6960"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Nekosaki_Anji",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Nekosaki_Anji",
+                "start": 0,
+                "url": "https://t.co/icXM5bdhax"
+              }
+            ]
+          }
+        },
+        "id": "1246474809413783553",
+        "location": "ねこすい王国",
+        "name": "サイファー♜⃤ねこすい民🐱💜",
+        "pinned_tweet_id": "1875352309305368785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877380380745199616/ci15a7HR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3104,
+          "following_count": 2402,
+          "like_count": 106581,
+          "listed_count": 44,
+          "media_count": 12069,
+          "tweet_count": 75351
+        },
+        "url": "https://t.co/icXM5bdhax",
+        "username": "magallan8492",
+        "verified": false
+      }
+    ]
+  }
+}

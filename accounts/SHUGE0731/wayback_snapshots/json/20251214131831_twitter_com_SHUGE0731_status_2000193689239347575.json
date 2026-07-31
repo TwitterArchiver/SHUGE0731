@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000140836504563712"
+      ],
+      "media_source_tweet_id": [
+        "2000140981375766671"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2000193689239347575",
+    "created_at": "2025-12-14T13:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T14:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000193689239347575"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 18,
+          "tag": "伸びた伸びないは置いといて2025年自身が思う力作"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1282611561320742912",
+          "start": 3,
+          "username": "sarasuty1221"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jTVwC8ntzN",
+          "end": 88,
+          "expanded_url": "https://x.com/sarasuty1221/status/2000140981375766671/photo/1",
+          "media_key": "3_2000140836504563712",
+          "start": 65,
+          "url": "https://t.co/jTVwC8ntzN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000193689239347575",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 222
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000140981375766671",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sarasuty1221: #伸びた伸びないは置いといて2025年自身が思う力作 \nやはりこのイラストですね…！🌸🌸🌸🌸 https://t.co/jTVwC8ntzN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4068,
+        "media_key": "3_2000140836504563712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8HtflybcAAussO.jpg",
+        "width": 2872
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000140836504563712"
+          ],
+          "media_source_tweet_id": [
+            "2000140981375766671"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2000193689239347575",
+        "created_at": "2025-12-14T13:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T14:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000193689239347575"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 18,
+              "tag": "伸びた伸びないは置いといて2025年自身が思う力作"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1282611561320742912",
+              "start": 3,
+              "username": "sarasuty1221"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jTVwC8ntzN",
+              "end": 88,
+              "expanded_url": "https://x.com/sarasuty1221/status/2000140981375766671/photo/1",
+              "media_key": "3_2000140836504563712",
+              "start": 65,
+              "url": "https://t.co/jTVwC8ntzN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000193689239347575",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 222
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000140981375766671",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sarasuty1221: #伸びた伸びないは置いといて2025年自身が思う力作 \nやはりこのイラストですね…！🌸🌸🌸🌸 https://t.co/jTVwC8ntzN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000140836504563712"
+          ]
+        },
+        "author_id": "1282611561320742912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2000140981375766671",
+        "created_at": "2025-12-14T09:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T10:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000140981375766671"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 0,
+              "tag": "伸びた伸びないは置いといて2025年自身が思う力作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jTVwC8ntzN",
+              "end": 70,
+              "expanded_url": "https://x.com/sarasuty1221/status/2000140981375766671/photo/1",
+              "media_key": "3_2000140836504563712",
+              "start": 47,
+              "url": "https://t.co/jTVwC8ntzN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000140981375766671",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 14869,
+          "like_count": 1388,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 222
+        },
+        "reply_settings": "everyone",
+        "text": "#伸びた伸びないは置いといて2025年自身が思う力作 \nやはりこのイラストですね…！🌸🌸🌸🌸 https://t.co/jTVwC8ntzN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 1024,
+          "like_count": 13790,
+          "listed_count": 2,
+          "media_count": 451,
+          "tweet_count": 4180
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-13T09:43:41.000Z",
+        "description": "イラストレーターになりたい人pixiv(https://t.co/Lohc8NMQvT ) BOOTH(https://t.co/QGtSLKNCQf )Vの娘⇒桜花やよい(@sakuraha_yayoi) 雪枝しずく(@yukiedashizuku)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 87,
+                "username": "sakuraha_yayoi"
+              },
+              {
+                "end": 125,
+                "start": 110,
+                "username": "yukiedashizuku"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/33095581",
+                "end": 43,
+                "expanded_url": "http://pixiv.net/users/33095581",
+                "start": 20,
+                "url": "https://t.co/Lohc8NMQvT"
+              },
+              {
+                "display_url": "sarasuty12.booth.pm",
+                "end": 75,
+                "expanded_url": "https://sarasuty12.booth.pm/",
+                "start": 52,
+                "url": "https://t.co/QGtSLKNCQf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@sarasuty1221",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@sarasuty1221",
+                "start": 0,
+                "url": "https://t.co/Oz1x5Q52tg"
+              }
+            ]
+          }
+        },
+        "id": "1282611561320742912",
+        "name": "SARA 🌸C107.12/30.東7.E-41a",
+        "pinned_tweet_id": "1995261561100005858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970284978409013248/os_YcnAe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14624,
+          "following_count": 2036,
+          "like_count": 88098,
+          "listed_count": 121,
+          "media_count": 653,
+          "tweet_count": 55385
+        },
+        "url": "https://t.co/Oz1x5Q52tg",
+        "username": "sarasuty1221",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "data": {
+    "author_id": "1662293107738640384",
+    "conversation_id": "1848643513350750519",
+    "created_at": "2024-10-22T11:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-22T12:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848692468885434574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1833311751947096064",
+          "start": 0,
+          "username": "_YanamiAnna"
+        }
+      ]
+    },
+    "id": "1848692468885434574",
+    "in_reply_to_user_id": "1833311751947096064",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 29,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848674967426326842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_YanamiAnna 就是狂犬病毒坏（担心ing"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1662293107738640384",
+        "conversation_id": "1848643513350750519",
+        "created_at": "2024-10-22T11:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-22T12:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848692468885434574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1833311751947096064",
+              "start": 0,
+              "username": "_YanamiAnna"
+            }
+          ]
+        },
+        "id": "1848692468885434574",
+        "in_reply_to_user_id": "1833311751947096064",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848674967426326842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_YanamiAnna 就是狂犬病毒坏（担心ing"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 731,
+          "like_count": 3144,
+          "listed_count": 0,
+          "tweet_count": 617
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-10T01:09:28.000Z",
+        "description": "IN GOD WE TRUST",
+        "id": "1833311751947096064",
+        "name": "Yanami",
+        "pinned_tweet_id": "1853825766796226685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842417228257579008/AgxwWRh6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 258,
+          "like_count": 936,
+          "listed_count": 0,
+          "tweet_count": 347
+        },
+        "username": "_YanamiAnna",
+        "verified": false
+      }
+    ]
+  }
+}

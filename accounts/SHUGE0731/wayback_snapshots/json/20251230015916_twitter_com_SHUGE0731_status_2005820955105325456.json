@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005557438246973440"
+      ],
+      "media_source_tweet_id": [
+        "2005557443607273484"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2005820955105325456",
+    "created_at": "2025-12-30T01:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T02:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005820955105325456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "84900661",
+          "start": 3,
+          "username": "MRN0093"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DALK4GtV5M",
+          "end": 42,
+          "expanded_url": "https://x.com/MRN0093/status/2005557443607273484/photo/1",
+          "media_key": "3_2005557438246973440",
+          "start": 19,
+          "url": "https://t.co/DALK4GtV5M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005820955105325456",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 554
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005557443607273484",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MRN0093: ROUGE https://t.co/DALK4GtV5M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2005557438246973440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Ur3TtacAArgYC.jpg",
+        "width": 707
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005557438246973440"
+          ],
+          "media_source_tweet_id": [
+            "2005557443607273484"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2005820955105325456",
+        "created_at": "2025-12-30T01:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T02:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005820955105325456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "84900661",
+              "start": 3,
+              "username": "MRN0093"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DALK4GtV5M",
+              "end": 42,
+              "expanded_url": "https://x.com/MRN0093/status/2005557443607273484/photo/1",
+              "media_key": "3_2005557438246973440",
+              "start": 19,
+              "url": "https://t.co/DALK4GtV5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005820955105325456",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 554
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005557443607273484",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MRN0093: ROUGE https://t.co/DALK4GtV5M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005557438246973440"
+          ]
+        },
+        "author_id": "84900661",
+        "conversation_id": "2005557443607273484",
+        "created_at": "2025-12-29T08:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T09:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005557443607273484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DALK4GtV5M",
+              "end": 29,
+              "expanded_url": "https://x.com/MRN0093/status/2005557443607273484/photo/1",
+              "media_key": "3_2005557438246973440",
+              "start": 6,
+              "url": "https://t.co/DALK4GtV5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005557443607273484",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 600,
+          "impression_count": 99989,
+          "like_count": 7586,
+          "quote_count": 9,
+          "reply_count": 4,
+          "retweet_count": 554
+        },
+        "reply_settings": "everyone",
+        "text": "ROUGE https://t.co/DALK4GtV5M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 991,
+          "like_count": 16412,
+          "listed_count": 3,
+          "media_count": 499,
+          "tweet_count": 5398
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-24T17:45:20.000Z",
+        "description": "MANOdeMARINA:イラストレーター&デザイナー／キャラデザ、衣装デザイン、コンセプトアート、ロゴなど。\n▼お仕事のご相談はメール迄。mrn0093.art@gmail.com\n▼初画集「OPUS」 https://t.co/e0Bt9pygEj\n▼GINZASIX個展 12/28-1/12",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amzn.asia/d/46OG25p",
+                "end": 126,
+                "expanded_url": "https://amzn.asia/d/46OG25p",
+                "start": 103,
+                "url": "https://t.co/e0Bt9pygEj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/mrn0093",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/mrn0093",
+                "start": 0,
+                "url": "https://t.co/Q9wJqwMHot"
+              }
+            ]
+          }
+        },
+        "id": "84900661",
+        "location": "Tokyo ",
+        "name": "まのでまりな❤️‍🔥12/28~銀座個展：初画集発売",
+        "pinned_tweet_id": "2005557443607273484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1150945678220152832/VpR8Oz5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83881,
+          "following_count": 575,
+          "like_count": 110742,
+          "listed_count": 1032,
+          "media_count": 4447,
+          "tweet_count": 145569
+        },
+        "url": "https://t.co/Q9wJqwMHot",
+        "username": "MRN0093",
+        "verified": true
+      }
+    ]
+  }
+}

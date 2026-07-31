@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946865269604782080"
+      ],
+      "media_source_tweet_id": [
+        "1946865272507494559"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1946882153285030012",
+    "created_at": "2025-07-20T10:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T11:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946882153285030012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1888453352939524096",
+          "start": 3,
+          "username": "_negau_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9WNyRbugOq",
+          "end": 36,
+          "expanded_url": "https://x.com/_negau_/status/1946865272507494559/photo/1",
+          "media_key": "3_1946865269604782080",
+          "start": 13,
+          "url": "https://t.co/9WNyRbugOq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946882153285030012",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946865272507494559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_negau_: https://t.co/9WNyRbugOq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946865269604782080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwSnpdRWkAAZ84e.jpg",
+        "width": 1357
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946865269604782080"
+          ],
+          "media_source_tweet_id": [
+            "1946865272507494559"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1946882153285030012",
+        "created_at": "2025-07-20T10:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T11:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946882153285030012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1888453352939524096",
+              "start": 3,
+              "username": "_negau_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9WNyRbugOq",
+              "end": 36,
+              "expanded_url": "https://x.com/_negau_/status/1946865272507494559/photo/1",
+              "media_key": "3_1946865269604782080",
+              "start": 13,
+              "url": "https://t.co/9WNyRbugOq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946882153285030012",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946865272507494559",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_negau_: https://t.co/9WNyRbugOq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946865269604782080"
+          ]
+        },
+        "author_id": "1888453352939524096",
+        "conversation_id": "1946865272507494559",
+        "created_at": "2025-07-20T09:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T10:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946865272507494559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9WNyRbugOq",
+              "end": 23,
+              "expanded_url": "https://x.com/_negau_/status/1946865272507494559/photo/1",
+              "media_key": "3_1946865269604782080",
+              "start": 0,
+              "url": "https://t.co/9WNyRbugOq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946865272507494559",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 4628,
+          "like_count": 613,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9WNyRbugOq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 951,
+          "like_count": 8355,
+          "listed_count": 1,
+          "media_count": 269,
+          "tweet_count": 1749
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T05:03:01.000Z",
+        "description": "Artwork / 性 と 感情  / 連絡は negau.yuu@gmail.com まで / sub @_negau_s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "_negau_s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/irasuto_0r",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/irasuto_0r",
+                "start": 0,
+                "url": "https://t.co/aUsyXuqZNX"
+              }
+            ]
+          }
+        },
+        "id": "1888453352939524096",
+        "location": "⚠️ゴア.グロ.リョナ",
+        "name": "願U/negaU",
+        "pinned_tweet_id": "1932665985297010979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888459400156946432/EjNZDOsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6519,
+          "following_count": 17,
+          "like_count": 596,
+          "listed_count": 21,
+          "media_count": 163,
+          "tweet_count": 250
+        },
+        "url": "https://t.co/aUsyXuqZNX",
+        "username": "_negau_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,462 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296381531510849536",
+          "name": "New Years Eve\t"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2007939683574321663",
+    "created_at": "2026-01-04T22:18:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T23:18:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007939683574321663"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 107,
+          "start": 94,
+          "tag": "Smart_Falcon"
+        },
+        {
+          "end": 118,
+          "start": 108,
+          "tag": "スマートファルコン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1999858065160761344",
+          "start": 3,
+          "username": "Bin_Ze__U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007939683574321663",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 695
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007834188112928921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bin_Ze__U: 많이 늦었지만.... 모두 새해 복 많이 받으세요 🥰😍\n\n붉은 말의 해라니.... 영락없는 스마트 팔콘의 해라고 생각합니다!!!((당당))\n\n#Smart_Falcon\n#スマートファルコン\n\n스마트 팔콘... 우리 파루코짱 많…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2007834185143328768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G91Cja1aoAAEhb8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2007939683574321663",
+        "created_at": "2026-01-04T22:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T23:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007939683574321663"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 107,
+              "start": 94,
+              "tag": "Smart_Falcon"
+            },
+            {
+              "end": 118,
+              "start": 108,
+              "tag": "スマートファルコン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1999858065160761344",
+              "start": 3,
+              "username": "Bin_Ze__U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007939683574321663",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 695
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007834188112928921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bin_Ze__U: 많이 늦었지만.... 모두 새해 복 많이 받으세요 🥰😍\n\n붉은 말의 해라니.... 영락없는 스마트 팔콘의 해라고 생각합니다!!!((당당))\n\n#Smart_Falcon\n#スマートファルコン\n\n스마트 팔콘... 우리 파루코짱 많…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007834185143328768"
+          ]
+        },
+        "author_id": "1999858065160761344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2007834188112928921",
+        "created_at": "2026-01-04T15:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T16:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007834188112928921"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 79,
+              "tag": "Smart_Falcon"
+            },
+            {
+              "end": 103,
+              "start": 93,
+              "tag": "スマートファルコン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/htRjvRnuOy",
+              "end": 161,
+              "expanded_url": "https://x.com/Bin_Ze__U/status/2007834188112928921/photo/1",
+              "media_key": "3_2007834185143328768",
+              "start": 138,
+              "url": "https://t.co/htRjvRnuOy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007834188112928921",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 340,
+          "impression_count": 30766,
+          "like_count": 3173,
+          "quote_count": 13,
+          "reply_count": 8,
+          "retweet_count": 695
+        },
+        "reply_settings": "everyone",
+        "text": "많이 늦었지만.... 모두 새해 복 많이 받으세요 🥰😍\n\n붉은 말의 해라니.... 영락없는 스마트 팔콘의 해라고 생각합니다!!!((당당))\n\n#Smart_Falcon\n#スマートファルコン\n\n스마트 팔콘... 우리 파루코짱 많이 이뻐해주세요....🥹 https://t.co/htRjvRnuOy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 993,
+          "like_count": 17241,
+          "listed_count": 3,
+          "media_count": 515,
+          "tweet_count": 5805
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T15:05:09.000Z",
+        "description": "파루코짱에죽고파루코쨩에의해살아간다\n파루코짱만키운다",
+        "id": "1999858065160761344",
+        "name": "빈혈",
+        "pinned_tweet_id": "2000844414936342820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999858427531808768/h8yh_6zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 28,
+          "like_count": 109,
+          "listed_count": 5,
+          "media_count": 19,
+          "tweet_count": 73
+        },
+        "username": "Bin_Ze__U",
+        "verified": false
+      }
+    ]
+  }
+}

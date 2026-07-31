@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1489694834390560768",
+          "name": "Takopii no Genzai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1489694834390560768",
+          "name": "Takopii no Genzai"
+        }
+      }
+    ],
+    "conversation_id": "2069002021236293905",
+    "created_at": "2026-06-22T10:18:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T11:18:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069002021236293905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chunithm/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/chunithm/status/2068891737934930115",
+          "start": 8,
+          "url": "https://t.co/LYraNyO5CD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069002021236293905",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068891737934930115",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想在舞萌玩到 https://t.co/LYraNyO5CD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2067903539230486528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKrUA2bMAAWRpR.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1489694834390560768",
+              "name": "Takopii no Genzai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1489694834390560768",
+              "name": "Takopii no Genzai"
+            }
+          }
+        ],
+        "conversation_id": "2069002021236293905",
+        "created_at": "2026-06-22T10:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069002021236293905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chunithm/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/chunithm/status/2068891737934930115",
+              "start": 8,
+              "url": "https://t.co/LYraNyO5CD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069002021236293905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068891737934930115",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想在舞萌玩到 https://t.co/LYraNyO5CD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067903539230486528"
+          ]
+        },
+        "author_id": "2903786371",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1489694834390560768",
+              "name": "Takopii no Genzai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1489694834390560768",
+              "name": "Takopii no Genzai"
+            }
+          }
+        ],
+        "conversation_id": "2068891737934930115",
+        "created_at": "2026-06-22T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068891737934930115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YWxZG79jOV",
+              "end": 122,
+              "expanded_url": "https://x.com/chunithm/status/2068891737934930115/photo/1",
+              "media_key": "3_2067903539230486528",
+              "start": 99,
+              "url": "https://t.co/YWxZG79jOV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068891737934930115",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 196668,
+          "like_count": 2760,
+          "quote_count": 395,
+          "reply_count": 5,
+          "retweet_count": 1061
+        },
+        "reply_settings": "everyone",
+        "text": "【7/2(木)「タコピーの原罪」コラボイベント開始！】\n7/2(木)より、楽曲「ハッピーラッキーチャッピー」が登場！\nイベントでは「タコピーの原罪」のキャラクターやネームプレートがゲットできます！ https://t.co/YWxZG79jOV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "Dorcus10031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTtCZA"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 1170,
+          "like_count": 32179,
+          "listed_count": 4,
+          "media_count": 711,
+          "tweet_count": 10907
+        },
+        "url": "https://t.co/ApKveTtCZA",
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-18T15:12:08.000Z",
+        "description": "SEGA音楽ゲーム「CHUNITHM（チュウニズム）」の公式アカウントです。▼ゲキチュウマイ→@performai ▼イロドリミドリ→ @irodorimidori5 ▼maimai公式→ @maimai_official ▼オンゲキ公式→ @ongeki_official ▼公式全国大会→ @kop_sega",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "performai"
+              },
+              {
+                "end": 83,
+                "start": 68,
+                "username": "irodorimidori5"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "maimai_official"
+              },
+              {
+                "end": 137,
+                "start": 121,
+                "username": "ongeki_official"
+              },
+              {
+                "end": 156,
+                "start": 147,
+                "username": "kop_sega"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chunithm.sega.jp",
+                "end": 23,
+                "expanded_url": "http://chunithm.sega.jp/",
+                "start": 0,
+                "url": "https://t.co/ieZUf6RyaN"
+              }
+            ]
+          }
+        },
+        "id": "2903786371",
+        "location": "セガ",
+        "name": "チュウニズム公式",
+        "pinned_tweet_id": "2067804563239801084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057772212476878848/lU9YyILS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226996,
+          "following_count": 162,
+          "like_count": 357,
+          "listed_count": 1872,
+          "media_count": 2061,
+          "tweet_count": 3889
+        },
+        "url": "https://t.co/ieZUf6RyaN",
+        "username": "chunithm",
+        "verified": true
+      }
+    ]
+  }
+}

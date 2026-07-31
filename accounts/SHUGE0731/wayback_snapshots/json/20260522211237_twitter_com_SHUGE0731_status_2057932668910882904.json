@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057498037375967232"
+      ],
+      "media_source_tweet_id": [
+        "2057498043365360026"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Exercises",
+          "id": "872554146750017536",
+          "name": "Exercises"
+        }
+      }
+    ],
+    "conversation_id": "2057932668910882904",
+    "created_at": "2026-05-22T21:12:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T22:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057932668910882904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "916966704751583232",
+          "start": 3,
+          "username": "kuro_guu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MCZeZnn1sQ",
+          "end": 46,
+          "expanded_url": "https://x.com/kuro_guu/status/2057498043365360026/photo/1",
+          "media_key": "3_2057498037375967232",
+          "start": 23,
+          "url": "https://t.co/MCZeZnn1sQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057932668910882904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 564
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057498043365360026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuro_guu: お絵描き準備運動 https://t.co/MCZeZnn1sQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057498037375967232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2zkFvboAAJKVB.jpg",
+        "width": 1929
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057498037375967232"
+          ],
+          "media_source_tweet_id": [
+            "2057498043365360026"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2057932668910882904",
+        "created_at": "2026-05-22T21:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T22:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057932668910882904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "916966704751583232",
+              "start": 3,
+              "username": "kuro_guu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MCZeZnn1sQ",
+              "end": 46,
+              "expanded_url": "https://x.com/kuro_guu/status/2057498043365360026/photo/1",
+              "media_key": "3_2057498037375967232",
+              "start": 23,
+              "url": "https://t.co/MCZeZnn1sQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057932668910882904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 564
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057498043365360026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuro_guu: お絵描き準備運動 https://t.co/MCZeZnn1sQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057498037375967232"
+          ]
+        },
+        "author_id": "916966704751583232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2057498043365360026",
+        "created_at": "2026-05-21T16:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057498043365360026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MCZeZnn1sQ",
+              "end": 32,
+              "expanded_url": "https://x.com/kuro_guu/status/2057498043365360026/photo/1",
+              "media_key": "3_2057498037375967232",
+              "start": 9,
+              "url": "https://t.co/MCZeZnn1sQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057498043365360026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1619,
+          "impression_count": 116598,
+          "like_count": 13896,
+          "quote_count": 7,
+          "reply_count": 4,
+          "retweet_count": 564
+        },
+        "reply_settings": "everyone",
+        "text": "お絵描き準備運動 https://t.co/MCZeZnn1sQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 1123,
+          "like_count": 29146,
+          "listed_count": 4,
+          "media_count": 674,
+          "tweet_count": 9973
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-08T10:01:13.000Z",
+        "description": "Do not repost anywhere/use  / 🚫AI学習 /\nご依頼はお受けしておりません / https://t.co/MI9hZVNUjF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/5aij7pio3…",
+                "end": 78,
+                "expanded_url": "https://wavebox.me/wave/5aij7pio36h40v1t/",
+                "start": 55,
+                "url": "https://t.co/MI9hZVNUjF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/kuro_guu",
+                "end": 23,
+                "expanded_url": "https://odaibako.net/u/kuro_guu",
+                "start": 0,
+                "url": "https://t.co/3vTQoSR5SG"
+              }
+            ]
+          }
+        },
+        "id": "916966704751583232",
+        "location": "緒の浜/通知off",
+        "name": "しろ",
+        "pinned_tweet_id": "1945776553293643792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1422898506038059010/f89i7zEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33712,
+          "following_count": 26,
+          "like_count": 3521,
+          "listed_count": 225,
+          "media_count": 334,
+          "tweet_count": 4089
+        },
+        "url": "https://t.co/3vTQoSR5SG",
+        "username": "kuro_guu",
+        "verified": false
+      }
+    ]
+  }
+}

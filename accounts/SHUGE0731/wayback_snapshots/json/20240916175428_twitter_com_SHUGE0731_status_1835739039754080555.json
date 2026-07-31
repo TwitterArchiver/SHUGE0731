@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1835348003617718718",
+    "created_at": "2024-09-16T17:54:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T18:54:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835739039754080555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1834218933303607298",
+          "start": 0,
+          "username": "xydhdh45462"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835739039754080555",
+    "in_reply_to_user_id": "1834218933303607298",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835738739819319748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xydhdh45462 哎…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1835348003617718718",
+        "created_at": "2024-09-16T17:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T18:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835739039754080555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1834218933303607298",
+              "start": 0,
+              "username": "xydhdh45462"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835739039754080555",
+        "in_reply_to_user_id": "1834218933303607298",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835738739819319748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xydhdh45462 哎…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834218933303607298",
+        "conversation_id": "1835348003617718718",
+        "created_at": "2024-09-16T17:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T18:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835738739819319748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835738739819319748",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835348003617718718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 好卑微"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 587,
+          "like_count": 1771,
+          "listed_count": 0,
+          "tweet_count": 282
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-12T13:14:44.000Z",
+        "description": "妈的 最烦装b的",
+        "id": "1834218933303607298",
+        "name": "xyd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834219303450869760/ntLYYYZk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 14,
+          "like_count": 13,
+          "listed_count": 0,
+          "tweet_count": 4
+        },
+        "username": "xydhdh45462",
+        "verified": false
+      }
+    ]
+  }
+}

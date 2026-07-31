@@ -1,0 +1,149 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1800167145055117312"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1800167518025441407",
+    "created_at": "2024-06-10T14:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T15:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1800167518025441407"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/VhX0qV6yWE",
+          "end": 27,
+          "expanded_url": "https://twitter.com/SHUGE0731/status/1800167518025441407/video/1",
+          "media_key": "7_1800167145055117312",
+          "start": 4,
+          "url": "https://t.co/VhX0qV6yWE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800167518025441407",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢… https://t.co/VhX0qV6yWE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43775,
+        "height": 720,
+        "media_key": "7_1800167145055117312",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1800167145055117312/pu/img/nofP7P_hIJYt67cN.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1800167145055117312/pu/vid/avc1/480x270/qnjb4OVfz4Io1sV1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1800167145055117312/pu/vid/avc1/640x360/lCnwKL5JCAxVUy0e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1800167145055117312/pu/vid/avc1/1280x720/7O4Izl84higLqToi.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1800167145055117312/pu/pl/OPBgsdulBZXH6lQW.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1800167145055117312"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1800167518025441407",
+        "created_at": "2024-06-10T14:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T15:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800167518025441407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/VhX0qV6yWE",
+              "end": 27,
+              "expanded_url": "https://twitter.com/SHUGE0731/status/1800167518025441407/video/1",
+              "media_key": "7_1800167145055117312",
+              "start": 4,
+              "url": "https://t.co/VhX0qV6yWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800167518025441407",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢… https://t.co/VhX0qV6yWE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海 要多想",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 368,
+          "like_count": 196,
+          "listed_count": 0,
+          "tweet_count": 7
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      }
+    ]
+  }
+}

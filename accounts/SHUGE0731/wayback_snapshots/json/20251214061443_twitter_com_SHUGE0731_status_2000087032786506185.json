@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999792125752573952"
+      ],
+      "media_source_tweet_id": [
+        "1999792137286901965"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2000087032786506185",
+    "created_at": "2025-12-14T06:14:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T07:14:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000087032786506185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1605261623513403392",
+          "start": 3,
+          "username": "goupaifentiao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m4sxbt17Y5",
+          "end": 48,
+          "expanded_url": "https://x.com/goupaifentiao/status/1999792137286901965/photo/1",
+          "media_key": "3_1999792125752573952",
+          "start": 25,
+          "url": "https://t.co/m4sxbt17Y5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000087032786506185",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 175
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999792137286901965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @goupaifentiao: 042♀🌊 https://t.co/m4sxbt17Y5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2900,
+        "media_key": "3_1999792125752573952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8CwV9AbAAAM9Nr.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999792125752573952"
+          ],
+          "media_source_tweet_id": [
+            "1999792137286901965"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2000087032786506185",
+        "created_at": "2025-12-14T06:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T07:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000087032786506185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1605261623513403392",
+              "start": 3,
+              "username": "goupaifentiao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m4sxbt17Y5",
+              "end": 48,
+              "expanded_url": "https://x.com/goupaifentiao/status/1999792137286901965/photo/1",
+              "media_key": "3_1999792125752573952",
+              "start": 25,
+              "url": "https://t.co/m4sxbt17Y5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000087032786506185",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 175
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999792137286901965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @goupaifentiao: 042♀🌊 https://t.co/m4sxbt17Y5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999792125752573952"
+          ]
+        },
+        "author_id": "1605261623513403392",
+        "conversation_id": "1999792137286901965",
+        "created_at": "2025-12-13T10:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T11:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999792137286901965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m4sxbt17Y5",
+              "end": 29,
+              "expanded_url": "https://x.com/goupaifentiao/status/1999792137286901965/photo/1",
+              "media_key": "3_1999792125752573952",
+              "start": 6,
+              "url": "https://t.co/m4sxbt17Y5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999792137286901965",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 194,
+          "impression_count": 14164,
+          "like_count": 2049,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 175
+        },
+        "reply_settings": "everyone",
+        "text": "042♀🌊 https://t.co/m4sxbt17Y5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 1023,
+          "like_count": 13746,
+          "listed_count": 2,
+          "media_count": 451,
+          "tweet_count": 4162
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T17:59:40.000Z",
+        "description": "ff14/oc/💖✨🌊✨💖/🌙🌊左右固定\n18+ 中文 english\n找点饭吃 不是很常用",
+        "id": "1605261623513403392",
+        "name": "买拼好饭还被偷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994749022763192324/Ebi9asJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 111,
+          "like_count": 3347,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1002
+        },
+        "username": "goupaifentiao",
+        "verified": false
+      }
+    ]
+  }
+}

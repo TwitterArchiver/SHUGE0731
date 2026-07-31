@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021266750315298818"
+      ],
+      "media_source_tweet_id": [
+        "2021266757168591110"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2021485150350213180",
+    "created_at": "2026-02-11T07:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T08:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021485150350213180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1125317199978086400",
+          "start": 3,
+          "username": "finsuess"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/am5CZsiNGp",
+          "end": 43,
+          "expanded_url": "https://x.com/finsuess/status/2021266757168591110/photo/1",
+          "media_key": "3_2021266750315298818",
+          "start": 20,
+          "url": "https://t.co/am5CZsiNGp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021485150350213180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 449
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021266757168591110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @finsuess: 鬼分为两种 https://t.co/am5CZsiNGp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "3_2021266750315298818",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAz7ZnjaAAImUav.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021266750315298818"
+          ],
+          "media_source_tweet_id": [
+            "2021266757168591110"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2021485150350213180",
+        "created_at": "2026-02-11T07:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T08:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021485150350213180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1125317199978086400",
+              "start": 3,
+              "username": "finsuess"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/am5CZsiNGp",
+              "end": 43,
+              "expanded_url": "https://x.com/finsuess/status/2021266757168591110/photo/1",
+              "media_key": "3_2021266750315298818",
+              "start": 20,
+              "url": "https://t.co/am5CZsiNGp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021485150350213180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 449
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021266757168591110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @finsuess: 鬼分为两种 https://t.co/am5CZsiNGp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021266750315298818"
+          ]
+        },
+        "author_id": "1125317199978086400",
+        "conversation_id": "2021266757168591110",
+        "created_at": "2026-02-10T16:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T17:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021266757168591110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/am5CZsiNGp",
+              "end": 29,
+              "expanded_url": "https://x.com/finsuess/status/2021266757168591110/photo/1",
+              "media_key": "3_2021266750315298818",
+              "start": 6,
+              "url": "https://t.co/am5CZsiNGp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021266757168591110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 422,
+          "impression_count": 63911,
+          "like_count": 3807,
+          "quote_count": 11,
+          "reply_count": 8,
+          "retweet_count": 449
+        },
+        "reply_settings": "everyone",
+        "text": "鬼分为两种 https://t.co/am5CZsiNGp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 973,
+          "like_count": 20164,
+          "listed_count": 3,
+          "media_count": 555,
+          "tweet_count": 7155
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-06T08:31:42.000Z",
+        "description": "20↑無断翻訳·転載禁止 R18裏垢→@finsuess0715",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "finsuess0715"
+              }
+            ]
+          }
+        },
+        "id": "1125317199978086400",
+        "location": "六轩岛",
+        "name": "鏡里",
+        "pinned_tweet_id": "1622647620190752770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960714167863914496/UmRan7gM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6387,
+          "following_count": 10,
+          "like_count": 325,
+          "listed_count": 35,
+          "media_count": 318,
+          "tweet_count": 719
+        },
+        "username": "finsuess",
+        "verified": false
+      }
+    ]
+  }
+}

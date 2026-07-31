@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1930675049603678253",
+    "created_at": "2025-06-06T07:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T08:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930893898785652749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1754900631348039680",
+          "start": 0,
+          "username": "suiroumao240"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930893898785652749",
+    "in_reply_to_user_id": "1754900631348039680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930675049603678253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suiroumao240 woc死馆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1930675032830697473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GssitpSW4AEGkDo.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1268,
+        "media_key": "3_1930675032830652417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GssitpSWMAE-_OJ.jpg",
+        "width": 1469
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1930675049603678253",
+        "created_at": "2025-06-06T07:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T08:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930893898785652749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1754900631348039680",
+              "start": 0,
+              "username": "suiroumao240"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930893898785652749",
+        "in_reply_to_user_id": "1754900631348039680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930675049603678253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suiroumao240 woc死馆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930675032830697473",
+            "3_1930675032830652417"
+          ]
+        },
+        "author_id": "1754900631348039680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1930675049603678253",
+        "created_at": "2025-06-05T17:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T18:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930675049603678253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mCGoT5uwKq",
+              "end": 28,
+              "expanded_url": "https://x.com/suiroumao240/status/1930675049603678253/photo/1",
+              "media_key": "3_1930675032830697473",
+              "start": 5,
+              "url": "https://t.co/mCGoT5uwKq"
+            },
+            {
+              "display_url": "pic.x.com/mCGoT5uwKq",
+              "end": 28,
+              "expanded_url": "https://x.com/suiroumao240/status/1930675049603678253/photo/1",
+              "media_key": "3_1930675032830652417",
+              "start": 5,
+              "url": "https://t.co/mCGoT5uwKq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930675049603678253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2026,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "模仿失败 https://t.co/mCGoT5uwKq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 941,
+          "like_count": 7948,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 1649
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T16:11:45.000Z",
+        "description": "",
+        "id": "1754900631348039680",
+        "location": "Cybertron",
+        "name": "碎肉猫",
+        "pinned_tweet_id": "1781741875835371663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754900781520900096/rCJKp0Je_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13693,
+          "following_count": 368,
+          "like_count": 13943,
+          "listed_count": 38,
+          "media_count": 36,
+          "tweet_count": 690
+        },
+        "username": "suiroumao240",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040206506361270272"
+      ],
+      "media_source_tweet_id": [
+        "2040206522626535725"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2040477194003370399",
+    "created_at": "2026-04-04T17:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T18:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040477194003370399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1526520133040148482",
+          "start": 3,
+          "username": "kanji55755948"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fNXIfmeRKP",
+          "end": 42,
+          "expanded_url": "https://x.com/kanji55755948/status/2040206522626535725/photo/1",
+          "media_key": "3_2040206506361270272",
+          "start": 19,
+          "url": "https://t.co/fNXIfmeRKP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040477194003370399",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 465
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040206522626535725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kanji55755948: https://t.co/fNXIfmeRKP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2700,
+        "media_key": "3_2040206506361270272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFBFAhAasAAcYJO.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040206506361270272"
+          ],
+          "media_source_tweet_id": [
+            "2040206522626535725"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2040477194003370399",
+        "created_at": "2026-04-04T17:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T18:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040477194003370399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1526520133040148482",
+              "start": 3,
+              "username": "kanji55755948"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fNXIfmeRKP",
+              "end": 42,
+              "expanded_url": "https://x.com/kanji55755948/status/2040206522626535725/photo/1",
+              "media_key": "3_2040206506361270272",
+              "start": 19,
+              "url": "https://t.co/fNXIfmeRKP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040477194003370399",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 465
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040206522626535725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kanji55755948: https://t.co/fNXIfmeRKP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040206506361270272"
+          ]
+        },
+        "author_id": "1526520133040148482",
+        "conversation_id": "2040206522626535725",
+        "created_at": "2026-04-03T23:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T00:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040206522626535725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fNXIfmeRKP",
+              "end": 23,
+              "expanded_url": "https://x.com/kanji55755948/status/2040206522626535725/photo/1",
+              "media_key": "3_2040206506361270272",
+              "start": 0,
+              "url": "https://t.co/fNXIfmeRKP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040206522626535725",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 441,
+          "impression_count": 44040,
+          "like_count": 4908,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 465
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fNXIfmeRKP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 1029,
+          "like_count": 25346,
+          "listed_count": 3,
+          "media_count": 614,
+          "tweet_count": 8828
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-17T11:09:16.000Z",
+        "description": "My name is Ivan, 2D-artist,  commissions closed",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nievart",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/nievart",
+                "start": 0,
+                "url": "https://t.co/WHruBMdRZS"
+              }
+            ]
+          }
+        },
+        "id": "1526520133040148482",
+        "name": "kanji",
+        "pinned_tweet_id": "1943772770846093534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714263888915537920/0YGVekA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150425,
+          "following_count": 102,
+          "like_count": 9431,
+          "listed_count": 844,
+          "media_count": 588,
+          "tweet_count": 892
+        },
+        "url": "https://t.co/WHruBMdRZS",
+        "username": "kanji55755948",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-17T11:09:16.000Z",
+        "description": "My name is Ivan, 2D-artist,  commissions closed",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nievart",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/nievart",
+                "start": 0,
+                "url": "https://t.co/WHruBMdRZS"
+              }
+            ]
+          }
+        },
+        "id": "1526520133040148482",
+        "name": "kanji",
+        "pinned_tweet_id": "1943772770846093534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714263888915537920/0YGVekA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150425,
+          "following_count": 102,
+          "like_count": 9431,
+          "listed_count": 844,
+          "media_count": 588,
+          "tweet_count": 892
+        },
+        "url": "https://t.co/WHruBMdRZS",
+        "username": "kanji55755948",
+        "verified": false
+      }
+    ]
+  }
+}

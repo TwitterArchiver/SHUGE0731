@@ -1,0 +1,549 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339352163508600832",
+          "name": "Animation studios"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339381554087223297",
+          "name": "Character design"
+        }
+      }
+    ],
+    "conversation_id": "1871136429616812341",
+    "created_at": "2024-12-23T10:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-23T11:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1871136429616812341"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/catsuka/status…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/catsuka/status/1870777417889157270",
+          "start": 23,
+          "url": "https://t.co/4nMMPqcv8p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871136429616812341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870777417889157270",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看起来很无口系啊 淡淡的 黑发 好喜欢 想看 https://t.co/4nMMPqcv8p"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352163508600832",
+              "name": "Animation studios"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339381554087223297",
+              "name": "Character design"
+            }
+          }
+        ],
+        "conversation_id": "1871136429616812341",
+        "created_at": "2024-12-23T10:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T11:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871136429616812341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/catsuka/status…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/catsuka/status/1870777417889157270",
+              "start": 23,
+              "url": "https://t.co/4nMMPqcv8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871136429616812341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870777417889157270",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看起来很无口系啊 淡淡的 黑发 好喜欢 想看 https://t.co/4nMMPqcv8p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1870777164452212736"
+          ]
+        },
+        "author_id": "40436619",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Do NOT tune or ship this topic in Japanese. See Comics instead (847521144173350912)",
+              "id": "1283453704088084480",
+              "name": "Manga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352163508600832",
+              "name": "Animation studios"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339381554087223297",
+              "name": "Character design"
+            }
+          }
+        ],
+        "conversation_id": "1870777417889157270",
+        "created_at": "2024-12-22T10:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T11:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870777417889157270"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Takopi",
+              "probability": 0.9451,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 69,
+              "normalized_text": "Shinya Iino",
+              "probability": 0.875,
+              "start": 59,
+              "type": "Person"
+            },
+            {
+              "end": 81,
+              "normalized_text": "Enishiya",
+              "probability": 0.6558,
+              "start": 74,
+              "type": "Other"
+            },
+            {
+              "end": 125,
+              "normalized_text": "Keita Nagahara",
+              "probability": 0.9018,
+              "start": 112,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "description": "『タコピーの原罪』2025年アニメ化決定！2021年に「少年ジャンプ+」で連載が開始されるとまたたく間にSNSで話題に。当時の連載作品の最高閲覧数を記録し、「このマンガがすごい！2023」オトコ編の3位に選出された。2巻完結ながらコミックス累計発行部数140万部を突破した衝撃作が満を持してアニメ化決定。▼ストーリ...",
+              "display_url": "youtube.com/watch?v=FCcAH6…",
+              "end": 160,
+              "expanded_url": "https://www.youtube.com/watch?v=FCcAH6NoU8o",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1870720974175551488/Z4nEV3W2?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1870720974175551488/Z4nEV3W2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 137,
+              "status": 200,
+              "title": "『タコピーの原罪』特報PV",
+              "unwound_url": "https://www.youtube.com/watch?v=FCcAH6NoU8o",
+              "url": "https://t.co/lUMa0jOaga"
+            },
+            {
+              "display_url": "pic.x.com/NVd0Lw1GAF",
+              "end": 184,
+              "expanded_url": "https://x.com/catsuka/status/1870777417889157270/video/1",
+              "media_key": "7_1870777164452212736",
+              "start": 161,
+              "url": "https://t.co/NVd0Lw1GAF"
+            },
+            {
+              "display_url": "x.com/catsuka/status…",
+              "end": 208,
+              "expanded_url": "https://twitter.com/catsuka/status/1866149815765418464",
+              "start": 185,
+              "url": "https://t.co/HaDPZJYitg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870777417889157270",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5004,
+          "impression_count": 713826,
+          "like_count": 17350,
+          "quote_count": 834,
+          "reply_count": 145,
+          "retweet_count": 2849
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866149815765418464",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "First trailer of \"Takopi\" anime series (2025).\nDirected by Shinya Iino at Enishiya studio.\nCharacter designs by Keita Nagahara.\n&gt;&gt; https://t.co/lUMa0jOaga https://t.co/NVd0Lw1GAF https://t.co/HaDPZJYitg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1863243605252690301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 780,
+          "like_count": 4168,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 856
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-16T09:07:20.000Z",
+        "description": "Worldwide animation news & picks, from mainstream to indies.\nWebsite (& more) since 2000, run by one guy.\nYou can support me on Patreon 🙏 https://t.co/qMJIbYTNTw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/catsuka",
+                "end": 161,
+                "expanded_url": "http://patreon.com/catsuka",
+                "start": 138,
+                "url": "https://t.co/qMJIbYTNTw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuka.com/links/",
+                "end": 23,
+                "expanded_url": "https://www.catsuka.com/links/",
+                "start": 0,
+                "url": "https://t.co/4aERtJd3NP"
+              }
+            ]
+          }
+        },
+        "id": "40436619",
+        "location": "France",
+        "name": "Catsuka",
+        "pinned_tweet_id": "1856725178606063962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/877998712810860545/s69vpm3k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232271,
+          "following_count": 449,
+          "like_count": 7075,
+          "listed_count": 1813,
+          "media_count": 14029,
+          "tweet_count": 27156
+        },
+        "url": "https://t.co/4aERtJd3NP",
+        "username": "catsuka",
+        "verified": true
+      }
+    ]
+  }
+}

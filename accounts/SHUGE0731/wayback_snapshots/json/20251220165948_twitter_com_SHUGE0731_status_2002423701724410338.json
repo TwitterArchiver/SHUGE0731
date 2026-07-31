@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002292810398248960"
+      ],
+      "media_source_tweet_id": [
+        "2002292815519490180"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2002423701724410338",
+    "created_at": "2025-12-20T16:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T17:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002423701724410338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1192831599483604992",
+          "start": 3,
+          "username": "8wa06ko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CbqLyXHeE0",
+          "end": 36,
+          "expanded_url": "https://x.com/8wa06ko/status/2002292815519490180/photo/1",
+          "media_key": "3_2002292810398248960",
+          "start": 13,
+          "url": "https://t.co/CbqLyXHeE0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002423701724410338",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 243
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002292815519490180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8wa06ko: https://t.co/CbqLyXHeE0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1378,
+        "media_key": "3_2002292810398248960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8mSs9QbMAAGZQN.jpg",
+        "width": 2039
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002292810398248960"
+          ],
+          "media_source_tweet_id": [
+            "2002292815519490180"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2002423701724410338",
+        "created_at": "2025-12-20T16:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T17:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002423701724410338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1192831599483604992",
+              "start": 3,
+              "username": "8wa06ko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CbqLyXHeE0",
+              "end": 36,
+              "expanded_url": "https://x.com/8wa06ko/status/2002292815519490180/photo/1",
+              "media_key": "3_2002292810398248960",
+              "start": 13,
+              "url": "https://t.co/CbqLyXHeE0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002423701724410338",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 243
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002292815519490180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8wa06ko: https://t.co/CbqLyXHeE0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002292810398248960"
+          ]
+        },
+        "author_id": "1192831599483604992",
+        "conversation_id": "2002292815519490180",
+        "created_at": "2025-12-20T08:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T09:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002292815519490180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CbqLyXHeE0",
+              "end": 23,
+              "expanded_url": "https://x.com/8wa06ko/status/2002292815519490180/photo/1",
+              "media_key": "3_2002292810398248960",
+              "start": 0,
+              "url": "https://t.co/CbqLyXHeE0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002292815519490180",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 12520,
+          "like_count": 1440,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 243
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CbqLyXHeE0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1037,
+          "like_count": 14587,
+          "listed_count": 3,
+          "media_count": 468,
+          "tweet_count": 4585
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-08T15:50:00.000Z",
+        "description": "雑多アカウントの為フォロー注意 ねこの絵とか描きます 東方 ちいかわ 🐎 🀄️𝑵𝑰𝑮𝑯𝑻𝑹𝑬𝑰𝑮𝑵 絵は土日祝更新 サークル「やんのかスキップ」 来年の予定 未",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/8186246",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/8186246",
+                "start": 0,
+                "url": "https://t.co/VLJi4VEZ1n"
+              }
+            ]
+          }
+        },
+        "id": "1192831599483604992",
+        "location": "Stage 4 uncanny　伝説の夢の国",
+        "name": "れむこ",
+        "pinned_tweet_id": "1982486133855633557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981631129833570304/WAhILPLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 1483,
+          "like_count": 46698,
+          "listed_count": 13,
+          "media_count": 2828,
+          "tweet_count": 63282
+        },
+        "url": "https://t.co/VLJi4VEZ1n",
+        "username": "8wa06ko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000289144111837184"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2000289155625238887",
+    "created_at": "2025-12-14T19:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T20:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000289155625238887"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/anvuEPorLg",
+          "end": 40,
+          "expanded_url": "https://x.com/SHUGE0731/status/2000289155625238887/photo/1",
+          "media_key": "3_2000289144111837184",
+          "start": 17,
+          "url": "https://t.co/anvuEPorLg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000289155625238887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "半夜看到感觉像草莓果酱一样很漂亮 https://t.co/anvuEPorLg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2000289155625238887].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2000289155625238887",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2000289155625238887"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000289144111837184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8J0YOrbMAADdpX.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 1024,
+          "like_count": 13822,
+          "listed_count": 2,
+          "media_count": 453,
+          "tweet_count": 4205
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      }
+    ]
+  }
+}

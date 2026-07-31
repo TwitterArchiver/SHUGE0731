@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2003494696904241639",
+    "created_at": "2025-12-23T16:01:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T17:01:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003496138427760923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1468567542264664067",
+          "start": 0,
+          "username": "Angelica_zj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003496138427760923",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003494696904241639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Angelica_zj 爽！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4418,
+        "height": 1280,
+        "media_key": "13_2003494616939790340",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2003494616939790340/img/pk5r-nMdlqpfYc1y.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003494616939790340/vid/avc1/320x568/s7y4IrQwQDxoWwpD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003494616939790340/vid/avc1/480x852/vIhOCNRMtZKb0wIv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003494616939790340/vid/avc1/720x1280/cj35xC8yb0Yeoi8H.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2003494616939790340/pl/V6qih2qU74KFyHAK.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2003494696904241639",
+        "created_at": "2025-12-23T16:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T17:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003496138427760923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003496138427760923",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003494696904241639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 爽！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003494616939790340"
+          ]
+        },
+        "author_id": "1468567542264664067",
+        "conversation_id": "2003494696904241639",
+        "created_at": "2025-12-23T15:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T16:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003494696904241639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qb6I1h4FP4",
+              "end": 33,
+              "expanded_url": "https://x.com/Angelica_zj/status/2003494696904241639/video/1",
+              "media_key": "13_2003494616939790340",
+              "start": 10,
+              "url": "https://t.co/qb6I1h4FP4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003494696904241639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想做这件事很久了。 https://t.co/qb6I1h4FP4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 1039,
+          "like_count": 15156,
+          "listed_count": 3,
+          "media_count": 476,
+          "tweet_count": 4828
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25265,
+          "following_count": 1011,
+          "like_count": 14452,
+          "listed_count": 40,
+          "media_count": 1479,
+          "tweet_count": 16304
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

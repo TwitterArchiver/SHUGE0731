@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1818283823379161170",
+    "created_at": "2024-07-30T13:54:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-30T14:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818284133128503464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774410859491799041",
+          "start": 0,
+          "username": "kiwi_03096"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818284133128503464",
+    "in_reply_to_user_id": "1774410859491799041",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818283823379161170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiwi_03096 哇哇！超可爱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1818283823379161170",
+        "created_at": "2024-07-30T13:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T14:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818284133128503464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774410859491799041",
+              "start": 0,
+              "username": "kiwi_03096"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818284133128503464",
+        "in_reply_to_user_id": "1774410859491799041",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818283823379161170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiwi_03096 哇哇！超可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1818283794786549760"
+          ]
+        },
+        "author_id": "1774410859491799041",
+        "conversation_id": "1818283823379161170",
+        "created_at": "2024-07-30T13:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T14:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818283823379161170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ngXDE1fHVI",
+              "end": 38,
+              "expanded_url": "https://twitter.com/kiwi_03096/status/1818283823379161170/video/1",
+              "media_key": "7_1818283794786549760",
+              "start": 15,
+              "url": "https://t.co/ngXDE1fHVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818283823379161170",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我搞cos比我自己好看 https://t.co/ngXDE1fHVI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 511,
+          "like_count": 979,
+          "listed_count": 0,
+          "tweet_count": 137
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T12:18:22.000Z",
+        "description": "谢谢你们关注我，",
+        "id": "1774410859491799041",
+        "location": "Japan",
+        "name": "kiwi_0309",
+        "pinned_tweet_id": "1815770758230224983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813935309773824001/6zG4mmJu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 281,
+          "like_count": 2494,
+          "listed_count": 4,
+          "tweet_count": 793
+        },
+        "username": "kiwi_03096",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1973364068527616000"
+      ],
+      "media_source_tweet_id": [
+        "1973364131907641838"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1973449796125090024",
+    "created_at": "2025-10-01T18:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T19:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973449796125090024"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "ヨシヨシ",
+          "probability": 0.7245,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701522329044721664",
+          "start": 3,
+          "username": "supina_infom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FhrHvzaxVM",
+          "end": 46,
+          "expanded_url": "https://x.com/supina_infom/status/1973364131907641838/video/1",
+          "media_key": "13_1973364068527616000",
+          "start": 23,
+          "url": "https://t.co/FhrHvzaxVM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973449796125090024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973364131907641838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @supina_infom: ヨシヨシ https://t.co/FhrHvzaxVM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8085,
+        "height": 1280,
+        "media_key": "13_1973364068527616000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1973364068527616000/img/h68cJy1knhhNv7Pf.jpg",
+        "public_metrics": {
+          "view_count": 1862
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1973364068527616000/vid/avc1/320x568/5uN-OgcS8IErz875.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1973364068527616000/vid/avc1/480x852/iukYXFxKjQZwcnA9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1973364068527616000/vid/avc1/720x1280/X7NgE2bdu96N3_as.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1973364068527616000/pl/1T878jYOHrnRzGIz.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1973364068527616000"
+          ],
+          "media_source_tweet_id": [
+            "1973364131907641838"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1973449796125090024",
+        "created_at": "2025-10-01T18:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T19:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973449796125090024"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "ヨシヨシ",
+              "probability": 0.7245,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701522329044721664",
+              "start": 3,
+              "username": "supina_infom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FhrHvzaxVM",
+              "end": 46,
+              "expanded_url": "https://x.com/supina_infom/status/1973364131907641838/video/1",
+              "media_key": "13_1973364068527616000",
+              "start": 23,
+              "url": "https://t.co/FhrHvzaxVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973449796125090024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973364131907641838",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @supina_infom: ヨシヨシ https://t.co/FhrHvzaxVM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1973364068527616000"
+          ]
+        },
+        "author_id": "1701522329044721664",
+        "conversation_id": "1973364131907641838",
+        "created_at": "2025-10-01T12:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T13:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973364131907641838"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "ヨシヨシ",
+              "probability": 0.7425,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FhrHvzaxVM",
+              "end": 28,
+              "expanded_url": "https://x.com/supina_infom/status/1973364131907641838/video/1",
+              "media_key": "13_1973364068527616000",
+              "start": 5,
+              "url": "https://t.co/FhrHvzaxVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973364131907641838",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 7410,
+          "like_count": 521,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "ヨシヨシ https://t.co/FhrHvzaxVM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣  |  中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 1045,
+          "like_count": 9558,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 2119
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T09:05:19.000Z",
+        "description": "愛称ピナ：スピナ ホオミドリアカオウロコインコ ミント♂ 2歳 偶に実家のぴよ（青葉）マメルリハインコ13歳も呟く 鳥の情報収集・日常記録アカウントです",
+        "id": "1701522329044721664",
+        "name": "すぴな🏡",
+        "pinned_tweet_id": "1766789044346991093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738042324972920832/rT3SZQEJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4342,
+          "following_count": 354,
+          "like_count": 27498,
+          "listed_count": 50,
+          "media_count": 4663,
+          "tweet_count": 6438
+        },
+        "username": "supina_infom",
+        "verified": false
+      }
+    ]
+  }
+}

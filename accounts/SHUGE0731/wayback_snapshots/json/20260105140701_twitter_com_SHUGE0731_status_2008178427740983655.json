@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2008136582394732690",
+    "created_at": "2026-01-05T14:07:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T15:07:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008178427740983655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1976904875603873792",
+          "start": 0,
+          "username": "RXrein0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008178427740983655",
+    "in_reply_to_user_id": "1976904875603873792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008136582394732690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RXrein0 卧槽 老大这么多新干员都专九了 简直是劳模！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008136564648685569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G95VkORbsAEjWyE.jpg",
+        "width": 1168
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008136564761890816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G95VkOsbEAARVka.jpg",
+        "width": 1060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2008136582394732690",
+        "created_at": "2026-01-05T14:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T15:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008178427740983655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1976904875603873792",
+              "start": 0,
+              "username": "RXrein0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008178427740983655",
+        "in_reply_to_user_id": "1976904875603873792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008136582394732690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXrein0 卧槽 老大这么多新干员都专九了 简直是劳模！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008136564648685569",
+            "3_2008136564761890816"
+          ]
+        },
+        "author_id": "1976904875603873792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2008136582394732690",
+        "created_at": "2026-01-05T11:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T12:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008136582394732690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ksmEFw3Y4G",
+              "end": 27,
+              "expanded_url": "https://x.com/RXrein0/status/2008136582394732690/photo/1",
+              "media_key": "3_2008136564648685569",
+              "start": 4,
+              "url": "https://t.co/ksmEFw3Y4G"
+            },
+            {
+              "display_url": "pic.x.com/ksmEFw3Y4G",
+              "end": 27,
+              "expanded_url": "https://x.com/RXrein0/status/2008136582394732690/photo/1",
+              "media_key": "3_2008136564761890816",
+              "start": 4,
+              "url": "https://t.co/ksmEFw3Y4G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008136582394732690",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯…… https://t.co/ksmEFw3Y4G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 995,
+          "like_count": 17278,
+          "listed_count": 3,
+          "media_count": 516,
+          "tweet_count": 5827
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T06:57:24.000Z",
+        "description": "一些TAG：粥/来打/杀戮尖塔/MHWI/老头环/23岁社畜/其余坑杂食。\n并非男娘，欢迎各位小窗找我玩。\n0人在意的匿名提问箱链接：https://t.co/bXcjBUMlqn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rein0",
+                "end": 90,
+                "expanded_url": "https://ngl.link/rein0",
+                "start": 67,
+                "url": "https://t.co/bXcjBUMlqn"
+              }
+            ]
+          }
+        },
+        "id": "1976904875603873792",
+        "location": "深空群星-#02FA",
+        "name": "没有味淋多喝生抽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007363156499410945/6HYIYZ3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 43,
+          "like_count": 1157,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 934
+        },
+        "username": "RXrein0",
+        "verified": false
+      }
+    ]
+  }
+}

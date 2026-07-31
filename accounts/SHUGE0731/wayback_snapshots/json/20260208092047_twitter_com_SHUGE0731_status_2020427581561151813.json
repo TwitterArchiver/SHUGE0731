@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10050189708",
+          "name": "メイドインアビス"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296305541338132480",
+          "name": "Made in Abyss"
+        }
+      }
+    ],
+    "conversation_id": "2020427581561151813",
+    "created_at": "2026-02-08T09:20:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T10:20:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020427581561151813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miabyss_anime/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/miabyss_anime/status/2020414800648704058",
+          "start": 7,
+          "url": "https://t.co/3jRYaqHVxO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020427581561151813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020414800648704058",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽 终于… https://t.co/3jRYaqHVxO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 90090,
+        "height": 1080,
+        "media_key": "13_2020106770014941184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020106770014941184/img/pNSLCRqOIUnkcP-V.jpg",
+        "public_metrics": {
+          "view_count": 196348
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020106770014941184/vid/avc1/480x270/noV_vd3mAogNfOlU.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020106770014941184/vid/avc1/640x360/mzYmHSa-nplH5bSB.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020106770014941184/vid/avc1/1280x720/o4HRI0pXO61IXs0E.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020106770014941184/pl/Z04QFxc7QM64YpNu.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050189708",
+              "name": "メイドインアビス"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296305541338132480",
+              "name": "Made in Abyss"
+            }
+          }
+        ],
+        "conversation_id": "2020427581561151813",
+        "created_at": "2026-02-08T09:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T10:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020427581561151813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miabyss_anime/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/miabyss_anime/status/2020414800648704058",
+              "start": 7,
+              "url": "https://t.co/3jRYaqHVxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020427581561151813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020414800648704058",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽 终于… https://t.co/3jRYaqHVxO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020106770014941184"
+          ]
+        },
+        "author_id": "801022933103611904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050189708",
+              "name": "メイドインアビス"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296305541338132480",
+              "name": "Made in Abyss"
+            }
+          }
+        ],
+        "conversation_id": "2020414800648704058",
+        "created_at": "2026-02-08T08:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T09:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020414800648704058"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 12,
+              "tag": "メイドインアビス"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7WQwdMlbBd",
+              "end": 77,
+              "expanded_url": "https://x.com/miabyss_anime/status/2020414800648704058/video/1",
+              "media_key": "13_2020106770014941184",
+              "start": 54,
+              "url": "https://t.co/7WQwdMlbBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020414800648704058",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1377,
+          "impression_count": 662492,
+          "like_count": 14833,
+          "quote_count": 790,
+          "reply_count": 77,
+          "retweet_count": 6895
+        },
+        "reply_settings": "everyone",
+        "text": "劇場シリーズ【第1部】\n#メイドインアビス 目覚める神秘\n\n2026年秋🕳️劇場公開！\n\n特報映像を公開🎥 https://t.co/7WQwdMlbBd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 971,
+          "like_count": 19828,
+          "listed_count": 3,
+          "media_count": 552,
+          "tweet_count": 7001
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-22T11:22:04.000Z",
+        "description": "「メイドインアビス」劇場シリーズアニメ化決定！\n【第1部】メイドインアビス 目覚める神秘 2026年公開！\nアニメーション制作：キネマシトラス\n原作漫画は「竹コミ！」にて連載中📖\n#miabyss",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 90,
+                "tag": "miabyss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "miabyss.com",
+                "end": 23,
+                "expanded_url": "http://miabyss.com",
+                "start": 0,
+                "url": "https://t.co/HWpAWtKhT5"
+              }
+            ]
+          }
+        },
+        "id": "801022933103611904",
+        "name": "アニメ「メイドインアビス」公式",
+        "pinned_tweet_id": "2020414800648704058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875373653222858752/scd5lBIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220097,
+          "following_count": 24,
+          "like_count": 12,
+          "listed_count": 1445,
+          "media_count": 1484,
+          "tweet_count": 5257
+        },
+        "url": "https://t.co/HWpAWtKhT5",
+        "username": "miabyss_anime",
+        "verified": false
+      }
+    ]
+  }
+}

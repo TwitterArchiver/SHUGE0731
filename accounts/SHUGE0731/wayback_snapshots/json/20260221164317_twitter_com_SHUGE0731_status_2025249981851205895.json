@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025202104974069761"
+      ],
+      "media_source_tweet_id": [
+        "2025202111739560093"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2025249981851205895",
+    "created_at": "2026-02-21T16:43:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T17:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025249981851205895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1080447487159152640",
+          "start": 3,
+          "username": "marudoll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UazDxfYBIP",
+          "end": 45,
+          "expanded_url": "https://x.com/marudoll/status/2025202111739560093/photo/1",
+          "media_key": "3_2025202104974069761",
+          "start": 22,
+          "url": "https://t.co/UazDxfYBIP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025249981851205895",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 157
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025202111739560093",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @marudoll: Nanachi https://t.co/UazDxfYBIP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1408,
+        "media_key": "3_2025202104974069761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBr2laFaUAESAF6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025202104974069761"
+          ],
+          "media_source_tweet_id": [
+            "2025202111739560093"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2025249981851205895",
+        "created_at": "2026-02-21T16:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T17:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025249981851205895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1080447487159152640",
+              "start": 3,
+              "username": "marudoll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UazDxfYBIP",
+              "end": 45,
+              "expanded_url": "https://x.com/marudoll/status/2025202111739560093/photo/1",
+              "media_key": "3_2025202104974069761",
+              "start": 22,
+              "url": "https://t.co/UazDxfYBIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025249981851205895",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 157
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025202111739560093",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @marudoll: Nanachi https://t.co/UazDxfYBIP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025202104974069761"
+          ]
+        },
+        "author_id": "1080447487159152640",
+        "conversation_id": "2025202111739560093",
+        "created_at": "2026-02-21T13:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025202111739560093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UazDxfYBIP",
+              "end": 31,
+              "expanded_url": "https://x.com/marudoll/status/2025202111739560093/photo/1",
+              "media_key": "3_2025202104974069761",
+              "start": 8,
+              "url": "https://t.co/UazDxfYBIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025202111739560093",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 11050,
+          "like_count": 1639,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "Nanachi https://t.co/UazDxfYBIP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 993,
+          "like_count": 21760,
+          "listed_count": 3,
+          "media_count": 575,
+          "tweet_count": 7780
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-02T12:55:29.000Z",
+        "description": "絵を描く人形Skeb▶︎https://t.co/T9JoUZ6OAu FANBOX▶︎ https://t.co/OnKThtQLyL 創作▶︎ https://t.co/PHG1YlGrX6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@marudoll",
+                "end": 35,
+                "expanded_url": "https://skeb.jp/@marudoll",
+                "start": 12,
+                "url": "https://t.co/T9JoUZ6OAu"
+              },
+              {
+                "display_url": "marudoll.fanbox.cc",
+                "end": 68,
+                "expanded_url": "https://marudoll.fanbox.cc",
+                "start": 45,
+                "url": "https://t.co/OnKThtQLyL"
+              },
+              {
+                "display_url": "pixiv.net/user/37003187/…",
+                "end": 97,
+                "expanded_url": "https://www.pixiv.net/user/37003187/series/165223",
+                "start": 74,
+                "url": "https://t.co/PHG1YlGrX6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/tI7dBA9flnw",
+                "end": 23,
+                "expanded_url": "https://youtu.be/tI7dBA9flnw",
+                "start": 0,
+                "url": "https://t.co/s5mT1kAhih"
+              }
+            ]
+          }
+        },
+        "id": "1080447487159152640",
+        "location": "ドールハウス",
+        "name": "まるのみ人形",
+        "pinned_tweet_id": "1797150228644270082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780198968787607552/qtktn9sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23893,
+          "following_count": 977,
+          "like_count": 10015,
+          "listed_count": 95,
+          "media_count": 1569,
+          "tweet_count": 6755
+        },
+        "url": "https://t.co/s5mT1kAhih",
+        "username": "marudoll",
+        "verified": true
+      }
+    ]
+  }
+}

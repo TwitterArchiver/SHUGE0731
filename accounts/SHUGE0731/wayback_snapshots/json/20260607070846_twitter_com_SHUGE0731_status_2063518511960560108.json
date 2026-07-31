@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2063427124258889753",
+    "created_at": "2026-06-07T07:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063518511960560108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1897349281620934657",
+          "start": 0,
+          "username": "Mu_Qiwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063518511960560108",
+    "in_reply_to_user_id": "1897349281620934657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063514410933432655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mu_Qiwu 理一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2063427124258889753",
+        "created_at": "2026-06-07T07:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063518511960560108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897349281620934657",
+              "start": 0,
+              "username": "Mu_Qiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063518511960560108",
+        "in_reply_to_user_id": "1897349281620934657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063514410933432655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mu_Qiwu 理一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897349281620934657",
+        "conversation_id": "2063427124258889753",
+        "created_at": "2026-06-07T06:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063514410933432655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063514410933432655",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063427124258889753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 理一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 1151,
+          "like_count": 30391,
+          "listed_count": 4,
+          "media_count": 692,
+          "tweet_count": 10348
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T18:11:51.000Z",
+        "description": "Mathematics Undergraduate\nLeopold-Franzens-Universität Innsbruck",
+        "id": "1897349281620934657",
+        "location": "Innsbruck, Austria",
+        "name": "慕栖梧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063348665704423424/gqiCuCIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 21,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 114
+        },
+        "username": "Mu_Qiwu",
+        "verified": false
+      }
+    ]
+  }
+}

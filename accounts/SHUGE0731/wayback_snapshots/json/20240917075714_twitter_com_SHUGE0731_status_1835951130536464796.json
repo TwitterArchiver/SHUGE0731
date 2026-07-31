@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1835940295244153283",
+    "created_at": "2024-09-17T07:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-17T08:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835951130536464796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1283083620849119232",
+          "start": 0,
+          "username": "zhengtaiwan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835951130536464796",
+    "in_reply_to_user_id": "1283083620849119232",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835945204538605614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhengtaiwan 😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1835940295244153283",
+        "created_at": "2024-09-17T07:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T08:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835951130536464796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1283083620849119232",
+              "start": 0,
+              "username": "zhengtaiwan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835951130536464796",
+        "in_reply_to_user_id": "1283083620849119232",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835945204538605614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhengtaiwan 😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1283083620849119232",
+        "conversation_id": "1835940295244153283",
+        "created_at": "2024-09-17T07:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T08:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835945204538605614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835945204538605614",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835940295244153283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 这猫。😂一脸求知欲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 592,
+          "like_count": 1779,
+          "listed_count": 0,
+          "tweet_count": 284
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-14T16:59:19.000Z",
+        "description": "",
+        "id": "1283083620849119232",
+        "name": "黑夜的黑影",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1283083847341465606/la-esyic_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 84,
+          "like_count": 3,
+          "listed_count": 1,
+          "tweet_count": 33
+        },
+        "username": "zhengtaiwan",
+        "verified": false
+      }
+    ]
+  }
+}

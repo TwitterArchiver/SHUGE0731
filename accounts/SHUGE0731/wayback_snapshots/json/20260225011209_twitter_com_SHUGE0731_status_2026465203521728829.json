@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026309367306588160"
+      ],
+      "media_source_tweet_id": [
+        "2026309372151013725"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2026465203521728829",
+    "created_at": "2026-02-25T01:12:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T02:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026465203521728829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1707066746119831552",
+          "start": 3,
+          "username": "jito410"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0RGkiVoKdh",
+          "end": 36,
+          "expanded_url": "https://x.com/jito410/status/2026309372151013725/photo/1",
+          "media_key": "3_2026309367306588160",
+          "start": 13,
+          "url": "https://t.co/0RGkiVoKdh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026465203521728829",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 160
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026309372151013725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jito410: https://t.co/0RGkiVoKdh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_2026309367306588160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7lojtbEAA7FJi.jpg",
+        "width": 1523
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026309367306588160"
+          ],
+          "media_source_tweet_id": [
+            "2026309372151013725"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2026465203521728829",
+        "created_at": "2026-02-25T01:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T02:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026465203521728829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1707066746119831552",
+              "start": 3,
+              "username": "jito410"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0RGkiVoKdh",
+              "end": 36,
+              "expanded_url": "https://x.com/jito410/status/2026309372151013725/photo/1",
+              "media_key": "3_2026309367306588160",
+              "start": 13,
+              "url": "https://t.co/0RGkiVoKdh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026465203521728829",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 160
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026309372151013725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jito410: https://t.co/0RGkiVoKdh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026309367306588160"
+          ]
+        },
+        "author_id": "1707066746119831552",
+        "conversation_id": "2026309372151013725",
+        "created_at": "2026-02-24T14:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026309372151013725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0RGkiVoKdh",
+              "end": 23,
+              "expanded_url": "https://x.com/jito410/status/2026309372151013725/photo/1",
+              "media_key": "3_2026309367306588160",
+              "start": 0,
+              "url": "https://t.co/0RGkiVoKdh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026309372151013725",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 199,
+          "impression_count": 26959,
+          "like_count": 2034,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 160
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0RGkiVoKdh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ 最最亲爱的恋人&主人 @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 1000,
+          "like_count": 22319,
+          "listed_count": 3,
+          "media_count": 576,
+          "tweet_count": 7921
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T16:19:50.000Z",
+        "description": "SDイラストのお仕事募集中です🎨(,,⩌ᴗ⩌,,)🎨 ご依頼はメールまたはDMにて✉️ sukoroujitome✦https://t.co/hYMBYoMNNm（✦→@） 【Skeb】https://t.co/Rw8SbLYj91 【立ち絵】https://t.co/VxEpgouc5H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 81,
+                "expanded_url": "http://gmail.com",
+                "start": 58,
+                "url": "https://t.co/hYMBYoMNNm"
+              },
+              {
+                "display_url": "skeb.jp/@jito410",
+                "end": 116,
+                "expanded_url": "https://skeb.jp/@jito410",
+                "start": 93,
+                "url": "https://t.co/Rw8SbLYj91"
+              },
+              {
+                "display_url": "jito410.fanbox.cc/posts",
+                "end": 145,
+                "expanded_url": "https://jito410.fanbox.cc/posts",
+                "start": 122,
+                "url": "https://t.co/VxEpgouc5H"
+              }
+            ]
+          }
+        },
+        "id": "1707066746119831552",
+        "location": "現在のskebの作業件数：0件",
+        "name": "ジト目をすころう",
+        "pinned_tweet_id": "1996799267781140768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024859138459942913/SrhoonBB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4097,
+          "following_count": 100,
+          "like_count": 3808,
+          "listed_count": 25,
+          "media_count": 195,
+          "tweet_count": 3319
+        },
+        "username": "jito410",
+        "verified": false
+      }
+    ]
+  }
+}

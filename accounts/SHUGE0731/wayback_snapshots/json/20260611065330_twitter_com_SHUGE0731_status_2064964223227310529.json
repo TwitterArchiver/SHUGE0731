@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2064938209994547679",
+    "created_at": "2026-06-11T06:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T07:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064964223227310529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1915447094640578560",
+          "start": 0,
+          "username": "I_Love_Gerato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064964223227310529",
+    "in_reply_to_user_id": "1915447094640578560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064938209994547679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@I_Love_Gerato 听到主体性我就害怕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2064938209994547679",
+        "created_at": "2026-06-11T06:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064964223227310529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1915447094640578560",
+              "start": 0,
+              "username": "I_Love_Gerato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064964223227310529",
+        "in_reply_to_user_id": "1915447094640578560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064938209994547679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@I_Love_Gerato 听到主体性我就害怕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915447094640578560",
+        "conversation_id": "2064938209994547679",
+        "created_at": "2026-06-11T05:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064938209994547679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shuge0731/stat…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/shuge0731/status/2064306128079712602",
+              "start": 26,
+              "url": "https://t.co/ouyNkYRSWn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064938209994547679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064306128079712602",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "符合我对大部分天天念叨主体性和精神分析的群体的认知 https://t.co/ouyNkYRSWn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 1152,
+          "like_count": 30782,
+          "listed_count": 4,
+          "media_count": 694,
+          "tweet_count": 10481
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-24T16:45:57.000Z",
+        "description": "睡觉就是等待觉醒之时",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/track/0MRooJn2…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/track/0MRooJn2J6iXQnzFdFSpRR?si=lpNkVxTWROOYNRDvPo1x5g",
+                "start": 0,
+                "url": "https://t.co/JMg5d0DOnk"
+              }
+            ]
+          }
+        },
+        "id": "1915447094640578560",
+        "location": "我会时不时换link的歌",
+        "name": "又在这里睡大觉！",
+        "pinned_tweet_id": "2052532389470150985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037827120693698560/yFp12cHH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 122,
+          "like_count": 5792,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 2569
+        },
+        "url": "https://t.co/JMg5d0DOnk",
+        "username": "I_Love_Gerato",
+        "verified": false
+      }
+    ]
+  }
+}

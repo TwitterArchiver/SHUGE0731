@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2000121319858577408"
+      ],
+      "media_source_tweet_id": [
+        "2000121385709097065"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2000172458922688804",
+    "created_at": "2025-12-14T11:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T12:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000172458922688804"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 34,
+          "tag": "ノーマル"
+        },
+        {
+          "end": 54,
+          "start": 46,
+          "tag": "鳥のいるカフェ"
+        },
+        {
+          "end": 62,
+          "start": 55,
+          "tag": "ウロコインコ"
+        },
+        {
+          "end": 65,
+          "start": 63,
+          "tag": "雛"
+        },
+        {
+          "end": 72,
+          "start": 66,
+          "tag": "さし餌3回"
+        },
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "販売"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2393744292",
+          "start": 3,
+          "username": "toricafeasakusa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kzPXjTsrRB",
+          "end": 100,
+          "expanded_url": "https://x.com/toricafeasakusa/status/2000121385709097065/video/1",
+          "media_key": "13_2000121319858577408",
+          "start": 77,
+          "url": "https://t.co/kzPXjTsrRB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000172458922688804",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000121385709097065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @toricafeasakusa: どうしても画角に入りたい #ノーマル ちゃん📷\n\n#鳥のいるカフェ　#ウロコインコ　#雛　#さし餌3回　#販売 https://t.co/kzPXjTsrRB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16566,
+        "height": 720,
+        "media_key": "13_2000121319858577408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000121319858577408/img/TXN6pDxpytZLy-C7.jpg",
+        "public_metrics": {
+          "view_count": 2560
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000121319858577408/vid/avc1/480x270/H48KbxYNsACLYNkQ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000121319858577408/vid/avc1/640x360/KYnArmfQAo-Np1ll.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000121319858577408/vid/avc1/1280x720/bamT4WMeCxnKut8x.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000121319858577408/pl/R7Xo_v6CxLDuGqaK.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000121319858577408"
+          ],
+          "media_source_tweet_id": [
+            "2000121385709097065"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2000172458922688804",
+        "created_at": "2025-12-14T11:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T12:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000172458922688804"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "ノーマル"
+            },
+            {
+              "end": 54,
+              "start": 46,
+              "tag": "鳥のいるカフェ"
+            },
+            {
+              "end": 62,
+              "start": 55,
+              "tag": "ウロコインコ"
+            },
+            {
+              "end": 65,
+              "start": 63,
+              "tag": "雛"
+            },
+            {
+              "end": 72,
+              "start": 66,
+              "tag": "さし餌3回"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "販売"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2393744292",
+              "start": 3,
+              "username": "toricafeasakusa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kzPXjTsrRB",
+              "end": 100,
+              "expanded_url": "https://x.com/toricafeasakusa/status/2000121385709097065/video/1",
+              "media_key": "13_2000121319858577408",
+              "start": 77,
+              "url": "https://t.co/kzPXjTsrRB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000172458922688804",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000121385709097065",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @toricafeasakusa: どうしても画角に入りたい #ノーマル ちゃん📷\n\n#鳥のいるカフェ　#ウロコインコ　#雛　#さし餌3回　#販売 https://t.co/kzPXjTsrRB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000121319858577408"
+          ]
+        },
+        "author_id": "2393744292",
+        "conversation_id": "2000121385709097065",
+        "created_at": "2025-12-14T08:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T09:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000121385709097065"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "ノーマル"
+            },
+            {
+              "end": 33,
+              "start": 25,
+              "tag": "鳥のいるカフェ"
+            },
+            {
+              "end": 41,
+              "start": 34,
+              "tag": "ウロコインコ"
+            },
+            {
+              "end": 44,
+              "start": 42,
+              "tag": "雛"
+            },
+            {
+              "end": 51,
+              "start": 45,
+              "tag": "さし餌3回"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "販売"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kzPXjTsrRB",
+              "end": 79,
+              "expanded_url": "https://x.com/toricafeasakusa/status/2000121385709097065/video/1",
+              "media_key": "13_2000121319858577408",
+              "start": 56,
+              "url": "https://t.co/kzPXjTsrRB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000121385709097065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 7254,
+          "like_count": 451,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "どうしても画角に入りたい #ノーマル ちゃん📷\n\n#鳥のいるカフェ　#ウロコインコ　#雛　#さし餌3回　#販売 https://t.co/kzPXjTsrRB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 1024,
+          "like_count": 13778,
+          "listed_count": 2,
+          "media_count": 451,
+          "tweet_count": 4175
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-17T04:22:56.000Z",
+        "description": "こんにちは！100羽以上の鳥さんたちと遊べ、お迎えできる鳥好きさんのためのお店です♪ かわいい鳥さんたちの様子やお得な情報などを発信しています！ 販売中の仔たちについてはこちら⇒https://t.co/7aagfDlTA7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "toricafe.co.jp/birdforsale",
+                "end": 112,
+                "expanded_url": "http://toricafe.co.jp/birdforsale",
+                "start": 89,
+                "url": "https://t.co/7aagfDlTA7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "toricafe.co.jp",
+                "end": 23,
+                "expanded_url": "https://toricafe.co.jp",
+                "start": 0,
+                "url": "https://t.co/aF7YUjsd7R"
+              }
+            ]
+          }
+        },
+        "id": "2393744292",
+        "location": "東京都文京区千駄木3-42-16 1F",
+        "name": "鳥のいるカフェ千駄木店",
+        "pinned_tweet_id": "1992825478126907718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1499357164527259650/7gbG20og_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15859,
+          "following_count": 1,
+          "like_count": 581,
+          "listed_count": 194,
+          "media_count": 6833,
+          "tweet_count": 8476
+        },
+        "url": "https://t.co/aF7YUjsd7R",
+        "username": "toricafeasakusa",
+        "verified": false
+      }
+    ]
+  }
+}

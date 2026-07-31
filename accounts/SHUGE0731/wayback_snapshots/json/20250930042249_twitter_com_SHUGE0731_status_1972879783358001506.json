@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972697000266059779"
+      ],
+      "media_source_tweet_id": [
+        "1972697002606510411"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1972879783358001506",
+    "created_at": "2025-09-30T04:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T05:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972879783358001506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1310019588843868160",
+          "start": 3,
+          "username": "CrossRufus1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FEWuGN0pu4",
+          "end": 40,
+          "expanded_url": "https://x.com/CrossRufus1/status/1972697002606510411/photo/1",
+          "media_key": "3_1972697000266059779",
+          "start": 17,
+          "url": "https://t.co/FEWuGN0pu4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972879783358001506",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 235
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972697002606510411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CrossRufus1: https://t.co/FEWuGN0pu4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 756,
+        "media_key": "3_1972697000266059779",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2BteE5WUAMGbHG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972697000266059779"
+          ],
+          "media_source_tweet_id": [
+            "1972697002606510411"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1972879783358001506",
+        "created_at": "2025-09-30T04:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T05:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972879783358001506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1310019588843868160",
+              "start": 3,
+              "username": "CrossRufus1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FEWuGN0pu4",
+              "end": 40,
+              "expanded_url": "https://x.com/CrossRufus1/status/1972697002606510411/photo/1",
+              "media_key": "3_1972697000266059779",
+              "start": 17,
+              "url": "https://t.co/FEWuGN0pu4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972879783358001506",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 235
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972697002606510411",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CrossRufus1: https://t.co/FEWuGN0pu4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972697000266059779"
+          ]
+        },
+        "author_id": "1310019588843868160",
+        "conversation_id": "1972697002606510411",
+        "created_at": "2025-09-29T16:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T17:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972697002606510411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FEWuGN0pu4",
+              "end": 23,
+              "expanded_url": "https://x.com/CrossRufus1/status/1972697002606510411/photo/1",
+              "media_key": "3_1972697000266059779",
+              "start": 0,
+              "url": "https://t.co/FEWuGN0pu4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972697002606510411",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 188,
+          "impression_count": 26778,
+          "like_count": 1674,
+          "quote_count": 21,
+          "reply_count": 14,
+          "retweet_count": 235
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FEWuGN0pu4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣  |  中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 1036,
+          "like_count": 9482,
+          "listed_count": 2,
+          "media_count": 306,
+          "tweet_count": 2079
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-27T00:53:17.000Z",
+        "description": "Bird lover",
+        "id": "1310019588843868160",
+        "name": "Flavio Meira Silva 🦜🇧🇷🔺️",
+        "pinned_tweet_id": "1875260319179927662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909759932506701824/plsLXv6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3979,
+          "following_count": 655,
+          "like_count": 6025,
+          "listed_count": 19,
+          "media_count": 4573,
+          "tweet_count": 9529
+        },
+        "username": "CrossRufus1",
+        "verified": false
+      }
+    ]
+  }
+}

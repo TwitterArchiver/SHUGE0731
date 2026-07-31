@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979808207859044352"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1979766548224155771",
+    "created_at": "2025-10-19T07:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T08:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979808219322335583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1833311751947096064",
+          "start": 0,
+          "username": "_YanamiAnna"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wPLEI4R8MR",
+          "end": 53,
+          "expanded_url": "https://x.com/SHUGE0731/status/1979808219322335583/photo/1",
+          "media_key": "3_1979808207859044352",
+          "start": 30,
+          "url": "https://t.co/wPLEI4R8MR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979808219322335583",
+    "in_reply_to_user_id": "1833311751947096064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979794315640737988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_YanamiAnna 好呀！我一直在喝水 但还是总掉皮 https://t.co/wPLEI4R8MR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 408,
+        "media_key": "3_1979808207859044352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3mxE1jXUAAdrps.jpg",
+        "width": 408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979808207859044352"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1979766548224155771",
+        "created_at": "2025-10-19T07:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T08:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979808219322335583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1833311751947096064",
+              "start": 0,
+              "username": "_YanamiAnna"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wPLEI4R8MR",
+              "end": 53,
+              "expanded_url": "https://x.com/SHUGE0731/status/1979808219322335583/photo/1",
+              "media_key": "3_1979808207859044352",
+              "start": 30,
+              "url": "https://t.co/wPLEI4R8MR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979808219322335583",
+        "in_reply_to_user_id": "1833311751947096064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979794315640737988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_YanamiAnna 好呀！我一直在喝水 但还是总掉皮 https://t.co/wPLEI4R8MR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833311751947096064",
+        "conversation_id": "1979766548224155771",
+        "created_at": "2025-10-19T06:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T07:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979794315640737988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979794315640737988",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979766548224155771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 嘴巴好干，记得多喝水或者涂点润唇膏🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 |  中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 1069,
+          "like_count": 10099,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 2294
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-10T01:09:28.000Z",
+        "description": "IN GOD WE TRUST",
+        "id": "1833311751947096064",
+        "name": "Yanami",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889140784492130304/JPk0_nZx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 640,
+          "like_count": 4739,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 685
+        },
+        "username": "_YanamiAnna",
+        "verified": false
+      }
+    ]
+  }
+}

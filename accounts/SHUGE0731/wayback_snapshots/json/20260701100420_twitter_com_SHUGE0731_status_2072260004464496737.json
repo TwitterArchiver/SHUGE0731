@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072243817919729664"
+      ],
+      "media_source_tweet_id": [
+        "2072243824982970394"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2072260004464496737",
+    "created_at": "2026-07-01T10:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T11:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072260004464496737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1761297029677101057",
+          "start": 3,
+          "username": "kokone2722"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jtWNhrweVj",
+          "end": 51,
+          "expanded_url": "https://x.com/kokone2722/status/2072243824982970394/photo/1",
+          "media_key": "3_2072243817919729664",
+          "start": 28,
+          "url": "https://t.co/jtWNhrweVj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072260004464496737",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072243824982970394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kokone2722: the EmperoR https://t.co/jtWNhrweVj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072243817919729664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIWxe8a0AAnfja.jpg",
+        "width": 1464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072243817919729664"
+          ],
+          "media_source_tweet_id": [
+            "2072243824982970394"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2072260004464496737",
+        "created_at": "2026-07-01T10:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072260004464496737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1761297029677101057",
+              "start": 3,
+              "username": "kokone2722"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jtWNhrweVj",
+              "end": 51,
+              "expanded_url": "https://x.com/kokone2722/status/2072243824982970394/photo/1",
+              "media_key": "3_2072243817919729664",
+              "start": 28,
+              "url": "https://t.co/jtWNhrweVj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072260004464496737",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072243824982970394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kokone2722: the EmperoR https://t.co/jtWNhrweVj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072243817919729664"
+          ]
+        },
+        "author_id": "1761297029677101057",
+        "conversation_id": "2072243824982970394",
+        "created_at": "2026-07-01T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072243824982970394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jtWNhrweVj",
+              "end": 35,
+              "expanded_url": "https://x.com/kokone2722/status/2072243824982970394/photo/1",
+              "media_key": "3_2072243817919729664",
+              "start": 12,
+              "url": "https://t.co/jtWNhrweVj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072243824982970394",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 2120,
+          "like_count": 224,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "the EmperoR https://t.co/jtWNhrweVj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "Dorcus10031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTtCZA"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 1173,
+          "like_count": 32688,
+          "listed_count": 4,
+          "media_count": 717,
+          "tweet_count": 11052
+        },
+        "url": "https://t.co/ApKveTtCZA",
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T07:48:54.000Z",
+        "description": "イラストを描いてます•*¨*•.¸¸✍ Phigros、maimai | 音ゲ垢:@kokonen0818 | 𝕊𝕜𝕖𝕓(二次創作×): https://t.co/YYJPHjDeaz | 変なやつ:@QZwarabi | オリキャラ:#ここねんあーと | Joker推し🃏",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 126,
+                "start": 118,
+                "tag": "ここねんあーと"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "kokonen0818"
+              },
+              {
+                "end": 109,
+                "start": 100,
+                "username": "QZwarabi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kokone2722",
+                "end": 92,
+                "expanded_url": "https://skeb.jp/@kokone2722",
+                "start": 69,
+                "url": "https://t.co/YYJPHjDeaz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kokone2722",
+                "end": 23,
+                "expanded_url": "https://lit.link/kokone2722",
+                "start": 0,
+                "url": "https://t.co/Vy2QF3uzGx"
+              }
+            ]
+          }
+        },
+        "id": "1761297029677101057",
+        "location": "大阪",
+        "name": "kokone✧*｡.*･ﾟskeb募集中",
+        "pinned_tweet_id": "2009929349592694836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072215367553032192/K6w-YgFE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4134,
+          "following_count": 1138,
+          "like_count": 12594,
+          "listed_count": 6,
+          "media_count": 836,
+          "tweet_count": 8821
+        },
+        "url": "https://t.co/Vy2QF3uzGx",
+        "username": "kokone2722",
+        "verified": false
+      }
+    ]
+  }
+}

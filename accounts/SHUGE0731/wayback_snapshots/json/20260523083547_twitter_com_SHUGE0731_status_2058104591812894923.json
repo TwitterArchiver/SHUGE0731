@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052750643966967808"
+      ],
+      "media_source_tweet_id": [
+        "2052750648136052885"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2058104591812894923",
+    "created_at": "2026-05-23T08:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T09:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058104591812894923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2050847027186294784",
+          "start": 3,
+          "username": "Nkud_n"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xBWNjZs4br",
+          "end": 35,
+          "expanded_url": "https://x.com/Nkud_n/status/2052750648136052885/photo/1",
+          "media_key": "3_2052750643966967808",
+          "start": 12,
+          "url": "https://t.co/xBWNjZs4br"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058104591812894923",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 353
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052750648136052885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nkud_n: https://t.co/xBWNjZs4br"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 728,
+        "media_key": "3_2052750643966967808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzV1bIbAAAC27n.jpg",
+        "width": 435
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052750643966967808"
+          ],
+          "media_source_tweet_id": [
+            "2052750648136052885"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2058104591812894923",
+        "created_at": "2026-05-23T08:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058104591812894923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2050847027186294784",
+              "start": 3,
+              "username": "Nkud_n"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xBWNjZs4br",
+              "end": 35,
+              "expanded_url": "https://x.com/Nkud_n/status/2052750648136052885/photo/1",
+              "media_key": "3_2052750643966967808",
+              "start": 12,
+              "url": "https://t.co/xBWNjZs4br"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058104591812894923",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 353
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052750648136052885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nkud_n: https://t.co/xBWNjZs4br"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052750643966967808"
+          ]
+        },
+        "author_id": "2050847027186294784",
+        "conversation_id": "2052750648136052885",
+        "created_at": "2026-05-08T14:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052750648136052885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xBWNjZs4br",
+              "end": 23,
+              "expanded_url": "https://x.com/Nkud_n/status/2052750648136052885/photo/1",
+              "media_key": "3_2052750643966967808",
+              "start": 0,
+              "url": "https://t.co/xBWNjZs4br"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052750648136052885",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 861,
+          "impression_count": 45838,
+          "like_count": 4728,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 353
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xBWNjZs4br"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 1124,
+          "like_count": 29177,
+          "listed_count": 4,
+          "media_count": 674,
+          "tweet_count": 9981
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T07:58:23.000Z",
+        "description": "TwinTail1011",
+        "id": "2050847027186294784",
+        "name": "oduo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050848789716770816/CgCSQsJi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 0,
+          "like_count": 58,
+          "listed_count": 7,
+          "media_count": 10,
+          "tweet_count": 18
+        },
+        "username": "Nkud_n",
+        "verified": false
+      }
+    ]
+  }
+}

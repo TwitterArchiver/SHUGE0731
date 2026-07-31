@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2001287273758023875",
+    "created_at": "2025-12-17T14:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T15:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001293120659730433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1648732578697072640",
+          "start": 0,
+          "username": "Dorcus39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001293120659730433",
+    "in_reply_to_user_id": "1648732578697072640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001287273758023875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dorcus39 肯德基赢了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2001287273758023875",
+        "created_at": "2025-12-17T14:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T15:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001293120659730433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1648732578697072640",
+              "start": 0,
+              "username": "Dorcus39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001293120659730433",
+        "in_reply_to_user_id": "1648732578697072640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001287273758023875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dorcus39 肯德基赢了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648732578697072640",
+        "conversation_id": "2001287273758023875",
+        "created_at": "2025-12-17T13:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001287273758023875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kfc_es/status/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/kfc_es/status/2000906754952192176",
+              "start": 4,
+              "url": "https://t.co/y3RwymRfeD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001287273758023875",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000906754952192176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "干嘛… https://t.co/y3RwymRfeD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 1032,
+          "like_count": 14157,
+          "listed_count": 2,
+          "media_count": 462,
+          "tweet_count": 4362
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T16:57:41.000Z",
+        "description": "我喜欢做一些饮品，拍摄一些好吃的和有意思的东西，欢迎和我交流任何有关饮品/食品制作以及各种有意思的东西，我会很高兴的…",
+        "id": "1648732578697072640",
+        "location": "Beijing",
+        "name": "泥头车",
+        "pinned_tweet_id": "1991456185564950905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997678827800244224/X0c5ZDa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 951,
+          "like_count": 8157,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 1487
+        },
+        "username": "Dorcus39",
+        "verified": false
+      }
+    ]
+  }
+}

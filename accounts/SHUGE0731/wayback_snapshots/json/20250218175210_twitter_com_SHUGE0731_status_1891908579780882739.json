@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1891772220478980098"
+      ],
+      "media_source_tweet_id": [
+        "1891772236756877760"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "1891908579780882739",
+    "created_at": "2025-02-18T17:52:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-18T18:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891908579780882739"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "巳",
+          "probability": 0.5049,
+          "start": 16,
+          "type": "Person"
+        },
+        {
+          "end": 32,
+          "normalized_text": "初音ミク",
+          "probability": 0.6107,
+          "start": 29,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "初音ミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1718562705920147456",
+          "start": 3,
+          "username": "nino_ryk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rbGFHRgbSP",
+          "end": 57,
+          "expanded_url": "https://x.com/nino_ryk/status/1891772236756877760/photo/1",
+          "media_key": "3_1891772220478980098",
+          "start": 34,
+          "url": "https://t.co/rbGFHRgbSP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891908579780882739",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 352
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891772236756877760",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nino_ryk: 「 巳 」\n\n※タップ推奨　#初音ミク https://t.co/rbGFHRgbSP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1891772220478980098",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkDsz72aAAI26Yz.jpg",
+        "width": 1737
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891772220478980098"
+          ],
+          "media_source_tweet_id": [
+            "1891772236756877760"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1891908579780882739",
+        "created_at": "2025-02-18T17:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T18:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891908579780882739"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "巳",
+              "probability": 0.5049,
+              "start": 16,
+              "type": "Person"
+            },
+            {
+              "end": 32,
+              "normalized_text": "初音ミク",
+              "probability": 0.6107,
+              "start": 29,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1718562705920147456",
+              "start": 3,
+              "username": "nino_ryk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rbGFHRgbSP",
+              "end": 57,
+              "expanded_url": "https://x.com/nino_ryk/status/1891772236756877760/photo/1",
+              "media_key": "3_1891772220478980098",
+              "start": 34,
+              "url": "https://t.co/rbGFHRgbSP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891908579780882739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 352
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891772236756877760",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nino_ryk: 「 巳 」\n\n※タップ推奨　#初音ミク https://t.co/rbGFHRgbSP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891772220478980098"
+          ]
+        },
+        "author_id": "1718562705920147456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1891772236756877760",
+        "created_at": "2025-02-18T08:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T09:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891772236756877760"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rbGFHRgbSP",
+              "end": 43,
+              "expanded_url": "https://x.com/nino_ryk/status/1891772236756877760/photo/1",
+              "media_key": "3_1891772220478980098",
+              "start": 20,
+              "url": "https://t.co/rbGFHRgbSP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891772236756877760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 194,
+          "impression_count": 25695,
+          "like_count": 2813,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 352
+        },
+        "reply_settings": "everyone",
+        "text": "「 巳 」\n\n※タップ推奨　#初音ミク https://t.co/rbGFHRgbSP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1889901085336412627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 863,
+          "like_count": 5248,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1149
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-29T09:37:41.000Z",
+        "description": "気まぐれお絵描きアカウント",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nin0",
+                "end": 23,
+                "expanded_url": "https://lit.link/nin0",
+                "start": 0,
+                "url": "https://t.co/spttzDPvPJ"
+              }
+            ]
+          }
+        },
+        "id": "1718562705920147456",
+        "name": "ニのろょこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890543981123276800/XNNAKm8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3691,
+          "following_count": 56,
+          "like_count": 616,
+          "listed_count": 24,
+          "media_count": 108,
+          "tweet_count": 531
+        },
+        "url": "https://t.co/spttzDPvPJ",
+        "username": "nino_ryk",
+        "verified": true
+      }
+    ]
+  }
+}

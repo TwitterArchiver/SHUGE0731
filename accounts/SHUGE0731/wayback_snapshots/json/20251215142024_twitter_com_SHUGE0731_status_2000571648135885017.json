@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000555994158710786"
+      ],
+      "media_source_tweet_id": [
+        "2000556001066704910"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2000571648135885017",
+    "created_at": "2025-12-15T14:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T15:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000571648135885017"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "rei",
+          "probability": 0.5734,
+          "start": 25,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1639819054256107521",
+          "start": 3,
+          "username": "shiej007"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jrSm12aLA5",
+          "end": 52,
+          "expanded_url": "https://x.com/shiej007/status/2000556001066704910/photo/1",
+          "media_key": "3_2000555994158710786",
+          "start": 29,
+          "url": "https://t.co/jrSm12aLA5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000571648135885017",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000556001066704910",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiej007: study with rei https://t.co/jrSm12aLA5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000555994158710786",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8NnE8kbwAI9QAe.jpg",
+        "width": 1368
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000555994158710786"
+          ],
+          "media_source_tweet_id": [
+            "2000556001066704910"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2000571648135885017",
+        "created_at": "2025-12-15T14:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T15:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000571648135885017"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "rei",
+              "probability": 0.5734,
+              "start": 25,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1639819054256107521",
+              "start": 3,
+              "username": "shiej007"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrSm12aLA5",
+              "end": 52,
+              "expanded_url": "https://x.com/shiej007/status/2000556001066704910/photo/1",
+              "media_key": "3_2000555994158710786",
+              "start": 29,
+              "url": "https://t.co/jrSm12aLA5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000571648135885017",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000556001066704910",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shiej007: study with rei https://t.co/jrSm12aLA5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000555994158710786"
+          ]
+        },
+        "author_id": "1639819054256107521",
+        "conversation_id": "2000556001066704910",
+        "created_at": "2025-12-15T13:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T14:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000556001066704910"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "rei",
+              "probability": 0.5015,
+              "start": 11,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrSm12aLA5",
+              "end": 38,
+              "expanded_url": "https://x.com/shiej007/status/2000556001066704910/photo/1",
+              "media_key": "3_2000555994158710786",
+              "start": 15,
+              "url": "https://t.co/jrSm12aLA5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000556001066704910",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 4984,
+          "like_count": 625,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "study with rei https://t.co/jrSm12aLA5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 1026,
+          "like_count": 13946,
+          "listed_count": 2,
+          "media_count": 457,
+          "tweet_count": 4263
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:38:36.000Z",
+        "description": "NO AI🚫 for inquiries: shiej007@gmail.com\nCommissions: https://t.co/BA8nRdVunU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shione.ju.mp/#",
+                "end": 77,
+                "expanded_url": "https://shione.ju.mp/#",
+                "start": 54,
+                "url": "https://t.co/BA8nRdVunU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/shiej007",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/shiej007",
+                "start": 0,
+                "url": "https://t.co/c7faD2X93h"
+              }
+            ]
+          }
+        },
+        "id": "1639819054256107521",
+        "name": "shie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695439605439639552/x80woePX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36038,
+          "following_count": 348,
+          "like_count": 6590,
+          "listed_count": 228,
+          "media_count": 71,
+          "tweet_count": 1315
+        },
+        "url": "https://t.co/c7faD2X93h",
+        "username": "shiej007",
+        "verified": false
+      }
+    ]
+  }
+}

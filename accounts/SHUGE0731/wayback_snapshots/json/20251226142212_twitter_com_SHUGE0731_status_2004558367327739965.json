@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004478696431001600"
+      ],
+      "media_source_tweet_id": [
+        "2004478702906962006"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2004558367327739965",
+    "created_at": "2025-12-26T14:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T15:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004558367327739965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1540932085",
+          "start": 3,
+          "username": "com_shicom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G9fpc1x5L8",
+          "end": 39,
+          "expanded_url": "https://x.com/com_shicom/status/2004478702906962006/photo/1",
+          "media_key": "3_2004478696431001600",
+          "start": 16,
+          "url": "https://t.co/G9fpc1x5L8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004558367327739965",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004478702906962006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @com_shicom: https://t.co/G9fpc1x5L8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004478696431001600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9FWwRSboAAMDud.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004478696431001600"
+          ],
+          "media_source_tweet_id": [
+            "2004478702906962006"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2004558367327739965",
+        "created_at": "2025-12-26T14:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T15:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004558367327739965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1540932085",
+              "start": 3,
+              "username": "com_shicom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G9fpc1x5L8",
+              "end": 39,
+              "expanded_url": "https://x.com/com_shicom/status/2004478702906962006/photo/1",
+              "media_key": "3_2004478696431001600",
+              "start": 16,
+              "url": "https://t.co/G9fpc1x5L8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004558367327739965",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004478702906962006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @com_shicom: https://t.co/G9fpc1x5L8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004478696431001600"
+          ]
+        },
+        "author_id": "1540932085",
+        "conversation_id": "2004478702906962006",
+        "created_at": "2025-12-26T09:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T10:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004478702906962006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G9fpc1x5L8",
+              "end": 23,
+              "expanded_url": "https://x.com/com_shicom/status/2004478702906962006/photo/1",
+              "media_key": "3_2004478696431001600",
+              "start": 0,
+              "url": "https://t.co/G9fpc1x5L8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004478702906962006",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 5950,
+          "like_count": 765,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/G9fpc1x5L8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1008,
+          "like_count": 15626,
+          "listed_count": 3,
+          "media_count": 484,
+          "tweet_count": 5024
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-23T12:52:08.000Z",
+        "description": "絵とか、漫画とか…… 褒めなど→https://t.co/FSvsXStmEs 依頼等はDMまでお願いします",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/com_shicom",
+                "end": 39,
+                "expanded_url": "https://odaibako.net/u/com_shicom",
+                "start": 16,
+                "url": "https://t.co/FSvsXStmEs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/com_shicom",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/com_shicom",
+                "start": 0,
+                "url": "https://t.co/sUJ4Mn38Z3"
+              }
+            ]
+          }
+        },
+        "id": "1540932085",
+        "name": "仕込む",
+        "pinned_tweet_id": "2004171986742948201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991732943635771394/O6fXqCYx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16301,
+          "following_count": 431,
+          "like_count": 20974,
+          "listed_count": 111,
+          "media_count": 2493,
+          "tweet_count": 35134
+        },
+        "url": "https://t.co/sUJ4Mn38Z3",
+        "username": "com_shicom",
+        "verified": false
+      }
+    ]
+  }
+}

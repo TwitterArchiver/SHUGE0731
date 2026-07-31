@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1956301146449920004"
+      ],
+      "media_source_tweet_id": [
+        "1956301172127547730"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1956754949318365326",
+    "created_at": "2025-08-16T16:28:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T17:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956754949318365326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1735192868",
+          "start": 3,
+          "username": "kizu_skip"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4S7DQVZepS",
+          "end": 38,
+          "expanded_url": "https://x.com/kizu_skip/status/1956301172127547730/photo/1",
+          "media_key": "16_1956301146449920004",
+          "start": 15,
+          "url": "https://t.co/4S7DQVZepS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956754949318365326",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1264
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956301172127547730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kizu_skip: https://t.co/4S7DQVZepS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "16_1956301146449920004",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GyYthxvWQAQDZQH.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GyYthxvWQAQDZQH.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1956301146449920004"
+          ],
+          "media_source_tweet_id": [
+            "1956301172127547730"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1956754949318365326",
+        "created_at": "2025-08-16T16:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T17:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956754949318365326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1735192868",
+              "start": 3,
+              "username": "kizu_skip"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4S7DQVZepS",
+              "end": 38,
+              "expanded_url": "https://x.com/kizu_skip/status/1956301172127547730/photo/1",
+              "media_key": "16_1956301146449920004",
+              "start": 15,
+              "url": "https://t.co/4S7DQVZepS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956754949318365326",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1264
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956301172127547730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kizu_skip: https://t.co/4S7DQVZepS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1956301146449920004"
+          ]
+        },
+        "author_id": "1735192868",
+        "conversation_id": "1956301172127547730",
+        "created_at": "2025-08-15T10:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T11:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956301172127547730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4S7DQVZepS",
+              "end": 23,
+              "expanded_url": "https://x.com/kizu_skip/status/1956301172127547730/photo/1",
+              "media_key": "16_1956301146449920004",
+              "start": 0,
+              "url": "https://t.co/4S7DQVZepS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956301172127547730",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1087,
+          "impression_count": 234456,
+          "like_count": 10276,
+          "quote_count": 63,
+          "reply_count": 6,
+          "retweet_count": 1264
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4S7DQVZepS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 976,
+          "like_count": 8679,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 1806
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-06T13:50:16.000Z",
+        "description": "Knight of Artoria Pendragon\n「-----多くの人が笑っていました それは、間違いではないと思います」",
+        "id": "1735192868",
+        "name": "Kizu",
+        "pinned_tweet_id": "1560193822809882626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943399430477975552/P7Eg6_8s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25930,
+          "following_count": 1302,
+          "like_count": 84361,
+          "listed_count": 65,
+          "media_count": 13089,
+          "tweet_count": 66271
+        },
+        "username": "kizu_skip",
+        "verified": false
+      }
+    ]
+  }
+}

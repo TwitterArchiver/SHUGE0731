@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2080657622781645052",
+    "created_at": "2026-07-24T16:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T17:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080687184039018720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1968278731212070912",
+          "start": 0,
+          "username": "xaksohd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080687184039018720",
+    "in_reply_to_user_id": "1968278731212070912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080657622781645052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xaksohd 可爱史莱姆☺️"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2080657622781645052].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2080657622781645052",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2080657622781645052"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2080657622781645052",
+        "created_at": "2026-07-24T16:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080687184039018720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1968278731212070912",
+              "start": 0,
+              "username": "xaksohd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080687184039018720",
+        "in_reply_to_user_id": "1968278731212070912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080657622781645052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xaksohd 可爱史莱姆☺️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno（2024.12.20-2026.7.17）｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Dorcus10031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTtCZA"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964（低浮上）",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 1186,
+          "like_count": 33833,
+          "listed_count": 4,
+          "media_count": 743,
+          "tweet_count": 11483
+        },
+        "url": "https://t.co/ApKveTtCZA",
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T11:40:16.000Z",
+        "description": "日本語○中国語○ 发点废话 高p高p高p重加工 线下查无此人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xaksohd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xaksohd",
+                "start": 0,
+                "url": "https://t.co/VCoKFeC31c"
+              }
+            ]
+          }
+        },
+        "id": "1968278731212070912",
+        "name": "口内炎",
+        "pinned_tweet_id": "2061354206532137060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076654750012248064/479bQTO-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 162,
+          "like_count": 3433,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 1108
+        },
+        "url": "https://t.co/VCoKFeC31c",
+        "username": "xaksohd",
+        "verified": false
+      }
+    ]
+  }
+}

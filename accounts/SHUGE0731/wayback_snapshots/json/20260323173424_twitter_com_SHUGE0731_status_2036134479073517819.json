@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2036117918237499631",
+    "created_at": "2026-03-23T17:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T18:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036134479073517819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801534903626121216",
+          "start": 0,
+          "username": "qngshu988723424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036134479073517819",
+    "in_reply_to_user_id": "1801534903626121216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036117918237499631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qngshu988723424 有点nb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15185,
+        "height": 1280,
+        "media_key": "7_2036117689966673920",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2036117689966673920/pu/img/pCZcqTeUBrcM4gwe.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036117689966673920/pu/vid/avc1/320x568/wCY2aKq17IZ9rw3j.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036117689966673920/pu/vid/avc1/480x852/kGme2agYDzc70QAN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036117689966673920/pu/vid/avc1/720x1280/8X_RKJ3OxmrR6asv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2036117689966673920/pu/pl/Fwk6lSW_JG4WspJz.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2036117918237499631",
+        "created_at": "2026-03-23T17:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T18:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036134479073517819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801534903626121216",
+              "start": 0,
+              "username": "qngshu988723424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036134479073517819",
+        "in_reply_to_user_id": "1801534903626121216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036117918237499631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qngshu988723424 有点nb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2036117689966673920"
+          ]
+        },
+        "author_id": "1801534903626121216",
+        "conversation_id": "2036117918237499631",
+        "created_at": "2026-03-23T16:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T17:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036117918237499631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zzGyZzBXU4",
+              "end": 46,
+              "expanded_url": "https://x.com/qngshu988723424/status/2036117918237499631/video/1",
+              "media_key": "7_2036117689966673920",
+              "start": 23,
+              "url": "https://t.co/zzGyZzBXU4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036117918237499631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "楼下有个人一直在反复跨栏我一直看他夸了46个 https://t.co/zzGyZzBXU4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 1018,
+          "like_count": 24455,
+          "listed_count": 3,
+          "media_count": 602,
+          "tweet_count": 8542
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T08:39:35.000Z",
+        "description": "enby/和鸟每天抢吃的，然后就是吧我现在打算那个，我认真写一下简介吧但是呢，我l呃呃就是我困了，谢谢你们祝你们身体健康",
+        "id": "1801534903626121216",
+        "location": "鸟笼",
+        "name": "rotaka",
+        "pinned_tweet_id": "1940443442192298200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017539398498455559/yoqs9-Hg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 592,
+          "like_count": 7123,
+          "listed_count": 1,
+          "media_count": 623,
+          "tweet_count": 6863
+        },
+        "username": "qngshu988723424",
+        "verified": false
+      }
+    ]
+  }
+}

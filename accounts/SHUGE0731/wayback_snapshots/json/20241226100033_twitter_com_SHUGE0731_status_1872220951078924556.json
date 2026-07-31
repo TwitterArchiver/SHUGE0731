@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1871926489639211008"
+      ],
+      "media_source_tweet_id": [
+        "1871926546128105699"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1872220951078924556",
+    "created_at": "2024-12-26T10:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T11:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872220951078924556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664040280138436620",
+          "start": 3,
+          "username": "ContextBirds"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tIrKwc8Oad",
+          "end": 41,
+          "expanded_url": "https://x.com/ContextBirds/status/1871926546128105699/video/1",
+          "media_key": "13_1871926489639211008",
+          "start": 18,
+          "url": "https://t.co/tIrKwc8Oad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872220951078924556",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 638
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871926546128105699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ContextBirds: https://t.co/tIrKwc8Oad"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5383,
+        "height": 550,
+        "media_key": "13_1871926489639211008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1871926489639211008/img/U3QABTkeHFvvZmPd.jpg",
+        "public_metrics": {
+          "view_count": 20115
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1871926489639211008/vid/avc1/282x270/tYTA4t31dv5GLngc.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1871926489639211008/vid/avc1/376x360/QLxZvZFO5jJDvNIA.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1871926489639211008/vid/avc1/576x550/odf8Ne5fcCZEtvs5.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1871926489639211008/pl/MRxgHnCQ17DIRkxi.m3u8?tag=16"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1871926489639211008"
+          ],
+          "media_source_tweet_id": [
+            "1871926546128105699"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1872220951078924556",
+        "created_at": "2024-12-26T10:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T11:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872220951078924556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664040280138436620",
+              "start": 3,
+              "username": "ContextBirds"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tIrKwc8Oad",
+              "end": 41,
+              "expanded_url": "https://x.com/ContextBirds/status/1871926546128105699/video/1",
+              "media_key": "13_1871926489639211008",
+              "start": 18,
+              "url": "https://t.co/tIrKwc8Oad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872220951078924556",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 638
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871926546128105699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ContextBirds: https://t.co/tIrKwc8Oad"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1871926489639211008"
+          ]
+        },
+        "author_id": "1664040280138436620",
+        "conversation_id": "1871926546128105699",
+        "created_at": "2024-12-25T14:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T15:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871926546128105699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tIrKwc8Oad",
+              "end": 23,
+              "expanded_url": "https://x.com/ContextBirds/status/1871926546128105699/video/1",
+              "media_key": "13_1871926489639211008",
+              "start": 0,
+              "url": "https://t.co/tIrKwc8Oad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871926546128105699",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 462,
+          "impression_count": 65044,
+          "like_count": 3104,
+          "quote_count": 34,
+          "reply_count": 13,
+          "retweet_count": 638
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tIrKwc8Oad"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1863243605252690301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 796,
+          "like_count": 4255,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 871
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-31T22:45:04.000Z",
+        "description": "Follow for daily birds content",
+        "id": "1664040280138436620",
+        "location": "Turn on notifs 🔔",
+        "name": "Out of Context Birds",
+        "pinned_tweet_id": "1684203293474447365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681788053344403456/E9n1y4v6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78987,
+          "following_count": 70,
+          "like_count": 2794,
+          "listed_count": 230,
+          "media_count": 1431,
+          "tweet_count": 1629
+        },
+        "username": "ContextBirds",
+        "verified": true
+      }
+    ]
+  }
+}

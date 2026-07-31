@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009846613406007296"
+      ],
+      "media_source_tweet_id": [
+        "2009846619773001774"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2010164404210544730",
+    "created_at": "2026-01-11T01:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T02:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010164404210544730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "751205776593547264",
+          "start": 3,
+          "username": "AzKiN_G"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cr58fWqXd6",
+          "end": 36,
+          "expanded_url": "https://x.com/AzKiN_G/status/2009846619773001774/photo/1",
+          "media_key": "3_2009846613406007296",
+          "start": 13,
+          "url": "https://t.co/cr58fWqXd6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010164404210544730",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 644
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009846619773001774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AzKiN_G: https://t.co/cr58fWqXd6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009846613406007296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Ro2KUWQAAyjfC.jpg",
+        "width": 1630
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009846613406007296"
+          ],
+          "media_source_tweet_id": [
+            "2009846619773001774"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2010164404210544730",
+        "created_at": "2026-01-11T01:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T02:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010164404210544730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "751205776593547264",
+              "start": 3,
+              "username": "AzKiN_G"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cr58fWqXd6",
+              "end": 36,
+              "expanded_url": "https://x.com/AzKiN_G/status/2009846619773001774/photo/1",
+              "media_key": "3_2009846613406007296",
+              "start": 13,
+              "url": "https://t.co/cr58fWqXd6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010164404210544730",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 644
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009846619773001774",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AzKiN_G: https://t.co/cr58fWqXd6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009846613406007296"
+          ]
+        },
+        "author_id": "751205776593547264",
+        "conversation_id": "2009846619773001774",
+        "created_at": "2026-01-10T04:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T05:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009846619773001774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cr58fWqXd6",
+              "end": 23,
+              "expanded_url": "https://x.com/AzKiN_G/status/2009846619773001774/photo/1",
+              "media_key": "3_2009846613406007296",
+              "start": 0,
+              "url": "https://t.co/cr58fWqXd6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009846619773001774",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 295,
+          "impression_count": 42907,
+          "like_count": 3814,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 644
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cr58fWqXd6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 997,
+          "like_count": 17819,
+          "listed_count": 3,
+          "media_count": 519,
+          "tweet_count": 6134
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-08T00:06:28.000Z",
+        "description": "=Az | hobby fanartist | RT anything i like | mostly umamusume ☕️&🍸 | some miserable human spirit *Busy*… FUB free",
+        "id": "751205776593547264",
+        "location": "my love is heartfelt tho",
+        "name": "Azteroid#4001",
+        "pinned_tweet_id": "2002614791018631493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002162019827351552/T2Yfxqiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 594,
+          "like_count": 18304,
+          "listed_count": 22,
+          "media_count": 101,
+          "tweet_count": 4087
+        },
+        "username": "AzKiN_G",
+        "verified": false
+      }
+    ]
+  }
+}

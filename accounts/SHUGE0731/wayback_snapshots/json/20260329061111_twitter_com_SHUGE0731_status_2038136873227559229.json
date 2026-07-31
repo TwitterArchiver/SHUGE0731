@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2037818756823715902",
+    "created_at": "2026-03-29T06:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T07:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038136873227559229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2033844837787795456",
+          "start": 0,
+          "username": "Swiss114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038136873227559229",
+    "in_reply_to_user_id": "2033844837787795456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037905579671536013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Swiss114514 谢谢！马上回！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2037818756823715902",
+        "created_at": "2026-03-29T06:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T07:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038136873227559229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2033844837787795456",
+              "start": 0,
+              "username": "Swiss114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038136873227559229",
+        "in_reply_to_user_id": "2033844837787795456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037905579671536013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Swiss114514 谢谢！马上回！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033844837787795456",
+        "conversation_id": "2037818756823715902",
+        "created_at": "2026-03-28T14:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T15:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037905579671536013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037905579671536013",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037818756823715902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 fo你啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 1019,
+          "like_count": 24879,
+          "listed_count": 3,
+          "media_count": 607,
+          "tweet_count": 8664
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-17T09:56:22.000Z",
+        "description": "yaha~",
+        "id": "2033844837787795456",
+        "location": "Istanbul",
+        "name": "Swiss",
+        "pinned_tweet_id": "2034207813816521086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033936881138995206/kcdc9QS8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 266,
+          "like_count": 886,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 219
+        },
+        "username": "Swiss114514",
+        "verified": false
+      }
+    ]
+  }
+}

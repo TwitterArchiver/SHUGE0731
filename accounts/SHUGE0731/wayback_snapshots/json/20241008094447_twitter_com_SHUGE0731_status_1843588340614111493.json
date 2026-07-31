@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1843547156172681706",
+    "created_at": "2024-10-08T09:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-08T10:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843588340614111493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1833311751947096064",
+          "start": 0,
+          "username": "_YanamiAnna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843588340614111493",
+    "in_reply_to_user_id": "1833311751947096064",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843583030109319195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_YanamiAnna 其实还行 新开的网吧没多少人 椅子能放倒😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1843547156172681706",
+        "created_at": "2024-10-08T09:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T10:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843588340614111493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1833311751947096064",
+              "start": 0,
+              "username": "_YanamiAnna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843588340614111493",
+        "in_reply_to_user_id": "1833311751947096064",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843583030109319195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_YanamiAnna 其实还行 新开的网吧没多少人 椅子能放倒😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833311751947096064",
+        "conversation_id": "1843547156172681706",
+        "created_at": "2024-10-08T09:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T10:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843583030109319195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843583030109319195",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843547156172681706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 在网吧能睡着吗😶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 630,
+          "like_count": 2125,
+          "listed_count": 0,
+          "tweet_count": 362
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-10T01:09:28.000Z",
+        "description": "IN GOD WE TRUST",
+        "id": "1833311751947096064",
+        "name": "Yanami",
+        "pinned_tweet_id": "1837661845135806558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842417228257579008/AgxwWRh6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 140,
+          "like_count": 324,
+          "listed_count": 0,
+          "tweet_count": 141
+        },
+        "username": "_YanamiAnna",
+        "verified": false
+      }
+    ]
+  }
+}

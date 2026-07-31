@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2004755531508953088"
+      ],
+      "media_source_tweet_id": [
+        "2004755652993028408"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2004787742862172462",
+    "created_at": "2025-12-27T05:33:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T06:33:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004787742862172462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1166904671912517632",
+          "start": 3,
+          "username": "Wmega_U"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qPfIRhHG67",
+          "end": 36,
+          "expanded_url": "https://x.com/Wmega_U/status/2004755652993028408/video/1",
+          "media_key": "13_2004755531508953088",
+          "start": 13,
+          "url": "https://t.co/qPfIRhHG67"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004787742862172462",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1451
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004755652993028408",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wmega_U: https://t.co/qPfIRhHG67"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5077,
+        "height": 1200,
+        "media_key": "13_2004755531508953088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2004755531508953088/img/76LQMAhsbPNle5IY.jpg",
+        "public_metrics": {
+          "view_count": 30426
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004755531508953088/vid/avc1/320x320/iKy4rt6D_YtYpr4C.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004755531508953088/vid/avc1/540x540/xwGKPiLsuH3cBFMA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004755531508953088/vid/avc1/720x720/nunoBn8KuqHD_Ipw.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2004755531508953088/pl/Nvn9uoM4AxYWk1aV.m3u8?tag=14"
+          }
+        ],
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2004755531508953088"
+          ],
+          "media_source_tweet_id": [
+            "2004755652993028408"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2004787742862172462",
+        "created_at": "2025-12-27T05:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004787742862172462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1166904671912517632",
+              "start": 3,
+              "username": "Wmega_U"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qPfIRhHG67",
+              "end": 36,
+              "expanded_url": "https://x.com/Wmega_U/status/2004755652993028408/video/1",
+              "media_key": "13_2004755531508953088",
+              "start": 13,
+              "url": "https://t.co/qPfIRhHG67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004787742862172462",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1451
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004755652993028408",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wmega_U: https://t.co/qPfIRhHG67"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2004755531508953088"
+          ]
+        },
+        "author_id": "1166904671912517632",
+        "conversation_id": "2004755652993028408",
+        "created_at": "2025-12-27T03:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T04:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004755652993028408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qPfIRhHG67",
+              "end": 23,
+              "expanded_url": "https://x.com/Wmega_U/status/2004755652993028408/video/1",
+              "media_key": "13_2004755531508953088",
+              "start": 0,
+              "url": "https://t.co/qPfIRhHG67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004755652993028408",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2092,
+          "impression_count": 68184,
+          "like_count": 10832,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1451
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qPfIRhHG67"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1011,
+          "like_count": 15787,
+          "listed_count": 3,
+          "media_count": 488,
+          "tweet_count": 5118
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-29T02:45:44.000Z",
+        "description": "Art",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Wmega_U",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@Wmega_U",
+                "start": 0,
+                "url": "https://t.co/HoxZPwtQ43"
+              }
+            ]
+          }
+        },
+        "id": "1166904671912517632",
+        "name": "Wmega U",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1286273740079353857/VrN_Hqs-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17778,
+          "following_count": 122,
+          "like_count": 14484,
+          "listed_count": 29,
+          "media_count": 106,
+          "tweet_count": 6726
+        },
+        "url": "https://t.co/HoxZPwtQ43",
+        "username": "Wmega_U",
+        "verified": false
+      }
+    ]
+  }
+}

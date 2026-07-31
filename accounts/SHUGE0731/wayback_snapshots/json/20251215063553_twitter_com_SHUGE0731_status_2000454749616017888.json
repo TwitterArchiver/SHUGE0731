@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000177860728754181"
+      ],
+      "media_source_tweet_id": [
+        "2000177865439207899"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2000454749616017888",
+    "created_at": "2025-12-15T06:35:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T07:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000454749616017888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1954332767577088001",
+          "start": 3,
+          "username": "RezeBang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ub2IXAKmOt",
+          "end": 37,
+          "expanded_url": "https://x.com/RezeBang/status/2000177865439207899/photo/1",
+          "media_key": "3_2000177860728754181",
+          "start": 14,
+          "url": "https://t.co/Ub2IXAKmOt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000454749616017888",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2227
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000177865439207899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RezeBang: https://t.co/Ub2IXAKmOt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 970,
+        "media_key": "3_2000177860728754181",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8IPKrxWkAUWeHu.jpg",
+        "width": 879
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000177860728754181"
+          ],
+          "media_source_tweet_id": [
+            "2000177865439207899"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2000454749616017888",
+        "created_at": "2025-12-15T06:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T07:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000454749616017888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1954332767577088001",
+              "start": 3,
+              "username": "RezeBang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ub2IXAKmOt",
+              "end": 37,
+              "expanded_url": "https://x.com/RezeBang/status/2000177865439207899/photo/1",
+              "media_key": "3_2000177860728754181",
+              "start": 14,
+              "url": "https://t.co/Ub2IXAKmOt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000454749616017888",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2227
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000177865439207899",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RezeBang: https://t.co/Ub2IXAKmOt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000177860728754181"
+          ]
+        },
+        "author_id": "1954332767577088001",
+        "conversation_id": "2000177865439207899",
+        "created_at": "2025-12-14T12:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T13:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000177865439207899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ub2IXAKmOt",
+              "end": 23,
+              "expanded_url": "https://x.com/RezeBang/status/2000177865439207899/photo/1",
+              "media_key": "3_2000177860728754181",
+              "start": 0,
+              "url": "https://t.co/Ub2IXAKmOt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000177865439207899",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2272,
+          "impression_count": 225200,
+          "like_count": 34322,
+          "quote_count": 18,
+          "reply_count": 6,
+          "retweet_count": 2227
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ub2IXAKmOt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 1023,
+          "like_count": 13873,
+          "listed_count": 2,
+          "media_count": 453,
+          "tweet_count": 4229
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T00:03:44.000Z",
+        "description": "CSM manga reader | I love Reze and post stuff about her. (Fujimoto, bring her back)",
+        "id": "1954332767577088001",
+        "location": "In Reze’s arms",
+        "name": "Reze",
+        "pinned_tweet_id": "1989644065101775112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996153684095279104/HV0EAgtz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4679,
+          "following_count": 3,
+          "like_count": 1370,
+          "listed_count": 6,
+          "media_count": 135,
+          "tweet_count": 520
+        },
+        "username": "RezeBang",
+        "verified": false
+      }
+    ]
+  }
+}

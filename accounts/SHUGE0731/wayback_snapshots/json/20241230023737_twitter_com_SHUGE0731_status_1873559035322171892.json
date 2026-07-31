@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1873451739493564503",
+    "created_at": "2024-12-30T02:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T03:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873559035322171892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1833311751947096064",
+          "start": 0,
+          "username": "_YanamiAnna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873559035322171892",
+    "in_reply_to_user_id": "1833311751947096064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873451739493564503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_YanamiAnna 太辛苦了 赶快休息吧😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1873451739493564503",
+        "created_at": "2024-12-30T02:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T03:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873559035322171892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1833311751947096064",
+              "start": 0,
+              "username": "_YanamiAnna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873559035322171892",
+        "in_reply_to_user_id": "1833311751947096064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873451739493564503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_YanamiAnna 太辛苦了 赶快休息吧😿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873451731100844032"
+          ]
+        },
+        "author_id": "1833311751947096064",
+        "conversation_id": "1873451739493564503",
+        "created_at": "2024-12-29T19:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T20:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873451739493564503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ppnVqwYPA",
+              "end": 61,
+              "expanded_url": "https://x.com/_YanamiAnna/status/1873451739493564503/photo/1",
+              "media_key": "3_1873451731100844032",
+              "start": 38,
+              "url": "https://t.co/0ppnVqwYPA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873451739493564503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大凌晨的暂停复习，我想了半天人的左手和右手有什么区别😇为什么左手只能握右手 https://t.co/0ppnVqwYPA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1863243605252690301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 809,
+          "like_count": 4366,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 900
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-10T01:09:28.000Z",
+        "description": "IN GOD WE TRUST",
+        "id": "1833311751947096064",
+        "name": "Yanami",
+        "pinned_tweet_id": "1853825766796226685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842417228257579008/AgxwWRh6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 285,
+          "like_count": 1155,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 415
+        },
+        "username": "_YanamiAnna",
+        "verified": false
+      }
+    ]
+  }
+}

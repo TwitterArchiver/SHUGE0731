@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1842645120572604416"
+      ],
+      "media_source_tweet_id": [
+        "1842645161911669001"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1842923869231055007",
+    "created_at": "2024-10-06T13:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T14:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842923869231055007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2574870223",
+          "start": 3,
+          "username": "YuiDeArgentina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZGExyzYbJB",
+          "end": 43,
+          "expanded_url": "https://x.com/YuiDeArgentina/status/1842645161911669001/video/1",
+          "media_key": "7_1842645120572604416",
+          "start": 20,
+          "url": "https://t.co/ZGExyzYbJB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842923869231055007",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 916
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842645161911669001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuiDeArgentina: https://t.co/ZGExyzYbJB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11582,
+        "height": 720,
+        "media_key": "7_1842645120572604416",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1842645120572604416/pu/img/nAFtwIYvgW_CwjrF.jpg",
+        "public_metrics": {
+          "view_count": 253577
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1842645120572604416/pu/vid/avc1/320x320/5klxFp4Du3AHgDz-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1842645120572604416/pu/vid/avc1/540x540/4r7r0Gg1YPfazG05.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1842645120572604416/pu/vid/avc1/720x720/SgzsESJH5OtqMxpF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1842645120572604416/pu/pl/WZ_q7RpoRBm4WQbv.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1842645120572604416"
+          ],
+          "media_source_tweet_id": [
+            "1842645161911669001"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1842923869231055007",
+        "created_at": "2024-10-06T13:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T14:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842923869231055007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2574870223",
+              "start": 3,
+              "username": "YuiDeArgentina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZGExyzYbJB",
+              "end": 43,
+              "expanded_url": "https://x.com/YuiDeArgentina/status/1842645161911669001/video/1",
+              "media_key": "7_1842645120572604416",
+              "start": 20,
+              "url": "https://t.co/ZGExyzYbJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842923869231055007",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 916
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842645161911669001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuiDeArgentina: https://t.co/ZGExyzYbJB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1842645120572604416"
+          ]
+        },
+        "author_id": "2574870223",
+        "conversation_id": "1842645161911669001",
+        "created_at": "2024-10-05T19:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T20:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842645161911669001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZGExyzYbJB",
+              "end": 23,
+              "expanded_url": "https://x.com/YuiDeArgentina/status/1842645161911669001/video/1",
+              "media_key": "7_1842645120572604416",
+              "start": 0,
+              "url": "https://t.co/ZGExyzYbJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842645161911669001",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 838,
+          "impression_count": 467204,
+          "like_count": 6919,
+          "quote_count": 31,
+          "reply_count": 12,
+          "retweet_count": 916
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZGExyzYbJB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 623,
+          "like_count": 2102,
+          "listed_count": 0,
+          "tweet_count": 353
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-18T13:25:33.000Z",
+        "description": "Comparto memes robados de ig y cosas racistas ## Mi mayor logro es hacer waifus con inteligencia artificial ## Software Developer & Miku Enjoyer",
+        "id": "2574870223",
+        "location": "Argentina, Santa Fe",
+        "name": "Yui de Argentina del 55.6% 🇦🇷",
+        "pinned_tweet_id": "1826389411770364311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707006752875524096/OeP7iKzC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1954,
+          "following_count": 955,
+          "like_count": 38556,
+          "listed_count": 10,
+          "tweet_count": 20726
+        },
+        "username": "YuiDeArgentina",
+        "verified": false
+      }
+    ]
+  }
+}

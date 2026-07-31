@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1909558241388118109",
+    "created_at": "2025-04-08T10:45:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T11:45:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909558241388118109"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xgofficial_/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/xgofficial_/status/1909169283835564296",
+          "start": 21,
+          "url": "https://t.co/haMILfkzvM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909558241388118109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909169283835564296",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只要你的mv别用ai 那真的是主人级别了 https://t.co/haMILfkzvM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2500,
+        "media_key": "3_1909109731840663552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn6FL6uaoAATrWM.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1909558241388118109",
+        "created_at": "2025-04-08T10:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T11:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909558241388118109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xgofficial_/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/xgofficial_/status/1909169283835564296",
+              "start": 21,
+              "url": "https://t.co/haMILfkzvM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909558241388118109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909169283835564296",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只要你的mv别用ai 那真的是主人级别了 https://t.co/haMILfkzvM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909109731840663552"
+          ]
+        },
+        "author_id": "1448636764722118659",
+        "conversation_id": "1909169283835564296",
+        "created_at": "2025-04-07T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909169283835564296"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "XG\nIN THE RAIN",
+              "probability": 0.7834,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 44,
+              "normalized_text": "IN THE RAIN",
+              "probability": 0.9572,
+              "start": 34,
+              "type": "Other"
+            },
+            {
+              "end": 59,
+              "normalized_text": "IN THE RAIN",
+              "probability": 0.9417,
+              "start": 49,
+              "type": "Other"
+            },
+            {
+              "end": 65,
+              "normalized_text": "XDM",
+              "probability": 0.5286,
+              "start": 63,
+              "type": "Other"
+            },
+            {
+              "end": 80,
+              "normalized_text": "IN THE RAIN",
+              "probability": 0.9396,
+              "start": 70,
+              "type": "Other"
+            },
+            {
+              "end": 144,
+              "normalized_text": "XG",
+              "probability": 0.4101,
+              "start": 143,
+              "type": "Other"
+            },
+            {
+              "end": 169,
+              "normalized_text": "XG_INTHERAIN",
+              "probability": 0.4408,
+              "start": 158,
+              "type": "Other"
+            },
+            {
+              "end": 176,
+              "normalized_text": "XGALX",
+              "probability": 0.6088,
+              "start": 172,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "XG"
+            },
+            {
+              "end": 156,
+              "start": 146,
+              "tag": "INTHERAIN"
+            },
+            {
+              "end": 170,
+              "start": 157,
+              "tag": "XG_INTHERAIN"
+            },
+            {
+              "end": 177,
+              "start": 171,
+              "tag": "XGALX"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Listen to content by XG.",
+              "display_url": "XG.lnk.to/INTHERAIN_pre",
+              "end": 140,
+              "expanded_url": "https://XG.lnk.to/INTHERAIN_pre",
+              "images": [
+                {
+                  "height": 220,
+                  "url": "https://pbs.twimg.com/news_img/1909325872219172864/vYqjYrVJ?format=jpg&name=orig",
+                  "width": 440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1909325872219172864/vYqjYrVJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 117,
+              "status": 200,
+              "title": "XG / IN THE RAIN",
+              "unwound_url": "https://XG.lnk.to/INTHERAIN_pre",
+              "url": "https://t.co/14PrEGwLLZ"
+            },
+            {
+              "display_url": "pic.x.com/mtHCgSs1Gp",
+              "end": 201,
+              "expanded_url": "https://x.com/XGOfficial_/status/1909169283835564296/photo/1",
+              "media_key": "3_1909109731840663552",
+              "start": 178,
+              "url": "https://t.co/mtHCgSs1Gp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909169283835564296",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 314,
+          "impression_count": 472389,
+          "like_count": 13466,
+          "quote_count": 947,
+          "reply_count": 112,
+          "retweet_count": 2893
+        },
+        "reply_settings": "everyone",
+        "text": "XG\nIN THE RAIN\n2025.04.11 FRI\n\n1. IN THE RAIN\n2. IN THE RAIN x XDM\n3. IN THE RAIN (Instrumental)\n\nPre-save/Pre-add \n🎧https://t.co/14PrEGwLLZ\n\n#XG #INTHERAIN\n#XG_INTHERAIN\n#XGALX https://t.co/mtHCgSs1Gp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 905,
+          "like_count": 6306,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 1379
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-14T13:09:43.000Z",
+        "description": "XG\nIN THE RAIN\n2025.04.11 FRI\n🎧https://t.co/YwOhe2uXBu\n\n#XG #XGALX",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 59,
+                "start": 56,
+                "tag": "XG"
+              },
+              {
+                "end": 66,
+                "start": 60,
+                "tag": "XGALX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "XG.lnk.to/INTHERAIN_pre",
+                "end": 54,
+                "expanded_url": "https://XG.lnk.to/INTHERAIN_pre",
+                "start": 31,
+                "url": "https://t.co/YwOhe2uXBu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xgalx.com",
+                "end": 23,
+                "expanded_url": "https://xgalx.com",
+                "start": 0,
+                "url": "https://t.co/cAIjiAXZbf"
+              }
+            ]
+          }
+        },
+        "id": "1448636764722118659",
+        "name": "XG OFFICIAL",
+        "pinned_tweet_id": "1909169283835564296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897663509040906240/gu0yaoZ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488111,
+          "following_count": 2,
+          "like_count": 9,
+          "listed_count": 1214,
+          "media_count": 2177,
+          "tweet_count": 3363
+        },
+        "url": "https://t.co/cAIjiAXZbf",
+        "username": "XGOfficial_",
+        "verified": true
+      }
+    ]
+  }
+}

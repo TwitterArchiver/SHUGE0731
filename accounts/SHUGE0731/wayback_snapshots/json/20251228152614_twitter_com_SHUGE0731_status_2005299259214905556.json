@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2005196945250455730",
+    "created_at": "2025-12-28T15:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T16:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005299259214905556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1561899756267380737",
+          "start": 0,
+          "username": "aaaaaaanzi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005299259214905556",
+    "in_reply_to_user_id": "1561899756267380737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005296938749710721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaaaaaanzi1 对！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2005196945250455730",
+        "created_at": "2025-12-28T15:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T16:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005299259214905556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1561899756267380737",
+              "start": 0,
+              "username": "aaaaaaanzi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005299259214905556",
+        "in_reply_to_user_id": "1561899756267380737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005296938749710721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaaaaaanzi1 对！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561899756267380737",
+        "conversation_id": "2005196945250455730",
+        "created_at": "2025-12-28T15:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T16:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005296938749710721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005296938749710721",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005196945250455730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 你一定没有回吧，对吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 990,
+          "like_count": 16154,
+          "listed_count": 3,
+          "media_count": 495,
+          "tweet_count": 5288
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-23T02:15:21.000Z",
+        "description": "",
+        "id": "1561899756267380737",
+        "name": "布洛芬狐",
+        "pinned_tweet_id": "1607229917334474752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1562493547819012096/l1h7zYkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 24,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 405
+        },
+        "username": "aaaaaaanzi1",
+        "verified": false
+      }
+    ]
+  }
+}

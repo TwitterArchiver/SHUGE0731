@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1991015988054437888"
+      ],
+      "media_source_tweet_id": [
+        "1991017378441015595"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1991077824401125880",
+    "created_at": "2025-11-19T09:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T10:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991077824401125880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1641711158",
+          "start": 3,
+          "username": "niliuchahui"
+        }
+      ],
+      "urls": [
+        {
+          "description": "A fully animated and voiced sister life-sim with roguelite runs. Find a cure for Mio’s illness. Share meals and quiet nights at home, then enter the Abyss each day to fight, loot, and push deeper to protect your simple life together.",
+          "display_url": "store.steampowered.com/app/3238940/?u…",
+          "end": 40,
+          "expanded_url": "https://store.steampowered.com/app/3238940/?utm_source=twitter&utm_medium=NLCH",
+          "images": [
+            {
+              "height": 353,
+              "url": "https://pbs.twimg.com/news_img/1991066344649900032/e9-co8Jo?format=jpg&name=orig",
+              "width": 616
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1991066344649900032/e9-co8Jo?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 17,
+          "status": 200,
+          "title": "A Simple Life with My Unobtrusive Sister on Steam",
+          "unwound_url": "https://store.steampowered.com/app/3238940/?utm_source=twitter&utm_medium=NLCH",
+          "url": "https://t.co/39DnHUJOj0"
+        },
+        {
+          "display_url": "pic.x.com/dZlmGBv89X",
+          "end": 96,
+          "expanded_url": "https://x.com/niliuchahui/status/1991017378441015595/photo/1",
+          "media_key": "16_1991015988054437888",
+          "start": 73,
+          "url": "https://t.co/dZlmGBv89X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991077824401125880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 284
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991017378441015595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @niliuchahui: https://t.co/39DnHUJOj0\n逆流茶会制作的原创游戏登陆steam啦！快加入愿望单支持茶会吧 https://t.co/dZlmGBv89X"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1991077824401125880].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1991077824401125880",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1991077824401125880"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "16_1991015988054437888",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G6GCfgYbsAAaSef.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G6GCfgYbsAAaSef.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1991015988054437888"
+          ]
+        },
+        "author_id": "1641711158",
+        "conversation_id": "1991017378441015595",
+        "created_at": "2025-11-19T05:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T06:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991017378441015595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "A fully animated and voiced sister life-sim with roguelite runs. Find a cure for Mio’s illness. Share meals and quiet nights at home, then enter the Abyss each day to fight, loot, and push deeper to protect your simple life together.",
+              "display_url": "store.steampowered.com/app/3238940/?u…",
+              "end": 23,
+              "expanded_url": "https://store.steampowered.com/app/3238940/?utm_source=twitter&utm_medium=NLCH",
+              "images": [
+                {
+                  "height": 353,
+                  "url": "https://pbs.twimg.com/news_img/1991066344649900032/e9-co8Jo?format=jpg&name=orig",
+                  "width": 616
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1991066344649900032/e9-co8Jo?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "A Simple Life with My Unobtrusive Sister on Steam",
+              "unwound_url": "https://store.steampowered.com/app/3238940/?utm_source=twitter&utm_medium=NLCH",
+              "url": "https://t.co/39DnHUJOj0"
+            },
+            {
+              "display_url": "pic.x.com/dZlmGBv89X",
+              "end": 79,
+              "expanded_url": "https://x.com/niliuchahui/status/1991017378441015595/photo/1",
+              "media_key": "16_1991015988054437888",
+              "start": 56,
+              "url": "https://t.co/dZlmGBv89X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991017378441015595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1776,
+          "impression_count": 96768,
+          "like_count": 4630,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 284
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/39DnHUJOj0\n逆流茶会制作的原创游戏登陆steam啦！快加入愿望单支持茶会吧 https://t.co/dZlmGBv89X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 1051,
+          "like_count": 11550,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 3023
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-03T01:05:28.000Z",
+        "description": "Original illustrator group create cute&ecchi waifus\n◈patreon→https://t.co/cB85PtQvn4\n◈fanbox→https://t.co/pb3BQ6iYdQ \n◈My game→https://t.co/6xNjZWc8R9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/nlch",
+                "end": 84,
+                "expanded_url": "http://patreon.com/nlch",
+                "start": 61,
+                "url": "https://t.co/cB85PtQvn4"
+              },
+              {
+                "display_url": "nlch.fanbox.cc",
+                "end": 116,
+                "expanded_url": "http://nlch.fanbox.cc",
+                "start": 93,
+                "url": "https://t.co/pb3BQ6iYdQ"
+              },
+              {
+                "display_url": "nlch.itch.io/sister",
+                "end": 150,
+                "expanded_url": "https://nlch.itch.io/sister",
+                "start": 127,
+                "url": "https://t.co/6xNjZWc8R9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ci-en.dlsite.com/creator/24375",
+                "end": 23,
+                "expanded_url": "https://ci-en.dlsite.com/creator/24375",
+                "start": 0,
+                "url": "https://t.co/KTGWy5yhjs"
+              }
+            ]
+          }
+        },
+        "id": "1641711158",
+        "location": "Singapore",
+        "name": "逆流茶会",
+        "pinned_tweet_id": "1637644105617637378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1174143597429444608/FjrV1ZYH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853577,
+          "following_count": 2203,
+          "like_count": 8323,
+          "listed_count": 4000,
+          "media_count": 926,
+          "tweet_count": 24749
+        },
+        "url": "https://t.co/KTGWy5yhjs",
+        "username": "niliuchahui",
+        "verified": true
+      }
+    ]
+  }
+}

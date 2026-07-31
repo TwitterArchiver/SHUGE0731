@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987323405948100612"
+      ],
+      "media_source_tweet_id": [
+        "1987323513750102276"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1987351592727642280",
+    "created_at": "2025-11-09T02:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T03:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987351592727642280"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "Skeb"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "56386501",
+          "start": 3,
+          "username": "coroxpiyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5ksuNQrfHk",
+          "end": 46,
+          "expanded_url": "https://x.com/coroxpiyo/status/1987323513750102276/photo/1",
+          "media_key": "3_1987323405948100612",
+          "start": 23,
+          "url": "https://t.co/5ksuNQrfHk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987351592727642280",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987323513750102276",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @coroxpiyo: 💛 #Skeb https://t.co/5ksuNQrfHk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1987323405948100612",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5RkG8FbIAQdRto.png",
+        "width": 566
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987323405948100612"
+          ],
+          "media_source_tweet_id": [
+            "1987323513750102276"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1987351592727642280",
+        "created_at": "2025-11-09T02:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T03:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987351592727642280"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "Skeb"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "56386501",
+              "start": 3,
+              "username": "coroxpiyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ksuNQrfHk",
+              "end": 46,
+              "expanded_url": "https://x.com/coroxpiyo/status/1987323513750102276/photo/1",
+              "media_key": "3_1987323405948100612",
+              "start": 23,
+              "url": "https://t.co/5ksuNQrfHk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987351592727642280",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987323513750102276",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @coroxpiyo: 💛 #Skeb https://t.co/5ksuNQrfHk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987323405948100612"
+          ]
+        },
+        "author_id": "56386501",
+        "conversation_id": "1987323513750102276",
+        "created_at": "2025-11-09T00:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T01:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987323513750102276"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 2,
+              "tag": "Skeb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ksuNQrfHk",
+              "end": 31,
+              "expanded_url": "https://x.com/coroxpiyo/status/1987323513750102276/photo/1",
+              "media_key": "3_1987323405948100612",
+              "start": 8,
+              "url": "https://t.co/5ksuNQrfHk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987323513750102276",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 7288,
+          "like_count": 653,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "💛 #Skeb https://t.co/5ksuNQrfHk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 1053,
+          "like_count": 11141,
+          "listed_count": 2,
+          "media_count": 367,
+          "tweet_count": 2823
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-13T14:31:50.000Z",
+        "description": "Illustrator 🖌🦜https://t.co/XBVHMIN8qW\n👋 https://t.co/hTVD3U9ymc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@coroxpiyo",
+                "end": 37,
+                "expanded_url": "https://skeb.jp/@coroxpiyo",
+                "start": 14,
+                "url": "https://t.co/XBVHMIN8qW"
+              },
+              {
+                "display_url": "wavebox.me/wave/8o0cn4g1i…",
+                "end": 63,
+                "expanded_url": "https://wavebox.me/wave/8o0cn4g1idrafspv/",
+                "start": 40,
+                "url": "https://t.co/hTVD3U9ymc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/coro…",
+                "end": 23,
+                "expanded_url": "https://xfolio.jp/portfolio/coroxpiyo",
+                "start": 0,
+                "url": "https://t.co/FVUFykANOp"
+              }
+            ]
+          }
+        },
+        "id": "56386501",
+        "name": "toichi",
+        "pinned_tweet_id": "1983531918185652558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736340284643196928/hBwk53P2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7576,
+          "following_count": 433,
+          "like_count": 9680,
+          "listed_count": 101,
+          "media_count": 479,
+          "tweet_count": 7350
+        },
+        "url": "https://t.co/FVUFykANOp",
+        "username": "coroxpiyo",
+        "verified": false
+      }
+    ]
+  }
+}

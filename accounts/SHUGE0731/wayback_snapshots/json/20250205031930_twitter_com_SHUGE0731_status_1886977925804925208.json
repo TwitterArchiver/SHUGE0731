@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886447563651559424"
+      ],
+      "media_source_tweet_id": [
+        "1886447623265308976"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1886977925804925208",
+    "created_at": "2025-02-05T03:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T04:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886977925804925208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1581967554264051714",
+          "start": 3,
+          "username": "bubu2kUFO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N7PlK2QOvl",
+          "end": 40,
+          "expanded_url": "https://x.com/bubu2kUFO/status/1886447623265308976/photo/1",
+          "media_key": "3_1886447563651559424",
+          "start": 17,
+          "url": "https://t.co/N7PlK2QOvl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886977925804925208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1726
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886447623265308976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bubu2kUFO: し https://t.co/N7PlK2QOvl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1886447563651559424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi4CEHbaMAAanQP.jpg",
+        "width": 2815
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886447563651559424"
+          ],
+          "media_source_tweet_id": [
+            "1886447623265308976"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1886977925804925208",
+        "created_at": "2025-02-05T03:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T04:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886977925804925208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1581967554264051714",
+              "start": 3,
+              "username": "bubu2kUFO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N7PlK2QOvl",
+              "end": 40,
+              "expanded_url": "https://x.com/bubu2kUFO/status/1886447623265308976/photo/1",
+              "media_key": "3_1886447563651559424",
+              "start": 17,
+              "url": "https://t.co/N7PlK2QOvl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886977925804925208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1726
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886447623265308976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bubu2kUFO: し https://t.co/N7PlK2QOvl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886447563651559424"
+          ]
+        },
+        "author_id": "1581967554264051714",
+        "conversation_id": "1886447623265308976",
+        "created_at": "2025-02-03T16:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T17:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886447623265308976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N7PlK2QOvl",
+              "end": 25,
+              "expanded_url": "https://x.com/bubu2kUFO/status/1886447623265308976/photo/1",
+              "media_key": "3_1886447563651559424",
+              "start": 2,
+              "url": "https://t.co/N7PlK2QOvl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886447623265308976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3441,
+          "impression_count": 310512,
+          "like_count": 27580,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 1726
+        },
+        "reply_settings": "everyone",
+        "text": "し https://t.co/N7PlK2QOvl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1863243605252690301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 860,
+          "like_count": 5081,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 1108
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T11:17:22.000Z",
+        "description": "出力と加筆。Output and additions.🌒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zousui-tb.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://zousui-tb.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/B1vdGN4bGo"
+              }
+            ]
+          }
+        },
+        "id": "1581967554264051714",
+        "name": "ぶぶ漬け",
+        "pinned_tweet_id": "1879188604993565065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863561976301211648/4VXOmTCA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174537,
+          "following_count": 29,
+          "like_count": 195,
+          "listed_count": 1319,
+          "media_count": 419,
+          "tweet_count": 4278
+        },
+        "url": "https://t.co/B1vdGN4bGo",
+        "username": "bubu2kUFO",
+        "verified": true
+      }
+    ]
+  }
+}

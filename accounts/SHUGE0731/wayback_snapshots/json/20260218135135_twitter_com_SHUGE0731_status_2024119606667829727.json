@@ -1,0 +1,590 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024037651880591360"
+      ],
+      "media_source_tweet_id": [
+        "2024061338524201132"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2024119606667829727",
+    "created_at": "2026-02-18T13:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T14:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024119606667829727"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 57,
+          "tag": "ガレージキット"
+        },
+        {
+          "end": 72,
+          "start": 66,
+          "tag": "ホロライブ"
+        },
+        {
+          "end": 79,
+          "start": 73,
+          "tag": "gawrt"
+        },
+        {
+          "end": 89,
+          "start": 80,
+          "tag": "gawrgura"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "916322968640225280",
+          "start": 3,
+          "username": "MunSiiOuO"
+        },
+        {
+          "end": 44,
+          "id": "508923130",
+          "start": 30,
+          "username": "takatori_4692"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fu2VgquVXW",
+          "end": 113,
+          "expanded_url": "https://x.com/MunSiiOuO/status/2024061338524201132/photo/1",
+          "media_key": "3_2024037651880591360",
+          "start": 90,
+          "url": "https://t.co/fu2VgquVXW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024119606667829727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 409
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024061338524201132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MunSiiOuO: Gura魔改全身照 \n\n原型：@takatori_4692 \n改造+塗裝：我  \n\n#ガレージキット #ホロライブ #gawrt #gawrgura https://t.co/fu2VgquVXW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3648,
+        "media_key": "3_2024037651880591360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbThURbwAANv0Y.jpg",
+        "width": 2736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024037651880591360"
+          ],
+          "media_source_tweet_id": [
+            "2024061338524201132"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2024119606667829727",
+        "created_at": "2026-02-18T13:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024119606667829727"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 57,
+              "tag": "ガレージキット"
+            },
+            {
+              "end": 72,
+              "start": 66,
+              "tag": "ホロライブ"
+            },
+            {
+              "end": 79,
+              "start": 73,
+              "tag": "gawrt"
+            },
+            {
+              "end": 89,
+              "start": 80,
+              "tag": "gawrgura"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "916322968640225280",
+              "start": 3,
+              "username": "MunSiiOuO"
+            },
+            {
+              "end": 44,
+              "id": "508923130",
+              "start": 30,
+              "username": "takatori_4692"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fu2VgquVXW",
+              "end": 113,
+              "expanded_url": "https://x.com/MunSiiOuO/status/2024061338524201132/photo/1",
+              "media_key": "3_2024037651880591360",
+              "start": 90,
+              "url": "https://t.co/fu2VgquVXW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024119606667829727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 409
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024061338524201132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MunSiiOuO: Gura魔改全身照 \n\n原型：@takatori_4692 \n改造+塗裝：我  \n\n#ガレージキット #ホロライブ #gawrt #gawrgura https://t.co/fu2VgquVXW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024037651880591360"
+          ]
+        },
+        "author_id": "916322968640225280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2024061338524201132",
+        "created_at": "2026-02-18T10:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024061338524201132"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 42,
+              "tag": "ガレージキット"
+            },
+            {
+              "end": 57,
+              "start": 51,
+              "tag": "ホロライブ"
+            },
+            {
+              "end": 64,
+              "start": 58,
+              "tag": "gawrt"
+            },
+            {
+              "end": 74,
+              "start": 65,
+              "tag": "gawrgura"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 29,
+              "id": "508923130",
+              "start": 15,
+              "username": "takatori_4692"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fu2VgquVXW",
+              "end": 98,
+              "expanded_url": "https://x.com/MunSiiOuO/status/2024061338524201132/photo/1",
+              "media_key": "3_2024037651880591360",
+              "start": 75,
+              "url": "https://t.co/fu2VgquVXW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024061338524201132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3909,
+          "impression_count": 343004,
+          "like_count": 11186,
+          "quote_count": 9,
+          "reply_count": 12,
+          "retweet_count": 409
+        },
+        "reply_settings": "everyone",
+        "text": "Gura魔改全身照 \n\n原型：@takatori_4692 \n改造+塗裝：我  \n\n#ガレージキット #ホロライブ #gawrt #gawrgura https://t.co/fu2VgquVXW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 988,
+          "like_count": 21500,
+          "listed_count": 3,
+          "media_count": 571,
+          "tweet_count": 7650
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-06T15:23:14.000Z",
+        "description": "有需求歡迎來信:ouolele123@gmail.com\n\n🐶 I offer figurine creation services, covering everything from design to modeling, printing, and painting.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/MunSii",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/MunSii",
+                "start": 0,
+                "url": "https://t.co/Oe2BoYR647"
+              }
+            ]
+          }
+        },
+        "id": "916322968640225280",
+        "location": "台灣",
+        "name": "夢梓•MunSii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853734566990913536/rROrGVBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4355,
+          "following_count": 339,
+          "like_count": 2047,
+          "listed_count": 27,
+          "media_count": 91,
+          "tweet_count": 168
+        },
+        "url": "https://t.co/Oe2BoYR647",
+        "username": "MunSiiOuO",
+        "verified": true
+      },
+      {
+        "created_at": "2012-02-29T15:01:09.000Z",
+        "description": "フリーランスのフィギュア原型師\nお仕事のご用命はDMまで！\n\nガレージキットイベントにはディーラー名「フジヤマサンカク」にて出展しています。\nBOOTHショップはこちら：https://t.co/C1sJ72Uvxx\nColoso講座受付中：https://t.co/v6QFR0wZos",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fujiyama3or9.booth.pm",
+                "end": 108,
+                "expanded_url": "https://fujiyama3or9.booth.pm/",
+                "start": 85,
+                "url": "https://t.co/C1sJ72Uvxx"
+              },
+              {
+                "display_url": "bit.ly/3GeHvpO",
+                "end": 144,
+                "expanded_url": "https://bit.ly/3GeHvpO",
+                "start": 121,
+                "url": "https://t.co/v6QFR0wZos"
+              }
+            ]
+          }
+        },
+        "id": "508923130",
+        "location": "JAPAN.gif",
+        "name": "タカトリ＠WF2026W 1-14-17",
+        "pinned_tweet_id": "2017538346860613986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1147434122479935488/y3V_bg8j_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18604,
+          "following_count": 4609,
+          "like_count": 4915,
+          "listed_count": 215,
+          "media_count": 498,
+          "tweet_count": 5973
+        },
+        "username": "takatori_4692",
+        "verified": true
+      }
+    ]
+  }
+}

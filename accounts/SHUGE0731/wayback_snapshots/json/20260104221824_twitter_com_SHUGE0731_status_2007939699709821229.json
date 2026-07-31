@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007598061380644864"
+      ],
+      "media_source_tweet_id": [
+        "2007598169451008355"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2007939699709821229",
+    "created_at": "2026-01-04T22:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T23:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007939699709821229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1421535895295971333",
+          "start": 3,
+          "username": "goma2452"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e0pb6YKmLQ",
+          "end": 41,
+          "expanded_url": "https://x.com/goma2452/status/2007598169451008355/photo/1",
+          "media_key": "3_2007598061380644864",
+          "start": 18,
+          "url": "https://t.co/e0pb6YKmLQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007939699709821229",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 191
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007598169451008355",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @goma2452: ドトウ https://t.co/e0pb6YKmLQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007598061380644864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9xrzNRbMAANgh9.jpg",
+        "width": 1817
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007598061380644864"
+          ],
+          "media_source_tweet_id": [
+            "2007598169451008355"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2007939699709821229",
+        "created_at": "2026-01-04T22:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T23:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007939699709821229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1421535895295971333",
+              "start": 3,
+              "username": "goma2452"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e0pb6YKmLQ",
+              "end": 41,
+              "expanded_url": "https://x.com/goma2452/status/2007598169451008355/photo/1",
+              "media_key": "3_2007598061380644864",
+              "start": 18,
+              "url": "https://t.co/e0pb6YKmLQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007939699709821229",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 191
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007598169451008355",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @goma2452: ドトウ https://t.co/e0pb6YKmLQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007598061380644864"
+          ]
+        },
+        "author_id": "1421535895295971333",
+        "conversation_id": "2007598169451008355",
+        "created_at": "2026-01-03T23:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T00:40:52.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007598064077545608",
+          "2007598169451008355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e0pb6YKmLQ",
+              "end": 27,
+              "expanded_url": "https://x.com/goma2452/status/2007598169451008355/photo/1",
+              "media_key": "3_2007598061380644864",
+              "start": 4,
+              "url": "https://t.co/e0pb6YKmLQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007598169451008355",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 222,
+          "impression_count": 22894,
+          "like_count": 1637,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 191
+        },
+        "reply_settings": "everyone",
+        "text": "ドトウ https://t.co/e0pb6YKmLQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 993,
+          "like_count": 17242,
+          "listed_count": 3,
+          "media_count": 515,
+          "tweet_count": 5805
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-31T18:19:36.000Z",
+        "description": "Irasuto✍️ (^._.^ฅ)و”",
+        "id": "1421535895295971333",
+        "location": "🍠🐧",
+        "name": "gomaneko(ごまねこ)",
+        "pinned_tweet_id": "2007598169451008355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753724099787157504/0Imc9qD-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8226,
+          "following_count": 1044,
+          "like_count": 16319,
+          "listed_count": 102,
+          "media_count": 96,
+          "tweet_count": 5551
+        },
+        "username": "goma2452",
+        "verified": true
+      }
+    ]
+  }
+}

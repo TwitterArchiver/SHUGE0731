@@ -1,0 +1,555 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925568123890999296"
+      ],
+      "media_source_tweet_id": [
+        "1925568127317709217"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese artist and musician",
+          "id": "1070731935612190720",
+          "name": "Yoshi Sodeoka"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Japanese artist and musician",
+          "id": "1070731935612190720",
+          "name": "Yoshi Sodeoka"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "id": "1285999703704743938",
+          "name": "Dance & electronic"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Electronic",
+          "id": "849684313704611840",
+          "name": "Electronic music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese artist and musician",
+          "id": "1070731935612190720",
+          "name": "Yoshi Sodeoka"
+        }
+      }
+    ],
+    "conversation_id": "1925578222395412498",
+    "created_at": "2025-05-22T15:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T16:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925578222395412498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "259882668",
+          "start": 3,
+          "username": "yoshi_sodeoka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZtFmrnZ0BH",
+          "end": 46,
+          "expanded_url": "https://x.com/yoshi_sodeoka/status/1925568127317709217/photo/1",
+          "media_key": "3_1925568123890999296",
+          "start": 23,
+          "url": "https://t.co/ZtFmrnZ0BH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925578222395412498",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925568127317709217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoshi_sodeoka: wip https://t.co/ZtFmrnZ0BH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2096,
+        "media_key": "3_1925568123890999296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grj-Aa9WoAAH16U.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925568123890999296"
+          ],
+          "media_source_tweet_id": [
+            "1925568127317709217"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese artist and musician",
+              "id": "1070731935612190720",
+              "name": "Yoshi Sodeoka"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Japanese artist and musician",
+              "id": "1070731935612190720",
+              "name": "Yoshi Sodeoka"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1285999703704743938",
+              "name": "Dance & electronic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Electronic",
+              "id": "849684313704611840",
+              "name": "Electronic music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese artist and musician",
+              "id": "1070731935612190720",
+              "name": "Yoshi Sodeoka"
+            }
+          }
+        ],
+        "conversation_id": "1925578222395412498",
+        "created_at": "2025-05-22T15:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T16:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925578222395412498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "259882668",
+              "start": 3,
+              "username": "yoshi_sodeoka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZtFmrnZ0BH",
+              "end": 46,
+              "expanded_url": "https://x.com/yoshi_sodeoka/status/1925568127317709217/photo/1",
+              "media_key": "3_1925568123890999296",
+              "start": 23,
+              "url": "https://t.co/ZtFmrnZ0BH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925578222395412498",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925568127317709217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoshi_sodeoka: wip https://t.co/ZtFmrnZ0BH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925568123890999296"
+          ]
+        },
+        "author_id": "259882668",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese artist and musician",
+              "id": "1070731935612190720",
+              "name": "Yoshi Sodeoka"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Japanese artist and musician",
+              "id": "1070731935612190720",
+              "name": "Yoshi Sodeoka"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1285999703704743938",
+              "name": "Dance & electronic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Electronic",
+              "id": "849684313704611840",
+              "name": "Electronic music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese artist and musician",
+              "id": "1070731935612190720",
+              "name": "Yoshi Sodeoka"
+            }
+          }
+        ],
+        "conversation_id": "1925568127317709217",
+        "created_at": "2025-05-22T15:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T16:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925568127317709217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZtFmrnZ0BH",
+              "end": 27,
+              "expanded_url": "https://x.com/yoshi_sodeoka/status/1925568127317709217/photo/1",
+              "media_key": "3_1925568123890999296",
+              "start": 4,
+              "url": "https://t.co/ZtFmrnZ0BH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925568127317709217",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1016,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "wip https://t.co/ZtFmrnZ0BH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 934,
+          "like_count": 7703,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 1600
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-02T19:57:42.000Z",
+        "description": "Video/Sound Artist - NYC 🕊️🗽 - @verse_works & @solos_gallery",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "verse_works"
+              },
+              {
+                "end": 60,
+                "start": 46,
+                "username": "solos_gallery"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sodeoka.com",
+                "end": 23,
+                "expanded_url": "https://www.sodeoka.com",
+                "start": 0,
+                "url": "https://t.co/CRLirWB4CE"
+              }
+            ]
+          }
+        },
+        "id": "259882668",
+        "location": "New York, USA",
+        "name": "Y͓̽O͓̽S͓̽H͓̽I͓̽ ͓̽S͓̽O͓̽D͓̽E͓̽O͓̽K͓̽A͓̽",
+        "pinned_tweet_id": "1875970077662826840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603579690718986242/WmcIapps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16277,
+          "following_count": 2272,
+          "like_count": 10413,
+          "listed_count": 231,
+          "media_count": 304,
+          "tweet_count": 2822
+        },
+        "url": "https://t.co/CRLirWB4CE",
+        "username": "yoshi_sodeoka",
+        "verified": false
+      }
+    ]
+  }
+}

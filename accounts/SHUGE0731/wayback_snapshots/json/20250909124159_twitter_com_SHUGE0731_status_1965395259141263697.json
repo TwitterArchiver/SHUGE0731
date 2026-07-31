@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965370872954560512"
+      ],
+      "media_source_tweet_id": [
+        "1965371114634547260"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1965395259141263697",
+    "created_at": "2025-09-09T12:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T13:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965395259141263697"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 14,
+          "tag": "haruurara"
+        },
+        {
+          "end": 31,
+          "start": 25,
+          "tag": "ハルウララ"
+        },
+        {
+          "end": 40,
+          "start": 32,
+          "tag": "AIイラスト︎"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1836082898971348993",
+          "start": 3,
+          "username": "aiai_uma"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N9gOKX4ZZf",
+          "end": 64,
+          "expanded_url": "https://x.com/aiai_uma/status/1965371114634547260/photo/1",
+          "media_key": "3_1965370872954560512",
+          "start": 41,
+          "url": "https://t.co/N9gOKX4ZZf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965395259141263697",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 850
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965371114634547260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aiai_uma: #haruurara #ハルウララ #AIイラスト︎ https://t.co/N9gOKX4ZZf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2344,
+        "media_key": "3_1965370872954560512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ZmZV5bIAAn3E3.jpg",
+        "width": 2344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965370872954560512"
+          ],
+          "media_source_tweet_id": [
+            "1965371114634547260"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1965395259141263697",
+        "created_at": "2025-09-09T12:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T13:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965395259141263697"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 14,
+              "tag": "haruurara"
+            },
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "ハルウララ"
+            },
+            {
+              "end": 40,
+              "start": 32,
+              "tag": "AIイラスト︎"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836082898971348993",
+              "start": 3,
+              "username": "aiai_uma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N9gOKX4ZZf",
+              "end": 64,
+              "expanded_url": "https://x.com/aiai_uma/status/1965371114634547260/photo/1",
+              "media_key": "3_1965370872954560512",
+              "start": 41,
+              "url": "https://t.co/N9gOKX4ZZf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965395259141263697",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 850
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965371114634547260",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aiai_uma: #haruurara #ハルウララ #AIイラスト︎ https://t.co/N9gOKX4ZZf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965370872954560512"
+          ]
+        },
+        "author_id": "1836082898971348993",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1965371114634547260",
+        "created_at": "2025-09-09T11:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T12:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965371114634547260"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "haruurara"
+            },
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "ハルウララ"
+            },
+            {
+              "end": 26,
+              "start": 18,
+              "tag": "AIイラスト︎"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N9gOKX4ZZf",
+              "end": 50,
+              "expanded_url": "https://x.com/aiai_uma/status/1965371114634547260/photo/1",
+              "media_key": "3_1965370872954560512",
+              "start": 27,
+              "url": "https://t.co/N9gOKX4ZZf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965371114634547260",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 377,
+          "impression_count": 39386,
+          "like_count": 4252,
+          "quote_count": 10,
+          "reply_count": 8,
+          "retweet_count": 850
+        },
+        "reply_settings": "everyone",
+        "text": "#haruurara #ハルウララ #AIイラスト︎ https://t.co/N9gOKX4ZZf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 有一只牡丹鹦鹉叫uno！｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 1000,
+          "like_count": 9034,
+          "listed_count": 2,
+          "media_count": 286,
+          "tweet_count": 1898
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T16:41:02.000Z",
+        "description": "Irregular post uploads.\nNot good at Japanese, uses Google Translate.\n.\nNSFW🐴: https://t.co/VoEZoZEiGw(🔑)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/nrmlhen",
+                "end": 101,
+                "expanded_url": "https://x.com/nrmlhen",
+                "start": 78,
+                "url": "https://t.co/VoEZoZEiGw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/6907829",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/6907829",
+                "start": 0,
+                "url": "https://t.co/7bLFQogKRe"
+              }
+            ]
+          }
+        },
+        "id": "1836082898971348993",
+        "name": "nohohomu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908610007819837448/XNIf2VnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5197,
+          "following_count": 151,
+          "like_count": 5023,
+          "listed_count": 33,
+          "media_count": 1391,
+          "tweet_count": 1514
+        },
+        "url": "https://t.co/7bLFQogKRe",
+        "username": "aiai_uma",
+        "verified": false
+      }
+    ]
+  }
+}

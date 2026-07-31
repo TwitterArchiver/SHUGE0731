@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1998731650272780546",
+    "created_at": "2025-12-11T05:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T06:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998986863340826637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1875229842452668416",
+          "start": 0,
+          "username": "my8231986689425"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998986863340826637",
+    "in_reply_to_user_id": "1875229842452668416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998980705230139416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@my8231986689425 （获得小猫面包+1）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1998731650272780546",
+        "created_at": "2025-12-11T05:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T06:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998986863340826637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1875229842452668416",
+              "start": 0,
+              "username": "my8231986689425"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998986863340826637",
+        "in_reply_to_user_id": "1875229842452668416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998980705230139416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@my8231986689425 （获得小猫面包+1）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875229842452668416",
+        "conversation_id": "1998731650272780546",
+        "created_at": "2025-12-11T04:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T05:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998980705230139416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998980705230139416",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998731650272780546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 1062,
+          "like_count": 13258,
+          "listed_count": 2,
+          "media_count": 436,
+          "tweet_count": 3930
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T17:17:01.000Z",
+        "description": "孤独的马",
+        "id": "1875229842452668416",
+        "location": "交界地",
+        "name": "大米玉米苞米油",
+        "pinned_tweet_id": "1996143716940267610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997680286847696896/lwALhlKx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 27,
+          "like_count": 2295,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 2041
+        },
+        "username": "my8231986689425",
+        "verified": false
+      }
+    ]
+  }
+}

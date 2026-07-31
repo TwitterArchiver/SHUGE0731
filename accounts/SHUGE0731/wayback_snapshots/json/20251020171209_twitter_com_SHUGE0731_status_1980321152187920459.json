@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980286904152068096"
+      ],
+      "media_source_tweet_id": [
+        "1980286923366371379"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1980321152187920459",
+    "created_at": "2025-10-20T17:12:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T18:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980321152187920459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "554340406",
+          "start": 3,
+          "username": "Marghe_Bita"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rajW4sewtK",
+          "end": 40,
+          "expanded_url": "https://x.com/Marghe_Bita/status/1980286923366371379/photo/1",
+          "media_key": "3_1980286904152068096",
+          "start": 17,
+          "url": "https://t.co/rajW4sewtK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980321152187920459",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1026
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980286923366371379",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Marghe_Bita: https://t.co/rajW4sewtK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1017,
+        "media_key": "3_1980286904152068096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3tkcoNXkAA7wKZ.jpg",
+        "width": 1797
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980286904152068096"
+          ],
+          "media_source_tweet_id": [
+            "1980286923366371379"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1980321152187920459",
+        "created_at": "2025-10-20T17:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T18:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980321152187920459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "554340406",
+              "start": 3,
+              "username": "Marghe_Bita"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rajW4sewtK",
+              "end": 40,
+              "expanded_url": "https://x.com/Marghe_Bita/status/1980286923366371379/photo/1",
+              "media_key": "3_1980286904152068096",
+              "start": 17,
+              "url": "https://t.co/rajW4sewtK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980321152187920459",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1026
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980286923366371379",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Marghe_Bita: https://t.co/rajW4sewtK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980286904152068096"
+          ]
+        },
+        "author_id": "554340406",
+        "conversation_id": "1980286923366371379",
+        "created_at": "2025-10-20T14:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T15:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980286923366371379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rajW4sewtK",
+              "end": 23,
+              "expanded_url": "https://x.com/Marghe_Bita/status/1980286923366371379/photo/1",
+              "media_key": "3_1980286904152068096",
+              "start": 0,
+              "url": "https://t.co/rajW4sewtK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980286923366371379",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 433,
+          "impression_count": 40767,
+          "like_count": 4072,
+          "quote_count": 47,
+          "reply_count": 9,
+          "retweet_count": 1026
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rajW4sewtK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 |  中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 1072,
+          "like_count": 10162,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 2317
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-15T13:18:37.000Z",
+        "description": "絵置き場です ほぼ🐴 No business contact now🥹",
+        "id": "554340406",
+        "name": "Bita",
+        "pinned_tweet_id": "1829512335666671755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818632982640701440/gDlBadmI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58807,
+          "following_count": 332,
+          "like_count": 10909,
+          "listed_count": 452,
+          "media_count": 80,
+          "tweet_count": 3504
+        },
+        "username": "Marghe_Bita",
+        "verified": false
+      }
+    ]
+  }
+}

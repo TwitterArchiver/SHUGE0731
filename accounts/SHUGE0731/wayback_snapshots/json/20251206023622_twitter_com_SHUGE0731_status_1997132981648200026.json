@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1997061531079745771",
+    "created_at": "2025-12-06T02:36:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T03:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997132981648200026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1073541365600927744",
+          "start": 0,
+          "username": "Yukimak96591865"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997132981648200026",
+    "in_reply_to_user_id": "1073541365600927744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997061531079745771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yukimak96591865 我喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1997061531079745771",
+        "created_at": "2025-12-06T02:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T03:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997132981648200026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1073541365600927744",
+              "start": 0,
+              "username": "Yukimak96591865"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997132981648200026",
+        "in_reply_to_user_id": "1073541365600927744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997061531079745771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yukimak96591865 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1073541365600927744",
+        "conversation_id": "1997061531079745771",
+        "created_at": "2025-12-05T21:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T22:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997061531079745771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shuge0731/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/shuge0731/status/1996479505880514736",
+              "start": 12,
+              "url": "https://t.co/3flfwbrgbo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997061531079745771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996479505880514736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢大！家（电棍音） https://t.co/3flfwbrgbo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 1058,
+          "like_count": 12648,
+          "listed_count": 2,
+          "media_count": 410,
+          "tweet_count": 3500
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-14T11:33:01.000Z",
+        "description": "欢迎大家找我互fo扩列聊天打游戏。梯子不太好用所以可能回得没那么快。",
+        "id": "1073541365600927744",
+        "location": "北京, 中华人民共和国",
+        "name": "我有易欲症",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903754887458144256/9dnLk1Z4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 103,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 115
+        },
+        "username": "Yukimak96591865",
+        "verified": false
+      }
+    ]
+  }
+}

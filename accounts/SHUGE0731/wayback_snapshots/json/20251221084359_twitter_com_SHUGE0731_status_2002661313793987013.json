@@ -1,0 +1,564 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      }
+    ],
+    "conversation_id": "2002661313793987013",
+    "created_at": "2025-12-21T08:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T09:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002661313793987013"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chainsawman_pr…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/chainsawman_pr/status/2002647573333750028",
+          "start": 5,
+          "url": "https://t.co/iMfbimcUtT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002661313793987013",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002647573333750028",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦？哦！ https://t.co/iMfbimcUtT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 5787,
+        "media_key": "3_2002573549224300544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8qSCG4bkAAHf0Y.jpg",
+        "width": 4093
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2002661313793987013",
+        "created_at": "2025-12-21T08:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T09:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002661313793987013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chainsawman_pr…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/chainsawman_pr/status/2002647573333750028",
+              "start": 5,
+              "url": "https://t.co/iMfbimcUtT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002661313793987013",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002647573333750028",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦？哦！ https://t.co/iMfbimcUtT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002573549224300544"
+          ]
+        },
+        "author_id": "1326027296398995462",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2002647573333750028",
+        "created_at": "2025-12-21T07:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T08:46:56.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002646954904527139",
+          "2002647573333750028"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "#チェンソーマン 刺客篇",
+              "probability": 0.5269,
+              "start": 9,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 9,
+              "tag": "チェンソーマン"
+            },
+            {
+              "end": 174,
+              "start": 162,
+              "tag": "chainsawman"
+            }
+          ],
+          "urls": [
+            {
+              "description": "◣◣◣◣『チェンソーマン 刺客篇』制作決定！　　　　　　　　　　　　　◤◤◤◤■アニメ『チェンソーマン』公式サイト：https://chainsawman.dog/■公式X：@CHAINSAWMAN_PR（https://twitter.com/ CHAINSAWMAN_PR）© 藤本タツキ／集英社・ＭＡＰＰＡ第...",
+              "display_url": "youtube.com/watch?v=_PRayw…",
+              "end": 127,
+              "expanded_url": "https://www.youtube.com/watch?v=_PRaywfa1LE",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2002646966019506176/KQ_tvyFp?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2002646966019506176/KQ_tvyFp?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 104,
+              "status": 200,
+              "title": "『チェンソーマン 刺客篇』ティザーPV／Chainsaw Man –  Assassins Arc Official Teaser",
+              "unwound_url": "https://www.youtube.com/watch?v=_PRaywfa1LE",
+              "url": "https://t.co/yGfbreykWr"
+            },
+            {
+              "description": "劇場版『チェンソーマン レゼ篇』制作決定！TVアニメ　Blu-ray&DVD全４巻発売中＆Prime Video他配信サイトにて配信中！",
+              "display_url": "chainsawman.dog",
+              "end": 157,
+              "expanded_url": "http://chainsawman.dog",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1996962019589619712/Ks8HYfL-?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1996962019589619712/Ks8HYfL-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 134,
+              "status": 200,
+              "title": "劇場版『チェンソーマン レゼ篇』公式サイト",
+              "unwound_url": "http://chainsawman.dog",
+              "url": "https://t.co/TasRrfCb0e"
+            },
+            {
+              "display_url": "pic.x.com/i6NCQzEhtW",
+              "end": 198,
+              "expanded_url": "https://x.com/CHAINSAWMAN_PR/status/2002647573333750028/photo/1",
+              "media_key": "3_2002573549224300544",
+              "start": 175,
+              "url": "https://t.co/i6NCQzEhtW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002647573333750028",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2418,
+          "impression_count": 1110335,
+          "like_count": 53326,
+          "quote_count": 3001,
+          "reply_count": 230,
+          "retweet_count": 17387
+        },
+        "reply_settings": "everyone",
+        "text": "◣◣◣◣\nアニメ『#チェンソーマン 刺客篇』制作決定！\nティザービジュアル公開！\n　　　　　　　　　　　　　　　　◤◤◤◤\n\nデンジの心臓を狙う刺客たちの姿も・・・！\n続報をお楽しみに！ \n\n🎥ティザーPV▷https://t.co/yGfbreykWr\n公式サイト▷https://t.co/TasRrfCb0e  \n\n #chainsawman https://t.co/i6NCQzEhtW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 1038,
+          "like_count": 14691,
+          "listed_count": 3,
+          "media_count": 470,
+          "tweet_count": 4625
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-10T05:02:11.000Z",
+        "description": "『#チェンソーマン』（作:藤本タツキ）の公式アカウントです。\n第二部「少年ジャンプ＋」にて連載中! コミックス1～21巻発売中！\n劇場版『チェンソーマン レゼ篇』公開中！『チェンソーマン 刺客篇』制作決定！\n漫画やアニメなどの最新情報をお届けします。 \nグッズ情報：@CSM_GOODS",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 1,
+                "tag": "チェンソーマン"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 133,
+                "username": "CSM_GOODS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chainsawman.dog",
+                "end": 23,
+                "expanded_url": "https://chainsawman.dog/",
+                "start": 0,
+                "url": "https://t.co/yjUCDGcOp9"
+              }
+            ]
+          }
+        },
+        "id": "1326027296398995462",
+        "location": "公安対魔特異4課",
+        "name": "チェンソーマン【公式】",
+        "pinned_tweet_id": "2002646765053620665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1338465890765950977/_SH_dEUm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482485,
+          "following_count": 50,
+          "like_count": 50,
+          "listed_count": 3590,
+          "media_count": 3534,
+          "tweet_count": 5710
+        },
+        "url": "https://t.co/yjUCDGcOp9",
+        "username": "CHAINSAWMAN_PR",
+        "verified": true
+      }
+    ]
+  }
+}

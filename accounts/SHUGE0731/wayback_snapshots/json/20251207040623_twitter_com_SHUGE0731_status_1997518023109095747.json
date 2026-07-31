@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1997517605331153306",
+    "created_at": "2025-12-07T04:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T05:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997518023109095747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1814968084538826753",
+          "start": 0,
+          "username": "aiyuqiu4ev10883"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997518023109095747",
+    "in_reply_to_user_id": "1814968084538826753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997517605331153306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiyuqiu4ev10883 卧槽 羽毛球运动员来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25320,
+        "height": 716,
+        "media_key": "7_1997517535881953280",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1997517535881953280/pu/img/1qEcSausjJg67kdJ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997517535881953280/pu/vid/avc1/482x270/YeRuEoHKItCTurt7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997517535881953280/pu/vid/avc1/642x360/uHkUxlrDalG5jlkG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997517535881953280/pu/vid/avc1/1280x716/ituXUZN-PAWW3Tzn.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1997517535881953280/pu/pl/Qdii6F7vLASpnoeA.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 14605,
+        "height": 720,
+        "media_key": "7_1997517576709214210",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1997517576709214210/pu/img/HH2CO91vsxpC-m4i.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997517576709214210/pu/vid/avc1/434x270/SwWTzPgyt4VLxScG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997517576709214210/pu/vid/avc1/580x360/CJ2EOFSQk76NIDG8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997517576709214210/pu/vid/avc1/1162x720/J9_hAlogPtBmvu3X.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1997517576709214210/pu/pl/9TlDroJyH43M5eKu.m3u8?tag=12"
+          }
+        ],
+        "width": 1162
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1997517605331153306",
+        "created_at": "2025-12-07T04:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T05:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997518023109095747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1814968084538826753",
+              "start": 0,
+              "username": "aiyuqiu4ev10883"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997518023109095747",
+        "in_reply_to_user_id": "1814968084538826753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997517605331153306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiyuqiu4ev10883 卧槽 羽毛球运动员来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1997517535881953280",
+            "7_1997517576709214210"
+          ]
+        },
+        "author_id": "1814968084538826753",
+        "conversation_id": "1997517605331153306",
+        "created_at": "2025-12-07T04:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T05:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997517605331153306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/in78IkLz94",
+              "end": 30,
+              "expanded_url": "https://x.com/aiyuqiu4ev10883/status/1997517605331153306/video/1",
+              "media_key": "7_1997517535881953280",
+              "start": 7,
+              "url": "https://t.co/in78IkLz94"
+            },
+            {
+              "display_url": "pic.x.com/in78IkLz94",
+              "end": 30,
+              "expanded_url": "https://x.com/aiyuqiu4ev10883/status/1997517605331153306/video/1",
+              "media_key": "7_1997517576709214210",
+              "start": 7,
+              "url": "https://t.co/in78IkLz94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997517605331153306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我帥的要命。 https://t.co/in78IkLz94"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 1059,
+          "like_count": 12780,
+          "listed_count": 2,
+          "media_count": 418,
+          "tweet_count": 3617
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T10:18:13.000Z",
+        "description": "立希漂亮漂亮",
+        "id": "1814968084538826753",
+        "location": "中南海",
+        "name": "邪恶立希希",
+        "pinned_tweet_id": "1988210475360997463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889311638156726272/jweyIFL7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 331,
+          "like_count": 1134,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 2141
+        },
+        "username": "aiyuqiu4ev10883",
+        "verified": false
+      }
+    ]
+  }
+}

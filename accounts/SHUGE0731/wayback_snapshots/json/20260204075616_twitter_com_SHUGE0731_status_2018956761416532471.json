@@ -1,0 +1,643 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018946411304468481"
+      ],
+      "media_source_tweet_id": [
+        "2018946428182417776"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2018956761416532471",
+    "created_at": "2026-02-04T07:56:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T08:56:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018956761416532471"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "エンテレケイア",
+          "probability": 0.6114,
+          "start": 27,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 80,
+          "start": 75,
+          "tag": "FNEX"
+        },
+        {
+          "end": 88,
+          "start": 81,
+          "tag": "アークナイツ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "292351939",
+          "start": 3,
+          "username": "figsoku"
+        }
+      ],
+      "urls": [
+        {
+          "description": "■アークナイツ「エンテレケイア」フィギュア化決定&原型公開メーカー F:NEXhttps://weibo.com/6441489862/QqfH9DzFv",
+          "display_url": "figsoku.net/blog-entry-492…",
+          "end": 74,
+          "expanded_url": "https://figsoku.net/blog-entry-492635.html",
+          "start": 51,
+          "status": 200,
+          "title": "【アークナイツ】F:NEX「エンテレケイア」フィギュア化決定＆原型公開",
+          "unwound_url": "https://figsoku.net/blog-entry-492635.html",
+          "url": "https://t.co/yUbxSARJp1"
+        },
+        {
+          "display_url": "pic.x.com/LhTmHZcfns",
+          "end": 112,
+          "expanded_url": "https://x.com/figsoku/status/2018946428182417776/photo/1",
+          "media_key": "3_2018946411304468481",
+          "start": 89,
+          "url": "https://t.co/LhTmHZcfns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018956761416532471",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018946428182417776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @figsoku: 【アークナイツ】F:NEX「エンテレケイア」\n\nフィギュア化決定＆原型公開\nhttps://t.co/yUbxSARJp1\n#FNEX #アークナイツ https://t.co/LhTmHZcfns"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2018946411304468481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAS9EHJaQAEFaGJ.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018946411304468481"
+          ],
+          "media_source_tweet_id": [
+            "2018946428182417776"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2018956761416532471",
+        "created_at": "2026-02-04T07:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T08:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018956761416532471"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "エンテレケイア",
+              "probability": 0.6114,
+              "start": 27,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 75,
+              "tag": "FNEX"
+            },
+            {
+              "end": 88,
+              "start": 81,
+              "tag": "アークナイツ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "292351939",
+              "start": 3,
+              "username": "figsoku"
+            }
+          ],
+          "urls": [
+            {
+              "description": "■アークナイツ「エンテレケイア」フィギュア化決定&原型公開メーカー F:NEXhttps://weibo.com/6441489862/QqfH9DzFv",
+              "display_url": "figsoku.net/blog-entry-492…",
+              "end": 74,
+              "expanded_url": "https://figsoku.net/blog-entry-492635.html",
+              "start": 51,
+              "status": 200,
+              "title": "【アークナイツ】F:NEX「エンテレケイア」フィギュア化決定＆原型公開",
+              "unwound_url": "https://figsoku.net/blog-entry-492635.html",
+              "url": "https://t.co/yUbxSARJp1"
+            },
+            {
+              "display_url": "pic.x.com/LhTmHZcfns",
+              "end": 112,
+              "expanded_url": "https://x.com/figsoku/status/2018946428182417776/photo/1",
+              "media_key": "3_2018946411304468481",
+              "start": 89,
+              "url": "https://t.co/LhTmHZcfns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018956761416532471",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018946428182417776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @figsoku: 【アークナイツ】F:NEX「エンテレケイア」\n\nフィギュア化決定＆原型公開\nhttps://t.co/yUbxSARJp1\n#FNEX #アークナイツ https://t.co/LhTmHZcfns"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018946411304468481"
+          ]
+        },
+        "author_id": "292351939",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2018946428182417776",
+        "created_at": "2026-02-04T07:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T08:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018946428182417776"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "エンテレケイア",
+              "probability": 0.6467,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "FNEX"
+            },
+            {
+              "end": 75,
+              "start": 68,
+              "tag": "アークナイツ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "■アークナイツ「エンテレケイア」フィギュア化決定&原型公開メーカー F:NEXhttps://weibo.com/6441489862/QqfH9DzFv",
+              "display_url": "figsoku.net/blog-entry-492…",
+              "end": 61,
+              "expanded_url": "https://figsoku.net/blog-entry-492635.html",
+              "start": 38,
+              "status": 200,
+              "title": "【アークナイツ】F:NEX「エンテレケイア」フィギュア化決定＆原型公開",
+              "unwound_url": "https://figsoku.net/blog-entry-492635.html",
+              "url": "https://t.co/yUbxSARJp1"
+            },
+            {
+              "display_url": "pic.x.com/LhTmHZcfns",
+              "end": 99,
+              "expanded_url": "https://x.com/figsoku/status/2018946428182417776/photo/1",
+              "media_key": "3_2018946411304468481",
+              "start": 76,
+              "url": "https://t.co/LhTmHZcfns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018946428182417776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 8572,
+          "like_count": 138,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "【アークナイツ】F:NEX「エンテレケイア」\n\nフィギュア化決定＆原型公開\nhttps://t.co/yUbxSARJp1\n#FNEX #アークナイツ https://t.co/LhTmHZcfns"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 966,
+          "like_count": 19488,
+          "listed_count": 3,
+          "media_count": 547,
+          "tweet_count": 6896
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-03T14:25:14.000Z",
+        "description": "美少女フィギュアやガンプラ・プラモ・玩具の\n新作情報や予約情報を配信してます！\n\nAmazonアソシエイト・プログラムの参加者です。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "figsoku.net",
+                "end": 23,
+                "expanded_url": "http://figsoku.net/",
+                "start": 0,
+                "url": "https://t.co/paQJpi7uX6"
+              }
+            ]
+          }
+        },
+        "id": "292351939",
+        "location": "ポストにはPR・アフィリエイトのリンクを使用しています。",
+        "name": "ホビー速報＠フィギュア＆プラモ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/809605551332081664/CeREvYxX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176855,
+          "following_count": 2028,
+          "like_count": 51,
+          "listed_count": 2308,
+          "media_count": 64647,
+          "tweet_count": 121718
+        },
+        "url": "https://t.co/paQJpi7uX6",
+        "username": "figsoku",
+        "verified": true
+      }
+    ]
+  }
+}

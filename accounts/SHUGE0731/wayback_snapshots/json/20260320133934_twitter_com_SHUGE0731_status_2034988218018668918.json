@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034964202247659522"
+      ],
+      "media_source_tweet_id": [
+        "2034964612446396646"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2034988218018668918",
+    "created_at": "2026-03-20T13:39:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T14:39:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034988218018668918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622971952809013250",
+          "start": 3,
+          "username": "freely2327"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gjMankl6dl",
+          "end": 41,
+          "expanded_url": "https://x.com/freely2327/status/2034964612446396646/photo/1",
+          "media_key": "3_2034964202247659522",
+          "start": 18,
+          "url": "https://t.co/gjMankl6dl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034988218018668918",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 455
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034964612446396646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @freely2327: ✨ https://t.co/gjMankl6dl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_2034964202247659522",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2lKQWboAIwjwS.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034964202247659522"
+          ],
+          "media_source_tweet_id": [
+            "2034964612446396646"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2034988218018668918",
+        "created_at": "2026-03-20T13:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T14:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034988218018668918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622971952809013250",
+              "start": 3,
+              "username": "freely2327"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gjMankl6dl",
+              "end": 41,
+              "expanded_url": "https://x.com/freely2327/status/2034964612446396646/photo/1",
+              "media_key": "3_2034964202247659522",
+              "start": 18,
+              "url": "https://t.co/gjMankl6dl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034988218018668918",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 455
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034964612446396646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @freely2327: ✨ https://t.co/gjMankl6dl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034964202247659522"
+          ]
+        },
+        "author_id": "1622971952809013250",
+        "conversation_id": "2034964612446396646",
+        "created_at": "2026-03-20T12:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T13:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034964612446396646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gjMankl6dl",
+              "end": 25,
+              "expanded_url": "https://x.com/freely2327/status/2034964612446396646/photo/1",
+              "media_key": "3_2034964202247659522",
+              "start": 2,
+              "url": "https://t.co/gjMankl6dl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034964612446396646",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 332,
+          "impression_count": 21210,
+          "like_count": 3630,
+          "quote_count": 7,
+          "reply_count": 8,
+          "retweet_count": 455
+        },
+        "reply_settings": "everyone",
+        "text": "✨ https://t.co/gjMankl6dl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 1016,
+          "like_count": 24273,
+          "listed_count": 3,
+          "media_count": 596,
+          "tweet_count": 8466
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-07T14:54:36.000Z",
+        "description": "イラスト勉強中。https://t.co/pp1pmWhq3f\nSkeb(https://t.co/WgxEPnaAzY)OC・配信活動者さん◎※R18不可\nご依頼ご連絡用 mwamfreely212@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/91092826",
+                "end": 31,
+                "expanded_url": "http://pixiv.net/users/91092826",
+                "start": 8,
+                "url": "https://t.co/pp1pmWhq3f"
+              },
+              {
+                "display_url": "skeb.jp/@freely2327",
+                "end": 60,
+                "expanded_url": "https://skeb.jp/@freely2327",
+                "start": 37,
+                "url": "https://t.co/WgxEPnaAzY"
+              }
+            ]
+          }
+        },
+        "id": "1622971952809013250",
+        "name": "ふりーりぃ",
+        "pinned_tweet_id": "1859009208085344593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879184668723187712/RA0ZUlGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12417,
+          "following_count": 336,
+          "like_count": 7181,
+          "listed_count": 100,
+          "media_count": 831,
+          "tweet_count": 4969
+        },
+        "username": "freely2327",
+        "verified": false
+      }
+    ]
+  }
+}

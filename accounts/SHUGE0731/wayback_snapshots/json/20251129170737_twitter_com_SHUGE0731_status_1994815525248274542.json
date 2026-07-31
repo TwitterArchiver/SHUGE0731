@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1994759260379779078"
+      ],
+      "media_source_tweet_id": [
+        "1994759336581812566"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1994815525248274542",
+    "created_at": "2025-11-29T17:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T18:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994815525248274542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701522329044721664",
+          "start": 3,
+          "username": "supina_infom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SNnl9AKMUq",
+          "end": 49,
+          "expanded_url": "https://x.com/supina_infom/status/1994759336581812566/video/1",
+          "media_key": "13_1994759260379779078",
+          "start": 26,
+          "url": "https://t.co/SNnl9AKMUq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994815525248274542",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994759336581812566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @supina_infom: おやすみぴちょ https://t.co/SNnl9AKMUq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23966,
+        "height": 1280,
+        "media_key": "13_1994759260379779078",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994759260379779078/img/XUYY6axhFpFMNxFI.jpg",
+        "public_metrics": {
+          "view_count": 306
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994759260379779078/vid/avc1/320x568/K3R80GNmIYUzLKn_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994759260379779078/vid/avc1/480x852/pU6PZHPGbzqgkiU3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994759260379779078/vid/avc1/720x1280/6VtjttnBClFSsD8k.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994759260379779078/pl/TAYE5u1-9D-NqWzs.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994759260379779078"
+          ],
+          "media_source_tweet_id": [
+            "1994759336581812566"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1994815525248274542",
+        "created_at": "2025-11-29T17:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T18:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994815525248274542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701522329044721664",
+              "start": 3,
+              "username": "supina_infom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SNnl9AKMUq",
+              "end": 49,
+              "expanded_url": "https://x.com/supina_infom/status/1994759336581812566/video/1",
+              "media_key": "13_1994759260379779078",
+              "start": 26,
+              "url": "https://t.co/SNnl9AKMUq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994815525248274542",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994759336581812566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @supina_infom: おやすみぴちょ https://t.co/SNnl9AKMUq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994759260379779078"
+          ]
+        },
+        "author_id": "1701522329044721664",
+        "conversation_id": "1994759336581812566",
+        "created_at": "2025-11-29T13:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T14:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994759336581812566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SNnl9AKMUq",
+              "end": 31,
+              "expanded_url": "https://x.com/supina_infom/status/1994759336581812566/video/1",
+              "media_key": "13_1994759260379779078",
+              "start": 8,
+              "url": "https://t.co/SNnl9AKMUq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994759336581812566",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1163,
+          "like_count": 153,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "おやすみぴちょ https://t.co/SNnl9AKMUq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1058,
+          "like_count": 12102,
+          "listed_count": 2,
+          "media_count": 398,
+          "tweet_count": 3218
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T09:05:19.000Z",
+        "description": "愛称ピナ：スピナ ホオミドリアカオウロコインコ ミント♂ 2歳 偶に実家のぴよ（青葉）マメルリハインコ13歳も呟く 鳥の情報収集・日常記録アカウントです",
+        "id": "1701522329044721664",
+        "name": "すぴな🏡",
+        "pinned_tweet_id": "1766789044346991093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738042324972920832/rT3SZQEJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4396,
+          "following_count": 360,
+          "like_count": 29080,
+          "listed_count": 49,
+          "media_count": 5184,
+          "tweet_count": 6997
+        },
+        "username": "supina_infom",
+        "verified": false
+      }
+    ]
+  }
+}

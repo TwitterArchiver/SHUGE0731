@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      }
+    ],
+    "conversation_id": "1965392454292832688",
+    "created_at": "2025-09-09T12:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T13:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965392454292832688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "769070659943235584",
+          "start": 3,
+          "username": "uma_musu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965392454292832688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25813
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965366202680959024",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uma_musu: 9月9日、本作品でモチーフとさせて頂いておりますハルウララ号の訃報が届きました。\n関係者様にはお悔やみ申し上げると共に、偉大な名馬のご冥福を心よりお祈り申し上げます。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "1965392454292832688",
+        "created_at": "2025-09-09T12:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T13:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965392454292832688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "769070659943235584",
+              "start": 3,
+              "username": "uma_musu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965392454292832688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25813
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965366202680959024",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uma_musu: 9月9日、本作品でモチーフとさせて頂いておりますハルウララ号の訃報が届きました。\n関係者様にはお悔やみ申し上げると共に、偉大な名馬のご冥福を心よりお祈り申し上げます。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "769070659943235584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "1965366202680959024",
+        "created_at": "2025-09-09T10:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T11:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965366202680959024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965366202680959024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2099,
+          "impression_count": 1901025,
+          "like_count": 75649,
+          "quote_count": 913,
+          "reply_count": 645,
+          "retweet_count": 25813
+        },
+        "reply_settings": "everyone",
+        "text": "9月9日、本作品でモチーフとさせて頂いておりますハルウララ号の訃報が届きました。\n関係者様にはお悔やみ申し上げると共に、偉大な名馬のご冥福を心よりお祈り申し上げます。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 有一只牡丹鹦鹉叫uno！｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 1000,
+          "like_count": 9030,
+          "listed_count": 2,
+          "media_count": 286,
+          "tweet_count": 1896
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-26T07:15:08.000Z",
+        "description": "ウマ娘プロジェクトの公式アカウントです。\nゲームやＣＤ、イベント新情報などをお届けしてまいります！公式ハッシュタグ→ #ウマ娘",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "ウマ娘"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "umamusume.jp",
+                "end": 23,
+                "expanded_url": "https://umamusume.jp/",
+                "start": 0,
+                "url": "https://t.co/6GM09845DI"
+              }
+            ]
+          }
+        },
+        "id": "769070659943235584",
+        "name": "ウマ娘プロジェクト公式アカウント",
+        "pinned_tweet_id": "1959503473076281706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1364370088367857669/koJ0KmpH_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525027,
+          "following_count": 24,
+          "like_count": 4,
+          "listed_count": 9548,
+          "media_count": 5855,
+          "tweet_count": 10259
+        },
+        "url": "https://t.co/6GM09845DI",
+        "username": "uma_musu",
+        "verified": true
+      }
+    ]
+  }
+}

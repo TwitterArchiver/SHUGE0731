@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948353802597494784"
+      ],
+      "media_source_tweet_id": [
+        "1948373602409336842"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1948781367392960976",
+    "created_at": "2025-07-25T16:24:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T17:24:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948781367392960976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "167585857",
+          "start": 3,
+          "username": "trulysealy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pTyAnyhAj6",
+          "end": 39,
+          "expanded_url": "https://x.com/trulysealy/status/1948373602409336842/photo/1",
+          "media_key": "3_1948353802597494784",
+          "start": 16,
+          "url": "https://t.co/pTyAnyhAj6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948781367392960976",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2138
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948373602409336842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @trulysealy: https://t.co/pTyAnyhAj6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1679,
+        "media_key": "3_1948353802597494784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwnxdeya8AASh9O.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948353802597494784"
+          ],
+          "media_source_tweet_id": [
+            "1948373602409336842"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1948781367392960976",
+        "created_at": "2025-07-25T16:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T17:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948781367392960976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "167585857",
+              "start": 3,
+              "username": "trulysealy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pTyAnyhAj6",
+              "end": 39,
+              "expanded_url": "https://x.com/trulysealy/status/1948373602409336842/photo/1",
+              "media_key": "3_1948353802597494784",
+              "start": 16,
+              "url": "https://t.co/pTyAnyhAj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948781367392960976",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2138
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948373602409336842",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @trulysealy: https://t.co/pTyAnyhAj6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948353802597494784"
+          ]
+        },
+        "author_id": "167585857",
+        "conversation_id": "1948373602409336842",
+        "created_at": "2025-07-24T13:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T14:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948373602409336842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pTyAnyhAj6",
+              "end": 23,
+              "expanded_url": "https://x.com/trulysealy/status/1948373602409336842/photo/1",
+              "media_key": "3_1948353802597494784",
+              "start": 0,
+              "url": "https://t.co/pTyAnyhAj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948373602409336842",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 817,
+          "impression_count": 231062,
+          "like_count": 14664,
+          "quote_count": 28,
+          "reply_count": 7,
+          "retweet_count": 2138
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pTyAnyhAj6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 956,
+          "like_count": 8402,
+          "listed_count": 1,
+          "media_count": 269,
+          "tweet_count": 1755
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-16T23:56:55.000Z",
+        "description": "🇮🇩 / 26 / don't look up sealyx on tenor",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "trulysealy.straw.page",
+                "end": 23,
+                "expanded_url": "https://trulysealy.straw.page/",
+                "start": 0,
+                "url": "https://t.co/Gqy2ev0dCW"
+              }
+            ]
+          }
+        },
+        "id": "167585857",
+        "name": "sealyx 💿",
+        "pinned_tweet_id": "1874679021268828325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870830704151707648/q-QbNbfu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3224,
+          "following_count": 504,
+          "like_count": 22022,
+          "listed_count": 11,
+          "media_count": 2605,
+          "tweet_count": 5838
+        },
+        "url": "https://t.co/Gqy2ev0dCW",
+        "username": "trulysealy",
+        "verified": false
+      }
+    ]
+  }
+}

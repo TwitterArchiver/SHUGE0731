@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002323842895929344"
+      ],
+      "media_source_tweet_id": [
+        "2002323850122743928"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2002407803198099931",
+    "created_at": "2025-12-20T15:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T16:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002407803198099931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1763442016980291585",
+          "start": 3,
+          "username": "10_4angel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aeBsPQc8rX",
+          "end": 45,
+          "expanded_url": "https://x.com/10_4angel/status/2002323850122743928/photo/1",
+          "media_key": "3_2002323842895929344",
+          "start": 22,
+          "url": "https://t.co/aeBsPQc8rX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002407803198099931",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 277
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002323850122743928",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @10_4angel: 魔法少女💔✨ https://t.co/aeBsPQc8rX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2002323842895929344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8mu7SUbYAAnvGl.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002323842895929344"
+          ],
+          "media_source_tweet_id": [
+            "2002323850122743928"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2002407803198099931",
+        "created_at": "2025-12-20T15:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T16:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002407803198099931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1763442016980291585",
+              "start": 3,
+              "username": "10_4angel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aeBsPQc8rX",
+              "end": 45,
+              "expanded_url": "https://x.com/10_4angel/status/2002323850122743928/photo/1",
+              "media_key": "3_2002323842895929344",
+              "start": 22,
+              "url": "https://t.co/aeBsPQc8rX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002407803198099931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 277
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002323850122743928",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @10_4angel: 魔法少女💔✨ https://t.co/aeBsPQc8rX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002323842895929344"
+          ]
+        },
+        "author_id": "1763442016980291585",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2002323850122743928",
+        "created_at": "2025-12-20T10:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T11:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002323850122743928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aeBsPQc8rX",
+              "end": 30,
+              "expanded_url": "https://x.com/10_4angel/status/2002323850122743928/photo/1",
+              "media_key": "3_2002323842895929344",
+              "start": 7,
+              "url": "https://t.co/aeBsPQc8rX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002323850122743928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 171,
+          "impression_count": 36209,
+          "like_count": 5069,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 277
+        },
+        "reply_settings": "everyone",
+        "text": "魔法少女💔✨ https://t.co/aeBsPQc8rX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 1037,
+          "like_count": 14577,
+          "listed_count": 2,
+          "media_count": 468,
+          "tweet_count": 4582
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T05:52:04.000Z",
+        "description": "💖🔪illustration\nご依頼DM or skeb( https://t.co/4HoxUqM1fd )\nILLUSTRATION2026 掲載",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@10_4angel",
+                "end": 53,
+                "expanded_url": "https://skeb.jp/@10_4angel",
+                "start": 30,
+                "url": "https://t.co/4HoxUqM1fd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/7oxwnt39i…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/7oxwnt39ib9wzcvb/",
+                "start": 0,
+                "url": "https://t.co/HRlVdIwHN9"
+              }
+            ]
+          }
+        },
+        "id": "1763442016980291585",
+        "name": "星村 ゆめぁ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763935994188103680/XArqZf_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23557,
+          "following_count": 45,
+          "like_count": 4596,
+          "listed_count": 115,
+          "media_count": 125,
+          "tweet_count": 362
+        },
+        "url": "https://t.co/HRlVdIwHN9",
+        "username": "10_4angel",
+        "verified": false
+      }
+    ]
+  }
+}

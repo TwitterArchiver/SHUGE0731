@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898694792965677056"
+      ],
+      "media_source_tweet_id": [
+        "1898694847386759651"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1898706024204492915",
+    "created_at": "2025-03-09T12:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T13:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898706024204492915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1112971556613812224",
+          "start": 3,
+          "username": "ccguai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bZsB8zmvSq",
+          "end": 37,
+          "expanded_url": "https://x.com/ccguai/status/1898694847386759651/photo/1",
+          "media_key": "3_1898694792965677056",
+          "start": 14,
+          "url": "https://t.co/bZsB8zmvSq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898706024204492915",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 119
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898694847386759651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ccguai: 🐶 https://t.co/bZsB8zmvSq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_1898694792965677056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlmE2r-aYAAa-ZZ.jpg",
+        "width": 2250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898694792965677056"
+          ],
+          "media_source_tweet_id": [
+            "1898694847386759651"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1898706024204492915",
+        "created_at": "2025-03-09T12:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T13:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898706024204492915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1112971556613812224",
+              "start": 3,
+              "username": "ccguai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bZsB8zmvSq",
+              "end": 37,
+              "expanded_url": "https://x.com/ccguai/status/1898694847386759651/photo/1",
+              "media_key": "3_1898694792965677056",
+              "start": 14,
+              "url": "https://t.co/bZsB8zmvSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898706024204492915",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898694847386759651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ccguai: 🐶 https://t.co/bZsB8zmvSq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898694792965677056"
+          ]
+        },
+        "author_id": "1112971556613812224",
+        "conversation_id": "1898694847386759651",
+        "created_at": "2025-03-09T11:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T12:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898694847386759651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bZsB8zmvSq",
+              "end": 25,
+              "expanded_url": "https://x.com/ccguai/status/1898694847386759651/photo/1",
+              "media_key": "3_1898694792965677056",
+              "start": 2,
+              "url": "https://t.co/bZsB8zmvSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898694847386759651",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 3865,
+          "like_count": 617,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "🐶 https://t.co/bZsB8zmvSq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 874,
+          "like_count": 5479,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 1218
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-02T06:54:31.000Z",
+        "description": "摸鱼画画，大都明日方舟相关 微博https://t.co/tAdQr3rvrn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/6298015871",
+                "end": 39,
+                "expanded_url": "http://weibo.com/u/6298015871",
+                "start": 16,
+                "url": "https://t.co/tAdQr3rvrn"
+              }
+            ]
+          }
+        },
+        "id": "1112971556613812224",
+        "location": "中国",
+        "name": "Chichi怪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635493324458196993/Ny5LpQPn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10599,
+          "following_count": 579,
+          "like_count": 2971,
+          "listed_count": 94,
+          "media_count": 210,
+          "tweet_count": 745
+        },
+        "username": "ccguai",
+        "verified": false
+      }
+    ]
+  }
+}

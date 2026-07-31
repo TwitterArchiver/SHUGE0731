@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015188180903866370"
+      ],
+      "media_source_tweet_id": [
+        "2015188185651765595"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2015382721552580680",
+    "created_at": "2026-01-25T11:14:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T12:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015382721552580680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1890343594248036352",
+          "start": 3,
+          "username": "lihongzhi425"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7mEBtxM7xB",
+          "end": 57,
+          "expanded_url": "https://x.com/lihongzhi425/status/2015188185651765595/photo/1",
+          "media_key": "3_2015188180903866370",
+          "start": 34,
+          "url": "https://t.co/7mEBtxM7xB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015382721552580680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015188185651765595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lihongzhi425: 团派江派那点能人可以组个秦城派 https://t.co/7mEBtxM7xB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1043,
+        "media_key": "3_2015188180903866370",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_di-T5XMAIA-Nd.jpg",
+        "width": 1123
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015188180903866370"
+          ],
+          "media_source_tweet_id": [
+            "2015188185651765595"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2015382721552580680",
+        "created_at": "2026-01-25T11:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T12:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015382721552580680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1890343594248036352",
+              "start": 3,
+              "username": "lihongzhi425"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7mEBtxM7xB",
+              "end": 57,
+              "expanded_url": "https://x.com/lihongzhi425/status/2015188185651765595/photo/1",
+              "media_key": "3_2015188180903866370",
+              "start": 34,
+              "url": "https://t.co/7mEBtxM7xB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015382721552580680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015188185651765595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lihongzhi425: 团派江派那点能人可以组个秦城派 https://t.co/7mEBtxM7xB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015188180903866370"
+          ]
+        },
+        "author_id": "1890343594248036352",
+        "conversation_id": "2015188185651765595",
+        "created_at": "2026-01-24T22:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T23:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015188185651765595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7mEBtxM7xB",
+              "end": 39,
+              "expanded_url": "https://x.com/lihongzhi425/status/2015188185651765595/photo/1",
+              "media_key": "3_2015188180903866370",
+              "start": 16,
+              "url": "https://t.co/7mEBtxM7xB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015188185651765595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 20067,
+          "like_count": 345,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "团派江派那点能人可以组个秦城派 https://t.co/7mEBtxM7xB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 998,
+          "like_count": 18288,
+          "listed_count": 3,
+          "media_count": 532,
+          "tweet_count": 6482
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T10:14:29.000Z",
+        "description": "我坚信，任何困难都难不倒英雄的中国人民",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/zhaohongzhi1126",
+                "end": 23,
+                "expanded_url": "https://x.com/zhaohongzhi1126",
+                "start": 0,
+                "url": "https://t.co/atUKW9bjjK"
+              }
+            ]
+          }
+        },
+        "id": "1890343594248036352",
+        "location": "刘家峡水电站",
+        "name": "李洪志🇨🇳🇪🇺🇭🇰🇲🇴",
+        "pinned_tweet_id": "1976684323727421668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998170053414408192/S-mMJ6xd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 1016,
+          "like_count": 6537,
+          "listed_count": 9,
+          "media_count": 1106,
+          "tweet_count": 5037
+        },
+        "url": "https://t.co/atUKW9bjjK",
+        "username": "lihongzhi425",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1997234026172887112",
+    "created_at": "2025-12-06T09:40:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T10:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997239689498210457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1814968084538826753",
+          "start": 0,
+          "username": "aiyuqiu4ev10883"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997239689498210457",
+    "in_reply_to_user_id": "1814968084538826753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997234026172887112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiyuqiu4ev10883 咪咪！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6780,
+        "height": 1280,
+        "media_key": "7_1997233984921845761",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1997233984921845761/pu/img/a2lcz5kKt7GlthH-.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997233984921845761/pu/vid/avc1/320x568/8KCesvtoL9tD4_Qr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997233984921845761/pu/vid/avc1/480x852/EoxuKOpAE2xzWymf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997233984921845761/pu/vid/avc1/720x1280/rfvj59C5Z4JgX36U.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1997233984921845761/pu/pl/rDUVOkpNYo_p4W5A.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1997234026172887112",
+        "created_at": "2025-12-06T09:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T10:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997239689498210457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1814968084538826753",
+              "start": 0,
+              "username": "aiyuqiu4ev10883"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997239689498210457",
+        "in_reply_to_user_id": "1814968084538826753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997234026172887112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiyuqiu4ev10883 咪咪！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1997233984921845761"
+          ]
+        },
+        "author_id": "1814968084538826753",
+        "conversation_id": "1997234026172887112",
+        "created_at": "2025-12-06T09:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T10:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997234026172887112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CdfaZkiVQd",
+              "end": 23,
+              "expanded_url": "https://x.com/aiyuqiu4ev10883/status/1997234026172887112/video/1",
+              "media_key": "7_1997233984921845761",
+              "start": 0,
+              "url": "https://t.co/CdfaZkiVQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997234026172887112",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CdfaZkiVQd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 1059,
+          "like_count": 12650,
+          "listed_count": 2,
+          "media_count": 413,
+          "tweet_count": 3541
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T10:18:13.000Z",
+        "description": "立希漂亮漂亮",
+        "id": "1814968084538826753",
+        "location": "中南海",
+        "name": "邪恶立希希",
+        "pinned_tweet_id": "1988210475360997463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889311638156726272/jweyIFL7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 331,
+          "like_count": 1117,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 2116
+        },
+        "username": "aiyuqiu4ev10883",
+        "verified": false
+      }
+    ]
+  }
+}

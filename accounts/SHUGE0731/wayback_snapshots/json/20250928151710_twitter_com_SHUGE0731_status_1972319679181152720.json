@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1972317695099249035",
+    "created_at": "2025-09-28T15:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T16:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972319679181152720"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 12,
+          "normalized_text": "好美",
+          "probability": 0.4881,
+          "start": 11,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1946642385028718592",
+          "start": 0,
+          "username": "kurabakei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972319679181152720",
+    "in_reply_to_user_id": "1946642385028718592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972317695099249035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurabakei 好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6106,
+        "height": 1280,
+        "media_key": "7_1972317673313980416",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1972317673313980416/pu/img/0lJo4YM6sEFMU56J.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1972317673313980416/pu/vid/avc1/320x568/NkCtJwPiHW20BDtJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1972317673313980416/pu/vid/avc1/480x852/f18rQW2RQpKdSUgH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1972317673313980416/pu/vid/avc1/720x1280/61pkLEt8dEFGQLkx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1972317673313980416/pu/pl/WPmX3lU-3wtYYTxU.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1972317695099249035",
+        "created_at": "2025-09-28T15:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T16:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972319679181152720"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "好美",
+              "probability": 0.4881,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1946642385028718592",
+              "start": 0,
+              "username": "kurabakei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972319679181152720",
+        "in_reply_to_user_id": "1946642385028718592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972317695099249035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurabakei 好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1972317673313980416"
+          ]
+        },
+        "author_id": "1946642385028718592",
+        "conversation_id": "1972317695099249035",
+        "created_at": "2025-09-28T15:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T16:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972317695099249035"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "病み垢"
+            },
+            {
+              "end": 25,
+              "start": 13,
+              "tag": "病み垢女子と繫がりたい"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "メンヘラ"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "地雷女子"
+            },
+            {
+              "end": 45,
+              "start": 38,
+              "tag": "リストカット"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "リスカ"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "自傷行為"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "自傷"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WPuMYRiPt0",
+              "end": 84,
+              "expanded_url": "https://x.com/kurabakei/status/1972317695099249035/video/1",
+              "media_key": "7_1972317673313980416",
+              "start": 61,
+              "url": "https://t.co/WPuMYRiPt0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972317695099249035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "滤镜很合适哦\n\n#病み垢 #病み垢女子と繫がりたい #メンヘラ #地雷女子 #リストカット #リスカ #自傷行為 #自傷 https://t.co/WPuMYRiPt0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣  |  中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 1034,
+          "like_count": 9459,
+          "listed_count": 2,
+          "media_count": 304,
+          "tweet_count": 2058
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T18:44:58.000Z",
+        "description": "病み垢/リスカ/09/地雷女子/メンヘラ",
+        "id": "1946642385028718592",
+        "location": "地獄",
+        "name": "闇葉(悪魔の転生)",
+        "pinned_tweet_id": "1946643601892806769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969689671828680704/v3fvWkPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 165,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 27
+        },
+        "username": "kurabakei",
+        "verified": false
+      }
+    ]
+  }
+}

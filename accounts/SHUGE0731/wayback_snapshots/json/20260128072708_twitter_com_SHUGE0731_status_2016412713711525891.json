@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2016350188257120263",
+    "created_at": "2026-01-28T07:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T08:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016412713711525891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1988861722602700800",
+          "start": 0,
+          "username": "outdoorhydrant"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016412713711525891",
+    "in_reply_to_user_id": "1988861722602700800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016350188257120263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@outdoorhydrant 你做的对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2016350188257120263",
+        "created_at": "2026-01-28T07:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T08:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016412713711525891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1988861722602700800",
+              "start": 0,
+              "username": "outdoorhydrant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016412713711525891",
+        "in_reply_to_user_id": "1988861722602700800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016350188257120263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@outdoorhydrant 你做的对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988861722602700800",
+        "conversation_id": "2016350188257120263",
+        "created_at": "2026-01-28T03:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T04:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016350188257120263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shuge0731/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/shuge0731/status/2016013717327212980",
+              "start": 6,
+              "url": "https://t.co/SBk7o4KUHt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016350188257120263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016013717327212980",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我干活…… https://t.co/SBk7o4KUHt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 968,
+          "like_count": 18588,
+          "listed_count": 3,
+          "media_count": 537,
+          "tweet_count": 6614
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T06:49:32.000Z",
+        "description": "",
+        "id": "1988861722602700800",
+        "name": "outdoorfirehydrant",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 66,
+          "like_count": 5863,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 124
+        },
+        "username": "outdoorhydrant",
+        "verified": false
+      }
+    ]
+  }
+}

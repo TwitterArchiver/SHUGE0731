@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2027076988834599351",
+    "created_at": "2026-02-26T19:46:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T20:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027108076076282296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1848669752190709760",
+          "start": 0,
+          "username": "ai9633"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027108076076282296",
+    "in_reply_to_user_id": "1848669752190709760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027076988834599351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ai9633 你好 萌物！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2027076985584025600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGfx0obAAAXV1N.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2027076988834599351",
+        "created_at": "2026-02-26T19:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T20:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027108076076282296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1848669752190709760",
+              "start": 0,
+              "username": "ai9633"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027108076076282296",
+        "in_reply_to_user_id": "1848669752190709760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027076988834599351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ai9633 你好 萌物！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027076985584025600"
+          ]
+        },
+        "author_id": "1848669752190709760",
+        "conversation_id": "2027076988834599351",
+        "created_at": "2026-02-26T17:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T18:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027076988834599351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ac0BEF66lw",
+              "end": 27,
+              "expanded_url": "https://x.com/ai9633/status/2027076988834599351/photo/1",
+              "media_key": "3_2027076985584025600",
+              "start": 4,
+              "url": "https://t.co/Ac0BEF66lw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027076988834599351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你谁。 https://t.co/Ac0BEF66lw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ 最最亲爱的恋人&主人 @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 1001,
+          "like_count": 22598,
+          "listed_count": 3,
+          "media_count": 580,
+          "tweet_count": 8018
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-22T10:16:40.000Z",
+        "description": "电子日记本  草所有人。",
+        "id": "1848669752190709760",
+        "location": "你是我荒漠中的雨季 绝处逢生的春天",
+        "name": "草莓芭菲",
+        "pinned_tweet_id": "1862181409659789671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005279751595065347/AieLD4-E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 116,
+          "like_count": 4344,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 459
+        },
+        "username": "ai9633",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1476121747724255232",
+          "name": "その着せ替え人形は恋をする"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1469040355840462848",
+          "name": "Hollow Knight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403407197669715972",
+          "name": "Indie games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1469040355840462848",
+          "name": "Hollow Knight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900785013129216",
+          "name": "Soulslike games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491901038063878146",
+          "name": "Metroidvanias"
+        }
+      }
+    ],
+    "conversation_id": "1964193993568505993",
+    "created_at": "2025-09-06T05:08:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T06:08:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964193993568505993"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 94,
+          "start": 90,
+          "tag": "着せ恋"
+        },
+        {
+          "end": 112,
+          "start": 95,
+          "tag": "MyDressUpDarling"
+        },
+        {
+          "end": 122,
+          "start": 113,
+          "tag": "Silksong"
+        },
+        {
+          "end": 130,
+          "start": 123,
+          "tag": "hornet"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "247872672",
+          "start": 3,
+          "username": "Drowsy_sheep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964193993568505993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2572
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963857642146922957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Drowsy_sheep: Kitagawa Marin / 喜多川 海夢 \nGonna play a bit of a game and then crash.\nおやす\n#着せ恋 #MyDressUpDarling #Silksong #hornet https://…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1408,
+        "media_key": "3_1963857213048729600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0EFuvVbsAAgfj2.jpg",
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1476121747724255232",
+              "name": "その着せ替え人形は恋をする"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1469040355840462848",
+              "name": "Hollow Knight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403407197669715972",
+              "name": "Indie games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1469040355840462848",
+              "name": "Hollow Knight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491901038063878146",
+              "name": "Metroidvanias"
+            }
+          }
+        ],
+        "conversation_id": "1964193993568505993",
+        "created_at": "2025-09-06T05:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T06:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964193993568505993"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "着せ恋"
+            },
+            {
+              "end": 112,
+              "start": 95,
+              "tag": "MyDressUpDarling"
+            },
+            {
+              "end": 122,
+              "start": 113,
+              "tag": "Silksong"
+            },
+            {
+              "end": 130,
+              "start": 123,
+              "tag": "hornet"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "247872672",
+              "start": 3,
+              "username": "Drowsy_sheep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964193993568505993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2572
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963857642146922957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Drowsy_sheep: Kitagawa Marin / 喜多川 海夢 \nGonna play a bit of a game and then crash.\nおやす\n#着せ恋 #MyDressUpDarling #Silksong #hornet https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963857213048729600"
+          ]
+        },
+        "author_id": "247872672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1476121747724255232",
+              "name": "その着せ替え人形は恋をする"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1469040355840462848",
+              "name": "Hollow Knight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403407197669715972",
+              "name": "Indie games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1469040355840462848",
+              "name": "Hollow Knight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491901038063878146",
+              "name": "Metroidvanias"
+            }
+          }
+        ],
+        "conversation_id": "1963857642146922957",
+        "created_at": "2025-09-05T06:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T07:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963857642146922957"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "着せ恋"
+            },
+            {
+              "end": 94,
+              "start": 77,
+              "tag": "MyDressUpDarling"
+            },
+            {
+              "end": 104,
+              "start": 95,
+              "tag": "Silksong"
+            },
+            {
+              "end": 112,
+              "start": 105,
+              "tag": "hornet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XkOHEugt3k",
+              "end": 136,
+              "expanded_url": "https://x.com/Drowsy_sheep/status/1963857642146922957/photo/1",
+              "media_key": "3_1963857213048729600",
+              "start": 113,
+              "url": "https://t.co/XkOHEugt3k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963857642146922957",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5843,
+          "impression_count": 542698,
+          "like_count": 32365,
+          "quote_count": 28,
+          "reply_count": 29,
+          "retweet_count": 2572
+        },
+        "reply_settings": "everyone",
+        "text": "Kitagawa Marin / 喜多川 海夢 \nGonna play a bit of a game and then crash.\nおやす\n#着せ恋 #MyDressUpDarling #Silksong #hornet https://t.co/XkOHEugt3k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 993,
+          "like_count": 8942,
+          "listed_count": 1,
+          "media_count": 282,
+          "tweet_count": 1875
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-05T19:11:06.000Z",
+        "description": "Fan Art / Original Art\n🔞🎨: 〇ョナ, Defeated, 無様エ〇, Instant loss\n相談DM可✨\n🔞Patreon: https://t.co/4CupXbpRzY\n🔽リンクに支援サイト🔞, Commission, 依頼, 作品等をまとめました🔽",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/c/DozyMoth",
+                "end": 101,
+                "expanded_url": "https://www.patreon.com/c/DozyMoth",
+                "start": 78,
+                "url": "https://t.co/4CupXbpRzY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nyangoromochi",
+                "end": 23,
+                "expanded_url": "https://lit.link/nyangoromochi",
+                "start": 0,
+                "url": "https://t.co/vhgecXcd7v"
+              }
+            ]
+          }
+        },
+        "id": "247872672",
+        "location": "Washington, USA",
+        "name": "にゃんごろもち",
+        "pinned_tweet_id": "1955464623102304710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786260237395369984/EdtSOGCj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206397,
+          "following_count": 590,
+          "like_count": 7975,
+          "listed_count": 1194,
+          "media_count": 1448,
+          "tweet_count": 2747
+        },
+        "url": "https://t.co/vhgecXcd7v",
+        "username": "Drowsy_sheep",
+        "verified": true
+      }
+    ]
+  }
+}

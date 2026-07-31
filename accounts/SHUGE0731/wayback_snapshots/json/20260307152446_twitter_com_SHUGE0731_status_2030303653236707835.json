@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030209321334927360"
+      ],
+      "media_source_tweet_id": [
+        "2030209328398127206"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2030303653236707835",
+    "created_at": "2026-03-07T15:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T16:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030303653236707835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1215133974768390145",
+          "start": 3,
+          "username": "CPU100C"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/subeKTZXo0",
+          "end": 36,
+          "expanded_url": "https://x.com/CPU100C/status/2030209328398127206/photo/1",
+          "media_key": "3_2030209321334927360",
+          "start": 13,
+          "url": "https://t.co/subeKTZXo0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030303653236707835",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 176
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030209328398127206",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CPU100C: https://t.co/subeKTZXo0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1642,
+        "media_key": "3_2030209321334927360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCzAnwna8AAl767.jpg",
+        "width": 1332
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030209321334927360"
+          ],
+          "media_source_tweet_id": [
+            "2030209328398127206"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2030303653236707835",
+        "created_at": "2026-03-07T15:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030303653236707835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1215133974768390145",
+              "start": 3,
+              "username": "CPU100C"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/subeKTZXo0",
+              "end": 36,
+              "expanded_url": "https://x.com/CPU100C/status/2030209328398127206/photo/1",
+              "media_key": "3_2030209321334927360",
+              "start": 13,
+              "url": "https://t.co/subeKTZXo0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030303653236707835",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 176
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030209328398127206",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CPU100C: https://t.co/subeKTZXo0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030209321334927360"
+          ]
+        },
+        "author_id": "1215133974768390145",
+        "conversation_id": "2030209328398127206",
+        "created_at": "2026-03-07T09:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T10:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030209328398127206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/subeKTZXo0",
+              "end": 23,
+              "expanded_url": "https://x.com/CPU100C/status/2030209328398127206/photo/1",
+              "media_key": "3_2030209321334927360",
+              "start": 0,
+              "url": "https://t.co/subeKTZXo0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030209328398127206",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 312,
+          "impression_count": 22873,
+          "like_count": 2659,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 176
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/subeKTZXo0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 1005,
+          "like_count": 23310,
+          "listed_count": 3,
+          "media_count": 585,
+          "tweet_count": 8218
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-09T04:52:10.000Z",
+        "description": "📧 CPU100C666@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kre.pe/RMpH",
+                "end": 23,
+                "expanded_url": "https://kre.pe/RMpH",
+                "start": 0,
+                "url": "https://t.co/7ycY2vxis6"
+              }
+            ]
+          }
+        },
+        "id": "1215133974768390145",
+        "location": "自分に正直に",
+        "name": "100℃",
+        "pinned_tweet_id": "2024493075087945898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920530323789533184/J3RVMa2O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14506,
+          "following_count": 494,
+          "like_count": 11234,
+          "listed_count": 81,
+          "media_count": 7216,
+          "tweet_count": 50416
+        },
+        "url": "https://t.co/7ycY2vxis6",
+        "username": "CPU100C",
+        "verified": false
+      }
+    ]
+  }
+}

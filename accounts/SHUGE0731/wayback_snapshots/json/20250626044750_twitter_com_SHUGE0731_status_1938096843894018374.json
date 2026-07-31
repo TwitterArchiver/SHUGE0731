@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1938070094858551520",
+    "created_at": "2025-06-26T04:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T05:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938096843894018374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1492081792664637440",
+          "start": 0,
+          "username": "PaladinMisaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938096843894018374",
+    "in_reply_to_user_id": "1492081792664637440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938070094858551520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaladinMisaki 毕业快乐喵！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 822,
+        "media_key": "3_1938070083341062150",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuVoePNbEAYCTry.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1938070094858551520",
+        "created_at": "2025-06-26T04:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T05:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938096843894018374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1492081792664637440",
+              "start": 0,
+              "username": "PaladinMisaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938096843894018374",
+        "in_reply_to_user_id": "1492081792664637440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938070094858551520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaladinMisaki 毕业快乐喵！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938070083341062150"
+          ]
+        },
+        "author_id": "1492081792664637440",
+        "conversation_id": "1938070094858551520",
+        "created_at": "2025-06-26T03:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T04:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938070094858551520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CiSGKfRl6h",
+              "end": 32,
+              "expanded_url": "https://x.com/PaladinMisaki/status/1938070094858551520/photo/1",
+              "media_key": "3_1938070083341062150",
+              "start": 9,
+              "url": "https://t.co/CiSGKfRl6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938070094858551520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毕业啰～逃离广州 https://t.co/CiSGKfRl6h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 948,
+          "like_count": 8177,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 1692
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T10:23:41.000Z",
+        "description": "鸡鸡向上的人｜我乃始终面带微笑的Misaki🎵｜需要互fo请来私信罢，需要点时间有时候广告信息太多没注意看🌃｜可以在「回复」观看我的平日发言，这可以反映我的实时观点",
+        "id": "1492081792664637440",
+        "location": "天鹅座α、牵牛星、织女星组成的夏季大三角🌠",
+        "name": "圣骑士見崎Misakiちゃん✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934455701923106816/FPGVQs3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2887,
+          "following_count": 579,
+          "like_count": 54494,
+          "listed_count": 6,
+          "media_count": 2758,
+          "tweet_count": 19004
+        },
+        "username": "PaladinMisaki",
+        "verified": false
+      }
+    ]
+  }
+}

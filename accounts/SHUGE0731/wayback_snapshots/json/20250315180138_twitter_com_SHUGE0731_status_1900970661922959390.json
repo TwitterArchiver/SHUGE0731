@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900970336570798080",
+        "13_1900970336587575299",
+        "3_1900970336574922752",
+        "13_1900970336826650625"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1900970661922959390",
+    "created_at": "2025-03-15T18:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T19:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900970661922959390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q71HnSpMse",
+          "end": 28,
+          "expanded_url": "https://x.com/SHUGE0731/status/1900970661922959390/video/1",
+          "media_key": "3_1900970336570798080",
+          "start": 5,
+          "url": "https://t.co/q71HnSpMse"
+        },
+        {
+          "display_url": "pic.x.com/q71HnSpMse",
+          "end": 28,
+          "expanded_url": "https://x.com/SHUGE0731/status/1900970661922959390/video/1",
+          "media_key": "13_1900970336587575299",
+          "start": 5,
+          "url": "https://t.co/q71HnSpMse"
+        },
+        {
+          "display_url": "pic.x.com/q71HnSpMse",
+          "end": 28,
+          "expanded_url": "https://x.com/SHUGE0731/status/1900970661922959390/video/1",
+          "media_key": "3_1900970336574922752",
+          "start": 5,
+          "url": "https://t.co/q71HnSpMse"
+        },
+        {
+          "display_url": "pic.x.com/q71HnSpMse",
+          "end": 28,
+          "expanded_url": "https://x.com/SHUGE0731/status/1900970661922959390/video/1",
+          "media_key": "13_1900970336826650625",
+          "start": 5,
+          "url": "https://t.co/q71HnSpMse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900970661922959390",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爽死我了 https://t.co/q71HnSpMse"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1900970336570798080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmGacwfbcAARE93.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 153693,
+        "height": 720,
+        "media_key": "13_1900970336587575299",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1900970336587575299/img/mWhyERzV5b2oJk6q.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900970336587575299/vid/avc1/480x270/SUkUEbHgVSDwv4sm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900970336587575299/vid/avc1/640x360/mT4k-0v0cffdRrZM.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900970336587575299/vid/avc1/1280x720/pTBHx9hnb13MZcLj.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1900970336587575299/pl/GGyqDsqfhRYL2Ry8.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1900970336574922752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmGacwgaYAAsH6O.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 18203,
+        "height": 720,
+        "media_key": "13_1900970336826650625",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1900970336826650625/img/nVH54Hg26pn0t_42.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900970336826650625/vid/avc1/480x270/xdc7vyaV4qStbsBr.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900970336826650625/vid/avc1/640x360/xAwbDGJswH3Q1ef8.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900970336826650625/vid/avc1/1280x720/htHXZWcPfjrW8wh5.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1900970336826650625/pl/qqh8z3Yf22clPqQ6.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900970336570798080",
+            "13_1900970336587575299",
+            "3_1900970336574922752",
+            "13_1900970336826650625"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1900970661922959390",
+        "created_at": "2025-03-15T18:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T19:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900970661922959390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q71HnSpMse",
+              "end": 28,
+              "expanded_url": "https://x.com/SHUGE0731/status/1900970661922959390/video/1",
+              "media_key": "3_1900970336570798080",
+              "start": 5,
+              "url": "https://t.co/q71HnSpMse"
+            },
+            {
+              "display_url": "pic.x.com/q71HnSpMse",
+              "end": 28,
+              "expanded_url": "https://x.com/SHUGE0731/status/1900970661922959390/video/1",
+              "media_key": "13_1900970336587575299",
+              "start": 5,
+              "url": "https://t.co/q71HnSpMse"
+            },
+            {
+              "display_url": "pic.x.com/q71HnSpMse",
+              "end": 28,
+              "expanded_url": "https://x.com/SHUGE0731/status/1900970661922959390/video/1",
+              "media_key": "3_1900970336574922752",
+              "start": 5,
+              "url": "https://t.co/q71HnSpMse"
+            },
+            {
+              "display_url": "pic.x.com/q71HnSpMse",
+              "end": 28,
+              "expanded_url": "https://x.com/SHUGE0731/status/1900970661922959390/video/1",
+              "media_key": "13_1900970336826650625",
+              "start": 5,
+              "url": "https://t.co/q71HnSpMse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900970661922959390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爽死我了 https://t.co/q71HnSpMse"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 882,
+          "like_count": 5630,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 1241
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      }
+    ]
+  }
+}

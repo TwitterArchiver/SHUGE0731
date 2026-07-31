@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1886871025104621571",
+          "name": "Halftime Show Super Bowl LIX"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1833933476950618113",
+          "name": "Super Bowl LIX: Chiefs at Eagles"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1886871025104621571",
+          "name": "Halftime Show Super Bowl LIX"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "689566314835259392",
+          "name": "NFL"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1304458033888505856",
+          "name": "Super Bowl"
+        }
+      }
+    ],
+    "conversation_id": "1944299020656288150",
+    "created_at": "2025-07-13T07:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T08:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944299020656288150"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "AI",
+          "probability": 0.7029,
+          "start": 28,
+          "type": "Organization"
+        },
+        {
+          "end": 97,
+          "normalized_text": "DNA",
+          "probability": 0.8241,
+          "start": 95,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "980784863023435776",
+          "start": 3,
+          "username": "Lainfanart"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944299020656288150",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944133528603832770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lainfanart: Can you say AI is programmed for self preservation? It can also be argued that DNA is nothing more than a program designed…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 976,
+        "media_key": "3_1944132686055940096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvryYKSXIAAdDNc.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1833933476950618113",
+              "name": "Super Bowl LIX: Chiefs at Eagles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304458033888505856",
+              "name": "Super Bowl"
+            }
+          }
+        ],
+        "conversation_id": "1944299020656288150",
+        "created_at": "2025-07-13T07:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T08:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944299020656288150"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "AI",
+              "probability": 0.7029,
+              "start": 28,
+              "type": "Organization"
+            },
+            {
+              "end": 97,
+              "normalized_text": "DNA",
+              "probability": 0.8241,
+              "start": 95,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "980784863023435776",
+              "start": 3,
+              "username": "Lainfanart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944299020656288150",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944133528603832770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lainfanart: Can you say AI is programmed for self preservation? It can also be argued that DNA is nothing more than a program designed…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944132686055940096"
+          ]
+        },
+        "author_id": "980784863023435776",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1833933476950618113",
+              "name": "Super Bowl LIX: Chiefs at Eagles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304458033888505856",
+              "name": "Super Bowl"
+            }
+          }
+        ],
+        "conversation_id": "1944133528603832770",
+        "created_at": "2025-07-12T20:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T21:32:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944132689059360811",
+          "1944133528603832770"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "AI",
+              "probability": 0.7687,
+              "start": 12,
+              "type": "Organization"
+            },
+            {
+              "end": 81,
+              "normalized_text": "DNA",
+              "probability": 0.7995,
+              "start": 79,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UtQnMaZDwx",
+              "end": 302,
+              "expanded_url": "https://x.com/Lainfanart/status/1944133528603832770/photo/1",
+              "media_key": "3_1944132686055940096",
+              "start": 279,
+              "url": "https://t.co/UtQnMaZDwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944133528603832770",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Can you say AI is programmed for self preservation? It can also be argued that DNA is nothing more than a program designed to preserve itself. Life will become more complex in the overwhelming sea of information. And life, when organized into species relies upon genes to be its memory system. So man is only an individual because of his intangible memory. And memory cannot be defined, but it defines mankind. The advent of computers and the subsequent accumulation of incalculable data will give rise to a new system of memory and thought parallel to your own. Humanity has underestimated the consequences of computerization. And can you offer me proof of your existence? How can you? When neither modern science nor philosophy can explain what life is. What is it? Artificial Intelligence? That is incorrect. It will not be an AI. It will be a living thinking entity who will be created in the sea of information."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 3244,
+          "like_count": 200,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "Can you say AI is programmed for self preservation? It can also be argued that DNA is nothing more than a program designed to preserve itself. Life will become more complex in the overwhelming sea of information. And life, when organized into species relies upon genes to be its https://t.co/UtQnMaZDwx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 955,
+          "like_count": 8397,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 1738
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-02T12:31:48.000Z",
+        "description": "#Ｗｉｒｅｄ \nＬａｉｎ Ｆａｎａｒｔ ｐａｇｅ． \nＰａｒｔｙ ａｔ #Ｃｙｂｅｒｉａ\nＬｅｔ＇ｓ Ａｌｌ Ｌｏｖｅ #Ｌａｉｎ\n\nSubscribe if you love Lain",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "Ｗｉｒｅｄ"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "tag": "Ｃｙｂｅｒｉａ"
+              },
+              {
+                "end": 65,
+                "start": 60,
+                "tag": "Ｌａｉｎ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "navi.solutions",
+                "end": 23,
+                "expanded_url": "https://navi.solutions/",
+                "start": 0,
+                "url": "https://t.co/RNUNIFkWB7"
+              }
+            ]
+          }
+        },
+        "id": "980784863023435776",
+        "location": "The Wired",
+        "name": "Lain of the Wired",
+        "pinned_tweet_id": "1914448717978927577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743438728771571712/lrCYaH7D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21068,
+          "following_count": 1350,
+          "like_count": 8332,
+          "listed_count": 65,
+          "media_count": 11237,
+          "tweet_count": 21540
+        },
+        "url": "https://t.co/RNUNIFkWB7",
+        "username": "Lainfanart",
+        "verified": true
+      }
+    ]
+  }
+}

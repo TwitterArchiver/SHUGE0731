@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052862569699053568"
+      ],
+      "media_source_tweet_id": [
+        "2052862578112786758"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2053005077783388519",
+    "created_at": "2026-05-09T06:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T07:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053005077783388519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "939390319",
+          "start": 3,
+          "username": "gigzagu123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mtj7mAe2xq",
+          "end": 39,
+          "expanded_url": "https://x.com/gigzagu123/status/2052862578112786758/photo/1",
+          "media_key": "3_2052862569699053568",
+          "start": 16,
+          "url": "https://t.co/mtj7mAe2xq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053005077783388519",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 698
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052862578112786758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @gigzagu123: https://t.co/mtj7mAe2xq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_2052862569699053568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH07oW-bkAAhTxX.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052862569699053568"
+          ],
+          "media_source_tweet_id": [
+            "2052862578112786758"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2053005077783388519",
+        "created_at": "2026-05-09T06:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053005077783388519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "939390319",
+              "start": 3,
+              "username": "gigzagu123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mtj7mAe2xq",
+              "end": 39,
+              "expanded_url": "https://x.com/gigzagu123/status/2052862578112786758/photo/1",
+              "media_key": "3_2052862569699053568",
+              "start": 16,
+              "url": "https://t.co/mtj7mAe2xq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053005077783388519",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 698
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052862578112786758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @gigzagu123: https://t.co/mtj7mAe2xq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052862569699053568"
+          ]
+        },
+        "author_id": "939390319",
+        "conversation_id": "2052862578112786758",
+        "created_at": "2026-05-08T21:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T22:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052862578112786758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mtj7mAe2xq",
+              "end": 23,
+              "expanded_url": "https://x.com/gigzagu123/status/2052862578112786758/photo/1",
+              "media_key": "3_2052862569699053568",
+              "start": 0,
+              "url": "https://t.co/mtj7mAe2xq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052862578112786758",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1019,
+          "impression_count": 95255,
+          "like_count": 9997,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 698
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/mtj7mAe2xq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 1109,
+          "like_count": 28116,
+          "listed_count": 4,
+          "media_count": 656,
+          "tweet_count": 9686
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-10T16:13:32.000Z",
+        "description": "◾︎お絵描きする人。自創作【#NumberMira】専用【@NumberMira 】の物語画集https://t.co/v3JiAjjYNM ✉️お仕事のご連絡は以下サイトにございますアドレスをご確認下さい（現在企業様のみ）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 14,
+                "tag": "NumberMira"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "NumberMira"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "amzn.asia/d/jf7W9Iu",
+                "end": 70,
+                "expanded_url": "https://amzn.asia/d/jf7W9Iu",
+                "start": 47,
+                "url": "https://t.co/v3JiAjjYNM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fori.io/gigzagu123",
+                "end": 23,
+                "expanded_url": "https://fori.io/gigzagu123",
+                "start": 0,
+                "url": "https://t.co/XqCX7vidln"
+              }
+            ]
+          }
+        },
+        "id": "939390319",
+        "name": "がわこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641999581457309697/YmwDy38I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361267,
+          "following_count": 762,
+          "like_count": 32232,
+          "listed_count": 2491,
+          "media_count": 1000,
+          "tweet_count": 56161
+        },
+        "url": "https://t.co/XqCX7vidln",
+        "username": "gigzagu123",
+        "verified": true
+      }
+    ]
+  }
+}

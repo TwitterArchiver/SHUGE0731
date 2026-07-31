@@ -1,0 +1,599 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890702641392668672",
+        "3_1890702641388474368",
+        "3_1890702641388548096"
+      ],
+      "media_source_tweet_id": [
+        "1890702647906259114",
+        "1890702647906259114",
+        "1890702647906259114"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1890795632933134678",
+    "created_at": "2025-02-15T16:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T17:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890795632933134678"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "アスカR Re",
+          "probability": 0.4023,
+          "start": 29,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 76,
+          "start": 63,
+          "tag": "マカロニライダースクラブ"
+        },
+        {
+          "end": 87,
+          "start": 78,
+          "tag": "エヴァンゲリオン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "769444518919671813",
+          "start": 3,
+          "username": "Vispo_katagiri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hYkhplxrAF",
+          "end": 111,
+          "expanded_url": "https://x.com/Vispo_katagiri/status/1890702647906259114/photo/1",
+          "media_key": "3_1890702641392668672",
+          "start": 88,
+          "url": "https://t.co/hYkhplxrAF"
+        },
+        {
+          "display_url": "pic.x.com/hYkhplxrAF",
+          "end": 111,
+          "expanded_url": "https://x.com/Vispo_katagiri/status/1890702647906259114/photo/1",
+          "media_key": "3_1890702641388474368",
+          "start": 88,
+          "url": "https://t.co/hYkhplxrAF"
+        },
+        {
+          "display_url": "pic.x.com/hYkhplxrAF",
+          "end": 111,
+          "expanded_url": "https://x.com/Vispo_katagiri/status/1890702647906259114/photo/1",
+          "media_key": "3_1890702641388548096",
+          "start": 88,
+          "url": "https://t.co/hYkhplxrAF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890795632933134678",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 289
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890702647906259114",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Vispo_katagiri: ３月１日展示会用のアスカR Reです。車両も別の物用意するつもりでしたが無理でした！\n#マカロニライダースクラブ  #エヴァンゲリオン https://t.co/hYkhplxrAF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1890702641392668672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj0gCPQaUAA4vKo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1890702641388474368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj0gCPPaUAA5OGC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1890702641388548096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj0gCPPbcAA_o9O.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890702641392668672",
+            "3_1890702641388474368",
+            "3_1890702641388548096"
+          ],
+          "media_source_tweet_id": [
+            "1890702647906259114",
+            "1890702647906259114",
+            "1890702647906259114"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1890795632933134678",
+        "created_at": "2025-02-15T16:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T17:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890795632933134678"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "アスカR Re",
+              "probability": 0.4023,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 63,
+              "tag": "マカロニライダースクラブ"
+            },
+            {
+              "end": 87,
+              "start": 78,
+              "tag": "エヴァンゲリオン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "769444518919671813",
+              "start": 3,
+              "username": "Vispo_katagiri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hYkhplxrAF",
+              "end": 111,
+              "expanded_url": "https://x.com/Vispo_katagiri/status/1890702647906259114/photo/1",
+              "media_key": "3_1890702641392668672",
+              "start": 88,
+              "url": "https://t.co/hYkhplxrAF"
+            },
+            {
+              "display_url": "pic.x.com/hYkhplxrAF",
+              "end": 111,
+              "expanded_url": "https://x.com/Vispo_katagiri/status/1890702647906259114/photo/1",
+              "media_key": "3_1890702641388474368",
+              "start": 88,
+              "url": "https://t.co/hYkhplxrAF"
+            },
+            {
+              "display_url": "pic.x.com/hYkhplxrAF",
+              "end": 111,
+              "expanded_url": "https://x.com/Vispo_katagiri/status/1890702647906259114/photo/1",
+              "media_key": "3_1890702641388548096",
+              "start": 88,
+              "url": "https://t.co/hYkhplxrAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890795632933134678",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 289
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890702647906259114",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Vispo_katagiri: ３月１日展示会用のアスカR Reです。車両も別の物用意するつもりでしたが無理でした！\n#マカロニライダースクラブ  #エヴァンゲリオン https://t.co/hYkhplxrAF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890702641392668672",
+            "3_1890702641388474368",
+            "3_1890702641388548096"
+          ]
+        },
+        "author_id": "769444518919671813",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1890702647906259114",
+        "created_at": "2025-02-15T10:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T11:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890702647906259114"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "アスカR Re",
+              "probability": 0.4496,
+              "start": 9,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 43,
+              "tag": "マカロニライダースクラブ"
+            },
+            {
+              "end": 67,
+              "start": 58,
+              "tag": "エヴァンゲリオン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hYkhplxrAF",
+              "end": 91,
+              "expanded_url": "https://x.com/Vispo_katagiri/status/1890702647906259114/photo/1",
+              "media_key": "3_1890702641392668672",
+              "start": 68,
+              "url": "https://t.co/hYkhplxrAF"
+            },
+            {
+              "display_url": "pic.x.com/hYkhplxrAF",
+              "end": 91,
+              "expanded_url": "https://x.com/Vispo_katagiri/status/1890702647906259114/photo/1",
+              "media_key": "3_1890702641388474368",
+              "start": 68,
+              "url": "https://t.co/hYkhplxrAF"
+            },
+            {
+              "display_url": "pic.x.com/hYkhplxrAF",
+              "end": 91,
+              "expanded_url": "https://x.com/Vispo_katagiri/status/1890702647906259114/photo/1",
+              "media_key": "3_1890702641388548096",
+              "start": 68,
+              "url": "https://t.co/hYkhplxrAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890702647906259114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 222,
+          "impression_count": 53617,
+          "like_count": 2102,
+          "quote_count": 19,
+          "reply_count": 11,
+          "retweet_count": 289
+        },
+        "reply_settings": "everyone",
+        "text": "３月１日展示会用のアスカR Reです。車両も別の物用意するつもりでしたが無理でした！\n#マカロニライダースクラブ  #エヴァンゲリオン https://t.co/hYkhplxrAF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1889901085336412627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 863,
+          "like_count": 5212,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1139
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-27T08:00:43.000Z",
+        "description": "イベントや商業物などフィギュア原型製作を中心に活動してます。無言フォローお許し下さい。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vispo.cc",
+                "end": 23,
+                "expanded_url": "http://vispo.cc/",
+                "start": 0,
+                "url": "https://t.co/JZ6YlGw6V0"
+              }
+            ]
+          }
+        },
+        "id": "769444518919671813",
+        "name": "Vispo",
+        "pinned_tweet_id": "1871580948124557776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1409431949530198021/GrglDVB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7865,
+          "following_count": 1274,
+          "like_count": 1556,
+          "listed_count": 133,
+          "media_count": 631,
+          "tweet_count": 2754
+        },
+        "url": "https://t.co/JZ6YlGw6V0",
+        "username": "Vispo_katagiri",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022031297221423104"
+      ],
+      "media_source_tweet_id": [
+        "2022031379417162239"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      }
+    ],
+    "conversation_id": "2022283301239881901",
+    "created_at": "2026-02-13T12:14:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T13:14:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022283301239881901"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 45,
+          "tag": "umamusume"
+        },
+        {
+          "end": 60,
+          "start": 56,
+          "tag": "ウマ娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1842659581618483200",
+          "start": 3,
+          "username": "voykoi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GnOclAQpwO",
+          "end": 84,
+          "expanded_url": "https://x.com/voykoi/status/2022031379417162239/photo/1",
+          "media_key": "3_2022031297221423104",
+          "start": 61,
+          "url": "https://t.co/GnOclAQpwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022283301239881901",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 312
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022031379417162239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @voykoi: Black Lace\nTokai Teio | トウカイテイオー\n#umamusume #ウマ娘 https://t.co/GnOclAQpwO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2022031297221423104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA-ywGua8AAOMe-.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022031297221423104"
+          ],
+          "media_source_tweet_id": [
+            "2022031379417162239"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "2022283301239881901",
+        "created_at": "2026-02-13T12:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T13:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022283301239881901"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 45,
+              "tag": "umamusume"
+            },
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "ウマ娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1842659581618483200",
+              "start": 3,
+              "username": "voykoi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GnOclAQpwO",
+              "end": 84,
+              "expanded_url": "https://x.com/voykoi/status/2022031379417162239/photo/1",
+              "media_key": "3_2022031297221423104",
+              "start": 61,
+              "url": "https://t.co/GnOclAQpwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022283301239881901",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 312
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022031379417162239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @voykoi: Black Lace\nTokai Teio | トウカイテイオー\n#umamusume #ウマ娘 https://t.co/GnOclAQpwO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022031297221423104"
+          ]
+        },
+        "author_id": "1842659581618483200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "2022031379417162239",
+        "created_at": "2026-02-12T19:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T20:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022031379417162239"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 33,
+              "tag": "umamusume"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "ウマ娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GnOclAQpwO",
+              "end": 72,
+              "expanded_url": "https://x.com/voykoi/status/2022031379417162239/photo/1",
+              "media_key": "3_2022031297221423104",
+              "start": 49,
+              "url": "https://t.co/GnOclAQpwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022031379417162239",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 244,
+          "impression_count": 20924,
+          "like_count": 2564,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 312
+        },
+        "reply_settings": "everyone",
+        "text": "Black Lace\nTokai Teio | トウカイテイオー\n#umamusume #ウマ娘 https://t.co/GnOclAQpwO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 974,
+          "like_count": 20561,
+          "listed_count": 3,
+          "media_count": 559,
+          "tweet_count": 7310
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T20:17:21.000Z",
+        "description": "☆thank you for your support, it means a lot☆\nUmapilled|AI illustrations\nNSFW: https://t.co/pPhjawpyOd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/voikoinsfw",
+                "end": 101,
+                "expanded_url": "https://x.com/voikoinsfw",
+                "start": 78,
+                "url": "https://t.co/pPhjawpyOd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/c/Yoi_Koi",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/c/Yoi_Koi",
+                "start": 0,
+                "url": "https://t.co/j4PlXirwKB"
+              }
+            ]
+          }
+        },
+        "id": "1842659581618483200",
+        "location": "Horse stable ",
+        "name": "Yoi-Koi",
+        "pinned_tweet_id": "2015463512424824887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998088260208238592/Ibc0QzoU_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6048,
+          "following_count": 207,
+          "like_count": 7922,
+          "listed_count": 31,
+          "media_count": 398,
+          "tweet_count": 1355
+        },
+        "url": "https://t.co/j4PlXirwKB",
+        "username": "voykoi",
+        "verified": false
+      }
+    ]
+  }
+}

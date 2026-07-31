@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1838477445147824210",
+    "created_at": "2024-09-24T09:30:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T10:30:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838511314177790023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1283083620849119232",
+          "start": 0,
+          "username": "zhengtaiwan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838511314177790023",
+    "in_reply_to_user_id": "1283083620849119232",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838504641484713991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhengtaiwan 米兰昆德拉的☝️好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1838477445147824210",
+        "created_at": "2024-09-24T09:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T10:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838511314177790023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1283083620849119232",
+              "start": 0,
+              "username": "zhengtaiwan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838511314177790023",
+        "in_reply_to_user_id": "1283083620849119232",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838504641484713991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhengtaiwan 米兰昆德拉的☝️好看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1283083620849119232",
+        "conversation_id": "1838477445147824210",
+        "created_at": "2024-09-24T09:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T10:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838504641484713991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838504641484713991",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838477445147824210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 这是劳伦斯的小说吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 609,
+          "like_count": 1936,
+          "listed_count": 0,
+          "tweet_count": 332
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-14T16:59:19.000Z",
+        "description": "",
+        "id": "1283083620849119232",
+        "name": "黑夜的黑影",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1283083847341465606/la-esyic_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 94,
+          "like_count": 4,
+          "listed_count": 1,
+          "tweet_count": 35
+        },
+        "username": "zhengtaiwan",
+        "verified": false
+      }
+    ]
+  }
+}

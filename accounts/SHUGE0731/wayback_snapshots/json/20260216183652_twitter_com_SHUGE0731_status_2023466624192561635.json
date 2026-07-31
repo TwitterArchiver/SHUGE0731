@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2023441650694111505",
+    "created_at": "2026-02-16T18:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T19:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023466624192561635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1975516163078594560",
+          "start": 0,
+          "username": "Freundis21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023466624192561635",
+    "in_reply_to_user_id": "1975516163078594560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023441650694111505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Freundis21 …这个位置 好强 特别完美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1986,
+        "media_key": "3_2023441639587418112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBS1c1dXkAAr2Xm.jpg",
+        "width": 1648
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023441639578947584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBS1c1bWUAAwiN4.jpg",
+        "width": 1662
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2023441650694111505",
+        "created_at": "2026-02-16T18:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T19:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023466624192561635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1975516163078594560",
+              "start": 0,
+              "username": "Freundis21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023466624192561635",
+        "in_reply_to_user_id": "1975516163078594560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023441650694111505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freundis21 …这个位置 好强 特别完美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023441639587418112",
+            "3_2023441639578947584"
+          ]
+        },
+        "author_id": "1975516163078594560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1582737212675743746",
+              "name": "Foodora"
+            }
+          }
+        ],
+        "conversation_id": "2023441650694111505",
+        "created_at": "2026-02-16T16:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023441650694111505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o6DRDfn7MR",
+              "end": 42,
+              "expanded_url": "https://x.com/Freundis21/status/2023441650694111505/photo/1",
+              "media_key": "3_2023441639587418112",
+              "start": 19,
+              "url": "https://t.co/o6DRDfn7MR"
+            },
+            {
+              "display_url": "pic.x.com/o6DRDfn7MR",
+              "end": 42,
+              "expanded_url": "https://x.com/Freundis21/status/2023441650694111505/photo/1",
+              "media_key": "3_2023441639578947584",
+              "start": 19,
+              "url": "https://t.co/o6DRDfn7MR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023441650694111505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "割小猪手中。我是foodora单推人 https://t.co/o6DRDfn7MR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 989,
+          "like_count": 21276,
+          "listed_count": 3,
+          "media_count": 568,
+          "tweet_count": 7573
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T10:59:00.000Z",
+        "description": "=废物｜女性｜INFJ｜LGBTQ友好｜此账号包括：selfharm、drug/overdose&日常废话。直关无言抱歉，会互fo（如果有没fo到的请私信我ovo）。匿名提问（如果有的话）https://t.co/8kDSGb7b5b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/Freundis",
+                "end": 117,
+                "expanded_url": "https://miyu.link/Freundis",
+                "start": 94,
+                "url": "https://t.co/8kDSGb7b5b"
+              }
+            ]
+          }
+        },
+        "id": "1975516163078594560",
+        "name": "Bokuwayakudatazudesu",
+        "pinned_tweet_id": "1986037851113373928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979709468096053248/NP6_6sIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 615,
+          "like_count": 7168,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 1022
+        },
+        "username": "Freundis21",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042378828891504641"
+      ],
+      "media_source_tweet_id": [
+        "2042378876135911810"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2042516330205843719",
+    "created_at": "2026-04-10T08:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T09:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042516330205843719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1900474382977536000",
+          "start": 3,
+          "username": "usodashi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bN0mtas941",
+          "end": 37,
+          "expanded_url": "https://x.com/usodashi/status/2042378876135911810/photo/1",
+          "media_key": "3_2042378828891504641",
+          "start": 14,
+          "url": "https://t.co/bN0mtas941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042516330205843719",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6243
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042378876135911810",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @usodashi: https://t.co/bN0mtas941"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2039,
+        "media_key": "3_2042378828891504641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFf8uVDbQAESryI.png",
+        "width": 1325
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042378828891504641"
+          ],
+          "media_source_tweet_id": [
+            "2042378876135911810"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2042516330205843719",
+        "created_at": "2026-04-10T08:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042516330205843719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1900474382977536000",
+              "start": 3,
+              "username": "usodashi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bN0mtas941",
+              "end": 37,
+              "expanded_url": "https://x.com/usodashi/status/2042378876135911810/photo/1",
+              "media_key": "3_2042378828891504641",
+              "start": 14,
+              "url": "https://t.co/bN0mtas941"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042516330205843719",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6243
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042378876135911810",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @usodashi: https://t.co/bN0mtas941"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042378828891504641"
+          ]
+        },
+        "author_id": "1900474382977536000",
+        "conversation_id": "2042378876135911810",
+        "created_at": "2026-04-09T23:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T00:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042378876135911810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bN0mtas941",
+              "end": 23,
+              "expanded_url": "https://x.com/usodashi/status/2042378876135911810/photo/1",
+              "media_key": "3_2042378828891504641",
+              "start": 0,
+              "url": "https://t.co/bN0mtas941"
+            },
+            {
+              "display_url": "x.com/Min_tramcam/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Min_tramcam/status/2040276028707537008",
+              "start": 24,
+              "url": "https://t.co/6ZOxOC1ZED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042378876135911810",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3589,
+          "impression_count": 410398,
+          "like_count": 51844,
+          "quote_count": 22,
+          "reply_count": 22,
+          "retweet_count": 6243
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040276028707537008",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/bN0mtas941 https://t.co/6ZOxOC1ZED"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 1039,
+          "like_count": 25864,
+          "listed_count": 3,
+          "media_count": 623,
+          "tweet_count": 9048
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T09:10:44.000Z",
+        "description": "I draw characters i like | AI🚫",
+        "id": "1900474382977536000",
+        "name": "👻",
+        "pinned_tweet_id": "1997557324924518873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927853430946529280/Jb64Vwn6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 493,
+          "like_count": 40752,
+          "listed_count": 6,
+          "media_count": 108,
+          "tweet_count": 235
+        },
+        "username": "usodashi",
+        "verified": false
+      }
+    ]
+  }
+}

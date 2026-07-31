@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034671405758115840"
+      ],
+      "media_source_tweet_id": [
+        "2034671413802746281"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2034687188433346797",
+    "created_at": "2026-03-19T17:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T18:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034687188433346797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "866121391",
+          "start": 3,
+          "username": "mikaduki5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5liOdSOyQ6",
+          "end": 41,
+          "expanded_url": "https://x.com/mikaduki5/status/2034671413802746281/photo/1",
+          "media_key": "3_2034671405758115840",
+          "start": 18,
+          "url": "https://t.co/5liOdSOyQ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034687188433346797",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 178
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034671413802746281",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mikaduki5: 再掲 https://t.co/5liOdSOyQ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2034671405758115840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDya3QbbcAA4gWX.jpg",
+        "width": 3332
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034671405758115840"
+          ],
+          "media_source_tweet_id": [
+            "2034671413802746281"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034687188433346797",
+        "created_at": "2026-03-19T17:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T18:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034687188433346797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "866121391",
+              "start": 3,
+              "username": "mikaduki5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5liOdSOyQ6",
+              "end": 41,
+              "expanded_url": "https://x.com/mikaduki5/status/2034671413802746281/photo/1",
+              "media_key": "3_2034671405758115840",
+              "start": 18,
+              "url": "https://t.co/5liOdSOyQ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034687188433346797",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034671413802746281",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mikaduki5: 再掲 https://t.co/5liOdSOyQ6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034671405758115840"
+          ]
+        },
+        "author_id": "866121391",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034671413802746281",
+        "created_at": "2026-03-19T16:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T17:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034671413802746281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5liOdSOyQ6",
+              "end": 26,
+              "expanded_url": "https://x.com/mikaduki5/status/2034671413802746281/photo/1",
+              "media_key": "3_2034671405758115840",
+              "start": 3,
+              "url": "https://t.co/5liOdSOyQ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034671413802746281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 7571,
+          "like_count": 1359,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "再掲 https://t.co/5liOdSOyQ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 1014,
+          "like_count": 24194,
+          "listed_count": 3,
+          "media_count": 596,
+          "tweet_count": 8443
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-07T10:31:22.000Z",
+        "description": "渋→https://t.co/qKoMVoLFjP すけぶ（値段自動設定 ※あまりのも高騰した時は調整）→https://t.co/y7sMNQFoUv fanbox→https://t.co/Wd1Mtd8zt9 過去絵はハイライト WarThunderもやる",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/2479485",
+                "end": 25,
+                "expanded_url": "http://pixiv.net/users/2479485",
+                "start": 2,
+                "url": "https://t.co/qKoMVoLFjP"
+              },
+              {
+                "display_url": "skeb.jp/@mikaduki5",
+                "end": 76,
+                "expanded_url": "https://skeb.jp/@mikaduki5",
+                "start": 53,
+                "url": "https://t.co/y7sMNQFoUv"
+              },
+              {
+                "display_url": "mikaduki-yamagi.fanbox.cc",
+                "end": 107,
+                "expanded_url": "https://mikaduki-yamagi.fanbox.cc/",
+                "start": 84,
+                "url": "https://t.co/Wd1Mtd8zt9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/mikaduki5",
+                "end": 23,
+                "expanded_url": "http://twpf.jp/mikaduki5",
+                "start": 0,
+                "url": "https://t.co/u3PITueAfV"
+              }
+            ]
+          }
+        },
+        "id": "866121391",
+        "location": "エリア8102セクター8192",
+        "name": "みかづき（ヤマギ）@skeb募集中",
+        "pinned_tweet_id": "1998025003447845261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964710764167733249/_p7elGmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15994,
+          "following_count": 1142,
+          "like_count": 31828,
+          "listed_count": 151,
+          "media_count": 5786,
+          "tweet_count": 97160
+        },
+        "url": "https://t.co/u3PITueAfV",
+        "username": "mikaduki5",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1853762379672322048"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Ongoing News Stories like 'Brexit'",
+          "id": "123",
+          "name": "Ongoing News Story"
+        },
+        "entity": {
+          "id": "1220701888179359745",
+          "name": "COVID-19"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1220701888179359745",
+          "name": "COVID-19"
+        }
+      }
+    ],
+    "conversation_id": "1853762392955691499",
+    "created_at": "2024-11-05T11:32:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-05T12:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1853762392955691499"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uAY1WRMXUc",
+          "end": 57,
+          "expanded_url": "https://x.com/SHUGE0731/status/1853762392955691499/photo/1",
+          "media_key": "3_1853762379672322048",
+          "start": 34,
+          "url": "https://t.co/uAY1WRMXUc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853762392955691499",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "主播吃了药有副作用\n控制不住地咬紧牙关\n咬疼了才发现\n好难受的感觉 https://t.co/uAY1WRMXUc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1853762379672322048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbnjEApaAAAAs2y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853762379672322048"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          }
+        ],
+        "conversation_id": "1853762392955691499",
+        "created_at": "2024-11-05T11:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T12:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853762392955691499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uAY1WRMXUc",
+              "end": 57,
+              "expanded_url": "https://x.com/SHUGE0731/status/1853762392955691499/photo/1",
+              "media_key": "3_1853762379672322048",
+              "start": 34,
+              "url": "https://t.co/uAY1WRMXUc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853762392955691499",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主播吃了药有副作用\n控制不住地咬紧牙关\n咬疼了才发现\n好难受的感觉 https://t.co/uAY1WRMXUc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 709,
+          "like_count": 2810,
+          "listed_count": 0,
+          "tweet_count": 543
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      }
+    ]
+  }
+}

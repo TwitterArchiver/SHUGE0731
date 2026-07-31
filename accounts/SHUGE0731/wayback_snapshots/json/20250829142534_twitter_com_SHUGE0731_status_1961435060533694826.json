@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961365193021427713"
+      ],
+      "media_source_tweet_id": [
+        "1961365202093379661"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1961435060533694826",
+    "created_at": "2025-08-29T14:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T15:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961435060533694826"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "Lain",
+          "probability": 0.6342,
+          "start": 16,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "901956824",
+          "start": 3,
+          "username": "AkimatutiX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MJ8nCi8bpz",
+          "end": 44,
+          "expanded_url": "https://x.com/AkimatutiX/status/1961365202093379661/photo/1",
+          "media_key": "3_1961365193021427713",
+          "start": 21,
+          "url": "https://t.co/MJ8nCi8bpz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961435060533694826",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 356
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961365202093379661",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AkimatutiX: Lain https://t.co/MJ8nCi8bpz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1961365193021427713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzgrQFTbkAEWKA5.jpg",
+        "width": 1426
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961365193021427713"
+          ],
+          "media_source_tweet_id": [
+            "1961365202093379661"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1961435060533694826",
+        "created_at": "2025-08-29T14:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T15:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961435060533694826"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Lain",
+              "probability": 0.6342,
+              "start": 16,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "901956824",
+              "start": 3,
+              "username": "AkimatutiX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MJ8nCi8bpz",
+              "end": 44,
+              "expanded_url": "https://x.com/AkimatutiX/status/1961365202093379661/photo/1",
+              "media_key": "3_1961365193021427713",
+              "start": 21,
+              "url": "https://t.co/MJ8nCi8bpz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961435060533694826",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 356
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961365202093379661",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AkimatutiX: Lain https://t.co/MJ8nCi8bpz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961365193021427713"
+          ]
+        },
+        "author_id": "901956824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1961365202093379661",
+        "created_at": "2025-08-29T09:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T10:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961365202093379661"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "Lain",
+              "probability": 0.6418,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MJ8nCi8bpz",
+              "end": 28,
+              "expanded_url": "https://x.com/AkimatutiX/status/1961365202093379661/photo/1",
+              "media_key": "3_1961365193021427713",
+              "start": 5,
+              "url": "https://t.co/MJ8nCi8bpz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961365202093379661",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 224,
+          "impression_count": 41857,
+          "like_count": 2464,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 356
+        },
+        "reply_settings": "everyone",
+        "text": "Lain https://t.co/MJ8nCi8bpz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 987,
+          "like_count": 8803,
+          "listed_count": 1,
+          "media_count": 281,
+          "tweet_count": 1845
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-24T14:42:15.000Z",
+        "description": "漫画家・イラストレーター。『人喰いマンションと大家のメゾン』作画担当@ジャンプ＋Pixiv→ https://t.co/alKmLiAdgv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/19301797",
+                "end": 70,
+                "expanded_url": "https://www.pixiv.net/users/19301797",
+                "start": 47,
+                "url": "https://t.co/alKmLiAdgv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "akimasaweb.3zoku.com",
+                "end": 23,
+                "expanded_url": "http://akimasaweb.3zoku.com/",
+                "start": 0,
+                "url": "https://t.co/nGlo6tSbHd"
+              }
+            ]
+          }
+        },
+        "id": "901956824",
+        "location": "神奈川",
+        "name": "あきま",
+        "pinned_tweet_id": "1935716739624644723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/597034292888211458/XvefJ8QC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154430,
+          "following_count": 1306,
+          "like_count": 32271,
+          "listed_count": 2041,
+          "media_count": 1459,
+          "tweet_count": 16526
+        },
+        "url": "https://t.co/nGlo6tSbHd",
+        "username": "AkimatutiX",
+        "verified": true
+      }
+    ]
+  }
+}

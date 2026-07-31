@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2016929698182275341",
+    "created_at": "2026-01-30T02:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T03:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017062668310630489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1622592119700623361",
+          "start": 0,
+          "username": "Kusutobi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017062668310630489",
+    "in_reply_to_user_id": "1622592119700623361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016929698182275341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kusutobi 主播太可爱了！好清纯"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2733,
+        "height": 1280,
+        "media_key": "13_2016929636945444864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016929636945444864/img/WWFmhAtOcjgpX0jd.jpg",
+        "public_metrics": {
+          "view_count": 45
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016929636945444864/vid/avc1/320x568/Qkg3wnxpOxe8PiSN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016929636945444864/vid/avc1/480x852/qw3hPAydM71j34sc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016929636945444864/vid/avc1/720x1280/dDCsg5RCW2h2Ongz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016929636945444864/pl/fVDRKYPyGLei-A80.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2016929698182275341",
+        "created_at": "2026-01-30T02:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T03:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017062668310630489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1622592119700623361",
+              "start": 0,
+              "username": "Kusutobi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017062668310630489",
+        "in_reply_to_user_id": "1622592119700623361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016929698182275341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kusutobi 主播太可爱了！好清纯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016929636945444864"
+          ]
+        },
+        "author_id": "1622592119700623361",
+        "conversation_id": "2016929698182275341",
+        "created_at": "2026-01-29T17:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T18:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016929698182275341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D1ehxGLpvP",
+              "end": 35,
+              "expanded_url": "https://x.com/Kusutobi/status/2016929698182275341/video/1",
+              "media_key": "13_2016929636945444864",
+              "start": 12,
+              "url": "https://t.co/D1ehxGLpvP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016929698182275341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经长到可以扎起来了。 https://t.co/D1ehxGLpvP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 966,
+          "like_count": 18714,
+          "listed_count": 3,
+          "media_count": 538,
+          "tweet_count": 6667
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T13:44:50.000Z",
+        "description": "Kusutobi个人账号/只发发日常或者有关NY化学的内容/可咨询药物或者产品问题/NY化学@NY_Kusutobi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "NY_Kusutobi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kusutobi",
+                "end": 23,
+                "expanded_url": "http://t.me/Kusutobi",
+                "start": 0,
+                "url": "https://t.co/cZPJ1V4JG9"
+              }
+            ]
+          }
+        },
+        "id": "1622592119700623361",
+        "name": "Kusutobi",
+        "pinned_tweet_id": "2016490186662613366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836678158843592704/68oNNMoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 98,
+          "like_count": 739,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 874
+        },
+        "url": "https://t.co/cZPJ1V4JG9",
+        "username": "Kusutobi",
+        "verified": false
+      }
+    ]
+  }
+}

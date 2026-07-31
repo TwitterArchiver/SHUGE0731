@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955605992999403520"
+      ],
+      "media_source_tweet_id": [
+        "1955606000918213080"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1955862869721145751",
+    "created_at": "2025-08-14T05:23:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T06:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955862869721145751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "728092763774816257",
+          "start": 3,
+          "username": "siroumaru96"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DnOCACTKLt",
+          "end": 61,
+          "expanded_url": "https://x.com/siroumaru96/status/1955606000918213080/photo/1",
+          "media_key": "3_1955605992999403520",
+          "start": 38,
+          "url": "https://t.co/DnOCACTKLt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955862869721145751",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1445
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955606000918213080",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @siroumaru96: 作品の聖地にファンアートが描かれたアニメ https://t.co/DnOCACTKLt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955605992999403520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyO1ShVawAAavQv.jpg",
+        "width": 1636
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955605992999403520"
+          ],
+          "media_source_tweet_id": [
+            "1955606000918213080"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1955862869721145751",
+        "created_at": "2025-08-14T05:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T06:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955862869721145751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "728092763774816257",
+              "start": 3,
+              "username": "siroumaru96"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DnOCACTKLt",
+              "end": 61,
+              "expanded_url": "https://x.com/siroumaru96/status/1955606000918213080/photo/1",
+              "media_key": "3_1955605992999403520",
+              "start": 38,
+              "url": "https://t.co/DnOCACTKLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955862869721145751",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1445
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955606000918213080",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @siroumaru96: 作品の聖地にファンアートが描かれたアニメ https://t.co/DnOCACTKLt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955605992999403520"
+          ]
+        },
+        "author_id": "728092763774816257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1955606000918213080",
+        "created_at": "2025-08-13T12:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T13:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955606000918213080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DnOCACTKLt",
+              "end": 44,
+              "expanded_url": "https://x.com/siroumaru96/status/1955606000918213080/photo/1",
+              "media_key": "3_1955605992999403520",
+              "start": 21,
+              "url": "https://t.co/DnOCACTKLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955606000918213080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1866,
+          "impression_count": 896450,
+          "like_count": 20269,
+          "quote_count": 256,
+          "reply_count": 112,
+          "retweet_count": 1445
+        },
+        "reply_settings": "everyone",
+        "text": "作品の聖地にファンアートが描かれたアニメ https://t.co/DnOCACTKLt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 975,
+          "like_count": 8662,
+          "listed_count": 1,
+          "media_count": 273,
+          "tweet_count": 1801
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-05T05:23:37.000Z",
+        "description": "アニメ・漫画・声優・実写について/サブ(@shiroumaru96)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "shiroumaru96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@siroumaru96",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@siroumaru96",
+                "start": 0,
+                "url": "https://t.co/yDO19P8Gxu"
+              }
+            ]
+          }
+        },
+        "id": "728092763774816257",
+        "location": "春はあけぼの 夏はポケモノ",
+        "name": "びりゐ",
+        "pinned_tweet_id": "1886776327107444756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1563860149957189636/7df2yrui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95214,
+          "following_count": 41,
+          "like_count": 17392,
+          "listed_count": 235,
+          "media_count": 2965,
+          "tweet_count": 14614
+        },
+        "url": "https://t.co/yDO19P8Gxu",
+        "username": "siroumaru96",
+        "verified": false
+      }
+    ]
+  }
+}

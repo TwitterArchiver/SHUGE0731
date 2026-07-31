@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1988293456499028347",
+    "created_at": "2025-11-11T17:43:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T18:43:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988301472350826527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1485268522074730497",
+          "start": 0,
+          "username": "jiulin2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988301472350826527",
+    "in_reply_to_user_id": "1485268522074730497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988293456499028347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiulin2333 你咋这么萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9466,
+        "height": 960,
+        "media_key": "7_1988293411875819520",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1988293411875819520/pu/img/nOdBdeE9nzy0edDR.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988293411875819520/pu/vid/avc1/320x426/KruErV0yAML0QeVz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988293411875819520/pu/vid/avc1/480x640/esFPNpoWMnTlD0Ro.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988293411875819520/pu/vid/avc1/720x960/U2U_-LwjZ2WtzSrf.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1988293411875819520/pu/pl/RnaFDtYiQS3JnVCt.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1988293456499028347",
+        "created_at": "2025-11-11T17:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T18:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988301472350826527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1485268522074730497",
+              "start": 0,
+              "username": "jiulin2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988301472350826527",
+        "in_reply_to_user_id": "1485268522074730497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988293456499028347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiulin2333 你咋这么萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1988293411875819520"
+          ]
+        },
+        "author_id": "1485268522074730497",
+        "conversation_id": "1988293456499028347",
+        "created_at": "2025-11-11T17:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T18:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988293456499028347"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 24,
+              "tag": "男的能不能不要搞搞你的小啾啾不礼貌你知道吗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mQ9R8FsNSN",
+              "end": 70,
+              "expanded_url": "https://x.com/jiulin2333/status/1988293456499028347/video/1",
+              "media_key": "7_1988293411875819520",
+              "start": 47,
+              "url": "https://t.co/mQ9R8FsNSN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988293456499028347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的头发就这样上了软化药水和定型还翘，但是好玩\n#男的能不能不要搞搞你的小啾啾不礼貌你知道吗 https://t.co/mQ9R8FsNSN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 1052,
+          "like_count": 11266,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 2897
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T15:09:57.000Z",
+        "description": "喵。\n我想当画手，只是差劲画画人。\n性别是-奇行种/\nENTP/arcaea/ocart/喜欢水推文\n将来art相关将放在  #JiuLynn_ART /我从不od....从不",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 63,
+                "tag": "JiuLynn_ART"
+              }
+            ]
+          }
+        },
+        "id": "1485268522074730497",
+        "location": "武汉。",
+        "name": "Jiu☆Lynn☆",
+        "pinned_tweet_id": "1987810119548391590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910639864951037953/BFY2j0rv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2246,
+          "following_count": 3523,
+          "like_count": 32121,
+          "listed_count": 6,
+          "media_count": 1741,
+          "tweet_count": 23713
+        },
+        "username": "jiulin2333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980823313258524672"
+      ],
+      "media_source_tweet_id": [
+        "1980823530372751853"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1980901648320065810",
+    "created_at": "2025-10-22T07:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T08:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980901648320065810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "56386501",
+          "start": 3,
+          "username": "coroxpiyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dtu2f9FeQn",
+          "end": 38,
+          "expanded_url": "https://x.com/coroxpiyo/status/1980823530372751853/photo/1",
+          "media_key": "3_1980823313258524672",
+          "start": 15,
+          "url": "https://t.co/Dtu2f9FeQn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980901648320065810",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 198
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980823530372751853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @coroxpiyo: https://t.co/Dtu2f9FeQn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1980823313258524672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G31MTv2WMAAQrhE.png",
+        "width": 567
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980823313258524672"
+          ],
+          "media_source_tweet_id": [
+            "1980823530372751853"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1980901648320065810",
+        "created_at": "2025-10-22T07:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T08:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980901648320065810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "56386501",
+              "start": 3,
+              "username": "coroxpiyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dtu2f9FeQn",
+              "end": 38,
+              "expanded_url": "https://x.com/coroxpiyo/status/1980823530372751853/photo/1",
+              "media_key": "3_1980823313258524672",
+              "start": 15,
+              "url": "https://t.co/Dtu2f9FeQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980901648320065810",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 198
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980823530372751853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @coroxpiyo: https://t.co/Dtu2f9FeQn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980823313258524672"
+          ]
+        },
+        "author_id": "56386501",
+        "conversation_id": "1980823530372751853",
+        "created_at": "2025-10-22T02:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T03:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980823530372751853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dtu2f9FeQn",
+              "end": 23,
+              "expanded_url": "https://x.com/coroxpiyo/status/1980823530372751853/photo/1",
+              "media_key": "3_1980823313258524672",
+              "start": 0,
+              "url": "https://t.co/Dtu2f9FeQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980823530372751853",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 28718,
+          "like_count": 1821,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 198
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Dtu2f9FeQn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 |  中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 1074,
+          "like_count": 10247,
+          "listed_count": 2,
+          "media_count": 340,
+          "tweet_count": 2344
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-13T14:31:50.000Z",
+        "description": "Illustrator 🖌🦜https://t.co/XBVHMIN8qW\n👋 https://t.co/hTVD3U9ymc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@coroxpiyo",
+                "end": 37,
+                "expanded_url": "https://skeb.jp/@coroxpiyo",
+                "start": 14,
+                "url": "https://t.co/XBVHMIN8qW"
+              },
+              {
+                "display_url": "wavebox.me/wave/8o0cn4g1i…",
+                "end": 63,
+                "expanded_url": "https://wavebox.me/wave/8o0cn4g1idrafspv/",
+                "start": 40,
+                "url": "https://t.co/hTVD3U9ymc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/coro…",
+                "end": 23,
+                "expanded_url": "https://xfolio.jp/portfolio/coroxpiyo",
+                "start": 0,
+                "url": "https://t.co/FVUFykANOp"
+              }
+            ]
+          }
+        },
+        "id": "56386501",
+        "name": "toichi",
+        "pinned_tweet_id": "1932057064521756978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736340284643196928/hBwk53P2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7330,
+          "following_count": 430,
+          "like_count": 9276,
+          "listed_count": 98,
+          "media_count": 462,
+          "tweet_count": 7306
+        },
+        "url": "https://t.co/FVUFykANOp",
+        "username": "coroxpiyo",
+        "verified": false
+      }
+    ]
+  }
+}

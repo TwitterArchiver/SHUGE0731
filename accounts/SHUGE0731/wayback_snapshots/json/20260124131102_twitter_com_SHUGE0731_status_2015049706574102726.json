@@ -1,0 +1,813 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014114546068201473"
+      ],
+      "media_source_tweet_id": [
+        "2014654350241517890"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Twitch",
+          "id": "1054826545758396416",
+          "name": "Twitch"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Twitch",
+          "id": "1054826545758396416",
+          "name": "Twitch"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615080622272512",
+          "name": "Twitch streamers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2015049706574102726",
+    "created_at": "2026-01-24T13:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T14:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015049706574102726"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "東方Projectより東風谷早苗 Twitch",
+          "probability": 0.1216,
+          "start": 15,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 88,
+          "start": 78,
+          "tag": "東方Project"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1787151071762325504",
+          "start": 3,
+          "username": "chikagihc"
+        }
+      ],
+      "urls": [
+        {
+          "description": "いつも有難うございます、蜘賀(ちが/chiga)と申します。",
+          "display_url": "twitch.tv/chikagihc",
+          "end": 76,
+          "expanded_url": "https://twitch.tv/chikagihc",
+          "images": [
+            {
+              "height": 300,
+              "url": "https://pbs.twimg.com/news_img/2014654393778352128/BjiUFY84?format=png&name=orig",
+              "width": 300
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2014654393778352128/BjiUFY84?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 53,
+          "status": 200,
+          "title": "ちがさん - Twitch",
+          "unwound_url": "https://www.twitch.tv/chikagihc",
+          "url": "https://t.co/3JI9tz0oxh"
+        },
+        {
+          "display_url": "pic.x.com/6h6jqcijwl",
+          "end": 112,
+          "expanded_url": "https://x.com/chikagihc/status/2014654350241517890/photo/1",
+          "media_key": "3_2014114546068201473",
+          "start": 89,
+          "url": "https://t.co/6h6jqcijwl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015049706574102726",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 538
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014654350241517890",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chikagihc: 東方Projectより東風谷早苗\n\nTwitch配信でイラスト描いてます。 https://t.co/3JI9tz0oxh\n\n#東方Project https://t.co/6h6jqcijwl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1430,
+        "media_key": "3_2014114546068201473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_OSgidXoAEdElS.jpg",
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014114546068201473"
+          ],
+          "media_source_tweet_id": [
+            "2014654350241517890"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Twitch",
+              "id": "1054826545758396416",
+              "name": "Twitch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Twitch",
+              "id": "1054826545758396416",
+              "name": "Twitch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615080622272512",
+              "name": "Twitch streamers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2015049706574102726",
+        "created_at": "2026-01-24T13:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T14:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015049706574102726"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "東方Projectより東風谷早苗 Twitch",
+              "probability": 0.1216,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 78,
+              "tag": "東方Project"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1787151071762325504",
+              "start": 3,
+              "username": "chikagihc"
+            }
+          ],
+          "urls": [
+            {
+              "description": "いつも有難うございます、蜘賀(ちが/chiga)と申します。",
+              "display_url": "twitch.tv/chikagihc",
+              "end": 76,
+              "expanded_url": "https://twitch.tv/chikagihc",
+              "images": [
+                {
+                  "height": 300,
+                  "url": "https://pbs.twimg.com/news_img/2014654393778352128/BjiUFY84?format=png&name=orig",
+                  "width": 300
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2014654393778352128/BjiUFY84?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 53,
+              "status": 200,
+              "title": "ちがさん - Twitch",
+              "unwound_url": "https://www.twitch.tv/chikagihc",
+              "url": "https://t.co/3JI9tz0oxh"
+            },
+            {
+              "display_url": "pic.x.com/6h6jqcijwl",
+              "end": 112,
+              "expanded_url": "https://x.com/chikagihc/status/2014654350241517890/photo/1",
+              "media_key": "3_2014114546068201473",
+              "start": 89,
+              "url": "https://t.co/6h6jqcijwl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015049706574102726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 538
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014654350241517890",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chikagihc: 東方Projectより東風谷早苗\n\nTwitch配信でイラスト描いてます。 https://t.co/3JI9tz0oxh\n\n#東方Project https://t.co/6h6jqcijwl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014114546068201473"
+          ]
+        },
+        "author_id": "1787151071762325504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Twitch",
+              "id": "1054826545758396416",
+              "name": "Twitch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Twitch",
+              "id": "1054826545758396416",
+              "name": "Twitch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615080622272512",
+              "name": "Twitch streamers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2014654350241517890",
+        "created_at": "2026-01-23T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014654350241517890"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "東方Project",
+              "probability": 0.4364,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 23,
+              "normalized_text": "東風谷早苗 Twitch",
+              "probability": 0.2464,
+              "start": 11,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 63,
+              "tag": "東方Project"
+            }
+          ],
+          "urls": [
+            {
+              "description": "いつも有難うございます、蜘賀(ちが/chiga)と申します。",
+              "display_url": "twitch.tv/chikagihc",
+              "end": 61,
+              "expanded_url": "https://twitch.tv/chikagihc",
+              "images": [
+                {
+                  "height": 300,
+                  "url": "https://pbs.twimg.com/news_img/2014654393778352128/BjiUFY84?format=png&name=orig",
+                  "width": 300
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2014654393778352128/BjiUFY84?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 38,
+              "status": 200,
+              "title": "ちがさん - Twitch",
+              "unwound_url": "https://www.twitch.tv/chikagihc",
+              "url": "https://t.co/3JI9tz0oxh"
+            },
+            {
+              "display_url": "pic.x.com/6h6jqcijwl",
+              "end": 97,
+              "expanded_url": "https://x.com/chikagihc/status/2014654350241517890/photo/1",
+              "media_key": "3_2014114546068201473",
+              "start": 74,
+              "url": "https://t.co/6h6jqcijwl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014654350241517890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 383,
+          "impression_count": 36470,
+          "like_count": 3519,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 538
+        },
+        "reply_settings": "everyone",
+        "text": "東方Projectより東風谷早苗\n\nTwitch配信でイラスト描いてます。 https://t.co/3JI9tz0oxh\n\n#東方Project https://t.co/6h6jqcijwl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 997,
+          "like_count": 18153,
+          "listed_count": 3,
+          "media_count": 531,
+          "tweet_count": 6455
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T16:03:27.000Z",
+        "description": "JP / いつも有難うございます。\nTwitchにてイラストを描いております🍎https://t.co/3DXKUd3mxy\nMail：chikagihc@outlook.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/chikagihc",
+                "end": 62,
+                "expanded_url": "https://www.twitch.tv/chikagihc",
+                "start": 39,
+                "url": "https://t.co/3DXKUd3mxy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/chiga",
+                "end": 23,
+                "expanded_url": "https://xfolio.jp/portfolio/chiga",
+                "start": 0,
+                "url": "https://t.co/KfnuEEePdT"
+              }
+            ]
+          }
+        },
+        "id": "1787151071762325504",
+        "location": "総合",
+        "name": "蜘賀-chiga-",
+        "pinned_tweet_id": "2010269983293747514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993568613182443520/cqq4xZUl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1925,
+          "following_count": 144,
+          "like_count": 981,
+          "listed_count": 28,
+          "media_count": 18,
+          "tweet_count": 204
+        },
+        "url": "https://t.co/KfnuEEePdT",
+        "username": "chikagihc",
+        "verified": false
+      }
+    ]
+  }
+}

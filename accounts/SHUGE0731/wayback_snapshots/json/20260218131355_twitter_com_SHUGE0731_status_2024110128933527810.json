@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024076846892216320"
+      ],
+      "media_source_tweet_id": [
+        "2024077083803349212"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2024110128933527810",
+    "created_at": "2026-02-18T13:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T14:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024110128933527810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1521319326221217792",
+          "start": 3,
+          "username": "W178_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LceOdL5T1v",
+          "end": 42,
+          "expanded_url": "https://x.com/W178_/status/2024077083803349212/photo/1",
+          "media_key": "3_2024076846892216320",
+          "start": 19,
+          "url": "https://t.co/LceOdL5T1v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024110128933527810",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024077083803349212",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @W178_: どや顔はたたん https://t.co/LceOdL5T1v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2220,
+        "media_key": "3_2024076846892216320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBb3KxEacAAvLeW.jpg",
+        "width": 2280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024076846892216320"
+          ],
+          "media_source_tweet_id": [
+            "2024077083803349212"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2024110128933527810",
+        "created_at": "2026-02-18T13:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024110128933527810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521319326221217792",
+              "start": 3,
+              "username": "W178_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LceOdL5T1v",
+              "end": 42,
+              "expanded_url": "https://x.com/W178_/status/2024077083803349212/photo/1",
+              "media_key": "3_2024076846892216320",
+              "start": 19,
+              "url": "https://t.co/LceOdL5T1v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024110128933527810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024077083803349212",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @W178_: どや顔はたたん https://t.co/LceOdL5T1v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024076846892216320"
+          ]
+        },
+        "author_id": "1521319326221217792",
+        "conversation_id": "2024077083803349212",
+        "created_at": "2026-02-18T11:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T12:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024077083803349212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LceOdL5T1v",
+              "end": 31,
+              "expanded_url": "https://x.com/W178_/status/2024077083803349212/photo/1",
+              "media_key": "3_2024076846892216320",
+              "start": 8,
+              "url": "https://t.co/LceOdL5T1v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024077083803349212",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 214,
+          "impression_count": 20146,
+          "like_count": 1701,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "どや顔はたたん https://t.co/LceOdL5T1v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 987,
+          "like_count": 21486,
+          "listed_count": 3,
+          "media_count": 571,
+          "tweet_count": 7647
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T02:43:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@w178",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@w178",
+                "start": 0,
+                "url": "https://t.co/pMuCAQ2xwm"
+              }
+            ]
+          }
+        },
+        "id": "1521319326221217792",
+        "location": "w178maguro@gmail.com",
+        "name": "わーっ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784550659649634304/l6yrLOtk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16523,
+          "following_count": 16,
+          "like_count": 3527,
+          "listed_count": 88,
+          "media_count": 319,
+          "tweet_count": 1214
+        },
+        "url": "https://t.co/pMuCAQ2xwm",
+        "username": "W178_",
+        "verified": false
+      }
+    ]
+  }
+}

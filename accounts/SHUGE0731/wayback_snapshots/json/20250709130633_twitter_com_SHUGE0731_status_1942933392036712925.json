@@ -1,0 +1,682 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942914262814302209",
+        "3_1942914432482394112",
+        "3_1942914557422571520",
+        "3_1942914700187967488"
+      ],
+      "media_source_tweet_id": [
+        "1942914710908899493",
+        "1942914710908899493",
+        "1942914710908899493",
+        "1942914710908899493"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1942933392036712925",
+    "created_at": "2025-07-09T13:06:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T14:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942933392036712925"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "豊島園 庭の湯",
+          "probability": 0.2821,
+          "start": 24,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4694122141",
+          "start": 3,
+          "username": "oyuki_gms"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kvSuhNfsFH",
+          "end": 55,
+          "expanded_url": "https://x.com/oyuki_gms/status/1942914710908899493/photo/1",
+          "media_key": "3_1942914262814302209",
+          "start": 32,
+          "url": "https://t.co/kvSuhNfsFH"
+        },
+        {
+          "display_url": "pic.x.com/kvSuhNfsFH",
+          "end": 55,
+          "expanded_url": "https://x.com/oyuki_gms/status/1942914710908899493/photo/1",
+          "media_key": "3_1942914432482394112",
+          "start": 32,
+          "url": "https://t.co/kvSuhNfsFH"
+        },
+        {
+          "display_url": "pic.x.com/kvSuhNfsFH",
+          "end": 55,
+          "expanded_url": "https://x.com/oyuki_gms/status/1942914710908899493/photo/1",
+          "media_key": "3_1942914557422571520",
+          "start": 32,
+          "url": "https://t.co/kvSuhNfsFH"
+        },
+        {
+          "display_url": "pic.x.com/kvSuhNfsFH",
+          "end": 55,
+          "expanded_url": "https://x.com/oyuki_gms/status/1942914710908899493/photo/1",
+          "media_key": "3_1942914700187967488",
+          "start": 32,
+          "url": "https://t.co/kvSuhNfsFH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942933392036712925",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1356
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942914710908899493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oyuki_gms: アークナイツ × 豊島園 庭の湯 https://t.co/kvSuhNfsFH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1942914262814302209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvaeOmAWIAEqeHV.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1942914432482394112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvaeYeEXwAAvJJ7.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1942914557422571520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvaefvgbkAAO9yo.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1942914700187967488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvaeoDWWoAAmqop.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942914262814302209",
+            "3_1942914432482394112",
+            "3_1942914557422571520",
+            "3_1942914700187967488"
+          ],
+          "media_source_tweet_id": [
+            "1942914710908899493",
+            "1942914710908899493",
+            "1942914710908899493",
+            "1942914710908899493"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1942933392036712925",
+        "created_at": "2025-07-09T13:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T14:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942933392036712925"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "豊島園 庭の湯",
+              "probability": 0.2821,
+              "start": 24,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4694122141",
+              "start": 3,
+              "username": "oyuki_gms"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kvSuhNfsFH",
+              "end": 55,
+              "expanded_url": "https://x.com/oyuki_gms/status/1942914710908899493/photo/1",
+              "media_key": "3_1942914262814302209",
+              "start": 32,
+              "url": "https://t.co/kvSuhNfsFH"
+            },
+            {
+              "display_url": "pic.x.com/kvSuhNfsFH",
+              "end": 55,
+              "expanded_url": "https://x.com/oyuki_gms/status/1942914710908899493/photo/1",
+              "media_key": "3_1942914432482394112",
+              "start": 32,
+              "url": "https://t.co/kvSuhNfsFH"
+            },
+            {
+              "display_url": "pic.x.com/kvSuhNfsFH",
+              "end": 55,
+              "expanded_url": "https://x.com/oyuki_gms/status/1942914710908899493/photo/1",
+              "media_key": "3_1942914557422571520",
+              "start": 32,
+              "url": "https://t.co/kvSuhNfsFH"
+            },
+            {
+              "display_url": "pic.x.com/kvSuhNfsFH",
+              "end": 55,
+              "expanded_url": "https://x.com/oyuki_gms/status/1942914710908899493/photo/1",
+              "media_key": "3_1942914700187967488",
+              "start": 32,
+              "url": "https://t.co/kvSuhNfsFH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942933392036712925",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1356
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942914710908899493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oyuki_gms: アークナイツ × 豊島園 庭の湯 https://t.co/kvSuhNfsFH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942914262814302209",
+            "3_1942914432482394112",
+            "3_1942914557422571520",
+            "3_1942914700187967488"
+          ]
+        },
+        "author_id": "4694122141",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1942914710908899493",
+        "created_at": "2025-07-09T11:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T12:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942914710908899493"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "豊島園 庭の湯",
+              "probability": 0.3596,
+              "start": 9,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kvSuhNfsFH",
+              "end": 40,
+              "expanded_url": "https://x.com/oyuki_gms/status/1942914710908899493/photo/1",
+              "media_key": "3_1942914262814302209",
+              "start": 17,
+              "url": "https://t.co/kvSuhNfsFH"
+            },
+            {
+              "display_url": "pic.x.com/kvSuhNfsFH",
+              "end": 40,
+              "expanded_url": "https://x.com/oyuki_gms/status/1942914710908899493/photo/1",
+              "media_key": "3_1942914432482394112",
+              "start": 17,
+              "url": "https://t.co/kvSuhNfsFH"
+            },
+            {
+              "display_url": "pic.x.com/kvSuhNfsFH",
+              "end": 40,
+              "expanded_url": "https://x.com/oyuki_gms/status/1942914710908899493/photo/1",
+              "media_key": "3_1942914557422571520",
+              "start": 17,
+              "url": "https://t.co/kvSuhNfsFH"
+            },
+            {
+              "display_url": "pic.x.com/kvSuhNfsFH",
+              "end": 40,
+              "expanded_url": "https://x.com/oyuki_gms/status/1942914710908899493/photo/1",
+              "media_key": "3_1942914700187967488",
+              "start": 17,
+              "url": "https://t.co/kvSuhNfsFH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942914710908899493",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 301,
+          "impression_count": 145007,
+          "like_count": 2098,
+          "quote_count": 309,
+          "reply_count": 1,
+          "retweet_count": 1356
+        },
+        "reply_settings": "everyone",
+        "text": "アークナイツ × 豊島園 庭の湯 https://t.co/kvSuhNfsFH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 954,
+          "like_count": 8350,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 1724
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-02T05:31:16.000Z",
+        "description": "アークナイツ（エンドフィールド）のことや好きなことを呟いてます！\nI talk about news for Arknights (Endfield) and other things I enjoy!\n日常アカ @oyukilll\n大陸版まとめ https://t.co/0uyb84KbeH\n↓さらに表示↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 107,
+                "username": "oyukilll"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/3vgsYUy",
+                "end": 147,
+                "expanded_url": "http://bit.ly/3vgsYUy",
+                "start": 124,
+                "url": "https://t.co/0uyb84KbeH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@oyuki",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@oyuki",
+                "start": 0,
+                "url": "https://t.co/iKEYcDQznW"
+              }
+            ]
+          }
+        },
+        "id": "4694122141",
+        "location": "✉仕事用メール ⇨ oyuki.ch.406@gmail",
+        "name": "oyuki ❄️",
+        "pinned_tweet_id": "1942580690396274711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730153739343060992/vbRRCGpN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102080,
+          "following_count": 791,
+          "like_count": 50634,
+          "listed_count": 718,
+          "media_count": 8417,
+          "tweet_count": 21466
+        },
+        "url": "https://t.co/iKEYcDQznW",
+        "username": "oyuki_gms",
+        "verified": true
+      }
+    ]
+  }
+}

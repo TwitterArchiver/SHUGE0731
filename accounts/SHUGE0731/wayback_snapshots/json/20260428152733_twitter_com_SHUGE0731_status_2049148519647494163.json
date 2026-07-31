@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049067745778798592"
+      ],
+      "media_source_tweet_id": [
+        "2049067752607174879"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2049148519647494163",
+    "created_at": "2026-04-28T15:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T16:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049148519647494163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1766114418478424064",
+          "start": 3,
+          "username": "utuginko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oQRpsJIjOR",
+          "end": 45,
+          "expanded_url": "https://x.com/utuginko/status/2049067752607174879/photo/1",
+          "media_key": "3_2049067745778798592",
+          "start": 22,
+          "url": "https://t.co/oQRpsJIjOR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049148519647494163",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 877
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049067752607174879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @utuginko: 三日月ステップ https://t.co/oQRpsJIjOR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049067745778798592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_AQiPbEAAtVsa.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049067745778798592"
+          ],
+          "media_source_tweet_id": [
+            "2049067752607174879"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2049148519647494163",
+        "created_at": "2026-04-28T15:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049148519647494163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1766114418478424064",
+              "start": 3,
+              "username": "utuginko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oQRpsJIjOR",
+              "end": 45,
+              "expanded_url": "https://x.com/utuginko/status/2049067752607174879/photo/1",
+              "media_key": "3_2049067745778798592",
+              "start": 22,
+              "url": "https://t.co/oQRpsJIjOR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049148519647494163",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 877
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049067752607174879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @utuginko: 三日月ステップ https://t.co/oQRpsJIjOR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049067745778798592"
+          ]
+        },
+        "author_id": "1766114418478424064",
+        "conversation_id": "2049067752607174879",
+        "created_at": "2026-04-28T10:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049067752607174879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oQRpsJIjOR",
+              "end": 31,
+              "expanded_url": "https://x.com/utuginko/status/2049067752607174879/photo/1",
+              "media_key": "3_2049067745778798592",
+              "start": 8,
+              "url": "https://t.co/oQRpsJIjOR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049067752607174879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 640,
+          "impression_count": 75906,
+          "like_count": 11466,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 877
+        },
+        "reply_settings": "everyone",
+        "text": "三日月ステップ https://t.co/oQRpsJIjOR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 1091,
+          "like_count": 27334,
+          "listed_count": 4,
+          "media_count": 642,
+          "tweet_count": 9468
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T14:52:08.000Z",
+        "description": "うつぎです。支部のID→utuginko696",
+        "id": "1766114418478424064",
+        "location": "投稿した画像全ての無断使用・加工等禁止",
+        "name": "虚木きいろ🦩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038297979497730048/VG5AJJvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 423,
+          "like_count": 6067,
+          "listed_count": 3,
+          "media_count": 150,
+          "tweet_count": 781
+        },
+        "username": "utuginko",
+        "verified": false
+      }
+    ]
+  }
+}

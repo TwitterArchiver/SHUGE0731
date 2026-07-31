@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948110468058431488"
+      ],
+      "media_source_tweet_id": [
+        "1948110487566070102"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1948281280744820986",
+    "created_at": "2025-07-24T07:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T08:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948281280744820986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1031289981283848192",
+          "start": 3,
+          "username": "cockaztiel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XwLvgpLjE8",
+          "end": 42,
+          "expanded_url": "https://x.com/cockaztiel/status/1948110487566070102/photo/1",
+          "media_key": "3_1948110468058431488",
+          "start": 19,
+          "url": "https://t.co/XwLvgpLjE8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948281280744820986",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 289
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948110487566070102",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cockaztiel: :) https://t.co/XwLvgpLjE8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1066,
+        "media_key": "3_1948110468058431488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwkUJi_XwAAWfHT.jpg",
+        "width": 840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948110468058431488"
+          ],
+          "media_source_tweet_id": [
+            "1948110487566070102"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1948281280744820986",
+        "created_at": "2025-07-24T07:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T08:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948281280744820986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1031289981283848192",
+              "start": 3,
+              "username": "cockaztiel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XwLvgpLjE8",
+              "end": 42,
+              "expanded_url": "https://x.com/cockaztiel/status/1948110487566070102/photo/1",
+              "media_key": "3_1948110468058431488",
+              "start": 19,
+              "url": "https://t.co/XwLvgpLjE8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948281280744820986",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 289
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948110487566070102",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cockaztiel: :) https://t.co/XwLvgpLjE8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948110468058431488"
+          ]
+        },
+        "author_id": "1031289981283848192",
+        "conversation_id": "1948110487566070102",
+        "created_at": "2025-07-23T19:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T20:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948110487566070102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XwLvgpLjE8",
+              "end": 26,
+              "expanded_url": "https://x.com/cockaztiel/status/1948110487566070102/photo/1",
+              "media_key": "3_1948110468058431488",
+              "start": 3,
+              "url": "https://t.co/XwLvgpLjE8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948110487566070102",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 28102,
+          "like_count": 2604,
+          "quote_count": 14,
+          "reply_count": 9,
+          "retweet_count": 289
+        },
+        "reply_settings": "everyone",
+        "text": ":) https://t.co/XwLvgpLjE8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 954,
+          "like_count": 8377,
+          "listed_count": 1,
+          "media_count": 269,
+          "tweet_count": 1752
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-19T21:21:06.000Z",
+        "description": "#Cockatiel lover | Acariciadora de calopsitas | Birb memes |  オピーチョ💖 ٩(°̀ᗝ°́)و",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "Cockatiel"
+              }
+            ]
+          }
+        },
+        "id": "1031289981283848192",
+        "name": "Vel'Caz 🐤",
+        "pinned_tweet_id": "1496584824680759301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1318498456386871297/f7MJPO9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 417,
+          "like_count": 392131,
+          "listed_count": 11,
+          "media_count": 3504,
+          "tweet_count": 21490
+        },
+        "username": "cockaztiel",
+        "verified": false
+      }
+    ]
+  }
+}

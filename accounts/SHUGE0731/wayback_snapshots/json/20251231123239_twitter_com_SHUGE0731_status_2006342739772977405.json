@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2006057076745973760"
+      ],
+      "media_source_tweet_id": [
+        "2006058169542258698"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      }
+    ],
+    "conversation_id": "2006342739772977405",
+    "created_at": "2025-12-31T12:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T13:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006342739772977405"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "stego",
+          "probability": 0.5155,
+          "start": 16,
+          "type": "Other"
+        },
+        {
+          "end": 54,
+          "normalized_text": "umamusume",
+          "probability": 0.8107,
+          "start": 46,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 45,
+          "tag": "umamusume"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1123225649689182208",
+          "start": 3,
+          "username": "myticalcat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/opAITNTU2O",
+          "end": 79,
+          "expanded_url": "https://x.com/myticalcat/status/2006058169542258698/video/1",
+          "media_key": "13_2006057076745973760",
+          "start": 56,
+          "url": "https://t.co/opAITNTU2O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006342739772977405",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5853
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006058169542258698",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @myticalcat: stego and family lagtraining\n#umamusume https://t.co/opAITNTU2O"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13133,
+        "height": 720,
+        "media_key": "13_2006057076745973760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006057076745973760/img/bKGf5JXhldE2lRhM.jpg",
+        "public_metrics": {
+          "view_count": 101989
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006057076745973760/vid/avc1/480x270/P8Eok9AovrSrIVsq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006057076745973760/vid/avc1/640x360/ek8Qy4xIitKUlQH5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006057076745973760/vid/avc1/1280x720/GYqtpjJKqS8If9Uv.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006057076745973760/pl/4f9HvylSFPXCY4Br.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006057076745973760"
+          ],
+          "media_source_tweet_id": [
+            "2006058169542258698"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "2006342739772977405",
+        "created_at": "2025-12-31T12:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T13:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006342739772977405"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "stego",
+              "probability": 0.5155,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 54,
+              "normalized_text": "umamusume",
+              "probability": 0.8107,
+              "start": 46,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 45,
+              "tag": "umamusume"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1123225649689182208",
+              "start": 3,
+              "username": "myticalcat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/opAITNTU2O",
+              "end": 79,
+              "expanded_url": "https://x.com/myticalcat/status/2006058169542258698/video/1",
+              "media_key": "13_2006057076745973760",
+              "start": 56,
+              "url": "https://t.co/opAITNTU2O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006342739772977405",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5853
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006058169542258698",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @myticalcat: stego and family lagtraining\n#umamusume https://t.co/opAITNTU2O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006057076745973760"
+          ]
+        },
+        "author_id": "1123225649689182208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "2006058169542258698",
+        "created_at": "2025-12-30T17:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T18:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006058169542258698"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "stego",
+              "probability": 0.5441,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 38,
+              "normalized_text": "umamusume",
+              "probability": 0.7707,
+              "start": 30,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 29,
+              "tag": "umamusume"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/opAITNTU2O",
+              "end": 63,
+              "expanded_url": "https://x.com/myticalcat/status/2006058169542258698/video/1",
+              "media_key": "13_2006057076745973760",
+              "start": 40,
+              "url": "https://t.co/opAITNTU2O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006058169542258698",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5735,
+          "impression_count": 263929,
+          "like_count": 31335,
+          "quote_count": 33,
+          "reply_count": 28,
+          "retweet_count": 5853
+        },
+        "reply_settings": "everyone",
+        "text": "stego and family lagtraining\n#umamusume https://t.co/opAITNTU2O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 992,
+          "like_count": 16584,
+          "listed_count": 3,
+          "media_count": 504,
+          "tweet_count": 5506
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-30T14:00:38.000Z",
+        "description": "2x art school reject. Novice algorithmic information theory researcher.\n\nDrawing GFL, Arknights, Uma, Jesus, etc.",
+        "id": "1123225649689182208",
+        "location": "Squidward Community College",
+        "name": "myticalCat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623175465409327104/Ws6si3PD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9184,
+          "following_count": 404,
+          "like_count": 8974,
+          "listed_count": 53,
+          "media_count": 799,
+          "tweet_count": 5855
+        },
+        "username": "myticalcat",
+        "verified": false
+      }
+    ]
+  }
+}

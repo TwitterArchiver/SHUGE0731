@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2016006015817535621",
+    "created_at": "2026-01-27T05:00:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T06:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016013544794554639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1814968084538826753",
+          "start": 0,
+          "username": "aiyuqiu4ev10883"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016013544794554639",
+    "in_reply_to_user_id": "1814968084538826753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016006015817535621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiyuqiu4ev10883 我靠 想干啥😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016006012311109634",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_pKyXTbAAIio3a.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016006013111930881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_pKyaSWkAEyBcS.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016006011891679233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_pKyVvbAAETPc2.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2016006015817535621",
+        "created_at": "2026-01-27T05:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T06:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016013544794554639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1814968084538826753",
+              "start": 0,
+              "username": "aiyuqiu4ev10883"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016013544794554639",
+        "in_reply_to_user_id": "1814968084538826753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016006015817535621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiyuqiu4ev10883 我靠 想干啥😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016006012311109634",
+            "3_2016006013111930881",
+            "3_2016006011891679233"
+          ]
+        },
+        "author_id": "1814968084538826753",
+        "conversation_id": "2016006015817535621",
+        "created_at": "2026-01-27T04:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T05:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016006015817535621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vI4rFBVY2b",
+              "end": 29,
+              "expanded_url": "https://x.com/aiyuqiu4ev10883/status/2016006015817535621/photo/1",
+              "media_key": "3_2016006012311109634",
+              "start": 6,
+              "url": "https://t.co/vI4rFBVY2b"
+            },
+            {
+              "display_url": "pic.x.com/vI4rFBVY2b",
+              "end": 29,
+              "expanded_url": "https://x.com/aiyuqiu4ev10883/status/2016006015817535621/photo/1",
+              "media_key": "3_2016006013111930881",
+              "start": 6,
+              "url": "https://t.co/vI4rFBVY2b"
+            },
+            {
+              "display_url": "pic.x.com/vI4rFBVY2b",
+              "end": 29,
+              "expanded_url": "https://x.com/aiyuqiu4ev10883/status/2016006015817535621/photo/1",
+              "media_key": "3_2016006011891679233",
+              "start": 6,
+              "url": "https://t.co/vI4rFBVY2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016006015817535621",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪位孝子？ https://t.co/vI4rFBVY2b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 967,
+          "like_count": 18433,
+          "listed_count": 3,
+          "media_count": 535,
+          "tweet_count": 6528
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T10:18:13.000Z",
+        "description": "前身邪恶/善良立希希 立希漂亮漂亮！\n大阪傻福傻福😡",
+        "id": "1814968084538826753",
+        "location": "中南海",
+        "name": "吃内捧大阪",
+        "pinned_tweet_id": "2011639544190550373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011499782754504704/f7C5LRkR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 419,
+          "like_count": 2242,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 3512
+        },
+        "username": "aiyuqiu4ev10883",
+        "verified": false
+      }
+    ]
+  }
+}

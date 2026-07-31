@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960479035949305856"
+      ],
+      "media_source_tweet_id": [
+        "1960479157957353602"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1960733739509801077",
+    "created_at": "2025-08-27T15:58:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T16:58:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960733739509801077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1826397012511916034",
+          "start": 3,
+          "username": "3___yen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QT8OciReEb",
+          "end": 36,
+          "expanded_url": "https://x.com/3___yen/status/1960479157957353602/photo/1",
+          "media_key": "3_1960479035949305856",
+          "start": 13,
+          "url": "https://t.co/QT8OciReEb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960733739509801077",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960479157957353602",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3___yen: https://t.co/QT8OciReEb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1960479035949305856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzUFS89b0AAxRzc.jpg",
+        "width": 2709
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960479035949305856"
+          ],
+          "media_source_tweet_id": [
+            "1960479157957353602"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1960733739509801077",
+        "created_at": "2025-08-27T15:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T16:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960733739509801077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1826397012511916034",
+              "start": 3,
+              "username": "3___yen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QT8OciReEb",
+              "end": 36,
+              "expanded_url": "https://x.com/3___yen/status/1960479157957353602/photo/1",
+              "media_key": "3_1960479035949305856",
+              "start": 13,
+              "url": "https://t.co/QT8OciReEb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960733739509801077",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960479157957353602",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3___yen: https://t.co/QT8OciReEb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960479035949305856"
+          ]
+        },
+        "author_id": "1826397012511916034",
+        "conversation_id": "1960479157957353602",
+        "created_at": "2025-08-26T23:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T00:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960479157957353602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QT8OciReEb",
+              "end": 23,
+              "expanded_url": "https://x.com/3___yen/status/1960479157957353602/photo/1",
+              "media_key": "3_1960479035949305856",
+              "start": 0,
+              "url": "https://t.co/QT8OciReEb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960479157957353602",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 17839,
+          "like_count": 929,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QT8OciReEb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 984,
+          "like_count": 8779,
+          "listed_count": 1,
+          "media_count": 280,
+          "tweet_count": 1837
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T23:12:43.000Z",
+        "description": "3円です。絵を描いてます。音ゲーあんまりやってない。🎨@3yen__ 🗝@ns_0531 お題箱:https://t.co/rhAWfypfdy FA #3円臨時給付金 アイコン(8/26〜8/28)▷▶@e45937385",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 84,
+                "start": 76,
+                "tag": "3円臨時給付金"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 27,
+                "username": "3yen__"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "ns_0531"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "e45937385"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/Only3yen",
+                "end": 72,
+                "expanded_url": "https://odaibako.net/u/Only3yen",
+                "start": 49,
+                "url": "https://t.co/rhAWfypfdy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@3___yen",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@3___yen",
+                "start": 0,
+                "url": "https://t.co/IVXAXAkdXP"
+              }
+            ]
+          }
+        },
+        "id": "1826397012511916034",
+        "location": "福岡 大牟田市",
+        "name": "3円",
+        "pinned_tweet_id": "1946968256675262877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960000273428205568/luzjxaSp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 491,
+          "like_count": 66465,
+          "listed_count": 4,
+          "media_count": 2424,
+          "tweet_count": 17940
+        },
+        "url": "https://t.co/IVXAXAkdXP",
+        "username": "3___yen",
+        "verified": false
+      }
+    ]
+  }
+}

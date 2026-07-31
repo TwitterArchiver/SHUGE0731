@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10050189708",
+          "name": "メイドインアビス"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296305541338132480",
+          "name": "Made in Abyss"
+        }
+      }
+    ],
+    "conversation_id": "2038235518144860373",
+    "created_at": "2026-03-29T12:43:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T13:43:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038235518144860373"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 31,
+          "tag": "メイドインアビス"
+        },
+        {
+          "end": 117,
+          "start": 109,
+          "tag": "miabyss"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "801022933103611904",
+          "start": 3,
+          "username": "miabyss_anime"
+        }
+      ],
+      "urls": [
+        {
+          "description": "「メイドインアビス」─目覚める神秘─ 公式サイト。つくしあきひと原作「メイドインアビス」劇場シリーズ化決定！",
+          "display_url": "miabyss.com",
+          "end": 108,
+          "expanded_url": "http://miabyss.com",
+          "start": 85,
+          "status": 200,
+          "title": "「メイドインアビス」─目覚める神秘─ 公式サイト",
+          "unwound_url": "https://miabyss.com/",
+          "url": "https://t.co/IOONTGHP5l"
+        },
+        {
+          "display_url": "t.co/OpxrYC7g",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/OpxrYC7g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038235518144860373",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13252
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038164260162093359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miabyss_anime: 劇場シリーズ【第1部】\n#メイドインアビス 目覚める神秘\n\n2026年10月23日(金)\n劇場公開決定！\n\nキービジュアル公開！\n\nhttps://t.co/IOONTGHP5l\n#miabyss https://t.co/OpxrYC7g…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2037904548703211520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEgXY8ebkAAZngN.jpg",
+        "width": 2849
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050189708",
+              "name": "メイドインアビス"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296305541338132480",
+              "name": "Made in Abyss"
+            }
+          }
+        ],
+        "conversation_id": "2038235518144860373",
+        "created_at": "2026-03-29T12:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T13:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038235518144860373"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "メイドインアビス"
+            },
+            {
+              "end": 117,
+              "start": 109,
+              "tag": "miabyss"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "801022933103611904",
+              "start": 3,
+              "username": "miabyss_anime"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「メイドインアビス」─目覚める神秘─ 公式サイト。つくしあきひと原作「メイドインアビス」劇場シリーズ化決定！",
+              "display_url": "miabyss.com",
+              "end": 108,
+              "expanded_url": "http://miabyss.com",
+              "start": 85,
+              "status": 200,
+              "title": "「メイドインアビス」─目覚める神秘─ 公式サイト",
+              "unwound_url": "https://miabyss.com/",
+              "url": "https://t.co/IOONTGHP5l"
+            },
+            {
+              "display_url": "t.co/OpxrYC7g",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/OpxrYC7g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038235518144860373",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13252
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038164260162093359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miabyss_anime: 劇場シリーズ【第1部】\n#メイドインアビス 目覚める神秘\n\n2026年10月23日(金)\n劇場公開決定！\n\nキービジュアル公開！\n\nhttps://t.co/IOONTGHP5l\n#miabyss https://t.co/OpxrYC7g…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037904548703211520"
+          ]
+        },
+        "author_id": "801022933103611904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050189708",
+              "name": "メイドインアビス"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296305541338132480",
+              "name": "Made in Abyss"
+            }
+          }
+        ],
+        "conversation_id": "2038164260162093359",
+        "created_at": "2026-03-29T08:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T09:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038164260162093359"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 12,
+              "tag": "メイドインアビス"
+            },
+            {
+              "end": 98,
+              "start": 90,
+              "tag": "miabyss"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「メイドインアビス」─目覚める神秘─ 公式サイト。つくしあきひと原作「メイドインアビス」劇場シリーズ化決定！",
+              "display_url": "miabyss.com",
+              "end": 89,
+              "expanded_url": "http://miabyss.com",
+              "start": 66,
+              "status": 200,
+              "title": "「メイドインアビス」─目覚める神秘─ 公式サイト",
+              "unwound_url": "https://miabyss.com/",
+              "url": "https://t.co/IOONTGHP5l"
+            },
+            {
+              "display_url": "pic.x.com/OpxrYC7gwh",
+              "end": 122,
+              "expanded_url": "https://x.com/miabyss_anime/status/2038164260162093359/photo/1",
+              "media_key": "3_2037904548703211520",
+              "start": 99,
+              "url": "https://t.co/OpxrYC7gwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038164260162093359",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2139,
+          "impression_count": 1694351,
+          "like_count": 36426,
+          "quote_count": 1579,
+          "reply_count": 109,
+          "retweet_count": 13252
+        },
+        "reply_settings": "everyone",
+        "text": "劇場シリーズ【第1部】\n#メイドインアビス 目覚める神秘\n\n2026年10月23日(金)\n劇場公開決定！\n\nキービジュアル公開！\n\nhttps://t.co/IOONTGHP5l\n#miabyss https://t.co/OpxrYC7gwh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 1020,
+          "like_count": 24900,
+          "listed_count": 3,
+          "media_count": 607,
+          "tweet_count": 8673
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-22T11:22:04.000Z",
+        "description": "「メイドインアビス」劇場シリーズアニメ化決定！\n【第1部】メイドインアビス 目覚める神秘 2026年公開！\nアニメーション制作：キネマシトラス\n原作漫画は「竹コミ！」にて連載中📖\n#miabyss",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 90,
+                "tag": "miabyss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "miabyss.com",
+                "end": 23,
+                "expanded_url": "http://miabyss.com",
+                "start": 0,
+                "url": "https://t.co/HWpAWtKhT5"
+              }
+            ]
+          }
+        },
+        "id": "801022933103611904",
+        "name": "アニメ「メイドインアビス」公式",
+        "pinned_tweet_id": "2038164260162093359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875373653222858752/scd5lBIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224650,
+          "following_count": 24,
+          "like_count": 12,
+          "listed_count": 1444,
+          "media_count": 1512,
+          "tweet_count": 5317
+        },
+        "url": "https://t.co/HWpAWtKhT5",
+        "username": "miabyss_anime",
+        "verified": false
+      }
+    ]
+  }
+}

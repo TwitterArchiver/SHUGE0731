@@ -1,0 +1,555 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Nagoya",
+          "id": "859408970473066496",
+          "name": "Nagoya"
+        }
+      }
+    ],
+    "conversation_id": "2013106137793482911",
+    "created_at": "2026-01-19T04:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T05:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013106137793482911"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 59,
+          "normalized_text": "ニディガ展4(フォー)",
+          "probability": 0.5838,
+          "start": 49,
+          "type": "Other"
+        },
+        {
+          "end": 63,
+          "normalized_text": "東京",
+          "probability": 0.9641,
+          "start": 62,
+          "type": "Place"
+        },
+        {
+          "end": 66,
+          "normalized_text": "大阪",
+          "probability": 0.9853,
+          "start": 65,
+          "type": "Place"
+        },
+        {
+          "end": 70,
+          "normalized_text": "名古屋",
+          "probability": 0.9824,
+          "start": 68,
+          "type": "Place"
+        },
+        {
+          "end": 80,
+          "normalized_text": "東京",
+          "probability": 0.8617,
+          "start": 79,
+          "type": "Place"
+        },
+        {
+          "end": 116,
+          "normalized_text": "トミオさん",
+          "probability": 0.6133,
+          "start": 112,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1790319108875227136",
+          "start": 3,
+          "username": "needygirl_o"
+        },
+        {
+          "end": 125,
+          "id": "1915641233999093762",
+          "start": 116,
+          "username": "amsuimin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013106137793482911",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 250
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013084002928796146",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @needygirl_o: 🎉ニディガ4周年まであと2日！🎉\n\n今年もニディガの企画展『ニディガ展4(フォー)』が東京・大阪・名古屋に登場！\n現在は東京会場で開催中！　入場無料だから遊びに来てね！\n\nIllust：トミオさん(@amsuimin) https://t.co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2012365884585910272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1cHCzboAAMgzr.jpg",
+        "width": 2898
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Nagoya",
+              "id": "859408970473066496",
+              "name": "Nagoya"
+            }
+          }
+        ],
+        "conversation_id": "2013106137793482911",
+        "created_at": "2026-01-19T04:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T05:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013106137793482911"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 59,
+              "normalized_text": "ニディガ展4(フォー)",
+              "probability": 0.5838,
+              "start": 49,
+              "type": "Other"
+            },
+            {
+              "end": 63,
+              "normalized_text": "東京",
+              "probability": 0.9641,
+              "start": 62,
+              "type": "Place"
+            },
+            {
+              "end": 66,
+              "normalized_text": "大阪",
+              "probability": 0.9853,
+              "start": 65,
+              "type": "Place"
+            },
+            {
+              "end": 70,
+              "normalized_text": "名古屋",
+              "probability": 0.9824,
+              "start": 68,
+              "type": "Place"
+            },
+            {
+              "end": 80,
+              "normalized_text": "東京",
+              "probability": 0.8617,
+              "start": 79,
+              "type": "Place"
+            },
+            {
+              "end": 116,
+              "normalized_text": "トミオさん",
+              "probability": 0.6133,
+              "start": 112,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1790319108875227136",
+              "start": 3,
+              "username": "needygirl_o"
+            },
+            {
+              "end": 125,
+              "id": "1915641233999093762",
+              "start": 116,
+              "username": "amsuimin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013106137793482911",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 250
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013084002928796146",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @needygirl_o: 🎉ニディガ4周年まであと2日！🎉\n\n今年もニディガの企画展『ニディガ展4(フォー)』が東京・大阪・名古屋に登場！\n現在は東京会場で開催中！　入場無料だから遊びに来てね！\n\nIllust：トミオさん(@amsuimin) https://t.co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012365884585910272"
+          ]
+        },
+        "author_id": "1790319108875227136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Nagoya",
+              "id": "859408970473066496",
+              "name": "Nagoya"
+            }
+          }
+        ],
+        "conversation_id": "2013084002928796146",
+        "created_at": "2026-01-19T03:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T04:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013084002928796146"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "ニディガ展4(フォー)",
+              "probability": 0.5819,
+              "start": 32,
+              "type": "Other"
+            },
+            {
+              "end": 46,
+              "normalized_text": "東京",
+              "probability": 0.9635,
+              "start": 45,
+              "type": "Place"
+            },
+            {
+              "end": 49,
+              "normalized_text": "大阪",
+              "probability": 0.9851,
+              "start": 48,
+              "type": "Place"
+            },
+            {
+              "end": 53,
+              "normalized_text": "名古屋",
+              "probability": 0.9822,
+              "start": 51,
+              "type": "Place"
+            },
+            {
+              "end": 63,
+              "normalized_text": "東京",
+              "probability": 0.8574,
+              "start": 62,
+              "type": "Place"
+            },
+            {
+              "end": 99,
+              "normalized_text": "トミオさん",
+              "probability": 0.6947,
+              "start": 95,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 108,
+              "id": "1915641233999093762",
+              "start": 99,
+              "username": "amsuimin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y47PzzZOli",
+              "end": 133,
+              "expanded_url": "https://x.com/needygirl_o/status/2013084002928796146/photo/1",
+              "media_key": "3_2012365884585910272",
+              "start": 110,
+              "url": "https://t.co/y47PzzZOli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013084002928796146",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 9423,
+          "like_count": 1139,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 250
+        },
+        "reply_settings": "everyone",
+        "text": "🎉ニディガ4周年まであと2日！🎉\n\n今年もニディガの企画展『ニディガ展4(フォー)』が東京・大阪・名古屋に登場！\n現在は東京会場で開催中！　入場無料だから遊びに来てね！\n\nIllust：トミオさん(@amsuimin) https://t.co/y47PzzZOli"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 996,
+          "like_count": 17787,
+          "listed_count": 3,
+          "media_count": 526,
+          "tweet_count": 6299
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T09:52:26.000Z",
+        "description": "最強配信者（インターネット・エンジェル）と暮らすADV「NEEDY GIRL OVERDOSE」（ニディガと呼ぶ人もいるよ！）の公式アカウントです。\nYouTube：https://t.co/BKpkQo5DFg\nお問い合わせ：https://t.co/nXwN8xhR49",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wssplayground",
+                "end": 106,
+                "expanded_url": "https://www.youtube.com/@wssplayground",
+                "start": 83,
+                "url": "https://t.co/BKpkQo5DFg"
+              },
+              {
+                "display_url": "angelkawaii.com",
+                "end": 137,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 114,
+                "url": "https://t.co/nXwN8xhR49"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whysoserious.jp/needy/",
+                "end": 23,
+                "expanded_url": "https://whysoserious.jp/needy/",
+                "start": 0,
+                "url": "https://t.co/M5DW5V8xeX"
+              }
+            ]
+          }
+        },
+        "id": "1790319108875227136",
+        "name": "NEEDY GIRL Official",
+        "pinned_tweet_id": "1987808699813916693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790321034090147840/ohWusD8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58260,
+          "following_count": 8,
+          "like_count": 15,
+          "listed_count": 72,
+          "media_count": 613,
+          "tweet_count": 974
+        },
+        "url": "https://t.co/M5DW5V8xeX",
+        "username": "needygirl_o",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-25T05:37:25.000Z",
+        "description": "illust🐬https://t.co/8batbmefpL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@amsuimin",
+                "end": 30,
+                "expanded_url": "https://skeb.jp/@amsuimin",
+                "start": 7,
+                "url": "https://t.co/8batbmefpL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fmsuimin.tumblr.com",
+                "end": 23,
+                "expanded_url": "https://fmsuimin.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/VJM1mqnECD"
+              }
+            ]
+          }
+        },
+        "id": "1915641233999093762",
+        "location": "fmsuimin@ymail.ne.jp",
+        "name": "トミオ",
+        "pinned_tweet_id": "1961384288404082884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938880525927596032/--_oAp92_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2928,
+          "following_count": 52,
+          "like_count": 194,
+          "listed_count": 16,
+          "media_count": 37,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/VJM1mqnECD",
+        "username": "amsuimin",
+        "verified": false
+      }
+    ]
+  }
+}

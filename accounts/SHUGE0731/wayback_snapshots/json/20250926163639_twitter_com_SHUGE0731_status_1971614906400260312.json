@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1971428539720458240"
+      ],
+      "media_source_tweet_id": [
+        "1971428597815705848"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1971614906400260312",
+    "created_at": "2025-09-26T16:36:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T17:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971614906400260312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1783006954199420928",
+          "start": 3,
+          "username": "Do_yundoo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cngMKEFIdc",
+          "end": 45,
+          "expanded_url": "https://x.com/Do_yundoo/status/1971428597815705848/video/1",
+          "media_key": "13_1971428539720458240",
+          "start": 22,
+          "url": "https://t.co/cngMKEFIdc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971614906400260312",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 386
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971428597815705848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Do_yundoo: 연두 닉값중 https://t.co/cngMKEFIdc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4300,
+        "height": 1280,
+        "media_key": "13_1971428539720458240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1971428539720458240/img/XQLxZV4-El7Ys5cE.jpg",
+        "public_metrics": {
+          "view_count": 4874
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971428539720458240/vid/avc1/320x568/zD5yjK7aIczOCqaH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971428539720458240/vid/avc1/480x852/LwlzUumqrKxjf4Uv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971428539720458240/vid/avc1/720x1280/_kt20mED2JqKoqEV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1971428539720458240/pl/eVkYygbWqvwkPcR9.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1971428539720458240"
+          ],
+          "media_source_tweet_id": [
+            "1971428597815705848"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1971614906400260312",
+        "created_at": "2025-09-26T16:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T17:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971614906400260312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1783006954199420928",
+              "start": 3,
+              "username": "Do_yundoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cngMKEFIdc",
+              "end": 45,
+              "expanded_url": "https://x.com/Do_yundoo/status/1971428597815705848/video/1",
+              "media_key": "13_1971428539720458240",
+              "start": 22,
+              "url": "https://t.co/cngMKEFIdc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971614906400260312",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 386
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971428597815705848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Do_yundoo: 연두 닉값중 https://t.co/cngMKEFIdc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1971428539720458240"
+          ]
+        },
+        "author_id": "1783006954199420928",
+        "conversation_id": "1971428597815705848",
+        "created_at": "2025-09-26T04:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T05:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971428597815705848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cngMKEFIdc",
+              "end": 30,
+              "expanded_url": "https://x.com/Do_yundoo/status/1971428597815705848/video/1",
+              "media_key": "13_1971428539720458240",
+              "start": 7,
+              "url": "https://t.co/cngMKEFIdc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971428597815705848",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 12457,
+          "like_count": 515,
+          "quote_count": 34,
+          "reply_count": 0,
+          "retweet_count": 386
+        },
+        "reply_settings": "everyone",
+        "text": "연두 닉값중 https://t.co/cngMKEFIdc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 有一只牡丹鹦鹉叫uno！｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 1030,
+          "like_count": 9398,
+          "listed_count": 2,
+          "media_count": 298,
+          "tweet_count": 2023
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T05:36:10.000Z",
+        "description": "하늘을 나는 이끼덩어리의 일상계",
+        "id": "1783006954199420928",
+        "name": "연두해요~",
+        "pinned_tweet_id": "1889603725557194956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888584316286099456/bn18fxA7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 65,
+          "like_count": 2510,
+          "listed_count": 3,
+          "media_count": 509,
+          "tweet_count": 2191
+        },
+        "username": "Do_yundoo",
+        "verified": false
+      }
+    ]
+  }
+}

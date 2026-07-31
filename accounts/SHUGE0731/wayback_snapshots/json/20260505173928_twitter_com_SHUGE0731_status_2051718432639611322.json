@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2051679958452645888"
+      ],
+      "media_source_tweet_id": [
+        "2051679973254234476"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2051718432639611322",
+    "created_at": "2026-05-05T17:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T18:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051718432639611322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1507123057130835968",
+          "start": 3,
+          "username": "CAT02A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7VOsCWrC3E",
+          "end": 50,
+          "expanded_url": "https://x.com/CAT02A/status/2051679973254234476/photo/1",
+          "media_key": "16_2051679958452645888",
+          "start": 27,
+          "url": "https://t.co/7VOsCWrC3E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051718432639611322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 225
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051679973254234476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CAT02A: 拟态成了其中一个敌人的模样！ https://t.co/7VOsCWrC3E"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051718432639611322].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051718432639611322",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051718432639611322"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "16_2051679958452645888",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HHkIDUxbsAAvTnk.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HHkIDUxbsAAvTnk.mp4"
+          }
+        ],
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2051679958452645888"
+          ]
+        },
+        "author_id": "1507123057130835968",
+        "conversation_id": "2051679973254234476",
+        "created_at": "2026-05-05T15:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051679973254234476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7VOsCWrC3E",
+              "end": 38,
+              "expanded_url": "https://x.com/CAT02A/status/2051679973254234476/photo/1",
+              "media_key": "16_2051679958452645888",
+              "start": 15,
+              "url": "https://t.co/7VOsCWrC3E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051679973254234476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 765,
+          "impression_count": 25040,
+          "like_count": 3221,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 225
+        },
+        "reply_settings": "everyone",
+        "text": "拟态成了其中一个敌人的模样！ https://t.co/7VOsCWrC3E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 1108,
+          "like_count": 27838,
+          "listed_count": 5,
+          "media_count": 650,
+          "tweet_count": 9589
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-24T22:32:02.000Z",
+        "description": "正在尝试制作酷炫的r18＋横版动作游戏！\n发布一些日常绘画和开发进度。\n未开放任何形式的赞助渠道)",
+        "id": "1507123057130835968",
+        "name": "全知全能の威廉斯毕加索·黑猫🔞",
+        "pinned_tweet_id": "1559616536154935296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743758200472825856/Yz4AgKGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121907,
+          "following_count": 2164,
+          "like_count": 17590,
+          "listed_count": 600,
+          "media_count": 143,
+          "tweet_count": 1447
+        },
+        "username": "CAT02A",
+        "verified": false
+      }
+    ]
+  }
+}

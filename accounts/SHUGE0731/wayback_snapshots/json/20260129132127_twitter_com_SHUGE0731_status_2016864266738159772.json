@@ -1,0 +1,556 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016758186100084736",
+        "3_2016758186104279043",
+        "3_2016758186104238080",
+        "3_2016758186129469440"
+      ],
+      "media_source_tweet_id": [
+        "2016758289154109938",
+        "2016758289154109938",
+        "2016758289154109938",
+        "2016758289154109938"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2016864266738159772",
+    "created_at": "2026-01-29T13:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T14:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016864266738159772"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "とらドラ! 逢坂大河 ドレスVer.",
+          "probability": 0.1199,
+          "start": 14,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 89,
+          "start": 84,
+          "tag": "とらドラ"
+        },
+        {
+          "end": 99,
+          "start": 90,
+          "tag": "ルミナスボックス"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "292351939",
+          "start": 3,
+          "username": "figsoku"
+        }
+      ],
+      "urls": [
+        {
+          "description": "■グッスマ出荷情報 2026年2月の発売スケジュールが更新※実際の店頭発売日は、出荷日の2~3日後ですhttps://www.goodsmile.com/ja/news/6691・2月5日(木)出荷ルミナスボックス「ラプンツェル」JAN:4580590207103「逢坂大河 ドレ…",
+          "display_url": "figsoku.net/blog-entry-491…",
+          "end": 83,
+          "expanded_url": "https://figsoku.net/blog-entry-491817.html",
+          "images": [
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2016755804704215040/ZpEMKAQN?format=jpg&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2016755804704215040/ZpEMKAQN?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 60,
+          "status": 200,
+          "title": "【グッスマ出荷情報】勝利の女神:NIKKE「ラプンツェル」「ブラン:ホワイトラビット」ほか【発売日決定】",
+          "unwound_url": "https://figsoku.net/blog-entry-491817.html",
+          "url": "https://t.co/Y4bY1tkCBP"
+        },
+        {
+          "display_url": "pic.x.com/FIwpaM3vXi",
+          "end": 123,
+          "expanded_url": "https://x.com/figsoku/status/2016758289154109938/photo/1",
+          "media_key": "3_2016758186100084736",
+          "start": 100,
+          "url": "https://t.co/FIwpaM3vXi"
+        },
+        {
+          "display_url": "pic.x.com/FIwpaM3vXi",
+          "end": 123,
+          "expanded_url": "https://x.com/figsoku/status/2016758289154109938/photo/1",
+          "media_key": "3_2016758186104279043",
+          "start": 100,
+          "url": "https://t.co/FIwpaM3vXi"
+        },
+        {
+          "display_url": "pic.x.com/FIwpaM3vXi",
+          "end": 123,
+          "expanded_url": "https://x.com/figsoku/status/2016758289154109938/photo/1",
+          "media_key": "3_2016758186104238080",
+          "start": 100,
+          "url": "https://t.co/FIwpaM3vXi"
+        },
+        {
+          "display_url": "pic.x.com/FIwpaM3vXi",
+          "end": 123,
+          "expanded_url": "https://x.com/figsoku/status/2016758289154109938/photo/1",
+          "media_key": "3_2016758186129469440",
+          "start": 100,
+          "url": "https://t.co/FIwpaM3vXi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016864266738159772",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 517
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016758289154109938",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @figsoku: 「とらドラ! 逢坂大河 ドレスVer.」フィギュア\n\n【発売日決定！】\n・2月5日(木)出荷\nhttps://t.co/Y4bY1tkCBP\n#とらドラ #ルミナスボックス https://t.co/FIwpaM3vXi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2016758186100084736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_z24pBbUAAKxOY.jpg",
+        "width": 571
+      },
+      {
+        "height": 800,
+        "media_key": "3_2016758186104279043",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_z24pCbUAMHF0f.jpg",
+        "width": 571
+      },
+      {
+        "height": 800,
+        "media_key": "3_2016758186104238080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_z24pCasAApyv7.jpg",
+        "width": 545
+      },
+      {
+        "height": 800,
+        "media_key": "3_2016758186129469440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_z24pIbsAA0ViJ.jpg",
+        "width": 533
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016758186100084736",
+            "3_2016758186104279043",
+            "3_2016758186104238080",
+            "3_2016758186129469440"
+          ],
+          "media_source_tweet_id": [
+            "2016758289154109938",
+            "2016758289154109938",
+            "2016758289154109938",
+            "2016758289154109938"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016864266738159772",
+        "created_at": "2026-01-29T13:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T14:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016864266738159772"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "とらドラ! 逢坂大河 ドレスVer.",
+              "probability": 0.1199,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "とらドラ"
+            },
+            {
+              "end": 99,
+              "start": 90,
+              "tag": "ルミナスボックス"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "292351939",
+              "start": 3,
+              "username": "figsoku"
+            }
+          ],
+          "urls": [
+            {
+              "description": "■グッスマ出荷情報 2026年2月の発売スケジュールが更新※実際の店頭発売日は、出荷日の2~3日後ですhttps://www.goodsmile.com/ja/news/6691・2月5日(木)出荷ルミナスボックス「ラプンツェル」JAN:4580590207103「逢坂大河 ドレ…",
+              "display_url": "figsoku.net/blog-entry-491…",
+              "end": 83,
+              "expanded_url": "https://figsoku.net/blog-entry-491817.html",
+              "images": [
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2016755804704215040/ZpEMKAQN?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2016755804704215040/ZpEMKAQN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 60,
+              "status": 200,
+              "title": "【グッスマ出荷情報】勝利の女神:NIKKE「ラプンツェル」「ブラン:ホワイトラビット」ほか【発売日決定】",
+              "unwound_url": "https://figsoku.net/blog-entry-491817.html",
+              "url": "https://t.co/Y4bY1tkCBP"
+            },
+            {
+              "display_url": "pic.x.com/FIwpaM3vXi",
+              "end": 123,
+              "expanded_url": "https://x.com/figsoku/status/2016758289154109938/photo/1",
+              "media_key": "3_2016758186100084736",
+              "start": 100,
+              "url": "https://t.co/FIwpaM3vXi"
+            },
+            {
+              "display_url": "pic.x.com/FIwpaM3vXi",
+              "end": 123,
+              "expanded_url": "https://x.com/figsoku/status/2016758289154109938/photo/1",
+              "media_key": "3_2016758186104279043",
+              "start": 100,
+              "url": "https://t.co/FIwpaM3vXi"
+            },
+            {
+              "display_url": "pic.x.com/FIwpaM3vXi",
+              "end": 123,
+              "expanded_url": "https://x.com/figsoku/status/2016758289154109938/photo/1",
+              "media_key": "3_2016758186104238080",
+              "start": 100,
+              "url": "https://t.co/FIwpaM3vXi"
+            },
+            {
+              "display_url": "pic.x.com/FIwpaM3vXi",
+              "end": 123,
+              "expanded_url": "https://x.com/figsoku/status/2016758289154109938/photo/1",
+              "media_key": "3_2016758186129469440",
+              "start": 100,
+              "url": "https://t.co/FIwpaM3vXi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016864266738159772",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 517
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016758289154109938",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @figsoku: 「とらドラ! 逢坂大河 ドレスVer.」フィギュア\n\n【発売日決定！】\n・2月5日(木)出荷\nhttps://t.co/Y4bY1tkCBP\n#とらドラ #ルミナスボックス https://t.co/FIwpaM3vXi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016758186100084736",
+            "3_2016758186104279043",
+            "3_2016758186104238080",
+            "3_2016758186129469440"
+          ]
+        },
+        "author_id": "292351939",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          }
+        ],
+        "conversation_id": "2016758289154109938",
+        "created_at": "2026-01-29T06:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T07:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016758289154109938"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "とらドラ! 逢坂大河 ドレスVer.",
+              "probability": 0.127,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 71,
+              "tag": "とらドラ"
+            },
+            {
+              "end": 86,
+              "start": 77,
+              "tag": "ルミナスボックス"
+            }
+          ],
+          "urls": [
+            {
+              "description": "■グッスマ出荷情報 2026年2月の発売スケジュールが更新※実際の店頭発売日は、出荷日の2~3日後ですhttps://www.goodsmile.com/ja/news/6691・2月5日(木)出荷ルミナスボックス「ラプンツェル」JAN:4580590207103「逢坂大河 ドレ…",
+              "display_url": "figsoku.net/blog-entry-491…",
+              "end": 70,
+              "expanded_url": "https://figsoku.net/blog-entry-491817.html",
+              "images": [
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2016755804704215040/ZpEMKAQN?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2016755804704215040/ZpEMKAQN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 47,
+              "status": 200,
+              "title": "【グッスマ出荷情報】勝利の女神:NIKKE「ラプンツェル」「ブラン:ホワイトラビット」ほか【発売日決定】",
+              "unwound_url": "https://figsoku.net/blog-entry-491817.html",
+              "url": "https://t.co/Y4bY1tkCBP"
+            },
+            {
+              "display_url": "pic.x.com/FIwpaM3vXi",
+              "end": 110,
+              "expanded_url": "https://x.com/figsoku/status/2016758289154109938/photo/1",
+              "media_key": "3_2016758186100084736",
+              "start": 87,
+              "url": "https://t.co/FIwpaM3vXi"
+            },
+            {
+              "display_url": "pic.x.com/FIwpaM3vXi",
+              "end": 110,
+              "expanded_url": "https://x.com/figsoku/status/2016758289154109938/photo/1",
+              "media_key": "3_2016758186104279043",
+              "start": 87,
+              "url": "https://t.co/FIwpaM3vXi"
+            },
+            {
+              "display_url": "pic.x.com/FIwpaM3vXi",
+              "end": 110,
+              "expanded_url": "https://x.com/figsoku/status/2016758289154109938/photo/1",
+              "media_key": "3_2016758186104238080",
+              "start": 87,
+              "url": "https://t.co/FIwpaM3vXi"
+            },
+            {
+              "display_url": "pic.x.com/FIwpaM3vXi",
+              "end": 110,
+              "expanded_url": "https://x.com/figsoku/status/2016758289154109938/photo/1",
+              "media_key": "3_2016758186129469440",
+              "start": 87,
+              "url": "https://t.co/FIwpaM3vXi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016758289154109938",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 608,
+          "impression_count": 314390,
+          "like_count": 2575,
+          "quote_count": 129,
+          "reply_count": 3,
+          "retweet_count": 517
+        },
+        "reply_settings": "everyone",
+        "text": "「とらドラ! 逢坂大河 ドレスVer.」フィギュア\n\n【発売日決定！】\n・2月5日(木)出荷\nhttps://t.co/Y4bY1tkCBP\n#とらドラ #ルミナスボックス https://t.co/FIwpaM3vXi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 966,
+          "like_count": 18693,
+          "listed_count": 3,
+          "media_count": 537,
+          "tweet_count": 6660
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-03T14:25:14.000Z",
+        "description": "美少女フィギュアやガンプラ・プラモ・玩具の\n新作情報や予約情報を配信してます！\n\nAmazonアソシエイト・プログラムの参加者です。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "figsoku.net",
+                "end": 23,
+                "expanded_url": "http://figsoku.net/",
+                "start": 0,
+                "url": "https://t.co/paQJpi7uX6"
+              }
+            ]
+          }
+        },
+        "id": "292351939",
+        "location": "ポストにはPR・アフィリエイトのリンクを使用しています。",
+        "name": "ホビー速報＠フィギュア＆プラモ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/809605551332081664/CeREvYxX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174929,
+          "following_count": 2029,
+          "like_count": 51,
+          "listed_count": 2308,
+          "media_count": 64508,
+          "tweet_count": 121462
+        },
+        "url": "https://t.co/paQJpi7uX6",
+        "username": "figsoku",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,556 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1339376895318638592",
+          "name": "Ufotable"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "1448423584087511051",
+          "name": "Type-Moon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339352163508600832",
+          "name": "Animation studios"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339376895318638592",
+          "name": "Ufotable"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1448423584087511051",
+          "name": "Type-Moon"
+        }
+      }
+    ],
+    "conversation_id": "2035288991910814187",
+    "created_at": "2026-03-21T09:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T10:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035288991910814187"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "魔法使いの夜",
+          "probability": 0.8324,
+          "start": 42,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 109,
+          "start": 102,
+          "tag": "魔法使いの夜"
+        },
+        {
+          "end": 119,
+          "start": 110,
+          "tag": "TYPEMOON"
+        },
+        {
+          "end": 129,
+          "start": 120,
+          "tag": "ufotable"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1460065473241161728",
+          "start": 3,
+          "username": "mahoyo_movie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035288991910814187",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8439
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035280829136736423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mahoyo_movie: ─────────\n 劇場アニメーション\n  『魔法使いの夜』\n─────────\n\n第1弾キービジュアルを公開しました。\n\n現代に生きる魔法使い。\nただし見習い。\n\n#魔法使いの夜 #TYPEMOON #ufotable https://t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2035280824501948417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD7FIGKaUAEu3-y.jpg",
+        "width": 849
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1339376895318638592",
+              "name": "Ufotable"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1448423584087511051",
+              "name": "Type-Moon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352163508600832",
+              "name": "Animation studios"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339376895318638592",
+              "name": "Ufotable"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1448423584087511051",
+              "name": "Type-Moon"
+            }
+          }
+        ],
+        "conversation_id": "2035288991910814187",
+        "created_at": "2026-03-21T09:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T10:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035288991910814187"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "魔法使いの夜",
+              "probability": 0.8324,
+              "start": 42,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 109,
+              "start": 102,
+              "tag": "魔法使いの夜"
+            },
+            {
+              "end": 119,
+              "start": 110,
+              "tag": "TYPEMOON"
+            },
+            {
+              "end": 129,
+              "start": 120,
+              "tag": "ufotable"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1460065473241161728",
+              "start": 3,
+              "username": "mahoyo_movie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035288991910814187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8439
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035280829136736423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mahoyo_movie: ─────────\n 劇場アニメーション\n  『魔法使いの夜』\n─────────\n\n第1弾キービジュアルを公開しました。\n\n現代に生きる魔法使い。\nただし見習い。\n\n#魔法使いの夜 #TYPEMOON #ufotable https://t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035280824501948417"
+          ]
+        },
+        "author_id": "1460065473241161728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1339376895318638592",
+              "name": "Ufotable"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1448423584087511051",
+              "name": "Type-Moon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352163508600832",
+              "name": "Animation studios"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339376895318638592",
+              "name": "Ufotable"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1448423584087511051",
+              "name": "Type-Moon"
+            }
+          }
+        ],
+        "conversation_id": "2035280829136736423",
+        "created_at": "2026-03-21T09:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T10:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035280829136736423"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "魔法使いの夜",
+              "probability": 0.8508,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 84,
+              "tag": "魔法使いの夜"
+            },
+            {
+              "end": 101,
+              "start": 92,
+              "tag": "TYPEMOON"
+            },
+            {
+              "end": 111,
+              "start": 102,
+              "tag": "ufotable"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uTnG6bJxHS",
+              "end": 135,
+              "expanded_url": "https://x.com/mahoyo_movie/status/2035280829136736423/photo/1",
+              "media_key": "3_2035280824501948417",
+              "start": 112,
+              "url": "https://t.co/uTnG6bJxHS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035280829136736423",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 961,
+          "impression_count": 347935,
+          "like_count": 17127,
+          "quote_count": 526,
+          "reply_count": 108,
+          "retweet_count": 8439
+        },
+        "reply_settings": "everyone",
+        "text": "─────────\n 劇場アニメーション\n  『魔法使いの夜』\n─────────\n\n第1弾キービジュアルを公開しました。\n\n現代に生きる魔法使い。\nただし見習い。\n\n#魔法使いの夜 #TYPEMOON #ufotable https://t.co/uTnG6bJxHS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 1016,
+          "like_count": 24283,
+          "listed_count": 3,
+          "media_count": 596,
+          "tweet_count": 8473
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-15T02:02:01.000Z",
+        "description": "劇場アニメーション『魔法使いの夜』2026年公開決定 \n\n原作：奈須きのこ・TYPE-MOON \nアニメーション制作：ufotable 　\n\n#魔法使いの夜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "魔法使いの夜"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mahoyo-movie.com",
+                "end": 23,
+                "expanded_url": "https://mahoyo-movie.com/",
+                "start": 0,
+                "url": "https://t.co/eBcxXa1raV"
+              }
+            ]
+          }
+        },
+        "id": "1460065473241161728",
+        "name": "『魔法使いの夜』【公式】",
+        "pinned_tweet_id": "2035280829136736423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035284019185913856/x0axNTpj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77702,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 418,
+          "media_count": 12,
+          "tweet_count": 25
+        },
+        "url": "https://t.co/eBcxXa1raV",
+        "username": "mahoyo_movie",
+        "verified": false
+      }
+    ]
+  }
+}

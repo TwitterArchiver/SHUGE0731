@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1987186457589825758",
+    "created_at": "2025-11-08T16:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T17:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987200422184943659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "949824978",
+          "start": 0,
+          "username": "BloodzBoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987200422184943659",
+    "in_reply_to_user_id": "949824978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987186457589825758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BloodzBoi 在现场 没想到血在车里坐了这么久"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15541,
+        "height": 1280,
+        "media_key": "13_1987186388450877441",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1987186388450877441/img/Ip4JZxKfya8MijMo.jpg",
+        "public_metrics": {
+          "view_count": 205
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987186388450877441/vid/avc1/320x568/BEFXLMZCm0Tmou_8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987186388450877441/vid/avc1/480x852/epryidUkmPab2mUu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987186388450877441/vid/avc1/720x1280/FrYGnkjFgKUnpRcb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1987186388450877441/pl/CiMzxJRng7gs8fUf.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1987186457589825758",
+        "created_at": "2025-11-08T16:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T17:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987200422184943659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "949824978",
+              "start": 0,
+              "username": "BloodzBoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987200422184943659",
+        "in_reply_to_user_id": "949824978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987186457589825758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BloodzBoi 在现场 没想到血在车里坐了这么久"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1987186388450877441"
+          ]
+        },
+        "author_id": "949824978",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          }
+        ],
+        "conversation_id": "1987186457589825758",
+        "created_at": "2025-11-08T15:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T16:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987186457589825758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sAPvuTf4op",
+              "end": 60,
+              "expanded_url": "https://x.com/BloodzBoi/status/1987186457589825758/video/1",
+              "media_key": "13_1987186388450877441",
+              "start": 37,
+              "url": "https://t.co/sAPvuTf4op"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987186457589825758",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 514,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "look im really in a car at a concert https://t.co/sAPvuTf4op"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 1053,
+          "like_count": 11134,
+          "listed_count": 2,
+          "media_count": 367,
+          "tweet_count": 2821
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-15T14:21:56.000Z",
+        "description": "resident @ntslive ∮ music @year0001online • @luckyme • @orangemilkrecs ∮ contact 365@bloodzboi.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "ntslive"
+              },
+              {
+                "end": 41,
+                "start": 26,
+                "username": "year0001online"
+              },
+              {
+                "end": 52,
+                "start": 44,
+                "username": "luckyme"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "orangemilkrecs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bloodzboi.komi.io",
+                "end": 23,
+                "expanded_url": "https://bloodzboi.komi.io",
+                "start": 0,
+                "url": "https://t.co/Gma4hP1Z3B"
+              }
+            ]
+          }
+        },
+        "id": "949824978",
+        "location": "Beijing, China",
+        "name": "bloodz boi 血男孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1605266775473475585/M6zAbVu3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11490,
+          "following_count": 916,
+          "like_count": 12119,
+          "listed_count": 20,
+          "media_count": 883,
+          "tweet_count": 2546
+        },
+        "url": "https://t.co/Gma4hP1Z3B",
+        "username": "BloodzBoi",
+        "verified": false
+      }
+    ]
+  }
+}

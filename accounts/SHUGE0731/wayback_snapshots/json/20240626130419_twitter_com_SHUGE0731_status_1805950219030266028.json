@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1805876808384233910",
+    "created_at": "2024-06-26T13:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T14:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805950219030266028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774410859491799041",
+          "start": 0,
+          "username": "kiwi_03096"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805950219030266028",
+    "in_reply_to_user_id": "1774410859491799041",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805876808384233910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiwi_03096 呜呜😢 抱抱你 不要啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1805876808384233910",
+        "created_at": "2024-06-26T13:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T14:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805950219030266028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774410859491799041",
+              "start": 0,
+              "username": "kiwi_03096"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805950219030266028",
+        "in_reply_to_user_id": "1774410859491799041",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805876808384233910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiwi_03096 呜呜😢 抱抱你 不要啊"
+      },
+      {
+        "attachments": {},
+        "author_id": "1774410859491799041",
+        "conversation_id": "1805876808384233910",
+        "created_at": "2024-06-26T08:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T09:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805876808384233910"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805876808384233910",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我上吊去了人生有梦886我爱你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣  |  喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎私信我聊天！🦉",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 393,
+          "like_count": 396,
+          "listed_count": 0,
+          "tweet_count": 18
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T12:18:22.000Z",
+        "description": "谢谢你们关注我，",
+        "id": "1774410859491799041",
+        "location": "Japan",
+        "name": "kiwi_0309",
+        "pinned_tweet_id": "1803824052672618657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798353254163812352/Hspp42ha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 143,
+          "like_count": 1309,
+          "listed_count": 2,
+          "tweet_count": 517
+        },
+        "username": "kiwi_03096",
+        "verified": false
+      }
+    ]
+  }
+}

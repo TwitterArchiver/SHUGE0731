@@ -1,0 +1,607 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1857735844536397827"
+      ],
+      "media_source_tweet_id": [
+        "1857736096165278011"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1930336441068073420",
+    "created_at": "2025-06-04T18:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T19:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930336441068073420"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 16,
+          "tag": "伊落マリー"
+        },
+        {
+          "end": 32,
+          "start": 23,
+          "tag": "ブルーアーカイブ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1727238108650029056",
+          "start": 3,
+          "username": "ZZjun_cat2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WDn2kWeZ8B",
+          "end": 61,
+          "expanded_url": "https://x.com/ZZjun_cat2/status/1857736096165278011/video/1",
+          "media_key": "7_1857735844536397827",
+          "start": 38,
+          "url": "https://t.co/WDn2kWeZ8B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930336441068073420",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5182
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857736096165278011",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZZjun_cat2: #伊落マリー #ブルーアーカイブ \n完成了 https://t.co/WDn2kWeZ8B"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45266,
+        "height": 562,
+        "media_key": "7_1857735844536397827",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1857735844536397827/pu/img/XVKhZ92JJP30johF.jpg",
+        "public_metrics": {
+          "view_count": 208696
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1857735844536397827/pu/vid/avc1/480x270/YUIpcfKJoJ7xG2XD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1857735844536397827/pu/vid/avc1/640x360/rxwClrIdv-4LuIiL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1857735844536397827/pu/vid/avc1/1000x562/yIu6Fl1uo_uugzPt.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1857735844536397827/pu/pl/oJIcJjSMQTbmsNxC.m3u8?tag=12&v=a08"
+          }
+        ],
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1857735844536397827"
+          ],
+          "media_source_tweet_id": [
+            "1857736096165278011"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1930336441068073420",
+        "created_at": "2025-06-04T18:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T19:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930336441068073420"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "伊落マリー"
+            },
+            {
+              "end": 32,
+              "start": 23,
+              "tag": "ブルーアーカイブ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1727238108650029056",
+              "start": 3,
+              "username": "ZZjun_cat2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WDn2kWeZ8B",
+              "end": 61,
+              "expanded_url": "https://x.com/ZZjun_cat2/status/1857736096165278011/video/1",
+              "media_key": "7_1857735844536397827",
+              "start": 38,
+              "url": "https://t.co/WDn2kWeZ8B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930336441068073420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5182
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857736096165278011",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZZjun_cat2: #伊落マリー #ブルーアーカイブ \n完成了 https://t.co/WDn2kWeZ8B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1857735844536397827"
+          ]
+        },
+        "author_id": "1727238108650029056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1857736096165278011",
+        "created_at": "2024-11-16T10:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T11:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857736096165278011"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "伊落マリー"
+            },
+            {
+              "end": 16,
+              "start": 7,
+              "tag": "ブルーアーカイブ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WDn2kWeZ8B",
+              "end": 45,
+              "expanded_url": "https://x.com/ZZjun_cat2/status/1857736096165278011/video/1",
+              "media_key": "7_1857735844536397827",
+              "start": 22,
+              "url": "https://t.co/WDn2kWeZ8B"
+            },
+            {
+              "display_url": "x.com/ZZjun_cat2/sta…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/ZZjun_cat2/status/1848038216114569480",
+              "start": 46,
+              "url": "https://t.co/Tigm9WFtTO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857736096165278011",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5474,
+          "impression_count": 940819,
+          "like_count": 32526,
+          "quote_count": 33,
+          "reply_count": 53,
+          "retweet_count": 5182
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848038216114569480",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#伊落マリー #ブルーアーカイブ \n完成了 https://t.co/WDn2kWeZ8B https://t.co/Tigm9WFtTO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 939,
+          "like_count": 7918,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 1643
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T08:10:34.000Z",
+        "description": "人活着就是为了吃掉可可爱爱小猫娘！混乱善良萌系画师\n🚫禁止AI学习🚫\n过去使用的账号@ZZjun_cat\nBilibili: 桌子君\nWeibo:撸猫狂魔桌子君",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "ZZjun_cat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/5766170",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/5766170",
+                "start": 0,
+                "url": "https://t.co/4XuqRmGB4w"
+              }
+            ]
+          }
+        },
+        "id": "1727238108650029056",
+        "name": "桌子君🐱🐱",
+        "pinned_tweet_id": "1857736096165278011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781724433213726720/JMpKRC-w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15834,
+          "following_count": 1738,
+          "like_count": 39797,
+          "listed_count": 88,
+          "media_count": 217,
+          "tweet_count": 941
+        },
+        "url": "https://t.co/4XuqRmGB4w",
+        "username": "ZZjun_cat2",
+        "verified": false
+      }
+    ]
+  }
+}

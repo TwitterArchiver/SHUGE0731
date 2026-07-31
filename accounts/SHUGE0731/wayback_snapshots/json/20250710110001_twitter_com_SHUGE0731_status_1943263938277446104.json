@@ -1,0 +1,585 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943233035324817408"
+      ],
+      "media_source_tweet_id": [
+        "1943233040119116028"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Fashion",
+          "id": "845285930994872322",
+          "name": "Handbags"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Accessories",
+          "id": "846447164880433152",
+          "name": "Fashion accessories"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fashion",
+          "id": "845285930994872322",
+          "name": "Handbags"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Fashion",
+          "id": "845285930994872322",
+          "name": "Handbags"
+        }
+      }
+    ],
+    "conversation_id": "1943263938277446104",
+    "created_at": "2025-07-10T11:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T12:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943263938277446104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1458912130208796674",
+          "start": 3,
+          "username": "shinobu_books"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I0HtjzPxUa",
+          "end": 75,
+          "expanded_url": "https://x.com/shinobu_books/status/1943233040119116028/photo/1",
+          "media_key": "3_1943233035324817408",
+          "start": 52,
+          "url": "https://t.co/I0HtjzPxUa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943263938277446104",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1111
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943233040119116028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shinobu_books: Cool looking exhibit just opened https://t.co/I0HtjzPxUa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1943233035324817408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvfAJmJXAAAfFpN.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943233035324817408"
+          ],
+          "media_source_tweet_id": [
+            "1943233040119116028"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "845285930994872322",
+              "name": "Handbags"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Accessories",
+              "id": "846447164880433152",
+              "name": "Fashion accessories"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "845285930994872322",
+              "name": "Handbags"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "845285930994872322",
+              "name": "Handbags"
+            }
+          }
+        ],
+        "conversation_id": "1943263938277446104",
+        "created_at": "2025-07-10T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943263938277446104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1458912130208796674",
+              "start": 3,
+              "username": "shinobu_books"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I0HtjzPxUa",
+              "end": 75,
+              "expanded_url": "https://x.com/shinobu_books/status/1943233040119116028/photo/1",
+              "media_key": "3_1943233035324817408",
+              "start": 52,
+              "url": "https://t.co/I0HtjzPxUa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943263938277446104",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1111
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943233040119116028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shinobu_books: Cool looking exhibit just opened https://t.co/I0HtjzPxUa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943233035324817408"
+          ]
+        },
+        "author_id": "1458912130208796674",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "845285930994872322",
+              "name": "Handbags"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Accessories",
+              "id": "846447164880433152",
+              "name": "Fashion accessories"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "845285930994872322",
+              "name": "Handbags"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "845285930994872322",
+              "name": "Handbags"
+            }
+          }
+        ],
+        "conversation_id": "1943233040119116028",
+        "created_at": "2025-07-10T08:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T09:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943233040119116028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I0HtjzPxUa",
+              "end": 56,
+              "expanded_url": "https://x.com/shinobu_books/status/1943233040119116028/photo/1",
+              "media_key": "3_1943233035324817408",
+              "start": 33,
+              "url": "https://t.co/I0HtjzPxUa"
+            },
+            {
+              "display_url": "x.com/ericaeward/sta…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/ericaeward/status/1943092732056211789",
+              "start": 57,
+              "url": "https://t.co/g4BaGpQj8j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943233040119116028",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 693,
+          "impression_count": 196113,
+          "like_count": 6870,
+          "quote_count": 19,
+          "reply_count": 2,
+          "retweet_count": 1111
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943092732056211789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Cool looking exhibit just opened https://t.co/I0HtjzPxUa https://t.co/g4BaGpQj8j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 954,
+          "like_count": 8362,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 1727
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-11T21:39:30.000Z",
+        "description": "Independent translator and publisher of rare and unusual Japanese books: Jujutsu, Ninjutsu, Kenjutsu, police and army manuals. Occasional news, culture 自称翻訳家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.com/eric-shahan/e/…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.com/eric-shahan/e/B01N3V542D%3Fref=dbs_a_mng_rwt_scns_share",
+                "start": 0,
+                "url": "https://t.co/4FQCFG96OI"
+              }
+            ]
+          }
+        },
+        "id": "1458912130208796674",
+        "name": "eric ゑリｯ久",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544432731341606913/grs_U3v5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11144,
+          "following_count": 1736,
+          "like_count": 32505,
+          "listed_count": 79,
+          "media_count": 6208,
+          "tweet_count": 17456
+        },
+        "url": "https://t.co/4FQCFG96OI",
+        "username": "shinobu_books",
+        "verified": true
+      }
+    ]
+  }
+}

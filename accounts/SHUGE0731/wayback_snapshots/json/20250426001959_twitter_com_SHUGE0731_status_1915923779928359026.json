@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915700265002688513"
+      ],
+      "media_source_tweet_id": [
+        "1915700270270693504"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1915923779928359026",
+    "created_at": "2025-04-26T00:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T01:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915923779928359026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1575335744473686016",
+          "start": 3,
+          "username": "aiomita"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MEnwMuuUyq",
+          "end": 36,
+          "expanded_url": "https://x.com/aiomita/status/1915700270270693504/photo/1",
+          "media_key": "3_1915700265002688513",
+          "start": 13,
+          "url": "https://t.co/MEnwMuuUyq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915923779928359026",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3377
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915700270270693504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @aiomita: https://t.co/MEnwMuuUyq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1984,
+        "media_key": "3_1915700265002688513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpXvPb-bYAEpdVj.jpg",
+        "width": 1606
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915700265002688513"
+          ],
+          "media_source_tweet_id": [
+            "1915700270270693504"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1915923779928359026",
+        "created_at": "2025-04-26T00:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T01:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915923779928359026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1575335744473686016",
+              "start": 3,
+              "username": "aiomita"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MEnwMuuUyq",
+              "end": 36,
+              "expanded_url": "https://x.com/aiomita/status/1915700270270693504/photo/1",
+              "media_key": "3_1915700265002688513",
+              "start": 13,
+              "url": "https://t.co/MEnwMuuUyq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915923779928359026",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3377
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915700270270693504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @aiomita: https://t.co/MEnwMuuUyq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915700265002688513"
+          ]
+        },
+        "author_id": "1575335744473686016",
+        "conversation_id": "1915700270270693504",
+        "created_at": "2025-04-25T09:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T10:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915700270270693504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MEnwMuuUyq",
+              "end": 23,
+              "expanded_url": "https://x.com/aiomita/status/1915700270270693504/photo/1",
+              "media_key": "3_1915700265002688513",
+              "start": 0,
+              "url": "https://t.co/MEnwMuuUyq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915700270270693504",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3763,
+          "impression_count": 327983,
+          "like_count": 32899,
+          "quote_count": 122,
+          "reply_count": 0,
+          "retweet_count": 3377
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/MEnwMuuUyq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 916,
+          "like_count": 6910,
+          "listed_count": 1,
+          "media_count": 240,
+          "tweet_count": 1483
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-29T04:04:50.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "梅雨.com",
+                "end": 23,
+                "expanded_url": "http://xn--3zvo30h.com",
+                "start": 0,
+                "url": "https://t.co/HBXlfHN2Z0"
+              }
+            ]
+          }
+        },
+        "id": "1575335744473686016",
+        "name": "໊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887303791021883392/aH8Z8bnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89221,
+          "following_count": 69,
+          "like_count": 11878,
+          "listed_count": 334,
+          "media_count": 9,
+          "tweet_count": 11
+        },
+        "url": "https://t.co/HBXlfHN2Z0",
+        "username": "aiomita",
+        "verified": false
+      }
+    ]
+  }
+}

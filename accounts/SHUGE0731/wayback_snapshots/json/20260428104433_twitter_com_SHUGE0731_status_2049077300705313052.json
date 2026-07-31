@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049014273142382592"
+      ],
+      "media_source_tweet_id": [
+        "2049014306168357257"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2049077300705313052",
+    "created_at": "2026-04-28T10:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T11:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049077300705313052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "877351640319180800",
+          "start": 3,
+          "username": "real_haku89"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jKFGJjajFe",
+          "end": 43,
+          "expanded_url": "https://x.com/real_haku89/status/2049014306168357257/photo/1",
+          "media_key": "3_2049014273142382592",
+          "start": 20,
+          "url": "https://t.co/jKFGJjajFe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049077300705313052",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1142
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049014306168357257",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @real_haku89: 💛💛 https://t.co/jKFGJjajFe"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049077300705313052].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049077300705313052",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049077300705313052"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1712,
+        "media_key": "3_2049014273142382592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-PoBJbYAAyuuG.jpg",
+        "width": 1022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049014273142382592"
+          ]
+        },
+        "author_id": "877351640319180800",
+        "conversation_id": "2049014306168357257",
+        "created_at": "2026-04-28T06:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:32:31.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049013876776473038",
+          "2049014306168357257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jKFGJjajFe",
+              "end": 26,
+              "expanded_url": "https://x.com/real_haku89/status/2049014306168357257/photo/1",
+              "media_key": "3_2049014273142382592",
+              "start": 3,
+              "url": "https://t.co/jKFGJjajFe"
+            },
+            {
+              "display_url": "x.com/real_haku89/st…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/real_haku89/status/2020810012189200641",
+              "start": 27,
+              "url": "https://t.co/fam7t4Qhq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049014306168357257",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4784,
+          "impression_count": 208057,
+          "like_count": 14553,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 1142
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020810012189200641",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "💛💛 https://t.co/jKFGJjajFe https://t.co/fam7t4Qhq9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 1092,
+          "like_count": 27320,
+          "listed_count": 4,
+          "media_count": 642,
+          "tweet_count": 9464
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-21T02:25:06.000Z",
+        "description": "しがない描きです～ うら垢@real_hhaku89 \nhttps://t.co/2sOfUK2FV2\n🦋blsk@real-haku89.bsky.social\npixiv:haku89(絶賛凍結中)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 13,
+                "username": "real_hhaku89"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/haku89",
+                "end": 51,
+                "expanded_url": "https://linktr.ee/haku89",
+                "start": 28,
+                "url": "https://t.co/2sOfUK2FV2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/real_haku89",
+                "end": 23,
+                "expanded_url": "https://patreon.com/real_haku89",
+                "start": 0,
+                "url": "https://t.co/Rro5TjAAlq"
+              }
+            ]
+          }
+        },
+        "id": "877351640319180800",
+        "location": "人力中...",
+        "name": "hhaku🦋FF46 (3日目) A17-A18",
+        "pinned_tweet_id": "2039329032588919086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021304026009305089/aTr3sH5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412526,
+          "following_count": 1575,
+          "like_count": 20069,
+          "listed_count": 2446,
+          "media_count": 236,
+          "tweet_count": 8291
+        },
+        "url": "https://t.co/Rro5TjAAlq",
+        "username": "real_haku89",
+        "verified": true
+      }
+    ]
+  }
+}

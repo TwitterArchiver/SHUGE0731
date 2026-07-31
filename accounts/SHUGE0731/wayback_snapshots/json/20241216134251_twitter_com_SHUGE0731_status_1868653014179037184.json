@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868247483476070400"
+      ],
+      "media_source_tweet_id": [
+        "1868247487850672483"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1868653014179037184",
+    "created_at": "2024-12-16T13:42:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T14:42:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868653014179037184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2317254042",
+          "start": 3,
+          "username": "snowcake47"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ars9aZw44J",
+          "end": 43,
+          "expanded_url": "https://x.com/snowcake47/status/1868247487850672483/photo/1",
+          "media_key": "3_1868247483476070400",
+          "start": 20,
+          "url": "https://t.co/ars9aZw44J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868653014179037184",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1214
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868247487850672483",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @snowcake47: cms https://t.co/ars9aZw44J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1868247483476070400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge1ZMBUb0AAvrnU.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868247483476070400"
+          ],
+          "media_source_tweet_id": [
+            "1868247487850672483"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1868653014179037184",
+        "created_at": "2024-12-16T13:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T14:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868653014179037184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2317254042",
+              "start": 3,
+              "username": "snowcake47"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ars9aZw44J",
+              "end": 43,
+              "expanded_url": "https://x.com/snowcake47/status/1868247487850672483/photo/1",
+              "media_key": "3_1868247483476070400",
+              "start": 20,
+              "url": "https://t.co/ars9aZw44J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868653014179037184",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1214
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868247487850672483",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @snowcake47: cms https://t.co/ars9aZw44J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868247483476070400"
+          ]
+        },
+        "author_id": "2317254042",
+        "conversation_id": "1868247487850672483",
+        "created_at": "2024-12-15T10:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T11:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868247487850672483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ars9aZw44J",
+              "end": 27,
+              "expanded_url": "https://x.com/snowcake47/status/1868247487850672483/photo/1",
+              "media_key": "3_1868247483476070400",
+              "start": 4,
+              "url": "https://t.co/ars9aZw44J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868247487850672483",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1914,
+          "impression_count": 259308,
+          "like_count": 15828,
+          "quote_count": 34,
+          "reply_count": 5,
+          "retweet_count": 1214
+        },
+        "reply_settings": "everyone",
+        "text": "cms https://t.co/ars9aZw44J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1863243605252690301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 772,
+          "like_count": 4027,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 807
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-29T14:37:24.000Z",
+        "description": "Illustrator🍰 中文/日本語/English/Commission Closed/私人约稿请移步同名mhs/禁止无授权转载",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cake47.art",
+                "end": 23,
+                "expanded_url": "https://cake47.art/",
+                "start": 0,
+                "url": "https://t.co/HIYGRGmExj"
+              }
+            ]
+          }
+        },
+        "id": "2317254042",
+        "location": "AI禁止🚫",
+        "name": "私期",
+        "pinned_tweet_id": "1755796734410887665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851536703342919680/kC_Rz9Jt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49885,
+          "following_count": 579,
+          "like_count": 1179,
+          "listed_count": 336,
+          "media_count": 78,
+          "tweet_count": 262
+        },
+        "url": "https://t.co/HIYGRGmExj",
+        "username": "snowcake47",
+        "verified": false
+      }
+    ]
+  }
+}

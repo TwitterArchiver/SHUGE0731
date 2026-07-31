@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970156762545164289"
+      ],
+      "media_source_tweet_id": [
+        "1970156766747910549"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10054038385",
+          "name": "ぐらんぶる"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1970468785636430128",
+    "created_at": "2025-09-23T12:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T13:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970468785636430128"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "Grand Blue Season 3",
+          "probability": 0.916,
+          "start": 16,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "748185667860111360",
+          "start": 3,
+          "username": "animetv_jp"
+        }
+      ],
+      "urls": [
+        {
+          "description": "There is no excerpt because this is a protected post.",
+          "display_url": "animetv-jp.net/news/grand-blu…",
+          "end": 90,
+          "expanded_url": "https://animetv-jp.net/news/grand-blue-season-3-officially-announced/",
+          "images": [
+            {
+              "height": 230,
+              "url": "https://pbs.twimg.com/news_img/1970156773001564161/vM9JoQbu?format=png&name=orig",
+              "width": 600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1970156773001564161/vM9JoQbu?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 67,
+          "status": 200,
+          "title": "Grand Blue Season 3 Officially Announced | AnimeTV",
+          "unwound_url": "https://animetv-jp.net/news/grand-blue-season-3-officially-announced/",
+          "url": "https://t.co/hO0toExsyV"
+        },
+        {
+          "display_url": "pic.x.com/aJTfFnhlvn",
+          "end": 114,
+          "expanded_url": "https://x.com/animetv_jp/status/1970156766747910549/photo/1",
+          "media_key": "3_1970156762545164289",
+          "start": 91,
+          "url": "https://t.co/aJTfFnhlvn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970468785636430128",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2149
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970156766747910549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @animetv_jp: Grand Blue Season 3 Officially Announced! \n\n✨More: https://t.co/hO0toExsyV https://t.co/aJTfFnhlvn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 996,
+        "media_key": "3_1970156762545164289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1dnIx9WkAElFY4.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970156762545164289"
+          ],
+          "media_source_tweet_id": [
+            "1970156766747910549"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054038385",
+              "name": "ぐらんぶる"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1970468785636430128",
+        "created_at": "2025-09-23T12:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T13:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970468785636430128"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Grand Blue Season 3",
+              "probability": 0.916,
+              "start": 16,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "748185667860111360",
+              "start": 3,
+              "username": "animetv_jp"
+            }
+          ],
+          "urls": [
+            {
+              "description": "There is no excerpt because this is a protected post.",
+              "display_url": "animetv-jp.net/news/grand-blu…",
+              "end": 90,
+              "expanded_url": "https://animetv-jp.net/news/grand-blue-season-3-officially-announced/",
+              "images": [
+                {
+                  "height": 230,
+                  "url": "https://pbs.twimg.com/news_img/1970156773001564161/vM9JoQbu?format=png&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1970156773001564161/vM9JoQbu?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 67,
+              "status": 200,
+              "title": "Grand Blue Season 3 Officially Announced | AnimeTV",
+              "unwound_url": "https://animetv-jp.net/news/grand-blue-season-3-officially-announced/",
+              "url": "https://t.co/hO0toExsyV"
+            },
+            {
+              "display_url": "pic.x.com/aJTfFnhlvn",
+              "end": 114,
+              "expanded_url": "https://x.com/animetv_jp/status/1970156766747910549/photo/1",
+              "media_key": "3_1970156762545164289",
+              "start": 91,
+              "url": "https://t.co/aJTfFnhlvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970468785636430128",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2149
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970156766747910549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @animetv_jp: Grand Blue Season 3 Officially Announced! \n\n✨More: https://t.co/hO0toExsyV https://t.co/aJTfFnhlvn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970156762545164289"
+          ]
+        },
+        "author_id": "748185667860111360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054038385",
+              "name": "ぐらんぶる"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1970156766747910549",
+        "created_at": "2025-09-22T16:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T17:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970156766747910549"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Grand Blue Season 3",
+              "probability": 0.9161,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "There is no excerpt because this is a protected post.",
+              "display_url": "animetv-jp.net/news/grand-blu…",
+              "end": 74,
+              "expanded_url": "https://animetv-jp.net/news/grand-blue-season-3-officially-announced/",
+              "images": [
+                {
+                  "height": 230,
+                  "url": "https://pbs.twimg.com/news_img/1970156773001564161/vM9JoQbu?format=png&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1970156773001564161/vM9JoQbu?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 51,
+              "status": 200,
+              "title": "Grand Blue Season 3 Officially Announced | AnimeTV",
+              "unwound_url": "https://animetv-jp.net/news/grand-blue-season-3-officially-announced/",
+              "url": "https://t.co/hO0toExsyV"
+            },
+            {
+              "display_url": "pic.x.com/aJTfFnhlvn",
+              "end": 98,
+              "expanded_url": "https://x.com/animetv_jp/status/1970156766747910549/photo/1",
+              "media_key": "3_1970156762545164289",
+              "start": 75,
+              "url": "https://t.co/aJTfFnhlvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970156766747910549",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3457,
+          "impression_count": 1078945,
+          "like_count": 28574,
+          "quote_count": 686,
+          "reply_count": 291,
+          "retweet_count": 2149
+        },
+        "reply_settings": "everyone",
+        "text": "Grand Blue Season 3 Officially Announced! \n\n✨More: https://t.co/hO0toExsyV https://t.co/aJTfFnhlvn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 有一只牡丹鹦鹉叫uno！｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 1019,
+          "like_count": 9244,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 1972
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-29T16:05:38.000Z",
+        "description": "The official AnimeTV account. Bringing you the latest anime news direct from Japan ~ anytime! — Your new source of information! ✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "animetv-jp.net",
+                "end": 23,
+                "expanded_url": "https://animetv-jp.net",
+                "start": 0,
+                "url": "https://t.co/XB2XFP6Tkx"
+              }
+            ]
+          }
+        },
+        "id": "748185667860111360",
+        "name": "AnimeTV チェーン",
+        "pinned_tweet_id": "1936937991265554666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610332754478080000/p9CpZr84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559538,
+          "following_count": 198,
+          "like_count": 5620,
+          "listed_count": 2393,
+          "media_count": 10016,
+          "tweet_count": 12287
+        },
+        "url": "https://t.co/XB2XFP6Tkx",
+        "username": "animetv_jp",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000389632194940928"
+      ],
+      "media_source_tweet_id": [
+        "2000389712763375812"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2000398429013545247",
+    "created_at": "2025-12-15T02:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T03:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000398429013545247"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "ヒナ",
+          "probability": 0.5343,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2585157547",
+          "start": 3,
+          "username": "jeonghee1414"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aJdaLtCWL2",
+          "end": 44,
+          "expanded_url": "https://x.com/jeonghee1414/status/2000389712763375812/photo/1",
+          "media_key": "3_2000389632194940928",
+          "start": 21,
+          "url": "https://t.co/aJdaLtCWL2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000398429013545247",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 949
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000389712763375812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jeonghee1414: ヒナ https://t.co/aJdaLtCWL2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2000389632194940928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8LPxZ9akAAxo6Y.jpg",
+        "width": 853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000389632194940928"
+          ],
+          "media_source_tweet_id": [
+            "2000389712763375812"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2000398429013545247",
+        "created_at": "2025-12-15T02:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T03:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000398429013545247"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "ヒナ",
+              "probability": 0.5343,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2585157547",
+              "start": 3,
+              "username": "jeonghee1414"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aJdaLtCWL2",
+              "end": 44,
+              "expanded_url": "https://x.com/jeonghee1414/status/2000389712763375812/photo/1",
+              "media_key": "3_2000389632194940928",
+              "start": 21,
+              "url": "https://t.co/aJdaLtCWL2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000398429013545247",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 949
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000389712763375812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jeonghee1414: ヒナ https://t.co/aJdaLtCWL2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000389632194940928"
+          ]
+        },
+        "author_id": "2585157547",
+        "conversation_id": "2000389712763375812",
+        "created_at": "2025-12-15T02:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T03:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000389712763375812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aJdaLtCWL2",
+              "end": 26,
+              "expanded_url": "https://x.com/jeonghee1414/status/2000389712763375812/photo/1",
+              "media_key": "3_2000389632194940928",
+              "start": 3,
+              "url": "https://t.co/aJdaLtCWL2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000389712763375812",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 962,
+          "impression_count": 47115,
+          "like_count": 6231,
+          "quote_count": 12,
+          "reply_count": 20,
+          "retweet_count": 949
+        },
+        "reply_settings": "everyone",
+        "text": "ヒナ https://t.co/aJdaLtCWL2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 1023,
+          "like_count": 13859,
+          "listed_count": 2,
+          "media_count": 453,
+          "tweet_count": 4222
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-24T05:12:17.000Z",
+        "description": "もだれ\nContact)jeonghee1414@naver.com\nBrodcast)https://t.co/ZDJSem9VIz\ncoloso)https://t.co/qm73auCZo4\nFANBOX)https://t.co/YVJwU2C25e",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/mogoon14",
+                "end": 67,
+                "expanded_url": "http://twitch.tv/mogoon14",
+                "start": 44,
+                "url": "https://t.co/ZDJSem9VIz"
+              },
+              {
+                "display_url": "bit.ly/2SaxvnW",
+                "end": 98,
+                "expanded_url": "http://bit.ly/2SaxvnW",
+                "start": 75,
+                "url": "https://t.co/qm73auCZo4"
+              },
+              {
+                "display_url": "fanbox.cc/@modare",
+                "end": 129,
+                "expanded_url": "http://fanbox.cc/@modare",
+                "start": 106,
+                "url": "https://t.co/YVJwU2C25e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=1878082",
+                "start": 0,
+                "url": "https://t.co/rTZhopt0yp"
+              }
+            ]
+          }
+        },
+        "id": "2585157547",
+        "name": "モ誰",
+        "pinned_tweet_id": "1821017613847474642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1443136156535648260/xWiV8tj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1323263,
+          "following_count": 970,
+          "like_count": 10975,
+          "listed_count": 10763,
+          "media_count": 844,
+          "tweet_count": 12344
+        },
+        "url": "https://t.co/rTZhopt0yp",
+        "username": "jeonghee1414",
+        "verified": true
+      }
+    ]
+  }
+}

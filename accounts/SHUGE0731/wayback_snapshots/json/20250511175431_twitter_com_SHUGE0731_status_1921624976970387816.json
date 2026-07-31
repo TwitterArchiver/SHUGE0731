@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1921486413129818112"
+      ],
+      "media_source_tweet_id": [
+        "1921486493400404321"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1921624976970387816",
+    "created_at": "2025-05-11T17:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T18:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921624976970387816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1870645505371545600",
+          "start": 3,
+          "username": "azuki_hebi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OZvHWsQ0KB",
+          "end": 44,
+          "expanded_url": "https://x.com/azuki_hebi/status/1921486493400404321/video/1",
+          "media_key": "7_1921486413129818112",
+          "start": 21,
+          "url": "https://t.co/OZvHWsQ0KB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921624976970387816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921486493400404321",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azuki_hebi: もちもち https://t.co/OZvHWsQ0KB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 67460,
+        "height": 720,
+        "media_key": "7_1921486413129818112",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1921486413129818112/pu/img/7hhLTYFaOmxyykXj.jpg",
+        "public_metrics": {
+          "view_count": 3486
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1921486413129818112/pu/vid/avc1/480x270/ZAgrEhf_VaJ96GnY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1921486413129818112/pu/vid/avc1/640x360/pz0LGEIAypYzXhSg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1921486413129818112/pu/vid/avc1/1280x720/wfQDSGFlLMQhPnbC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1921486413129818112/pu/pl/S7X36A9ytKlbT5R9.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1921486413129818112"
+          ],
+          "media_source_tweet_id": [
+            "1921486493400404321"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1921624976970387816",
+        "created_at": "2025-05-11T17:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T18:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921624976970387816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1870645505371545600",
+              "start": 3,
+              "username": "azuki_hebi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OZvHWsQ0KB",
+              "end": 44,
+              "expanded_url": "https://x.com/azuki_hebi/status/1921486493400404321/video/1",
+              "media_key": "7_1921486413129818112",
+              "start": 21,
+              "url": "https://t.co/OZvHWsQ0KB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921624976970387816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921486493400404321",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azuki_hebi: もちもち https://t.co/OZvHWsQ0KB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1921486413129818112"
+          ]
+        },
+        "author_id": "1870645505371545600",
+        "conversation_id": "1921486493400404321",
+        "created_at": "2025-05-11T08:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T09:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921486493400404321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OZvHWsQ0KB",
+              "end": 28,
+              "expanded_url": "https://x.com/azuki_hebi/status/1921486493400404321/video/1",
+              "media_key": "7_1921486413129818112",
+              "start": 5,
+              "url": "https://t.co/OZvHWsQ0KB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921486493400404321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 8602,
+          "like_count": 490,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "もちもち https://t.co/OZvHWsQ0KB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 929,
+          "like_count": 7420,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 1561
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T01:40:29.000Z",
+        "description": "一匹のへびとの生活と描いた絵をあげていきます",
+        "id": "1870645505371545600",
+        "name": "へびと絵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870645862843744256/4VNRiih1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 69,
+          "like_count": 77,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 64
+        },
+        "username": "azuki_hebi",
+        "verified": false
+      }
+    ]
+  }
+}

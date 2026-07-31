@@ -1,0 +1,666 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966559061807349761"
+      ],
+      "media_source_tweet_id": [
+        "1966559080295919971"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1966748856189939858",
+    "created_at": "2025-09-13T06:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T07:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966748856189939858"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 13,
+          "tag": "明日方舟"
+        },
+        {
+          "end": 36,
+          "start": 20,
+          "tag": "ArknightsFanArt"
+        },
+        {
+          "end": 48,
+          "start": 38,
+          "tag": "Arknights"
+        },
+        {
+          "end": 59,
+          "start": 51,
+          "tag": "suzuran"
+        },
+        {
+          "end": 66,
+          "start": 61,
+          "tag": "スズラン"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "铃兰"
+        },
+        {
+          "end": 85,
+          "start": 72,
+          "tag": "Vulpisfoglia"
+        },
+        {
+          "end": 95,
+          "start": 86,
+          "tag": "ウルピスフォリア"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "忍冬"
+        },
+        {
+          "end": 112,
+          "start": 101,
+          "tag": "SuzuranDad"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1953065257712402432",
+          "start": 3,
+          "username": "_DUGEN_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a3DO8w6wXN",
+          "end": 136,
+          "expanded_url": "https://x.com/_DUGEN_/status/1966559080295919971/photo/1",
+          "media_key": "3_1966559061807349761",
+          "start": 113,
+          "url": "https://t.co/a3DO8w6wXN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966748856189939858",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1994
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966559080295919971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_DUGEN_: #明日方舟 \n#ArknightsFanArt \n#Arknights \n\n#suzuran  #スズラン #铃兰 \n#Vulpisfoglia #ウルピスフォリア #忍冬 \n#SuzuranDad https://t.co/a3DO8w6wXN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3471,
+        "media_key": "3_1966559061807349761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0qfDCTaQAEGFe0.jpg",
+        "width": 3166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966559061807349761"
+          ],
+          "media_source_tweet_id": [
+            "1966559080295919971"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1966748856189939858",
+        "created_at": "2025-09-13T06:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T07:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966748856189939858"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 36,
+              "start": 20,
+              "tag": "ArknightsFanArt"
+            },
+            {
+              "end": 48,
+              "start": 38,
+              "tag": "Arknights"
+            },
+            {
+              "end": 59,
+              "start": 51,
+              "tag": "suzuran"
+            },
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "スズラン"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "铃兰"
+            },
+            {
+              "end": 85,
+              "start": 72,
+              "tag": "Vulpisfoglia"
+            },
+            {
+              "end": 95,
+              "start": 86,
+              "tag": "ウルピスフォリア"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "忍冬"
+            },
+            {
+              "end": 112,
+              "start": 101,
+              "tag": "SuzuranDad"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1953065257712402432",
+              "start": 3,
+              "username": "_DUGEN_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a3DO8w6wXN",
+              "end": 136,
+              "expanded_url": "https://x.com/_DUGEN_/status/1966559080295919971/photo/1",
+              "media_key": "3_1966559061807349761",
+              "start": 113,
+              "url": "https://t.co/a3DO8w6wXN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966748856189939858",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1994
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966559080295919971",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_DUGEN_: #明日方舟 \n#ArknightsFanArt \n#Arknights \n\n#suzuran  #スズラン #铃兰 \n#Vulpisfoglia #ウルピスフォリア #忍冬 \n#SuzuranDad https://t.co/a3DO8w6wXN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966559061807349761"
+          ]
+        },
+        "author_id": "1953065257712402432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1966559080295919971",
+        "created_at": "2025-09-12T17:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T18:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966559080295919971"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 23,
+              "start": 7,
+              "tag": "ArknightsFanArt"
+            },
+            {
+              "end": 35,
+              "start": 25,
+              "tag": "Arknights"
+            },
+            {
+              "end": 46,
+              "start": 38,
+              "tag": "suzuran"
+            },
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "スズラン"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "铃兰"
+            },
+            {
+              "end": 72,
+              "start": 59,
+              "tag": "Vulpisfoglia"
+            },
+            {
+              "end": 82,
+              "start": 73,
+              "tag": "ウルピスフォリア"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "忍冬"
+            },
+            {
+              "end": 99,
+              "start": 88,
+              "tag": "SuzuranDad"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a3DO8w6wXN",
+              "end": 123,
+              "expanded_url": "https://x.com/_DUGEN_/status/1966559080295919971/photo/1",
+              "media_key": "3_1966559061807349761",
+              "start": 100,
+              "url": "https://t.co/a3DO8w6wXN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966559080295919971",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1127,
+          "impression_count": 135305,
+          "like_count": 10086,
+          "quote_count": 35,
+          "reply_count": 12,
+          "retweet_count": 1994
+        },
+        "reply_settings": "everyone",
+        "text": "#明日方舟 \n#ArknightsFanArt \n#Arknights \n\n#suzuran  #スズラン #铃兰 \n#Vulpisfoglia #ウルピスフォリア #忍冬 \n#SuzuranDad https://t.co/a3DO8w6wXN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 有一只牡丹鹦鹉叫uno！｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 1002,
+          "like_count": 9073,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 1908
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-06T12:07:13.000Z",
+        "description": "ekfelekfel@naver.com",
+        "id": "1953065257712402432",
+        "name": "DUGEUN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953067011325792256/y7Omqmor_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 4,
+          "media_count": 7,
+          "tweet_count": 7
+        },
+        "username": "_DUGEN_",
+        "verified": false
+      }
+    ]
+  }
+}

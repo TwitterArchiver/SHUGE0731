@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1999968708098428928"
+      ],
+      "media_source_tweet_id": [
+        "1999968773730922904"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2000065247282069727",
+    "created_at": "2025-12-14T04:48:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T05:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000065247282069727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1983508459585929216",
+          "start": 3,
+          "username": "TheYuriBeast"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hxq1prh8N2",
+          "end": 41,
+          "expanded_url": "https://x.com/TheYuriBeast/status/1999968773730922904/video/1",
+          "media_key": "7_1999968708098428928",
+          "start": 18,
+          "url": "https://t.co/hxq1prh8N2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000065247282069727",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 289
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999968773730922904",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheYuriBeast: https://t.co/hxq1prh8N2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33205,
+        "height": 576,
+        "media_key": "7_1999968708098428928",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1999968708098428928/pu/img/v4Z11nz2EDthN5f7.jpg",
+        "public_metrics": {
+          "view_count": 13553
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999968708098428928/pu/vid/avc1/320x320/GQIAWGUmMf9ich3C.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999968708098428928/pu/vid/avc1/576x576/CX-hhjgYa0pbfnm_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1999968708098428928/pu/pl/dXXGHsefzHi05cGt.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1999968708098428928"
+          ],
+          "media_source_tweet_id": [
+            "1999968773730922904"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000065247282069727",
+        "created_at": "2025-12-14T04:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T05:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000065247282069727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1983508459585929216",
+              "start": 3,
+              "username": "TheYuriBeast"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hxq1prh8N2",
+              "end": 41,
+              "expanded_url": "https://x.com/TheYuriBeast/status/1999968773730922904/video/1",
+              "media_key": "7_1999968708098428928",
+              "start": 18,
+              "url": "https://t.co/hxq1prh8N2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000065247282069727",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 289
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999968773730922904",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheYuriBeast: https://t.co/hxq1prh8N2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1999968708098428928"
+          ]
+        },
+        "author_id": "1983508459585929216",
+        "conversation_id": "1999968773730922904",
+        "created_at": "2025-12-13T22:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T23:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999968773730922904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hxq1prh8N2",
+              "end": 23,
+              "expanded_url": "https://x.com/TheYuriBeast/status/1999968773730922904/video/1",
+              "media_key": "7_1999968708098428928",
+              "start": 0,
+              "url": "https://t.co/hxq1prh8N2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999968773730922904",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 413,
+          "impression_count": 23303,
+          "like_count": 2048,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 289
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hxq1prh8N2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 1022,
+          "like_count": 13733,
+          "listed_count": 2,
+          "media_count": 451,
+          "tweet_count": 4153
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T12:17:29.000Z",
+        "description": "' I can still.. run this much.. you saw it, right..? I..I'm fast, right..? '",
+        "id": "1983508459585929216",
+        "location": "||18+|| ooc most of the time",
+        "name": "Ogurin!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998253456818397184/1UYwMoRf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 190,
+          "like_count": 4094,
+          "listed_count": 6,
+          "media_count": 314,
+          "tweet_count": 1209
+        },
+        "username": "TheYuriBeast",
+        "verified": false
+      }
+    ]
+  }
+}

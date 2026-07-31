@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2066581183144845390",
+    "created_at": "2026-06-15T18:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T19:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066592515088941063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1997495772066324480",
+          "start": 0,
+          "username": "kuma02150128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066592515088941063",
+    "in_reply_to_user_id": "1997495772066324480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066581183144845390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuma02150128 抱抱！会幸福的！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 134706,
+        "height": 720,
+        "media_key": "13_2066581038080638977",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066581038080638977/img/l2ArCUg1BOsY1aMp.jpg",
+        "public_metrics": {
+          "view_count": 39
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066581038080638977/vid/avc1/480x270/Sdw8o1-gBj281Ka0.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066581038080638977/vid/avc1/640x360/5QAe_rvQ3pfhFP4b.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066581038080638977/vid/avc1/1280x720/yft8rQxI9BcsZIQo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066581038080638977/pl/8XK-n3gNWJ01ueBj.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066581038068060160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK34gUGa0AAFphi.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2066581183144845390",
+        "created_at": "2026-06-15T18:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066592515088941063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1997495772066324480",
+              "start": 0,
+              "username": "kuma02150128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066592515088941063",
+        "in_reply_to_user_id": "1997495772066324480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066581183144845390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuma02150128 抱抱！会幸福的！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066581038080638977",
+            "3_2066581038068060160"
+          ]
+        },
+        "author_id": "1997495772066324480",
+        "conversation_id": "2066581183144845390",
+        "created_at": "2026-06-15T17:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066581183144845390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gx8zNeOqYR",
+              "end": 69,
+              "expanded_url": "https://x.com/kuma02150128/status/2066581183144845390/video/1",
+              "media_key": "13_2066581038080638977",
+              "start": 46,
+              "url": "https://t.co/Gx8zNeOqYR"
+            },
+            {
+              "display_url": "pic.x.com/Gx8zNeOqYR",
+              "end": 69,
+              "expanded_url": "https://x.com/kuma02150128/status/2066581183144845390/video/1",
+              "media_key": "3_2066581038068060160",
+              "start": 46,
+              "url": "https://t.co/Gx8zNeOqYR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066581183144845390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 120,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们会幸福的🌚🌚🥰谢谢你可以接受这样的小kuma我一个月抱抱 你吧 我。吧。吧。吧。吧vv https://t.co/Gx8zNeOqYR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "Dorcus10031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTtCZA"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 1159,
+          "like_count": 31375,
+          "listed_count": 4,
+          "media_count": 702,
+          "tweet_count": 10657
+        },
+        "url": "https://t.co/ApKveTtCZA",
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T02:38:15.000Z",
+        "description": "我是kuma！很高兴认识你们！！欢迎找我互fo 🥺/精神状态up/自残/我在努力生活！！！\n亲爱的@qsmhls",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 49,
+                "username": "qsmhls"
+              }
+            ]
+          }
+        },
+        "id": "1997495772066324480",
+        "location": "熊窝",
+        "name": "ぼくわくま",
+        "pinned_tweet_id": "1997557765410349108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063057096313331712/KnFIAwd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 202,
+          "like_count": 3567,
+          "listed_count": 1,
+          "media_count": 265,
+          "tweet_count": 1091
+        },
+        "username": "kuma02150128",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950075271165730816"
+      ],
+      "media_source_tweet_id": [
+        "1950075273375883526"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1950180234495733974",
+    "created_at": "2025-07-29T13:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T14:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950180234495733974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1443179135732355075",
+          "start": 3,
+          "username": "yuyu6969696969"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Eiu8RTrV3q",
+          "end": 45,
+          "expanded_url": "https://x.com/yuyu6969696969/status/1950075273375883526/photo/1",
+          "media_key": "3_1950075271165730816",
+          "start": 22,
+          "url": "https://t.co/Eiu8RTrV3q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950180234495733974",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950075273375883526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuyu6969696969: 😱 https://t.co/Eiu8RTrV3q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_1950075271165730816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxAPII8bYAADmGh.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950075271165730816"
+          ],
+          "media_source_tweet_id": [
+            "1950075273375883526"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1950180234495733974",
+        "created_at": "2025-07-29T13:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T14:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950180234495733974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1443179135732355075",
+              "start": 3,
+              "username": "yuyu6969696969"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eiu8RTrV3q",
+              "end": 45,
+              "expanded_url": "https://x.com/yuyu6969696969/status/1950075273375883526/photo/1",
+              "media_key": "3_1950075271165730816",
+              "start": 22,
+              "url": "https://t.co/Eiu8RTrV3q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950180234495733974",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950075273375883526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuyu6969696969: 😱 https://t.co/Eiu8RTrV3q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950075271165730816"
+          ]
+        },
+        "author_id": "1443179135732355075",
+        "conversation_id": "1950075273375883526",
+        "created_at": "2025-07-29T06:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T07:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950075273375883526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eiu8RTrV3q",
+              "end": 25,
+              "expanded_url": "https://x.com/yuyu6969696969/status/1950075273375883526/photo/1",
+              "media_key": "3_1950075271165730816",
+              "start": 2,
+              "url": "https://t.co/Eiu8RTrV3q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950075273375883526",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 7976,
+          "like_count": 581,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "😱 https://t.co/Eiu8RTrV3q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 966,
+          "like_count": 8466,
+          "listed_count": 1,
+          "media_count": 272,
+          "tweet_count": 1768
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-29T11:42:45.000Z",
+        "description": "Just posting some random stuff (and sometimes shitposting)",
+        "id": "1443179135732355075",
+        "name": "Fumô",
+        "pinned_tweet_id": "1578432551865044992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706636163854061568/lIs33PIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2322,
+          "following_count": 55,
+          "like_count": 2420,
+          "listed_count": 12,
+          "media_count": 667,
+          "tweet_count": 1606
+        },
+        "username": "yuyu6969696969",
+        "verified": false
+      }
+    ]
+  }
+}

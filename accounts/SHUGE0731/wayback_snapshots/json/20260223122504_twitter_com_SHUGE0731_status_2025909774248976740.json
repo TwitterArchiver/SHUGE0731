@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2025909774248976740",
+    "created_at": "2026-02-23T12:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T13:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025909774248976740"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mcdonaldsjapan…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/mcdonaldsjapan/status/2025729823662841972",
+          "start": 2,
+          "url": "https://t.co/ualugFoeO1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025909774248976740",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025729823662841972",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/ualugFoeO1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36369,
+        "height": 1080,
+        "media_key": "13_2025503803819085824",
+        "preview_image_url": "https://pbs.twimg.com/media/HBwJB69WwAAiazz.jpg",
+        "public_metrics": {
+          "view_count": 435885
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025503803819085824/vid/avc1/480x270/NyR1RwVg8i1-iQBH.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025503803819085824/vid/avc1/640x360/61YJZfasJUsagqjR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025503803819085824/vid/avc1/1280x720/c4EovFWTpfZGCw6G.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025503803819085824/pl/xGoIEbrJz-GL5PrM.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2025909774248976740",
+        "created_at": "2026-02-23T12:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T13:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025909774248976740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mcdonaldsjapan…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/mcdonaldsjapan/status/2025729823662841972",
+              "start": 2,
+              "url": "https://t.co/ualugFoeO1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025909774248976740",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025729823662841972",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/ualugFoeO1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025503803819085824"
+          ]
+        },
+        "author_id": "184004752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2025729823662841972",
+        "created_at": "2026-02-23T00:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T01:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025729823662841972"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 8,
+              "tag": "日替わり100円クーポン"
+            },
+            {
+              "end": 30,
+              "start": 22,
+              "tag": "公式アプリ限定"
+            },
+            {
+              "end": 46,
+              "start": 31,
+              "tag": "本日2月23日から7日間限定"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CF20Bqf9gQ",
+              "end": 70,
+              "expanded_url": "https://x.com/McDonaldsJapan/status/2025729823662841972/video/1",
+              "media_key": "13_2025503803819085824",
+              "start": 47,
+              "url": "https://t.co/CF20Bqf9gQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025729823662841972",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3534,
+          "impression_count": 1651818,
+          "like_count": 28347,
+          "quote_count": 719,
+          "reply_count": 279,
+          "retweet_count": 6118
+        },
+        "reply_settings": "everyone",
+        "text": "トクニーナルド\n#日替わり100円クーポン\n#公式アプリ限定\n#本日2月23日から7日間限定 https://t.co/CF20Bqf9gQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ 最最亲爱的恋人&主人 @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 992,
+          "like_count": 21984,
+          "listed_count": 3,
+          "media_count": 575,
+          "tweet_count": 7854
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-28T12:54:08.000Z",
+        "description": "日本マクドナルド公式アカウントです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mcdonalds.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.mcdonalds.co.jp/",
+                "start": 0,
+                "url": "https://t.co/SnnrXbyVLG"
+              }
+            ]
+          }
+        },
+        "id": "184004752",
+        "name": "マクドナルド",
+        "pinned_tweet_id": "2016715423903891780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979852381320851456/_8KOocC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9923368,
+          "following_count": 24,
+          "like_count": 14209,
+          "listed_count": 10918,
+          "media_count": 21445,
+          "tweet_count": 31480
+        },
+        "url": "https://t.co/SnnrXbyVLG",
+        "username": "McDonaldsJapan",
+        "verified": true
+      }
+    ]
+  }
+}

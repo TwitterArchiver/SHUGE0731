@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961025748589809664"
+      ],
+      "media_source_tweet_id": [
+        "1961025779946459259"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1961277026914234832",
+    "created_at": "2025-08-29T03:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T04:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961277026914234832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1836744572765888512",
+          "start": 3,
+          "username": "shimamuraa11451"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DaIjtNbi0j",
+          "end": 44,
+          "expanded_url": "https://x.com/shimamuraa11451/status/1961025779946459259/photo/1",
+          "media_key": "3_1961025748589809664",
+          "start": 21,
+          "url": "https://t.co/DaIjtNbi0j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961277026914234832",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 563
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961025779946459259",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shimamuraa11451: https://t.co/DaIjtNbi0j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2280,
+        "media_key": "3_1961025748589809664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzb2h0QXEAAvwt4.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961025748589809664"
+          ],
+          "media_source_tweet_id": [
+            "1961025779946459259"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1961277026914234832",
+        "created_at": "2025-08-29T03:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T04:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961277026914234832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1836744572765888512",
+              "start": 3,
+              "username": "shimamuraa11451"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DaIjtNbi0j",
+              "end": 44,
+              "expanded_url": "https://x.com/shimamuraa11451/status/1961025779946459259/photo/1",
+              "media_key": "3_1961025748589809664",
+              "start": 21,
+              "url": "https://t.co/DaIjtNbi0j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961277026914234832",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 563
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961025779946459259",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shimamuraa11451: https://t.co/DaIjtNbi0j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961025748589809664"
+          ]
+        },
+        "author_id": "1836744572765888512",
+        "conversation_id": "1961025779946459259",
+        "created_at": "2025-08-28T11:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T12:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961025779946459259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DaIjtNbi0j",
+              "end": 23,
+              "expanded_url": "https://x.com/shimamuraa11451/status/1961025779946459259/photo/1",
+              "media_key": "3_1961025748589809664",
+              "start": 0,
+              "url": "https://t.co/DaIjtNbi0j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961025779946459259",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1116,
+          "impression_count": 71149,
+          "like_count": 8271,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 563
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DaIjtNbi0j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 987,
+          "like_count": 8795,
+          "listed_count": 1,
+          "media_count": 281,
+          "tweet_count": 1842
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T12:30:13.000Z",
+        "description": "AIドット絵垢 裏 @AkitoP2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "AkitoP2"
+              }
+            ]
+          }
+        },
+        "id": "1836744572765888512",
+        "location": "America",
+        "name": "シマムラアキト",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876644294313828352/hEr9TOEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105162,
+          "following_count": 214,
+          "like_count": 3152,
+          "listed_count": 317,
+          "media_count": 367,
+          "tweet_count": 458
+        },
+        "username": "shimamuraa11451",
+        "verified": true
+      }
+    ]
+  }
+}

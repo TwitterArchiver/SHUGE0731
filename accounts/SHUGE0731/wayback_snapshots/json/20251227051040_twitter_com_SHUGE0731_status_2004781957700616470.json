@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004477898229727232"
+      ],
+      "media_source_tweet_id": [
+        "2004477925928976511"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      }
+    ],
+    "conversation_id": "2004781957700616470",
+    "created_at": "2025-12-27T05:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T06:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004781957700616470"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "ウマ娘"
+        },
+        {
+          "end": 30,
+          "start": 22,
+          "tag": "フジマサマーチ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "882847620128849922",
+          "start": 3,
+          "username": "hill_chuchu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BwCyWRnVVv",
+          "end": 58,
+          "expanded_url": "https://x.com/hill_chuchu/status/2004477925928976511/photo/1",
+          "media_key": "3_2004477898229727232",
+          "start": 35,
+          "url": "https://t.co/BwCyWRnVVv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004781957700616470",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 469
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004477925928976511",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hill_chuchu: #ウマ娘 #フジマサマーチ\n\n🥰🩵 https://t.co/BwCyWRnVVv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2713,
+        "media_key": "3_2004477898229727232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9FWBzwawAAhNxo.jpg",
+        "width": 2045
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004477898229727232"
+          ],
+          "media_source_tweet_id": [
+            "2004477925928976511"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "2004781957700616470",
+        "created_at": "2025-12-27T05:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004781957700616470"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "ウマ娘"
+            },
+            {
+              "end": 30,
+              "start": 22,
+              "tag": "フジマサマーチ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "882847620128849922",
+              "start": 3,
+              "username": "hill_chuchu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BwCyWRnVVv",
+              "end": 58,
+              "expanded_url": "https://x.com/hill_chuchu/status/2004477925928976511/photo/1",
+              "media_key": "3_2004477898229727232",
+              "start": 35,
+              "url": "https://t.co/BwCyWRnVVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004781957700616470",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 469
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004477925928976511",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hill_chuchu: #ウマ娘 #フジマサマーチ\n\n🥰🩵 https://t.co/BwCyWRnVVv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004477898229727232"
+          ]
+        },
+        "author_id": "882847620128849922",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "2004477925928976511",
+        "created_at": "2025-12-26T09:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T10:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004477925928976511"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "ウマ娘"
+            },
+            {
+              "end": 13,
+              "start": 5,
+              "tag": "フジマサマーチ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BwCyWRnVVv",
+              "end": 41,
+              "expanded_url": "https://x.com/hill_chuchu/status/2004477925928976511/photo/1",
+              "media_key": "3_2004477898229727232",
+              "start": 18,
+              "url": "https://t.co/BwCyWRnVVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004477925928976511",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 361,
+          "impression_count": 38692,
+          "like_count": 4253,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 469
+        },
+        "reply_settings": "everyone",
+        "text": "#ウマ娘 #フジマサマーチ\n\n🥰🩵 https://t.co/BwCyWRnVVv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1010,
+          "like_count": 15767,
+          "listed_count": 3,
+          "media_count": 488,
+          "tweet_count": 5111
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-06T06:24:09.000Z",
+        "description": "畫得開心！每一條留言都會看～謝謝你的喜歡💙｜Arknights/FGO/ウマ娘｜❌AI training 🚫Do not repost my art｜doodle & wip➜@Prnsk199ii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "Prnsk199ii"
+              }
+            ]
+          }
+        },
+        "id": "882847620128849922",
+        "name": "Hill丘",
+        "pinned_tweet_id": "1968315345850228992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1382570505643847682/UYKnO61p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9120,
+          "following_count": 105,
+          "like_count": 55040,
+          "listed_count": 45,
+          "media_count": 166,
+          "tweet_count": 3582
+        },
+        "username": "hill_chuchu",
+        "verified": false
+      }
+    ]
+  }
+}

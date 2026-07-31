@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042175646906847232"
+      ],
+      "media_source_tweet_id": [
+        "2042175658386735618"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "2042536530921820592",
+    "created_at": "2026-04-10T09:33:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T10:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042536530921820592"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 14,
+          "tag": "arcaea_art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1736770311700508672",
+          "start": 3,
+          "username": "klooxm33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3n8Ak7uOMk",
+          "end": 49,
+          "expanded_url": "https://x.com/klooxm33/status/2042175658386735618/photo/1",
+          "media_key": "3_2042175646906847232",
+          "start": 26,
+          "url": "https://t.co/3n8Ak7uOMk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042536530921820592",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042175658386735618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @klooxm33: #arcaea_art https://t.co/3n8Ak7uOMk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042175646906847232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdD7lLWEAAz7sa.jpg",
+        "width": 1580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042175646906847232"
+          ],
+          "media_source_tweet_id": [
+            "2042175658386735618"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2042536530921820592",
+        "created_at": "2026-04-10T09:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042536530921820592"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 14,
+              "tag": "arcaea_art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1736770311700508672",
+              "start": 3,
+              "username": "klooxm33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3n8Ak7uOMk",
+              "end": 49,
+              "expanded_url": "https://x.com/klooxm33/status/2042175658386735618/photo/1",
+              "media_key": "3_2042175646906847232",
+              "start": 26,
+              "url": "https://t.co/3n8Ak7uOMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042536530921820592",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042175658386735618",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @klooxm33: #arcaea_art https://t.co/3n8Ak7uOMk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042175646906847232"
+          ]
+        },
+        "author_id": "1736770311700508672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "2042175658386735618",
+        "created_at": "2026-04-09T09:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042175658386735618"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "arcaea_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3n8Ak7uOMk",
+              "end": 35,
+              "expanded_url": "https://x.com/klooxm33/status/2042175658386735618/photo/1",
+              "media_key": "3_2042175646906847232",
+              "start": 12,
+              "url": "https://t.co/3n8Ak7uOMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042175658386735618",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 5315,
+          "like_count": 563,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "#arcaea_art https://t.co/3n8Ak7uOMk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 1039,
+          "like_count": 25870,
+          "listed_count": 3,
+          "media_count": 623,
+          "tweet_count": 9054
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T15:28:13.000Z",
+        "description": "一般路过画画人 bilibili：无敌且巨龙66- 🚫AI学习 委托📮2094196073@qq.com",
+        "id": "1736770311700508672",
+        "name": "小明3",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818721258412146688/wzGBg-PJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 98,
+          "like_count": 474,
+          "listed_count": 5,
+          "media_count": 44,
+          "tweet_count": 64
+        },
+        "username": "klooxm33",
+        "verified": false
+      }
+    ]
+  }
+}

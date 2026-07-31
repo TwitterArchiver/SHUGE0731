@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1858075577867030528"
+      ],
+      "media_source_tweet_id": [
+        "1858075642790564309"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1858337105908252934",
+    "created_at": "2024-11-18T02:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T03:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858337105908252934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664040280138436620",
+          "start": 3,
+          "username": "ContextBirds"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t6seUY4Ldd",
+          "end": 41,
+          "expanded_url": "https://x.com/ContextBirds/status/1858075642790564309/video/1",
+          "media_key": "13_1858075577867030528",
+          "start": 18,
+          "url": "https://t.co/t6seUY4Ldd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858337105908252934",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1560
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858075642790564309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ContextBirds: https://t.co/t6seUY4Ldd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14278,
+        "height": 1024,
+        "media_key": "13_1858075577867030528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1858075577867030528/img/-d1rsgq_GL_eZo3p.jpg",
+        "public_metrics": {
+          "view_count": 50196
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1858075577867030528/vid/avc1/320x568/Nc3Bx2pUOriwIaM1.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1858075577867030528/vid/avc1/480x852/HDCkawvrXPvUEhyO.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1858075577867030528/vid/avc1/576x1024/20AK1sisyYP0h_qh.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1858075577867030528/pl/zoBkemqqsgQFRTdt.m3u8?tag=16&v=13b"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1858075577867030528"
+          ],
+          "media_source_tweet_id": [
+            "1858075642790564309"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1858337105908252934",
+        "created_at": "2024-11-18T02:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T03:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858337105908252934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664040280138436620",
+              "start": 3,
+              "username": "ContextBirds"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t6seUY4Ldd",
+              "end": 41,
+              "expanded_url": "https://x.com/ContextBirds/status/1858075642790564309/video/1",
+              "media_key": "13_1858075577867030528",
+              "start": 18,
+              "url": "https://t.co/t6seUY4Ldd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858337105908252934",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1560
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858075642790564309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ContextBirds: https://t.co/t6seUY4Ldd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1858075577867030528"
+          ]
+        },
+        "author_id": "1664040280138436620",
+        "conversation_id": "1858075642790564309",
+        "created_at": "2024-11-17T09:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T10:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858075642790564309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t6seUY4Ldd",
+              "end": 23,
+              "expanded_url": "https://x.com/ContextBirds/status/1858075642790564309/video/1",
+              "media_key": "13_1858075577867030528",
+              "start": 0,
+              "url": "https://t.co/t6seUY4Ldd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858075642790564309",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1060,
+          "impression_count": 165366,
+          "like_count": 7985,
+          "quote_count": 91,
+          "reply_count": 18,
+          "retweet_count": 1560
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/t6seUY4Ldd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 727,
+          "like_count": 3068,
+          "listed_count": 0,
+          "tweet_count": 607
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-31T22:45:04.000Z",
+        "description": "Follow for daily birds content",
+        "id": "1664040280138436620",
+        "location": "Turn on notifs 🔔",
+        "name": "Out of Context Birds",
+        "pinned_tweet_id": "1684203293474447365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681788053344403456/E9n1y4v6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77006,
+          "following_count": 67,
+          "like_count": 2683,
+          "listed_count": 225,
+          "tweet_count": 1512
+        },
+        "username": "ContextBirds",
+        "verified": true
+      }
+    ]
+  }
+}

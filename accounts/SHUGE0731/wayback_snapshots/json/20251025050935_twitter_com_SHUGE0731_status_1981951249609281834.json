@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981806384694861825"
+      ],
+      "media_source_tweet_id": [
+        "1981806399555543189"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1981951249609281834",
+    "created_at": "2025-10-25T05:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T06:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981951249609281834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "887296861115043841",
+          "start": 3,
+          "username": "IZUMI_087"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MYxHjKtsNQ",
+          "end": 42,
+          "expanded_url": "https://x.com/IZUMI_087/status/1981806399555543189/photo/1",
+          "media_key": "3_1981806384694861825",
+          "start": 19,
+          "url": "https://t.co/MYxHjKtsNQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981951249609281834",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 203
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981806399555543189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IZUMI_087: 放大! https://t.co/MYxHjKtsNQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1489,
+        "media_key": "3_1981806384694861825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4DKaCVWoAEX9Km.jpg",
+        "width": 1117
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981806384694861825"
+          ],
+          "media_source_tweet_id": [
+            "1981806399555543189"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1981951249609281834",
+        "created_at": "2025-10-25T05:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T06:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981951249609281834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "887296861115043841",
+              "start": 3,
+              "username": "IZUMI_087"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MYxHjKtsNQ",
+              "end": 42,
+              "expanded_url": "https://x.com/IZUMI_087/status/1981806399555543189/photo/1",
+              "media_key": "3_1981806384694861825",
+              "start": 19,
+              "url": "https://t.co/MYxHjKtsNQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981951249609281834",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 203
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981806399555543189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IZUMI_087: 放大! https://t.co/MYxHjKtsNQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981806384694861825"
+          ]
+        },
+        "author_id": "887296861115043841",
+        "conversation_id": "1981806399555543189",
+        "created_at": "2025-10-24T19:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T20:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981806399555543189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MYxHjKtsNQ",
+              "end": 27,
+              "expanded_url": "https://x.com/IZUMI_087/status/1981806399555543189/photo/1",
+              "media_key": "3_1981806384694861825",
+              "start": 4,
+              "url": "https://t.co/MYxHjKtsNQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981806399555543189",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 527,
+          "impression_count": 50744,
+          "like_count": 5338,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 203
+        },
+        "reply_settings": "everyone",
+        "text": "放大! https://t.co/MYxHjKtsNQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 |  中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 1080,
+          "like_count": 10322,
+          "listed_count": 2,
+          "media_count": 346,
+          "tweet_count": 2383
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-18T13:03:51.000Z",
+        "description": "＝泉 (いづみ)⌇ CMS closed⌇🗝️日常@im1nai ⌇低浮上🫧除了发图完全不上线",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 25,
+                "username": "im1nai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pome.vip/izumi087",
+                "end": 23,
+                "expanded_url": "https://pome.vip/izumi087",
+                "start": 0,
+                "url": "https://t.co/cOJKLsPWiv"
+              }
+            ]
+          }
+        },
+        "id": "887296861115043841",
+        "location": "提问箱→",
+        "name": "₊⁺雪顶矿泉₊⁺",
+        "pinned_tweet_id": "1977913415940370475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953236874275004416/mF8qr01C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21216,
+          "following_count": 307,
+          "like_count": 1678,
+          "listed_count": 115,
+          "media_count": 241,
+          "tweet_count": 1515
+        },
+        "url": "https://t.co/cOJKLsPWiv",
+        "username": "IZUMI_087",
+        "verified": false
+      }
+    ]
+  }
+}

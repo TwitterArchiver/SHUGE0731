@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2045902530887000110",
+    "created_at": "2026-04-19T18:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T19:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045938987182002246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1969452091732074497",
+          "start": 0,
+          "username": "aylaforfun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045938987182002246",
+    "in_reply_to_user_id": "1969452091732074497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045902530887000110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aylaforfun 我被小鸡统治了😭🤲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2045902530887000110",
+        "created_at": "2026-04-19T18:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T19:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045938987182002246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1969452091732074497",
+              "start": 0,
+              "username": "aylaforfun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045938987182002246",
+        "in_reply_to_user_id": "1969452091732074497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045902530887000110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aylaforfun 我被小鸡统治了😭🤲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969452091732074497",
+        "conversation_id": "2045902530887000110",
+        "created_at": "2026-04-19T16:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045902530887000110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SHUGE0731/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/SHUGE0731/status/2044081205617054050",
+              "start": 22,
+              "url": "https://t.co/DsGkyDQSkE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045902530887000110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044081205617054050",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好可愛……最近一直看到這種小雞照 可愛鼠了 https://t.co/DsGkyDQSkE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 1049,
+          "like_count": 26413,
+          "listed_count": 3,
+          "media_count": 631,
+          "tweet_count": 9232
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T17:22:44.000Z",
+        "description": "🚪666/888/999/10000/99999999\n沒過門又沒禮貌的私信都司馬了 煩煩煩",
+        "id": "1969452091732074497",
+        "location": "0.0",
+        "name": "千夏咲",
+        "pinned_tweet_id": "2026274423506964822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021553799379480576/SDUKSPy7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 200,
+          "like_count": 11500,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 617
+        },
+        "username": "aylaforfun",
+        "verified": false
+      }
+    ]
+  }
+}

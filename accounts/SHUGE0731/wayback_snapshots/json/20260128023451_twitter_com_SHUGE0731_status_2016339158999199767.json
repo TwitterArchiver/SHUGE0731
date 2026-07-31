@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2016336767176323520",
+    "created_at": "2026-01-28T02:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T03:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016339158999199767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1881711513557229568",
+          "start": 0,
+          "username": "hzx1753190"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016339158999199767",
+    "in_reply_to_user_id": "1881711513557229568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016336767176323520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzx1753190 好猫！好人！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2016336767176323520",
+        "created_at": "2026-01-28T02:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T03:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016339158999199767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1881711513557229568",
+              "start": 0,
+              "username": "hzx1753190"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016339158999199767",
+        "in_reply_to_user_id": "1881711513557229568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016336767176323520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzx1753190 好猫！好人！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881711513557229568",
+        "conversation_id": "2016336767176323520",
+        "created_at": "2026-01-28T02:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T03:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016336767176323520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shuge0731/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/shuge0731/status/2016013717327212980",
+              "start": 2,
+              "url": "https://t.co/KwzoUNO85T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016336767176323520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016013717327212980",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "萌 https://t.co/KwzoUNO85T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 968,
+          "like_count": 18582,
+          "listed_count": 3,
+          "media_count": 537,
+          "tweet_count": 6611
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T14:32:53.000Z",
+        "description": "接🌍💥",
+        "id": "1881711513557229568",
+        "name": "吃了吗泥",
+        "pinned_tweet_id": "1959184294183915551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998412290219986944/cq-6DNXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 149,
+          "like_count": 1608,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 34
+        },
+        "username": "hzx1753190",
+        "verified": false
+      }
+    ]
+  }
+}

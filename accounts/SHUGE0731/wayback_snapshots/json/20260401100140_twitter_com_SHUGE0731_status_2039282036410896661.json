@@ -1,0 +1,714 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese musician",
+          "id": "1070731969623781376",
+          "name": "DECO*27"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Japanese musician",
+          "id": "1070731969623781376",
+          "name": "DECO*27"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese musician",
+          "id": "1070731969623781376",
+          "name": "DECO*27"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2039282036410896661",
+    "created_at": "2026-04-01T10:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T11:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039282036410896661"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 103,
+          "start": 98,
+          "tag": "初音ミク"
+        },
+        {
+          "end": 111,
+          "start": 104,
+          "tag": "DECO27"
+        },
+        {
+          "end": 117,
+          "start": 112,
+          "tag": "ポッパレ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "547299604",
+          "start": 3,
+          "username": "gsc_kahotan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/1h0p9e7h",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/1h0p9e7h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039282036410896661",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2823
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038570786416689271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gsc_kahotan: 👯💗彩色原型初公開💗👯\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣\nPOP UP PARADE 初音ミク \nラビットホールVer. Lsize\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n\n#初音ミク #DECO27 #ポッパレ https://t.co/1h0p9e7h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2038570779965820928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEp1UtVakAAWxX8.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2039282036410896661",
+        "created_at": "2026-04-01T10:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039282036410896661"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 111,
+              "start": 104,
+              "tag": "DECO27"
+            },
+            {
+              "end": 117,
+              "start": 112,
+              "tag": "ポッパレ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "547299604",
+              "start": 3,
+              "username": "gsc_kahotan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/1h0p9e7h",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/1h0p9e7h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039282036410896661",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2823
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038570786416689271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gsc_kahotan: 👯💗彩色原型初公開💗👯\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣\nPOP UP PARADE 初音ミク \nラビットホールVer. Lsize\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n\n#初音ミク #DECO27 #ポッパレ https://t.co/1h0p9e7h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038570779965820928"
+          ]
+        },
+        "author_id": "547299604",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese musician",
+              "id": "1070731969623781376",
+              "name": "DECO*27"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2038570786416689271",
+        "created_at": "2026-03-30T10:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038570786416689271"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 94,
+              "start": 87,
+              "tag": "DECO27"
+            },
+            {
+              "end": 100,
+              "start": 95,
+              "tag": "ポッパレ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1h0p9e7hSz",
+              "end": 124,
+              "expanded_url": "https://x.com/gsc_kahotan/status/2038570786416689271/photo/1",
+              "media_key": "3_2038570779965820928",
+              "start": 101,
+              "url": "https://t.co/1h0p9e7hSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038570786416689271",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2673,
+          "impression_count": 482914,
+          "like_count": 17506,
+          "quote_count": 561,
+          "reply_count": 22,
+          "retweet_count": 2823
+        },
+        "reply_settings": "everyone",
+        "text": "👯💗彩色原型初公開💗👯\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣\nPOP UP PARADE 初音ミク \nラビットホールVer. Lsize\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n\n#初音ミク #DECO27 #ポッパレ https://t.co/1h0p9e7hSz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 1025,
+          "like_count": 25079,
+          "listed_count": 3,
+          "media_count": 610,
+          "tweet_count": 8742
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-07T03:50:58.000Z",
+        "description": "グッドスマイルカンパニーの企画部所属。フィギュア商品企画の他にブログも担当しております！どうぞよろしくお願いいたします◎\n\nグッスマ公式サイト：https://t.co/B3NQgLiiqg\nマシュマロ： https://t.co/bnSJnl4Jnx…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "goodsmile.com/ja",
+                "end": 95,
+                "expanded_url": "https://www.goodsmile.com/ja",
+                "start": 72,
+                "url": "https://t.co/B3NQgLiiqg"
+              },
+              {
+                "display_url": "marshmallow-qa.com/gsc_kahotan?ut",
+                "end": 126,
+                "expanded_url": "http://marshmallow-qa.com/gsc_kahotan?ut",
+                "start": 103,
+                "url": "https://t.co/bnSJnl4Jnx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "goodsmile.jp/kahotan",
+                "end": 23,
+                "expanded_url": "http://goodsmile.jp/kahotan",
+                "start": 0,
+                "url": "https://t.co/KkUNvZ4p7W"
+              }
+            ]
+          }
+        },
+        "id": "547299604",
+        "location": "秋葉原の程近く",
+        "name": "カホタン＠グッスマのすみっこ",
+        "pinned_tweet_id": "2038600785660129752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1557060860631138304/DNcidBzz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302304,
+          "following_count": 346,
+          "like_count": 3840,
+          "listed_count": 2729,
+          "media_count": 40210,
+          "tweet_count": 76573
+        },
+        "url": "https://t.co/KkUNvZ4p7W",
+        "username": "gsc_kahotan",
+        "verified": true
+      }
+    ]
+  }
+}

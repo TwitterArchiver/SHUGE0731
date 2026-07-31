@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1954856521306984448"
+      ],
+      "media_source_tweet_id": [
+        "1954856880825586156"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2038139551135482097",
+    "created_at": "2026-03-29T06:21:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T07:21:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038139551135482097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1545007554786652161",
+          "start": 3,
+          "username": "The_cogomi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h5reYW5Bq7",
+          "end": 45,
+          "expanded_url": "https://x.com/The_cogomi/status/1954856880825586156/video/1",
+          "media_key": "13_1954856521306984448",
+          "start": 22,
+          "url": "https://t.co/h5reYW5Bq7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038139551135482097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13375
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954856880825586156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @The_cogomi: おでかけ☆ https://t.co/h5reYW5Bq7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7625,
+        "height": 1080,
+        "media_key": "13_1954856521306984448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1954856521306984448/img/RliZ2ENXXXavqPsf.jpg",
+        "public_metrics": {
+          "view_count": 547564
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954856521306984448/vid/avc1/480x270/xQrRUFX-ORtei8j-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954856521306984448/vid/avc1/640x360/4fdUPebHbqBG4xDF.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954856521306984448/vid/avc1/1280x720/6mR_15G1PWZF6Ivj.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1954856521306984448/pl/reUCcHRVWCQ2Jt0o.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1954856521306984448"
+          ],
+          "media_source_tweet_id": [
+            "1954856880825586156"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038139551135482097",
+        "created_at": "2026-03-29T06:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T07:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038139551135482097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1545007554786652161",
+              "start": 3,
+              "username": "The_cogomi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h5reYW5Bq7",
+              "end": 45,
+              "expanded_url": "https://x.com/The_cogomi/status/1954856880825586156/video/1",
+              "media_key": "13_1954856521306984448",
+              "start": 22,
+              "url": "https://t.co/h5reYW5Bq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038139551135482097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13375
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954856880825586156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @The_cogomi: おでかけ☆ https://t.co/h5reYW5Bq7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1954856521306984448"
+          ]
+        },
+        "author_id": "1545007554786652161",
+        "conversation_id": "1954856880825586156",
+        "created_at": "2025-08-11T10:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T11:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954856880825586156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h5reYW5Bq7",
+              "end": 29,
+              "expanded_url": "https://x.com/The_cogomi/status/1954856880825586156/video/1",
+              "media_key": "13_1954856521306984448",
+              "start": 6,
+              "url": "https://t.co/h5reYW5Bq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954856880825586156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8742,
+          "impression_count": 1567089,
+          "like_count": 63060,
+          "quote_count": 126,
+          "reply_count": 58,
+          "retweet_count": 13375
+        },
+        "reply_settings": "everyone",
+        "text": "おでかけ☆ https://t.co/h5reYW5Bq7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 1021,
+          "like_count": 24881,
+          "listed_count": 3,
+          "media_count": 607,
+          "tweet_count": 8666
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T11:31:39.000Z",
+        "description": "趣味で色々やっている者です！宜しくお願い致します！気の利いた事も言えないのでリプ返しは控えがちですがリプはとても嬉しいです。こんな無名の者の絵を見てくれる人には感謝が絶えません。",
+        "id": "1545007554786652161",
+        "name": "こごみ座",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779515156927754240/cWoYQwzC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21283,
+          "following_count": 237,
+          "like_count": 3240,
+          "listed_count": 194,
+          "media_count": 62,
+          "tweet_count": 927
+        },
+        "username": "The_cogomi",
+        "verified": false
+      }
+    ]
+  }
+}

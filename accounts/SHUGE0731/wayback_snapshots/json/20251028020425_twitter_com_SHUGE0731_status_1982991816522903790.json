@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1982885273114730810",
+    "created_at": "2025-10-28T02:04:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T03:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982991816522903790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1834246658823196672",
+          "start": 0,
+          "username": "ChanYong61395"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982991816522903790",
+    "in_reply_to_user_id": "1834246658823196672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982885273114730810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChanYong61395 摸摸宝宝🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1982885273114730810",
+        "created_at": "2025-10-28T02:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T03:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982991816522903790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834246658823196672",
+              "start": 0,
+              "username": "ChanYong61395"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982991816522903790",
+        "in_reply_to_user_id": "1834246658823196672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982885273114730810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChanYong61395 摸摸宝宝🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834246658823196672",
+        "conversation_id": "1982885273114730810",
+        "created_at": "2025-10-27T19:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T20:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982885273114730810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982885273114730810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好崩溃 连割手都不能 被爸妈发现了又是一顿骂 好难过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 |  中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 1079,
+          "like_count": 10531,
+          "listed_count": 2,
+          "media_count": 349,
+          "tweet_count": 2480
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-12T15:04:29.000Z",
+        "description": "只是一个喜欢自言自语发泄情绪的骸子",
+        "id": "1834246658823196672",
+        "location": "你妈坟头上",
+        "name": "ayo",
+        "pinned_tweet_id": "1840685538661286070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964733406065131520/i9I1rxB6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 39,
+          "like_count": 2486,
+          "listed_count": 1,
+          "media_count": 670,
+          "tweet_count": 3868
+        },
+        "username": "ChanYong61395",
+        "verified": false
+      }
+    ]
+  }
+}

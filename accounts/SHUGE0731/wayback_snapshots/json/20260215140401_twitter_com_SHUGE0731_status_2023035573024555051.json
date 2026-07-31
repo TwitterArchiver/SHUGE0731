@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2022995541991580099",
+    "created_at": "2026-02-15T14:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T15:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023035573024555051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023035573024555051",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022995541991580099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 感觉很有趣！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2022995401159421952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMfmVxbMAA-22n.jpg",
+        "width": 1299
+      },
+      {
+        "height": 768,
+        "media_key": "3_2022995417584357377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMfnS9b0AEJXkx.jpg",
+        "width": 1299
+      },
+      {
+        "height": 309,
+        "media_key": "3_2022995435393335296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMfoVTbQAAQxTW.png",
+        "width": 516
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2022995541991580099",
+        "created_at": "2026-02-15T14:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T15:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023035573024555051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023035573024555051",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022995541991580099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 感觉很有趣！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022995401159421952",
+            "3_2022995417584357377",
+            "3_2022995435393335296"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2022995541991580099",
+        "created_at": "2026-02-15T11:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022995541991580099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tYnOXpmJMz",
+              "end": 112,
+              "expanded_url": "https://x.com/amecandy_x/status/2022995541991580099/photo/1",
+              "media_key": "3_2022995401159421952",
+              "start": 89,
+              "url": "https://t.co/tYnOXpmJMz"
+            },
+            {
+              "display_url": "pic.x.com/tYnOXpmJMz",
+              "end": 112,
+              "expanded_url": "https://x.com/amecandy_x/status/2022995541991580099/photo/1",
+              "media_key": "3_2022995417584357377",
+              "start": 89,
+              "url": "https://t.co/tYnOXpmJMz"
+            },
+            {
+              "display_url": "pic.x.com/tYnOXpmJMz",
+              "end": 112,
+              "expanded_url": "https://x.com/amecandy_x/status/2022995541991580099/photo/1",
+              "media_key": "3_2022995435393335296",
+              "start": 89,
+              "url": "https://t.co/tYnOXpmJMz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022995541991580099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1020,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做了一个地铁网络编辑软件，可以编辑架空/现实的地铁网络\n包含车上hud生成功能/官方风格地铁图生成功能/动态演示功能\n\n从昨晚开始做的今天大概能用\n赞美vibe coding！ https://t.co/tYnOXpmJMz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 991,
+          "like_count": 20983,
+          "listed_count": 3,
+          "media_count": 565,
+          "tweet_count": 7481
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "「In solitude where we are least alone」/ transfem / communist / ally / ai4fun🤖 / 競馬🏇🏻 / vocaloid🎶 / 也许是铁道迷🚅 / @whitecloud_ybw ❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 109,
+                "username": "whitecloud_ybw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "济南",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2021946997042008389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020149012624732160/-JptmRgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5484,
+          "following_count": 1913,
+          "like_count": 24939,
+          "listed_count": 16,
+          "media_count": 1154,
+          "tweet_count": 8701
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

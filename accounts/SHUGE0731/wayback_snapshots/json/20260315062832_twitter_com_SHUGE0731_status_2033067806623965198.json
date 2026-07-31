@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032756691117453312"
+      ],
+      "media_source_tweet_id": [
+        "2032756718569214453"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      }
+    ],
+    "conversation_id": "2033067806623965198",
+    "created_at": "2026-03-15T06:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T07:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033067806623965198"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "ウマ娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "389596087",
+          "start": 3,
+          "username": "ittokyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LMoU3XOONO",
+          "end": 50,
+          "expanded_url": "https://x.com/ittokyu/status/2032756718569214453/photo/1",
+          "media_key": "3_2032756691117453312",
+          "start": 27,
+          "url": "https://t.co/LMoU3XOONO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033067806623965198",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 694
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032756718569214453",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ittokyu: シュヴァルグラン\n#ウマ娘 https://t.co/LMoU3XOONO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2032756691117453312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDXNcMjasAAvyUm.png",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032756691117453312"
+          ],
+          "media_source_tweet_id": [
+            "2032756718569214453"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "2033067806623965198",
+        "created_at": "2026-03-15T06:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T07:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033067806623965198"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "ウマ娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "389596087",
+              "start": 3,
+              "username": "ittokyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LMoU3XOONO",
+              "end": 50,
+              "expanded_url": "https://x.com/ittokyu/status/2032756718569214453/photo/1",
+              "media_key": "3_2032756691117453312",
+              "start": 27,
+              "url": "https://t.co/LMoU3XOONO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033067806623965198",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 694
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032756718569214453",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ittokyu: シュヴァルグラン\n#ウマ娘 https://t.co/LMoU3XOONO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032756691117453312"
+          ]
+        },
+        "author_id": "389596087",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "2032756718569214453",
+        "created_at": "2026-03-14T09:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T10:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032756718569214453"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "ウマ娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LMoU3XOONO",
+              "end": 37,
+              "expanded_url": "https://x.com/ittokyu/status/2032756718569214453/photo/1",
+              "media_key": "3_2032756691117453312",
+              "start": 14,
+              "url": "https://t.co/LMoU3XOONO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032756718569214453",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 427,
+          "impression_count": 36501,
+          "like_count": 4649,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 694
+        },
+        "reply_settings": "everyone",
+        "text": "シュヴァルグラン\n#ウマ娘 https://t.co/LMoU3XOONO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 1006,
+          "like_count": 23713,
+          "listed_count": 3,
+          "media_count": 591,
+          "tweet_count": 8331
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-12T17:50:46.000Z",
+        "description": "PNの読み＝いっとく｜イラストレーター｜Work：ホロライブ/にじさんじ/.LIVE/MaiR/ななしいんく/ RIOT MUSIC等｜Live2D使用可能！公式イラコン受賞多数！お仕事常時募集中！｜BOOTH：https://t.co/5FhMKsJhk5｜Skeb：https://t.co/Nuc39IS1nk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ittoku.booth.pm",
+                "end": 129,
+                "expanded_url": "https://ittoku.booth.pm",
+                "start": 106,
+                "url": "https://t.co/5FhMKsJhk5"
+              },
+              {
+                "display_url": "skeb.jp/@ittokyu",
+                "end": 158,
+                "expanded_url": "https://skeb.jp/@ittokyu",
+                "start": 135,
+                "url": "https://t.co/Nuc39IS1nk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/ittoku",
+                "end": 23,
+                "expanded_url": "https://potofu.me/ittoku",
+                "start": 0,
+                "url": "https://t.co/MQOKv40t42"
+              }
+            ]
+          }
+        },
+        "id": "389596087",
+        "location": "お仕事連絡先・SNSリンク等まとめ⇒",
+        "name": "壱十九（いっとく）",
+        "pinned_tweet_id": "1978029477847584830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007019741626699777/d8vHBp-a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45808,
+          "following_count": 1566,
+          "like_count": 41849,
+          "listed_count": 614,
+          "media_count": 2751,
+          "tweet_count": 31826
+        },
+        "url": "https://t.co/MQOKv40t42",
+        "username": "ittokyu",
+        "verified": false
+      }
+    ]
+  }
+}

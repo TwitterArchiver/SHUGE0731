@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2055921440655020093",
+    "created_at": "2026-05-17T08:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T09:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055921440655020093"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sjlwro14y68r3d…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/sjlwro14y68r3dw/status/2055720812704038915",
+          "start": 10,
+          "url": "https://t.co/aaKNUKkTVw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055921440655020093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055720812704038915",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "omg这简直就是我 https://t.co/aaKNUKkTVw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1473,
+        "media_key": "3_2055720807901659136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdjLuBbgAALy8g.jpg",
+        "width": 1146
+      },
+      {
+        "height": 608,
+        "media_key": "3_2055720807893250048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdjLt_bMAAt2We.jpg",
+        "width": 810
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2055720807901605888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdjLuBasAAemey.jpg",
+        "width": 1920
+      },
+      {
+        "height": 675,
+        "media_key": "3_2055720807905783808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdjLuCacAAmpxM.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2055921440655020093",
+        "created_at": "2026-05-17T08:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055921440655020093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sjlwro14y68r3d…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/sjlwro14y68r3dw/status/2055720812704038915",
+              "start": 10,
+              "url": "https://t.co/aaKNUKkTVw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055921440655020093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055720812704038915",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "omg这简直就是我 https://t.co/aaKNUKkTVw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055720807901659136",
+            "3_2055720807893250048",
+            "3_2055720807901605888",
+            "3_2055720807905783808"
+          ]
+        },
+        "author_id": "982427797296594945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055720812704038915",
+        "created_at": "2026-05-16T18:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T19:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055720812704038915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dfDf5y4T0N",
+              "end": 61,
+              "expanded_url": "https://x.com/SjLwrO14y68R3Dw/status/2055720812704038915/photo/1",
+              "media_key": "3_2055720807901659136",
+              "start": 38,
+              "url": "https://t.co/dfDf5y4T0N"
+            },
+            {
+              "display_url": "pic.x.com/dfDf5y4T0N",
+              "end": 61,
+              "expanded_url": "https://x.com/SjLwrO14y68R3Dw/status/2055720812704038915/photo/1",
+              "media_key": "3_2055720807893250048",
+              "start": 38,
+              "url": "https://t.co/dfDf5y4T0N"
+            },
+            {
+              "display_url": "pic.x.com/dfDf5y4T0N",
+              "end": 61,
+              "expanded_url": "https://x.com/SjLwrO14y68R3Dw/status/2055720812704038915/photo/1",
+              "media_key": "3_2055720807901605888",
+              "start": 38,
+              "url": "https://t.co/dfDf5y4T0N"
+            },
+            {
+              "display_url": "pic.x.com/dfDf5y4T0N",
+              "end": 61,
+              "expanded_url": "https://x.com/SjLwrO14y68R3Dw/status/2055720812704038915/photo/1",
+              "media_key": "3_2055720807905783808",
+              "start": 38,
+              "url": "https://t.co/dfDf5y4T0N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055720812704038915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 13058,
+          "like_count": 117,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "KKSK\n我其實是\"這個\"控\n但是\"這個\"沒有學名真的不知道怎麼分類\n求助 https://t.co/dfDf5y4T0N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 1112,
+          "like_count": 28664,
+          "listed_count": 4,
+          "media_count": 668,
+          "tweet_count": 9853
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-07T01:20:14.000Z",
+        "description": "Let's all love Lain. Rust | Homelab | I use Arch BTW CS/ME@ntnu bu//ding systems, breaking i//usions.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=100010414500933",
+                "start": 0,
+                "url": "https://t.co/MNaZCz25vQ"
+              }
+            ]
+          }
+        },
+        "id": "982427797296594945",
+        "location": "taiwan",
+        "name": "G36_maid",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941323178271440896/0WbCmhkw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 2272,
+          "like_count": 53664,
+          "listed_count": 3,
+          "media_count": 405,
+          "tweet_count": 7844
+        },
+        "url": "https://t.co/MNaZCz25vQ",
+        "username": "SjLwrO14y68R3Dw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866324319770750976"
+      ],
+      "media_source_tweet_id": [
+        "1866324324753477870"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1866413647687295371",
+    "created_at": "2024-12-10T09:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T10:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866413647687295371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1596037162796953601",
+          "start": 3,
+          "username": "jasenzhang0502"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cNf2rKMaot",
+          "end": 51,
+          "expanded_url": "https://x.com/jasenzhang0502/status/1866324324753477870/photo/1",
+          "media_key": "3_1866324319770750976",
+          "start": 28,
+          "url": "https://t.co/cNf2rKMaot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866413647687295371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866324324753477870",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jasenzhang0502: 🔞天选姬 裸照 https://t.co/cNf2rKMaot"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1866413647687295371].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1866413647687295371",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1866413647687295371"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1866324319770750976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeaEFKObsAAPedO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866324319770750976"
+          ]
+        },
+        "author_id": "1596037162796953601",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1866324324753477870",
+        "created_at": "2024-12-10T03:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T04:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866324324753477870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cNf2rKMaot",
+              "end": 31,
+              "expanded_url": "https://x.com/jasenzhang0502/status/1866324324753477870/photo/1",
+              "media_key": "3_1866324319770750976",
+              "start": 8,
+              "url": "https://t.co/cNf2rKMaot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866324324753477870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5904,
+          "like_count": 121,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "🔞天选姬 裸照 https://t.co/cNf2rKMaot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1863243605252690301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 755,
+          "like_count": 3804,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 746
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T07:05:03.000Z",
+        "description": "",
+        "id": "1596037162796953601",
+        "location": "shanxi datong ",
+        "name": "Ash lin0502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622055826151329792/HGZzHnet_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 10,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 29
+        },
+        "username": "jasenzhang0502",
+        "verified": false
+      }
+    ]
+  }
+}

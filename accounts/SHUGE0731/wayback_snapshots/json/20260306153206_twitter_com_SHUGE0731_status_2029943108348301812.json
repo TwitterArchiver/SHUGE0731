@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10049081641",
+          "name": "終末なにしてますか?忙しいですか?救ってもらっていいですか?"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311327182820524032",
+          "name": "Light novels"
+        }
+      }
+    ],
+    "conversation_id": "2029943108348301812",
+    "created_at": "2026-03-06T15:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T16:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029943108348301812"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 70,
+          "normalized_text": "終末なにしてますか？　忙しいですか？　救ってもらっていいですか？",
+          "probability": 0.456,
+          "start": 39,
+          "type": "Other"
+        },
+        {
+          "end": 88,
+          "normalized_text": "クトリ・ノタ・セニオリス",
+          "probability": 0.6125,
+          "start": 77,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 122,
+          "start": 117,
+          "tag": "すかすか"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1223114973280272385",
+          "start": 3,
+          "username": "anigift7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/VsR",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/VsR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029943108348301812",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1032
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029738738553655718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anigift7: 🩵新作フィギュア企画！🩵\nライトノベルの名作『終末なにしてますか？　忙しいですか？　救ってもらっていいですか？』より、\n「クトリ・ノタ・セニオリス」フィギュア化決定！\n現在鋭意製作中、続報をお楽しみに！🥳\n#すかすか https://t.co/VsR…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1754,
+        "media_key": "3_2029730556095909890",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCsNL9HaUAIwT9i.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10049081641",
+              "name": "終末なにしてますか?忙しいですか?救ってもらっていいですか?"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311327182820524032",
+              "name": "Light novels"
+            }
+          }
+        ],
+        "conversation_id": "2029943108348301812",
+        "created_at": "2026-03-06T15:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T16:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029943108348301812"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 70,
+              "normalized_text": "終末なにしてますか？　忙しいですか？　救ってもらっていいですか？",
+              "probability": 0.456,
+              "start": 39,
+              "type": "Other"
+            },
+            {
+              "end": 88,
+              "normalized_text": "クトリ・ノタ・セニオリス",
+              "probability": 0.6125,
+              "start": 77,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 122,
+              "start": 117,
+              "tag": "すかすか"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1223114973280272385",
+              "start": 3,
+              "username": "anigift7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/VsR",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/VsR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029943108348301812",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1032
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029738738553655718",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anigift7: 🩵新作フィギュア企画！🩵\nライトノベルの名作『終末なにしてますか？　忙しいですか？　救ってもらっていいですか？』より、\n「クトリ・ノタ・セニオリス」フィギュア化決定！\n現在鋭意製作中、続報をお楽しみに！🥳\n#すかすか https://t.co/VsR…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029730556095909890"
+          ]
+        },
+        "author_id": "1223114973280272385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10049081641",
+              "name": "終末なにしてますか?忙しいですか?救ってもらっていいですか?"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311327182820524032",
+              "name": "Light novels"
+            }
+          }
+        ],
+        "conversation_id": "2029738738553655718",
+        "created_at": "2026-03-06T02:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T03:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029738738553655718"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 56,
+              "normalized_text": "終末なにしてますか？　忙しいですか？　救ってもらっていいですか？",
+              "probability": 0.5499,
+              "start": 25,
+              "type": "Other"
+            },
+            {
+              "end": 74,
+              "normalized_text": "クトリ・ノタ・セニオリス",
+              "probability": 0.5968,
+              "start": 63,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 108,
+              "start": 103,
+              "tag": "すかすか"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VsRkAbWj9m",
+              "end": 132,
+              "expanded_url": "https://x.com/anigift7/status/2029738738553655718/photo/1",
+              "media_key": "3_2029730556095909890",
+              "start": 109,
+              "url": "https://t.co/VsRkAbWj9m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029738738553655718",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 509,
+          "impression_count": 258362,
+          "like_count": 3363,
+          "quote_count": 164,
+          "reply_count": 12,
+          "retweet_count": 1032
+        },
+        "reply_settings": "everyone",
+        "text": "🩵新作フィギュア企画！🩵\nライトノベルの名作『終末なにしてますか？　忙しいですか？　救ってもらっていいですか？』より、\n「クトリ・ノタ・セニオリス」フィギュア化決定！\n現在鋭意製作中、続報をお楽しみに！🥳\n#すかすか https://t.co/VsRkAbWj9m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 1006,
+          "like_count": 23226,
+          "listed_count": 3,
+          "media_count": 584,
+          "tweet_count": 8193
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-31T05:25:47.000Z",
+        "description": "AniGiftの新作情報公式アカウントです,宜しくお願いします！",
+        "id": "1223114973280272385",
+        "name": "AniGift",
+        "pinned_tweet_id": "2029738738553655718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1223115477020372994/DJnclyjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9310,
+          "following_count": 127,
+          "like_count": 495,
+          "listed_count": 131,
+          "media_count": 91,
+          "tweet_count": 489
+        },
+        "username": "anigift7",
+        "verified": false
+      }
+    ]
+  }
+}

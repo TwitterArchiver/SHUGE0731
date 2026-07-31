@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2060213187442856017",
+    "created_at": "2026-05-29T15:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T16:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060387160847794248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1557450235621695488",
+          "start": 0,
+          "username": "KBDYD555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060387160847794248",
+    "in_reply_to_user_id": "1557450235621695488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060213187442856017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KBDYD555 小舌头可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3041,
+        "height": 1280,
+        "media_key": "7_2060213162667106304",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060213162667106304/pu/img/cHygaTGKA4PNFXCx.jpg",
+        "public_metrics": {
+          "view_count": 102
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060213162667106304/pu/vid/avc1/320x568/UskZfHrR4DwGJHsq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060213162667106304/pu/vid/avc1/480x852/d5G1x-2FNH59tAma.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060213162667106304/pu/vid/avc1/720x1280/V0qmGw_KUArcN_64.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060213162667106304/pu/pl/CxFGozBwcF4jpltG.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 913,
+        "media_key": "3_2060213163992530944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdY9QlbwAAPvuU.jpg",
+        "width": 911
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2060213187442856017",
+        "created_at": "2026-05-29T15:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060387160847794248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060387160847794248",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060213187442856017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 小舌头可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060213162667106304",
+            "3_2060213163992530944"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2060213187442856017",
+        "created_at": "2026-05-29T04:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060213187442856017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jiCmZz3lZy",
+              "end": 23,
+              "expanded_url": "https://x.com/KBDYD555/status/2060213187442856017/video/1",
+              "media_key": "7_2060213162667106304",
+              "start": 0,
+              "url": "https://t.co/jiCmZz3lZy"
+            },
+            {
+              "display_url": "pic.x.com/jiCmZz3lZy",
+              "end": 23,
+              "expanded_url": "https://x.com/KBDYD555/status/2060213187442856017/video/1",
+              "media_key": "3_2060213163992530944",
+              "start": 0,
+              "url": "https://t.co/jiCmZz3lZy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060213187442856017",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 302,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jiCmZz3lZy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 1135,
+          "like_count": 29681,
+          "listed_count": 4,
+          "media_count": 682,
+          "tweet_count": 10089
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世叫不安定猫猫：@kokocat_9 遭举报冻结...现世成分:碎碎念日常/ED/sh/鼠/狗/猫twt....互关回来吧...（Eng🆗）避难小号：@kyuukoQ 目前身体精神不好找不到工作如果可怜我喜欢我请给我一点点资助... 🩵@lengqizi💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "kokocat_9"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "kyuukoQ"
+              },
+              {
+                "end": 135,
+                "start": 126,
+                "username": "lengqizi"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王",
+        "pinned_tweet_id": "2031302686671515896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038421157733617664/dbVEp8Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3852,
+          "following_count": 575,
+          "like_count": 4621,
+          "listed_count": 7,
+          "media_count": 968,
+          "tweet_count": 3566
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999130001883721728"
+      ],
+      "media_source_tweet_id": [
+        "1999130008904729008"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1999147214611107963",
+    "created_at": "2025-12-11T16:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T17:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999147214611107963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1591246071207890944",
+          "start": 3,
+          "username": "gly9y"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VmOCmztvbO",
+          "end": 41,
+          "expanded_url": "https://x.com/gly9y/status/1999130008904729008/photo/1",
+          "media_key": "3_1999130001883721728",
+          "start": 18,
+          "url": "https://t.co/VmOCmztvbO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999147214611107963",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 179
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999130008904729008",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @gly9y: 𓂃𓂂𓍯*.ﾟ https://t.co/VmOCmztvbO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999130001883721728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G75WJRYa8AAvLq1.jpg",
+        "width": 1984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999130001883721728"
+          ],
+          "media_source_tweet_id": [
+            "1999130008904729008"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1999147214611107963",
+        "created_at": "2025-12-11T16:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T17:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999147214611107963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1591246071207890944",
+              "start": 3,
+              "username": "gly9y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VmOCmztvbO",
+              "end": 41,
+              "expanded_url": "https://x.com/gly9y/status/1999130008904729008/photo/1",
+              "media_key": "3_1999130001883721728",
+              "start": 18,
+              "url": "https://t.co/VmOCmztvbO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999147214611107963",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 179
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999130008904729008",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @gly9y: 𓂃𓂂𓍯*.ﾟ https://t.co/VmOCmztvbO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999130001883721728"
+          ]
+        },
+        "author_id": "1591246071207890944",
+        "conversation_id": "1999130008904729008",
+        "created_at": "2025-12-11T14:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T15:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999130008904729008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VmOCmztvbO",
+              "end": 30,
+              "expanded_url": "https://x.com/gly9y/status/1999130008904729008/photo/1",
+              "media_key": "3_1999130001883721728",
+              "start": 7,
+              "url": "https://t.co/VmOCmztvbO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999130008904729008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 6556,
+          "like_count": 858,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 179
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "𓂃𓂂𓍯*.ﾟ https://t.co/VmOCmztvbO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 1017,
+          "like_count": 13331,
+          "listed_count": 2,
+          "media_count": 437,
+          "tweet_count": 3956
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-12T01:46:53.000Z",
+        "description": "オグタマとogtmと🔶⚡️の絵が載る",
+        "id": "1591246071207890944",
+        "location": "2025/6.30.",
+        "name": "🫥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995062214550777856/RK4SDXpz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1943,
+          "following_count": 0,
+          "like_count": 321,
+          "listed_count": 7,
+          "media_count": 5,
+          "tweet_count": 11
+        },
+        "username": "gly9y",
+        "verified": false
+      }
+    ]
+  }
+}

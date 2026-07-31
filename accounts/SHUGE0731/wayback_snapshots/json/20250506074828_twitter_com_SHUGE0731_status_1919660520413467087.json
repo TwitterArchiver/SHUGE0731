@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919554373425770496"
+      ],
+      "media_source_tweet_id": [
+        "1919554376626016689"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1919660520413467087",
+    "created_at": "2025-05-06T07:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T08:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919660520413467087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1310019588843868160",
+          "start": 3,
+          "username": "CrossRufus1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tOzU6pxRN3",
+          "end": 40,
+          "expanded_url": "https://x.com/CrossRufus1/status/1919554376626016689/photo/1",
+          "media_key": "3_1919554373425770496",
+          "start": 17,
+          "url": "https://t.co/tOzU6pxRN3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919660520413467087",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 182
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919554376626016689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CrossRufus1: https://t.co/tOzU6pxRN3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 869,
+        "media_key": "3_1919554373425770496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqOgiEsXMAABlo0.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919554373425770496"
+          ],
+          "media_source_tweet_id": [
+            "1919554376626016689"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1919660520413467087",
+        "created_at": "2025-05-06T07:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T08:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919660520413467087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1310019588843868160",
+              "start": 3,
+              "username": "CrossRufus1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tOzU6pxRN3",
+              "end": 40,
+              "expanded_url": "https://x.com/CrossRufus1/status/1919554376626016689/photo/1",
+              "media_key": "3_1919554373425770496",
+              "start": 17,
+              "url": "https://t.co/tOzU6pxRN3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919660520413467087",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 182
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919554376626016689",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CrossRufus1: https://t.co/tOzU6pxRN3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919554373425770496"
+          ]
+        },
+        "author_id": "1310019588843868160",
+        "conversation_id": "1919554376626016689",
+        "created_at": "2025-05-06T00:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T01:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919554376626016689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tOzU6pxRN3",
+              "end": 23,
+              "expanded_url": "https://x.com/CrossRufus1/status/1919554376626016689/photo/1",
+              "media_key": "3_1919554373425770496",
+              "start": 0,
+              "url": "https://t.co/tOzU6pxRN3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919554376626016689",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 11761,
+          "like_count": 849,
+          "quote_count": 12,
+          "reply_count": 2,
+          "retweet_count": 182
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tOzU6pxRN3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 923,
+          "like_count": 7238,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 1539
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-27T00:53:17.000Z",
+        "description": "Bird lover",
+        "id": "1310019588843868160",
+        "name": "Pato Meira 🦜🇧🇷🔺️",
+        "pinned_tweet_id": "1875260319179927662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909759932506701824/plsLXv6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3505,
+          "following_count": 567,
+          "like_count": 4844,
+          "listed_count": 0,
+          "media_count": 3658,
+          "tweet_count": 7399
+        },
+        "username": "CrossRufus1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1983494431618535742",
+    "created_at": "2025-10-29T12:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T13:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983505619676983310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1885661060658855936",
+          "start": 0,
+          "username": "boluobingqiling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983505619676983310",
+    "in_reply_to_user_id": "1885661060658855936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983494431618535742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@boluobingqiling 发射老广激光"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983494422173306880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4bJqv-b0AALBvb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1983494431618535742",
+        "created_at": "2025-10-29T12:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983505619676983310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1885661060658855936",
+              "start": 0,
+              "username": "boluobingqiling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983505619676983310",
+        "in_reply_to_user_id": "1885661060658855936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983494431618535742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@boluobingqiling 发射老广激光"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983494422173306880"
+          ]
+        },
+        "author_id": "1885661060658855936",
+        "conversation_id": "1983494431618535742",
+        "created_at": "2025-10-29T11:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T12:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983494431618535742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I8kE51Mc42",
+              "end": 28,
+              "expanded_url": "https://x.com/boluobingqiling/status/1983494431618535742/photo/1",
+              "media_key": "3_1983494422173306880",
+              "start": 5,
+              "url": "https://t.co/I8kE51Mc42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983494431618535742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我到这了 https://t.co/I8kE51Mc42"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 |  中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 1025,
+          "like_count": 10689,
+          "listed_count": 2,
+          "media_count": 353,
+          "tweet_count": 2568
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T12:06:58.000Z",
+        "description": "",
+        "id": "1885661060658855936",
+        "location": "想要吞噬爱意的无底之洞",
+        "name": "#pInEaPpLeiCeCrEaM100%",
+        "pinned_tweet_id": "1976163342021689396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974426595344666625/mkU0MQRr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 35,
+          "like_count": 574,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 278
+        },
+        "username": "boluobingqiling",
+        "verified": false
+      }
+    ]
+  }
+}

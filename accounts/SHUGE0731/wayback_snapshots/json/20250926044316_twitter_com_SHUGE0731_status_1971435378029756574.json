@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1971289344200601604"
+      ],
+      "media_source_tweet_id": [
+        "1971289492373049460"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1971435378029756574",
+    "created_at": "2025-09-26T04:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T05:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971435378029756574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1892772975025541120",
+          "start": 3,
+          "username": "oguricapuma1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LO2x413a6W",
+          "end": 41,
+          "expanded_url": "https://x.com/oguricapuma1/status/1971289492373049460/video/1",
+          "media_key": "13_1971289344200601604",
+          "start": 18,
+          "url": "https://t.co/LO2x413a6W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971435378029756574",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 350
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971289492373049460",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oguricapuma1: https://t.co/LO2x413a6W"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7801,
+        "height": 720,
+        "media_key": "13_1971289344200601604",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1971289344200601604/img/wrkX4pCI_0nV7mvm.jpg",
+        "public_metrics": {
+          "view_count": 19751
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971289344200601604/vid/avc1/480x270/t-rULuP136Iktj0s.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971289344200601604/vid/avc1/640x360/vGIeb8BnpCRqz4W9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971289344200601604/vid/avc1/1280x720/Hs7Hg3dQJSu4vNfW.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1971289344200601604/pl/N1LztYAgxJFIpygq.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1971289344200601604"
+          ],
+          "media_source_tweet_id": [
+            "1971289492373049460"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1971435378029756574",
+        "created_at": "2025-09-26T04:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T05:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971435378029756574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1892772975025541120",
+              "start": 3,
+              "username": "oguricapuma1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LO2x413a6W",
+              "end": 41,
+              "expanded_url": "https://x.com/oguricapuma1/status/1971289492373049460/video/1",
+              "media_key": "13_1971289344200601604",
+              "start": 18,
+              "url": "https://t.co/LO2x413a6W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971435378029756574",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 350
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971289492373049460",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oguricapuma1: https://t.co/LO2x413a6W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1971289344200601604"
+          ]
+        },
+        "author_id": "1892772975025541120",
+        "conversation_id": "1971289492373049460",
+        "created_at": "2025-09-25T19:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T20:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971289492373049460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LO2x413a6W",
+              "end": 23,
+              "expanded_url": "https://x.com/oguricapuma1/status/1971289492373049460/video/1",
+              "media_key": "13_1971289344200601604",
+              "start": 0,
+              "url": "https://t.co/LO2x413a6W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971289492373049460",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 569,
+          "impression_count": 39848,
+          "like_count": 3581,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 350
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LO2x413a6W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 有一只牡丹鹦鹉叫uno！｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 1029,
+          "like_count": 9369,
+          "listed_count": 2,
+          "media_count": 298,
+          "tweet_count": 2019
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T03:07:12.000Z",
+        "description": "Uma Musume y comer\n\n-mi apodo es ogu\nogurideidad",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "end": 23,
+                "start": 0,
+                "url": "https://t.co/dhHzIkAoYp"
+              }
+            ]
+          }
+        },
+        "id": "1892772975025541120",
+        "name": "Oguri Cap",
+        "pinned_tweet_id": "1971268798142636053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971252978674798592/Ogm7PlOD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22263,
+          "following_count": 8888,
+          "like_count": 166296,
+          "listed_count": 16,
+          "media_count": 3163,
+          "tweet_count": 12388
+        },
+        "url": "https://t.co/dhHzIkAoYp",
+        "username": "oguricapuma1",
+        "verified": false
+      }
+    ]
+  }
+}

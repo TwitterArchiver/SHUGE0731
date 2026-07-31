@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2028499950892658693",
+    "created_at": "2026-03-02T19:20:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T20:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028551110290797053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1848669752190709760",
+          "start": 0,
+          "username": "ai9633"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028551110290797053",
+    "in_reply_to_user_id": "1848669752190709760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028499950892658693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ai9633 我抱抱你！大大的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2028499950892658693",
+        "created_at": "2026-03-02T19:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T20:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028551110290797053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1848669752190709760",
+              "start": 0,
+              "username": "ai9633"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028551110290797053",
+        "in_reply_to_user_id": "1848669752190709760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028499950892658693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ai9633 我抱抱你！大大的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848669752190709760",
+        "conversation_id": "2028499950892658693",
+        "created_at": "2026-03-02T15:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T16:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028499950892658693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028499950892658693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想抱抱。请拥抱我..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ 最最亲爱的恋人&主人 @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 1003,
+          "like_count": 22867,
+          "listed_count": 3,
+          "media_count": 583,
+          "tweet_count": 8104
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-22T10:16:40.000Z",
+        "description": "电子日记本  草所有人。",
+        "id": "1848669752190709760",
+        "location": "你是我荒漠中的雨季 绝处逢生的春天",
+        "name": "草莓芭菲",
+        "pinned_tweet_id": "1862181409659789671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005279751595065347/AieLD4-E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 116,
+          "like_count": 4378,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 472
+        },
+        "username": "ai9633",
+        "verified": false
+      }
+    ]
+  }
+}

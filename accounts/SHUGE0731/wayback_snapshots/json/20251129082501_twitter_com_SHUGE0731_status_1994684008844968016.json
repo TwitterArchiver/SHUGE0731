@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1994525055359827969"
+      ],
+      "media_source_tweet_id": [
+        "1994525228329046121"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1994684008844968016",
+    "created_at": "2025-11-29T08:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T09:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994684008844968016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1126177003764248577",
+          "start": 3,
+          "username": "braxophone"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ijdGT8zUtT",
+          "end": 77,
+          "expanded_url": "https://x.com/braxophone/status/1994525228329046121/video/1",
+          "media_key": "13_1994525055359827969",
+          "start": 54,
+          "url": "https://t.co/ijdGT8zUtT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994684008844968016",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1047
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994525228329046121",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @braxophone: WHY DO THEY KNOW WHERE YOU'RE LOOKING https://t.co/ijdGT8zUtT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19605,
+        "height": 720,
+        "media_key": "13_1994525055359827969",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994525055359827969/img/emB3zjviF2ScufLC.jpg",
+        "public_metrics": {
+          "view_count": 317221
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994525055359827969/vid/avc1/480x270/eNCA5HR0kyEmWavR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994525055359827969/vid/avc1/640x360/2OZWroqFS1uCheUf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994525055359827969/vid/avc1/1280x720/se7TOOSPUEeqdGDB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994525055359827969/pl/bG3s20jh_ShA5rHq.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994525055359827969"
+          ],
+          "media_source_tweet_id": [
+            "1994525228329046121"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994684008844968016",
+        "created_at": "2025-11-29T08:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T09:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994684008844968016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1126177003764248577",
+              "start": 3,
+              "username": "braxophone"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ijdGT8zUtT",
+              "end": 77,
+              "expanded_url": "https://x.com/braxophone/status/1994525228329046121/video/1",
+              "media_key": "13_1994525055359827969",
+              "start": 54,
+              "url": "https://t.co/ijdGT8zUtT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994684008844968016",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1047
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994525228329046121",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @braxophone: WHY DO THEY KNOW WHERE YOU'RE LOOKING https://t.co/ijdGT8zUtT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994525055359827969"
+          ]
+        },
+        "author_id": "1126177003764248577",
+        "conversation_id": "1994525228329046121",
+        "created_at": "2025-11-28T21:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T22:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994525228329046121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ijdGT8zUtT",
+              "end": 61,
+              "expanded_url": "https://x.com/braxophone/status/1994525228329046121/video/1",
+              "media_key": "13_1994525055359827969",
+              "start": 38,
+              "url": "https://t.co/ijdGT8zUtT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994525228329046121",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5316,
+          "impression_count": 583344,
+          "like_count": 21254,
+          "quote_count": 60,
+          "reply_count": 108,
+          "retweet_count": 1047
+        },
+        "reply_settings": "everyone",
+        "text": "WHY DO THEY KNOW WHERE YOU'RE LOOKING https://t.co/ijdGT8zUtT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1058,
+          "like_count": 12087,
+          "listed_count": 2,
+          "media_count": 398,
+          "tweet_count": 3214
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-08T17:28:15.000Z",
+        "description": "NP5 ISHTAR F2P\nbusiness - braxophone@mythictalent.com | discord - braxophone",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/braccs",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/braccs",
+                "start": 0,
+                "url": "https://t.co/4xbg015mqa"
+              }
+            ]
+          }
+        },
+        "id": "1126177003764248577",
+        "location": "http://youtube.com/braxophone",
+        "name": "brax montelli 🎷 is complete",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958194890044751872/73Zv2J0__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42134,
+          "following_count": 1265,
+          "like_count": 23377,
+          "listed_count": 62,
+          "media_count": 3114,
+          "tweet_count": 11773
+        },
+        "url": "https://t.co/4xbg015mqa",
+        "username": "braxophone",
+        "verified": true
+      }
+    ]
+  }
+}

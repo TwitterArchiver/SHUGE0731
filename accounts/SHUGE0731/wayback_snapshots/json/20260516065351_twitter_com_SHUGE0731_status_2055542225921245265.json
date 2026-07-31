@@ -1,0 +1,643 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese voice actress and singer",
+          "id": "1070722394011054080",
+          "name": "Kana Hanazawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1339376895318638592",
+          "name": "Ufotable"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese voice actress and singer",
+          "id": "1070722394011054080",
+          "name": "Kana Hanazawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "1448423584087511051",
+          "name": "Type-Moon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese voice actress and singer",
+          "id": "1070722394011054080",
+          "name": "Kana Hanazawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339352163508600832",
+          "name": "Animation studios"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339376895318638592",
+          "name": "Ufotable"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1448423584087511051",
+          "name": "Type-Moon"
+        }
+      }
+    ],
+    "conversation_id": "2055542225921245265",
+    "created_at": "2026-05-16T06:53:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T07:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055542225921245265"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mahoyo_movie/s…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/mahoyo_movie/status/2055500447407124662",
+          "start": 12,
+          "url": "https://t.co/NNeBPTzzAd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055542225921245265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055500447407124662",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么是花泽香菜来配？ https://t.co/NNeBPTzzAd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2055500441807675392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaawuWa4AAHLYI.jpg",
+        "width": 849
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070722394011054080",
+              "name": "Kana Hanazawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1339376895318638592",
+              "name": "Ufotable"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070722394011054080",
+              "name": "Kana Hanazawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1448423584087511051",
+              "name": "Type-Moon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070722394011054080",
+              "name": "Kana Hanazawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352163508600832",
+              "name": "Animation studios"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339376895318638592",
+              "name": "Ufotable"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1448423584087511051",
+              "name": "Type-Moon"
+            }
+          }
+        ],
+        "conversation_id": "2055542225921245265",
+        "created_at": "2026-05-16T06:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T07:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055542225921245265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mahoyo_movie/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/mahoyo_movie/status/2055500447407124662",
+              "start": 12,
+              "url": "https://t.co/NNeBPTzzAd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055542225921245265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055500447407124662",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么是花泽香菜来配？ https://t.co/NNeBPTzzAd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055500441807675392"
+          ]
+        },
+        "author_id": "1460065473241161728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070722394011054080",
+              "name": "Kana Hanazawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1339376895318638592",
+              "name": "Ufotable"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070722394011054080",
+              "name": "Kana Hanazawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1448423584087511051",
+              "name": "Type-Moon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress and singer",
+              "id": "1070722394011054080",
+              "name": "Kana Hanazawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352163508600832",
+              "name": "Animation studios"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339376895318638592",
+              "name": "Ufotable"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1448423584087511051",
+              "name": "Type-Moon"
+            }
+          }
+        ],
+        "conversation_id": "2055500447407124662",
+        "created_at": "2026-05-16T04:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055500447407124662"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "魔法使いの夜"
+            },
+            {
+              "end": 76,
+              "start": 71,
+              "tag": "花澤香菜"
+            },
+            {
+              "end": 122,
+              "start": 113,
+              "tag": "TYPEMOON"
+            },
+            {
+              "end": 132,
+              "start": 123,
+              "tag": "ufotable"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GUHVHmpQtv",
+              "end": 156,
+              "expanded_url": "https://x.com/mahoyo_movie/status/2055500447407124662/photo/1",
+              "media_key": "3_2055500441807675392",
+              "start": 133,
+              "url": "https://t.co/GUHVHmpQtv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055500447407124662",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 712,
+          "impression_count": 267017,
+          "like_count": 13870,
+          "quote_count": 289,
+          "reply_count": 61,
+          "retweet_count": 5027
+        },
+        "reply_settings": "everyone",
+        "text": "─────────────\n           #魔法使いの夜\nキャラクタービジュアル解禁\n─────────────\n\n久遠寺有珠（CV.#花澤香菜）\n\n現代に隠れ住む魔女。\nお嬢様学園と名高い礼園女学院に通っている。\n\n#TYPEMOON #ufotable https://t.co/GUHVHmpQtv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 1113,
+          "like_count": 28572,
+          "listed_count": 4,
+          "media_count": 666,
+          "tweet_count": 9820
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-15T02:02:01.000Z",
+        "description": "劇場アニメーション『魔法使いの夜』2026年公開決定 \n\n原作：奈須きのこ・TYPE-MOON \nアニメーション制作：ufotable 　\n\n#魔法使いの夜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 71,
+                "tag": "魔法使いの夜"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mahoyo-movie.com",
+                "end": 23,
+                "expanded_url": "https://mahoyo-movie.com/",
+                "start": 0,
+                "url": "https://t.co/eBcxXa1raV"
+              }
+            ]
+          }
+        },
+        "id": "1460065473241161728",
+        "name": "映画『魔法使いの夜』公式",
+        "pinned_tweet_id": "2035280829136736423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035284019185913856/x0axNTpj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93107,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 443,
+          "media_count": 42,
+          "tweet_count": 70
+        },
+        "url": "https://t.co/eBcxXa1raV",
+        "username": "mahoyo_movie",
+        "verified": false
+      }
+    ]
+  }
+}

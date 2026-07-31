@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1848184543766884760",
+    "created_at": "2024-10-21T02:11:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-21T03:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848185415032885578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1707087995902545920",
+          "start": 0,
+          "username": "nnewdw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1848185415032885578",
+    "in_reply_to_user_id": "1707087995902545920",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848184688952967477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nnewdw 其实一直处于大脑空空的状态…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1848184543766884760",
+        "created_at": "2024-10-21T02:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-21T03:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848185415032885578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1707087995902545920",
+              "start": 0,
+              "username": "nnewdw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848185415032885578",
+        "in_reply_to_user_id": "1707087995902545920",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848184688952967477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nnewdw 其实一直处于大脑空空的状态…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707087995902545920",
+        "conversation_id": "1848184543766884760",
+        "created_at": "2024-10-21T02:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-21T03:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848184688952967477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848184688952967477",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848184543766884760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 放空一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 687,
+          "like_count": 2472,
+          "listed_count": 0,
+          "tweet_count": 465
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T17:41:19.000Z",
+        "description": "",
+        "id": "1707087995902545920",
+        "name": "吴清风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707088253487353856/B7YDMX5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 90,
+          "like_count": 6,
+          "listed_count": 0,
+          "tweet_count": 18
+        },
+        "username": "nnewdw",
+        "verified": false
+      }
+    ]
+  }
+}

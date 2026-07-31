@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966453004984627200",
+        "3_1966453043370881024"
+      ],
+      "media_source_tweet_id": [
+        "1966453171380781162",
+        "1966453171380781162"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1966504578226249893",
+    "created_at": "2025-09-12T14:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T15:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966504578226249893"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 15,
+          "tag": "東方Project"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1344914400885411840",
+          "start": 3,
+          "username": "kyusoukyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6HjODpTARf",
+          "end": 55,
+          "expanded_url": "https://x.com/kyusoukyu/status/1966453171380781162/photo/1",
+          "media_key": "3_1966453004984627200",
+          "start": 32,
+          "url": "https://t.co/6HjODpTARf"
+        },
+        {
+          "display_url": "pic.x.com/6HjODpTARf",
+          "end": 55,
+          "expanded_url": "https://x.com/kyusoukyu/status/1966453171380781162/photo/1",
+          "media_key": "3_1966453043370881024",
+          "start": 32,
+          "url": "https://t.co/6HjODpTARf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966504578226249893",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 416
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966453171380781162",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kyusoukyu: #東方Project \nさとこい https://t.co/6HjODpTARf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2088,
+        "media_key": "3_1966453004984627200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0o-lt2bsAAwJBo.jpg",
+        "width": 1488
+      },
+      {
+        "height": 2088,
+        "media_key": "3_1966453043370881024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0o-n82bcAAOiyu.jpg",
+        "width": 1488
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966453004984627200",
+            "3_1966453043370881024"
+          ],
+          "media_source_tweet_id": [
+            "1966453171380781162",
+            "1966453171380781162"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1966504578226249893",
+        "created_at": "2025-09-12T14:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T15:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966504578226249893"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 15,
+              "tag": "東方Project"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1344914400885411840",
+              "start": 3,
+              "username": "kyusoukyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6HjODpTARf",
+              "end": 55,
+              "expanded_url": "https://x.com/kyusoukyu/status/1966453171380781162/photo/1",
+              "media_key": "3_1966453004984627200",
+              "start": 32,
+              "url": "https://t.co/6HjODpTARf"
+            },
+            {
+              "display_url": "pic.x.com/6HjODpTARf",
+              "end": 55,
+              "expanded_url": "https://x.com/kyusoukyu/status/1966453171380781162/photo/1",
+              "media_key": "3_1966453043370881024",
+              "start": 32,
+              "url": "https://t.co/6HjODpTARf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966504578226249893",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 416
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966453171380781162",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kyusoukyu: #東方Project \nさとこい https://t.co/6HjODpTARf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966453004984627200",
+            "3_1966453043370881024"
+          ]
+        },
+        "author_id": "1344914400885411840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1966453171380781162",
+        "created_at": "2025-09-12T10:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T11:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966453171380781162"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "東方Project"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6HjODpTARf",
+              "end": 40,
+              "expanded_url": "https://x.com/kyusoukyu/status/1966453171380781162/photo/1",
+              "media_key": "3_1966453004984627200",
+              "start": 17,
+              "url": "https://t.co/6HjODpTARf"
+            },
+            {
+              "display_url": "pic.x.com/6HjODpTARf",
+              "end": 40,
+              "expanded_url": "https://x.com/kyusoukyu/status/1966453171380781162/photo/1",
+              "media_key": "3_1966453043370881024",
+              "start": 17,
+              "url": "https://t.co/6HjODpTARf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966453171380781162",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 282,
+          "impression_count": 36176,
+          "like_count": 2666,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 416
+        },
+        "reply_settings": "everyone",
+        "text": "#東方Project \nさとこい https://t.co/6HjODpTARf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 有一只牡丹鹦鹉叫uno！｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 1002,
+          "like_count": 9067,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 1904
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-01T07:53:06.000Z",
+        "description": "Illustrator　EnglishOK\nContact→ kyu.sou.kyu@gmail.com\nFANBOX→https://t.co/jDbslGIGLK\nBOOTH→https://t.co/Nd2X3Yv385\nSkeb→ https://t.co/DRBdNXgpzV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kyusoukyu.fanbox.cc",
+                "end": 83,
+                "expanded_url": "http://kyusoukyu.fanbox.cc",
+                "start": 60,
+                "url": "https://t.co/jDbslGIGLK"
+              },
+              {
+                "display_url": "kyusoukyu.booth.pm",
+                "end": 113,
+                "expanded_url": "http://kyusoukyu.booth.pm",
+                "start": 90,
+                "url": "https://t.co/Nd2X3Yv385"
+              },
+              {
+                "display_url": "skeb.jp/@kyusoukyu",
+                "end": 143,
+                "expanded_url": "http://skeb.jp/@kyusoukyu",
+                "start": 120,
+                "url": "https://t.co/DRBdNXgpzV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/66038798",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/66038798",
+                "start": 0,
+                "url": "https://t.co/gdPX8IVi1f"
+              }
+            ]
+          }
+        },
+        "id": "1344914400885411840",
+        "name": "久蒼穹",
+        "pinned_tweet_id": "1958497369068347602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611288095756005376/igRpkjJo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115077,
+          "following_count": 115,
+          "like_count": 1988,
+          "listed_count": 830,
+          "media_count": 328,
+          "tweet_count": 895
+        },
+        "url": "https://t.co/gdPX8IVi1f",
+        "username": "kyusoukyu",
+        "verified": true
+      }
+    ]
+  }
+}

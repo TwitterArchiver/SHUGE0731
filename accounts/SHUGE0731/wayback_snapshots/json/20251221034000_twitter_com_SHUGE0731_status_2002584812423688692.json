@@ -1,0 +1,575 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002421877688717312"
+      ],
+      "media_source_tweet_id": [
+        "2002422789236822026"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2002584812423688692",
+    "created_at": "2025-12-21T03:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T04:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002584812423688692"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 17,
+          "tag": "アークナイツ"
+        },
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "明日方舟"
+        },
+        {
+          "end": 39,
+          "start": 31,
+          "tag": "プリースティス"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1928282740832751620",
+          "start": 3,
+          "username": "izumokokoro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xc4yNukZci",
+          "end": 107,
+          "expanded_url": "https://x.com/izumokokoro/status/2002422789236822026/photo/1",
+          "media_key": "3_2002421877688717312",
+          "start": 84,
+          "url": "https://t.co/xc4yNukZci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002584812423688692",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 564
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002422789236822026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @izumokokoro: #アークナイツ #明日方舟 #プリースティス   \nPriestess：It’s so quiet here… too quiet. https://t.co/xc4yNukZci"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 796,
+        "media_key": "3_2002421877688717312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8oIFqYbUAA5PVb.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002421877688717312"
+          ],
+          "media_source_tweet_id": [
+            "2002422789236822026"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2002584812423688692",
+        "created_at": "2025-12-21T03:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T04:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002584812423688692"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 39,
+              "start": 31,
+              "tag": "プリースティス"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1928282740832751620",
+              "start": 3,
+              "username": "izumokokoro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xc4yNukZci",
+              "end": 107,
+              "expanded_url": "https://x.com/izumokokoro/status/2002422789236822026/photo/1",
+              "media_key": "3_2002421877688717312",
+              "start": 84,
+              "url": "https://t.co/xc4yNukZci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002584812423688692",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 564
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002422789236822026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @izumokokoro: #アークナイツ #明日方舟 #プリースティス   \nPriestess：It’s so quiet here… too quiet. https://t.co/xc4yNukZci"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002421877688717312"
+          ]
+        },
+        "author_id": "1928282740832751620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2002422789236822026",
+        "created_at": "2025-12-20T16:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T17:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002422789236822026"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 22,
+              "start": 14,
+              "tag": "プリースティス"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xc4yNukZci",
+              "end": 90,
+              "expanded_url": "https://x.com/izumokokoro/status/2002422789236822026/photo/1",
+              "media_key": "3_2002421877688717312",
+              "start": 67,
+              "url": "https://t.co/xc4yNukZci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002422789236822026",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 621,
+          "impression_count": 30898,
+          "like_count": 4266,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 564
+        },
+        "reply_settings": "everyone",
+        "text": "#アークナイツ #明日方舟 #プリースティス   \nPriestess：It’s so quiet here… too quiet. https://t.co/xc4yNukZci"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 1037,
+          "like_count": 14632,
+          "listed_count": 3,
+          "media_count": 468,
+          "tweet_count": 4607
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T02:50:34.000Z",
+        "description": "💓❤︎💓❤︎ | PixAI+PS |🐰|スキキャラだけ| 💓❤︎💓❤︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixai.art/ja",
+                "end": 23,
+                "expanded_url": "https://pixai.art/ja",
+                "start": 0,
+                "url": "https://t.co/al13ljU0Gv"
+              }
+            ]
+          }
+        },
+        "id": "1928282740832751620",
+        "name": "イズモ❤︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000800076428611584/A1fg9fzI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13798,
+          "following_count": 80,
+          "like_count": 278,
+          "listed_count": 99,
+          "media_count": 49,
+          "tweet_count": 67
+        },
+        "url": "https://t.co/al13ljU0Gv",
+        "username": "izumokokoro",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2041796052211396653",
+    "created_at": "2026-04-08T09:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T10:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041812556046819817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1244946297548759041",
+          "start": 0,
+          "username": "JavaSparrow_ZZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041812556046819817",
+    "in_reply_to_user_id": "1244946297548759041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041796052211396653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JavaSparrow_ZZZ 比格波！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7481,
+        "height": 1280,
+        "media_key": "7_2041795620248416256",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2041795620248416256/pu/img/9v4oIB4hnInsNTgO.jpg",
+        "public_metrics": {
+          "view_count": 14
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041795620248416256/pu/vid/avc1/320x568/CGsrdGIa35fSWj5j.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041795620248416256/pu/vid/avc1/480x852/c6junJo2-BRo0D85.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041795620248416256/pu/vid/avc1/720x1280/IMGccIC4OsupAm1r.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2041795620248416256/pu/pl/hYt8CvjQ2U6mOpd9.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2041796052211396653",
+        "created_at": "2026-04-08T09:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T10:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041812556046819817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1244946297548759041",
+              "start": 0,
+              "username": "JavaSparrow_ZZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041812556046819817",
+        "in_reply_to_user_id": "1244946297548759041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041796052211396653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JavaSparrow_ZZZ 比格波！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2041795620248416256"
+          ]
+        },
+        "author_id": "1244946297548759041",
+        "conversation_id": "2041796052211396653",
+        "created_at": "2026-04-08T08:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041796052211396653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Exafh5SQFr",
+              "end": 34,
+              "expanded_url": "https://x.com/JavaSparrow_ZZZ/status/2041796052211396653/video/1",
+              "media_key": "7_2041795620248416256",
+              "start": 11,
+              "url": "https://t.co/Exafh5SQFr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041796052211396653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "peekaboo游戏 https://t.co/Exafh5SQFr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 1033,
+          "like_count": 25614,
+          "listed_count": 3,
+          "media_count": 620,
+          "tweet_count": 8962
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-31T11:15:13.000Z",
+        "description": "🔞NSFW  18↑｜🐦Bird lover",
+        "id": "1244946297548759041",
+        "name": "Birdie",
+        "pinned_tweet_id": "2041010743873819085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018848522955792384/aZRlVlgT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 249,
+          "like_count": 4065,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 116
+        },
+        "username": "JavaSparrow_ZZZ",
+        "verified": false
+      }
+    ]
+  }
+}

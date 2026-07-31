@@ -1,0 +1,498 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001948024352952320"
+      ],
+      "media_source_tweet_id": [
+        "2001948032276029755"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2001986070205071615",
+    "created_at": "2025-12-19T12:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T13:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001986070205071615"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "chainsawman",
+          "probability": 0.6175,
+          "start": 31,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 21,
+          "tag": "チェンソーマン"
+        },
+        {
+          "end": 42,
+          "start": 30,
+          "tag": "chainsawman"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1345793001101041664",
+          "start": 3,
+          "username": "kozzz_y"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wgz54asEpq",
+          "end": 66,
+          "expanded_url": "https://x.com/kozzz_y/status/2001948032276029755/photo/1",
+          "media_key": "3_2001948024352952320",
+          "start": 43,
+          "url": "https://t.co/wgz54asEpq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001986070205071615",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 690
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001948032276029755",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kozzz_y: study️~ #チェンソーマン #chainsawman https://t.co/wgz54asEpq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001948024352952320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8hZHxJaUAABw3v.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001948024352952320"
+          ],
+          "media_source_tweet_id": [
+            "2001948032276029755"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2001986070205071615",
+        "created_at": "2025-12-19T12:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T13:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001986070205071615"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "chainsawman",
+              "probability": 0.6175,
+              "start": 31,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 21,
+              "tag": "チェンソーマン"
+            },
+            {
+              "end": 42,
+              "start": 30,
+              "tag": "chainsawman"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1345793001101041664",
+              "start": 3,
+              "username": "kozzz_y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wgz54asEpq",
+              "end": 66,
+              "expanded_url": "https://x.com/kozzz_y/status/2001948032276029755/photo/1",
+              "media_key": "3_2001948024352952320",
+              "start": 43,
+              "url": "https://t.co/wgz54asEpq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001986070205071615",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 690
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001948032276029755",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kozzz_y: study️~ #チェンソーマン #chainsawman https://t.co/wgz54asEpq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001948024352952320"
+          ]
+        },
+        "author_id": "1345793001101041664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2001948032276029755",
+        "created_at": "2025-12-19T09:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T10:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001948032276029755"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "chainsawman",
+              "probability": 0.4968,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 8,
+              "tag": "チェンソーマン"
+            },
+            {
+              "end": 29,
+              "start": 17,
+              "tag": "chainsawman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wgz54asEpq",
+              "end": 53,
+              "expanded_url": "https://x.com/kozzz_y/status/2001948032276029755/photo/1",
+              "media_key": "3_2001948024352952320",
+              "start": 30,
+              "url": "https://t.co/wgz54asEpq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001948032276029755",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 720,
+          "impression_count": 38621,
+          "like_count": 6722,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 690
+        },
+        "reply_settings": "everyone",
+        "text": "study️~ #チェンソーマン #chainsawman https://t.co/wgz54asEpq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 1034,
+          "like_count": 14405,
+          "listed_count": 2,
+          "media_count": 467,
+          "tweet_count": 4489
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-03T18:03:59.000Z",
+        "description": "コスモス | ずっと何かを、誰かを探している。repost/profile OK with credit 💌 artkozmos18@gmail.com | 🖼️ prints: https://t.co/xAFikHpGlj | 🎨 commisions: closed",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "inprnt.com/gallery/kozzzy/",
+                "end": 113,
+                "expanded_url": "http://inprnt.com/gallery/kozzzy/",
+                "start": 90,
+                "url": "https://t.co/xAFikHpGlj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kozzzy.carrd.co",
+                "end": 23,
+                "expanded_url": "http://kozzzy.carrd.co",
+                "start": 0,
+                "url": "https://t.co/acli5eLQdc"
+              }
+            ]
+          }
+        },
+        "id": "1345793001101041664",
+        "location": "everywhere nowhere somewhere",
+        "name": "kozzzy",
+        "pinned_tweet_id": "1961310621372465491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609848353260724224/dR03XRpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78012,
+          "following_count": 581,
+          "like_count": 11361,
+          "listed_count": 467,
+          "media_count": 692,
+          "tweet_count": 4132
+        },
+        "url": "https://t.co/acli5eLQdc",
+        "username": "kozzz_y",
+        "verified": false
+      }
+    ]
+  }
+}

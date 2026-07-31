@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995810015027101702"
+      ],
+      "media_source_tweet_id": [
+        "1997237076027383869"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      }
+    ],
+    "conversation_id": "1997242989094318246",
+    "created_at": "2025-12-06T09:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T10:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997242989094318246"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 13,
+          "tag": "ウマ娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1395308707156697088",
+          "start": 3,
+          "username": "Yome_an"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b5Xe0NZuOv",
+          "end": 41,
+          "expanded_url": "https://x.com/Yome_an/status/1997237076027383869/photo/1",
+          "media_key": "3_1995810015027101702",
+          "start": 18,
+          "url": "https://t.co/b5Xe0NZuOv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997242989094318246",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997237076027383869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yome_an: ＃ウマ娘 https://t.co/b5Xe0NZuOv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1130,
+        "media_key": "3_1995810015027101702",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7KKomjbgAY79HB.jpg",
+        "width": 802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995810015027101702"
+          ],
+          "media_source_tweet_id": [
+            "1997237076027383869"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "1997242989094318246",
+        "created_at": "2025-12-06T09:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T10:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997242989094318246"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "ウマ娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1395308707156697088",
+              "start": 3,
+              "username": "Yome_an"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b5Xe0NZuOv",
+              "end": 41,
+              "expanded_url": "https://x.com/Yome_an/status/1997237076027383869/photo/1",
+              "media_key": "3_1995810015027101702",
+              "start": 18,
+              "url": "https://t.co/b5Xe0NZuOv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997242989094318246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997237076027383869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yome_an: ＃ウマ娘 https://t.co/b5Xe0NZuOv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995810015027101702"
+          ]
+        },
+        "author_id": "1395308707156697088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "1997237076027383869",
+        "created_at": "2025-12-06T09:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T10:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997237076027383869"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "ウマ娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b5Xe0NZuOv",
+              "end": 28,
+              "expanded_url": "https://x.com/Yome_an/status/1997237076027383869/photo/1",
+              "media_key": "3_1995810015027101702",
+              "start": 5,
+              "url": "https://t.co/b5Xe0NZuOv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997237076027383869",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 884,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "＃ウマ娘 https://t.co/b5Xe0NZuOv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 1059,
+          "like_count": 12656,
+          "listed_count": 2,
+          "media_count": 413,
+          "tweet_count": 3543
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-20T09:21:48.000Z",
+        "description": "【イラストレーター】ご依頼1月～受付開始しています。リンクから概要。メディア欄整理のためのツイ消しをお許し下さい。【無断転載、AI学習×】【サブ@Yome_an_sb】ポートフォリオhttps://t.co/ZRGDz3fn6d",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "Yome_an_sb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/yome…",
+                "end": 114,
+                "expanded_url": "https://xfolio.jp/portfolio/yomean",
+                "start": 91,
+                "url": "https://t.co/ZRGDz3fn6d"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yomean",
+                "end": 23,
+                "expanded_url": "https://lit.link/yomean",
+                "start": 0,
+                "url": "https://t.co/oKHSWEf82u"
+              }
+            ]
+          }
+        },
+        "id": "1395308707156697088",
+        "location": "Saitama Kawagoe",
+        "name": "よめあんちゃん C107 1日目 東7G-13a",
+        "pinned_tweet_id": "1986709829667463506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640629705681559553/IL5o0j8Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19386,
+          "following_count": 824,
+          "like_count": 12749,
+          "listed_count": 234,
+          "media_count": 180,
+          "tweet_count": 11959
+        },
+        "url": "https://t.co/oKHSWEf82u",
+        "username": "Yome_an",
+        "verified": true
+      }
+    ]
+  }
+}

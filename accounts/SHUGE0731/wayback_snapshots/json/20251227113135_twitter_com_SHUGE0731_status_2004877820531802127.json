@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2004701543451308476",
+    "created_at": "2025-12-27T11:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T12:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004877820531802127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1772308958495260672",
+          "start": 0,
+          "username": "Rushsharkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004877820531802127",
+    "in_reply_to_user_id": "1772308958495260672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004701543451308476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rushsharkk 居然是极乐迪 好有意境！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004701536597716992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9IhbRmWMAAQx1z.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2004701536601923587",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9IhbRnWYAMtbiH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2004701536606121984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9IhbRoWcAAHaDY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2004701543451308476",
+        "created_at": "2025-12-27T11:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T12:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004877820531802127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1772308958495260672",
+              "start": 0,
+              "username": "Rushsharkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004877820531802127",
+        "in_reply_to_user_id": "1772308958495260672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004701543451308476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rushsharkk 居然是极乐迪 好有意境！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004701536597716992",
+            "3_2004701536601923587",
+            "3_2004701536606121984"
+          ]
+        },
+        "author_id": "1772308958495260672",
+        "conversation_id": "2004701543451308476",
+        "created_at": "2025-12-26T23:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T00:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004701543451308476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kRKniFK89G",
+              "end": 117,
+              "expanded_url": "https://x.com/Rushsharkk/status/2004701543451308476/photo/1",
+              "media_key": "3_2004701536597716992",
+              "start": 94,
+              "url": "https://t.co/kRKniFK89G"
+            },
+            {
+              "display_url": "pic.x.com/kRKniFK89G",
+              "end": 117,
+              "expanded_url": "https://x.com/Rushsharkk/status/2004701543451308476/photo/1",
+              "media_key": "3_2004701536601923587",
+              "start": 94,
+              "url": "https://t.co/kRKniFK89G"
+            },
+            {
+              "display_url": "pic.x.com/kRKniFK89G",
+              "end": 117,
+              "expanded_url": "https://x.com/Rushsharkk/status/2004701543451308476/photo/1",
+              "media_key": "3_2004701536606121984",
+              "start": 94,
+              "url": "https://t.co/kRKniFK89G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004701543451308476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 501,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "遇到了很极乐迪斯科的望远镜，更极乐迪斯科的是投币后发现是坏的。\n【失败】【天人感应】：硬币落下的声音短暂而清脆，像希望。他惭愧地低垂脑袋，随后你明白——他坏了。这只是件被遗弃的公共设施。 https://t.co/kRKniFK89G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1000,
+          "like_count": 15856,
+          "listed_count": 3,
+          "media_count": 489,
+          "tweet_count": 5139
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-25T17:06:18.000Z",
+        "description": "女Female/2004/ACGN/🎮Splatoon3/日常废话daily yapping/假文艺真傻逼/小提手🎻",
+        "id": "1772308958495260672",
+        "location": "Canada",
+        "name": "Rushshark猛鯊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908586697920577536/P-PC1WEf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 976,
+          "like_count": 47531,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 2673
+        },
+        "username": "Rushsharkk",
+        "verified": false
+      }
+    ]
+  }
+}

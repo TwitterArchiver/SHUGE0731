@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968262710275309568"
+      ],
+      "media_source_tweet_id": [
+        "1968262727576797295"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1968634030238138398",
+    "created_at": "2025-09-18T11:11:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T12:11:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968634030238138398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1443908496580251656",
+          "start": 3,
+          "username": "nayoyoki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z8iW6swgBS",
+          "end": 43,
+          "expanded_url": "https://x.com/nayoyoki/status/1968262727576797295/photo/1",
+          "media_key": "3_1968262710275309568",
+          "start": 20,
+          "url": "https://t.co/z8iW6swgBS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968634030238138398",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1818
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968262727576797295",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nayoyoki: \"ボイル\" https://t.co/z8iW6swgBS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1968262710275309568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CsgbabgAA-zA3.jpg",
+        "width": 3178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968262710275309568"
+          ],
+          "media_source_tweet_id": [
+            "1968262727576797295"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1968634030238138398",
+        "created_at": "2025-09-18T11:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T12:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968634030238138398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1443908496580251656",
+              "start": 3,
+              "username": "nayoyoki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z8iW6swgBS",
+              "end": 43,
+              "expanded_url": "https://x.com/nayoyoki/status/1968262727576797295/photo/1",
+              "media_key": "3_1968262710275309568",
+              "start": 20,
+              "url": "https://t.co/z8iW6swgBS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968634030238138398",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1818
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968262727576797295",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nayoyoki: \"ボイル\" https://t.co/z8iW6swgBS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968262710275309568"
+          ]
+        },
+        "author_id": "1443908496580251656",
+        "conversation_id": "1968262727576797295",
+        "created_at": "2025-09-17T10:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T11:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968262727576797295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z8iW6swgBS",
+              "end": 29,
+              "expanded_url": "https://x.com/nayoyoki/status/1968262727576797295/photo/1",
+              "media_key": "3_1968262710275309568",
+              "start": 6,
+              "url": "https://t.co/z8iW6swgBS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968262727576797295",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1615,
+          "impression_count": 215587,
+          "like_count": 18978,
+          "quote_count": 10,
+          "reply_count": 11,
+          "retweet_count": 1818
+        },
+        "reply_settings": "everyone",
+        "text": "\"ボイル\" https://t.co/z8iW6swgBS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 有一只牡丹鹦鹉叫uno！｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 1011,
+          "like_count": 9151,
+          "listed_count": 2,
+          "media_count": 289,
+          "tweet_count": 1936
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-01T11:59:56.000Z",
+        "description": "Nayoyoki / 創作絵 / BOOTH販売▷ https://t.co/jtfRc51Ros FA ▷ #なよよきちゃんへの手紙 ※学習禁止、no ai🚫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 55,
+                "tag": "なよよきちゃんへの手紙"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nayoyoki.booth.pm",
+                "end": 49,
+                "expanded_url": "https://nayoyoki.booth.pm/",
+                "start": 26,
+                "url": "https://t.co/jtfRc51Ros"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nayoyoki",
+                "end": 23,
+                "expanded_url": "https://lit.link/nayoyoki",
+                "start": 0,
+                "url": "https://t.co/8IUmEWHjz6"
+              }
+            ]
+          }
+        },
+        "id": "1443908496580251656",
+        "location": "✉️ nayoyoki814@gmail.com",
+        "name": "なよよき",
+        "pinned_tweet_id": "1896147358972575996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933639189620482048/TOlp9vDW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26487,
+          "following_count": 289,
+          "like_count": 19175,
+          "listed_count": 185,
+          "media_count": 123,
+          "tweet_count": 9157
+        },
+        "url": "https://t.co/8IUmEWHjz6",
+        "username": "nayoyoki",
+        "verified": true
+      }
+    ]
+  }
+}

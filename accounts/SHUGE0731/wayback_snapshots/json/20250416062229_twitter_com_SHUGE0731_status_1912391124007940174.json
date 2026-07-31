@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1912390839541583872"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1912391124007940174",
+    "created_at": "2025-04-16T06:22:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T07:22:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912391124007940174"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TsB74ZU1aQ",
+          "end": 28,
+          "expanded_url": "https://x.com/SHUGE0731/status/1912391124007940174/video/1",
+          "media_key": "13_1912390839541583872",
+          "start": 5,
+          "url": "https://t.co/TsB74ZU1aQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912391124007940174",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "治愈时刻 https://t.co/TsB74ZU1aQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 116046,
+        "height": 1280,
+        "media_key": "13_1912390839541583872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1912390839541583872/img/A8Q_qQTfUSSeGy56.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912390839541583872/vid/avc1/320x568/5JM0kFOrSJaHer92.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912390839541583872/vid/avc1/480x852/ZF6wBRksgG5J2ub_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912390839541583872/vid/avc1/720x1280/_WWpRPGTm_Loicrp.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1912390839541583872/pl/GrtGxNxLYQdUnnfX.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1912390839541583872"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1912391124007940174",
+        "created_at": "2025-04-16T06:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T07:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912391124007940174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TsB74ZU1aQ",
+              "end": 28,
+              "expanded_url": "https://x.com/SHUGE0731/status/1912391124007940174/video/1",
+              "media_key": "13_1912390839541583872",
+              "start": 5,
+              "url": "https://t.co/TsB74ZU1aQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912391124007940174",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "治愈时刻 https://t.co/TsB74ZU1aQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 911,
+          "like_count": 6565,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 1443
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      }
+    ]
+  }
+}

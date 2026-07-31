@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1947567736005247122",
+    "created_at": "2025-07-22T08:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T09:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947567736005247122"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "Amazon",
+          "probability": 0.625,
+          "start": 22,
+          "type": "Organization"
+        },
+        {
+          "end": 64,
+          "normalized_text": "レグくん",
+          "probability": 0.7115,
+          "start": 61,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 119,
+          "start": 110,
+          "tag": "メイドインアビス"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "81537215",
+          "start": 3,
+          "username": "urabeazuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/gkHXkz",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/gkHXkz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947567736005247122",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 159
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947328612211765581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @urabeazuki: あれっ...Amazonでメイドインアビス14巻書影出たんだけど、これどういうことだ？？？レグくんの腕左右逆じゃない？\n鏡なの？？謎が深まる....!!!!\n（電書予約開始はよ...!）\n#メイドインアビス https://t.co/gkHXkz…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 782,
+        "media_key": "3_1947327911335194625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwZMawBWcAEpFcY.png",
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1947567736005247122",
+        "created_at": "2025-07-22T08:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T09:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947567736005247122"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "Amazon",
+              "probability": 0.625,
+              "start": 22,
+              "type": "Organization"
+            },
+            {
+              "end": 64,
+              "normalized_text": "レグくん",
+              "probability": 0.7115,
+              "start": 61,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 119,
+              "start": 110,
+              "tag": "メイドインアビス"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "81537215",
+              "start": 3,
+              "username": "urabeazuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/gkHXkz",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/gkHXkz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947567736005247122",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 159
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947328612211765581",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @urabeazuki: あれっ...Amazonでメイドインアビス14巻書影出たんだけど、これどういうことだ？？？レグくんの腕左右逆じゃない？\n鏡なの？？謎が深まる....!!!!\n（電書予約開始はよ...!）\n#メイドインアビス https://t.co/gkHXkz…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947327911335194625"
+          ]
+        },
+        "author_id": "81537215",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1947328612211765581",
+        "created_at": "2025-07-21T16:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T17:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947328612211765581"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Amazon",
+              "probability": 0.6285,
+              "start": 6,
+              "type": "Organization"
+            },
+            {
+              "end": 48,
+              "normalized_text": "レグくん",
+              "probability": 0.7186,
+              "start": 45,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 94,
+              "tag": "メイドインアビス"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gkHXkzmjz6",
+              "end": 127,
+              "expanded_url": "https://x.com/urabeazuki/status/1947328612211765581/photo/1",
+              "media_key": "3_1947327911335194625",
+              "start": 104,
+              "url": "https://t.co/gkHXkzmjz6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947328612211765581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 57243,
+          "like_count": 1033,
+          "quote_count": 18,
+          "reply_count": 9,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "あれっ...Amazonでメイドインアビス14巻書影出たんだけど、これどういうことだ？？？レグくんの腕左右逆じゃない？\n鏡なの？？謎が深まる....!!!!\n（電書予約開始はよ...!）\n#メイドインアビス https://t.co/gkHXkzmjz6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 953,
+          "like_count": 8362,
+          "listed_count": 1,
+          "media_count": 269,
+          "tweet_count": 1751
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-11T06:56:48.000Z",
+        "description": "インド＆和の雑貨屋「HitoMi @HitoMi_india 」の中の人Miの方。海外住みのマンガオタク。インド神話、ヒンディー語、メイドインアビス などを好んで食す。インドの邦人向け情報誌「月刊 Chalo」にマンガ『かみさまんが』連載中。pixiv→https://t.co/UQ5AFkQHzi\nニューデリー在住。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "HitoMi_india"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.me/urabeazuki",
+                "end": 150,
+                "expanded_url": "http://pixiv.me/urabeazuki",
+                "start": 127,
+                "url": "https://t.co/UQ5AFkQHzi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hitomiindia.com",
+                "end": 23,
+                "expanded_url": "http://hitomiindia.com",
+                "start": 0,
+                "url": "https://t.co/IIj7bbWkfX"
+              }
+            ]
+          }
+        },
+        "id": "81537215",
+        "location": "INDIA New Delhi",
+        "name": "うらべあづき",
+        "pinned_tweet_id": "1860338013550653752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000317118326/13b5e67488d4a83d1b199c9858db5437_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3403,
+          "following_count": 355,
+          "like_count": 112900,
+          "listed_count": 68,
+          "media_count": 8844,
+          "tweet_count": 66420
+        },
+        "url": "https://t.co/IIj7bbWkfX",
+        "username": "urabeazuki",
+        "verified": false
+      }
+    ]
+  }
+}

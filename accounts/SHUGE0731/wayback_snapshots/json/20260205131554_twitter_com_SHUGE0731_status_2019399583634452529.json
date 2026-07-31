@@ -1,0 +1,640 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278061468265508864",
+          "name": "Collectibles"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311345191362523136",
+          "name": "Anime goods"
+        }
+      }
+    ],
+    "conversation_id": "2019399583634452529",
+    "created_at": "2026-02-05T13:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T14:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019399583634452529"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gsc_goodsmile/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/gsc_goodsmile/status/2019359345050341751",
+          "start": 7,
+          "url": "https://t.co/w4SFFEwMgP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019399583634452529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019359345050341751",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一定要买… https://t.co/w4SFFEwMgP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2018924555306426368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HASpL7NaYAAO-44.jpg",
+        "width": 750
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2018924575128756224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HASpNFDbIAAzeOH.jpg",
+        "width": 750
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2018924593856331776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HASpOK0bQAAyto1.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          }
+        ],
+        "conversation_id": "2019399583634452529",
+        "created_at": "2026-02-05T13:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T14:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019399583634452529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gsc_goodsmile/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/gsc_goodsmile/status/2019359345050341751",
+              "start": 7,
+              "url": "https://t.co/w4SFFEwMgP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019399583634452529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019359345050341751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一定要买… https://t.co/w4SFFEwMgP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018924555306426368",
+            "3_2018924575128756224",
+            "3_2018924593856331776"
+          ]
+        },
+        "author_id": "68864104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          }
+        ],
+        "conversation_id": "2019359345050341751",
+        "created_at": "2026-02-05T10:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T11:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019359345050341751"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "泉こなた",
+              "probability": 0.4542,
+              "start": 32,
+              "type": "Person"
+            },
+            {
+              "end": 63,
+              "normalized_text": "らき☆すた",
+              "probability": 0.5048,
+              "start": 59,
+              "type": "Other"
+            },
+            {
+              "end": 73,
+              "normalized_text": "泉こなた",
+              "probability": 0.6702,
+              "start": 70,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 152,
+              "start": 147,
+              "tag": "らきすた"
+            },
+            {
+              "end": 158,
+              "start": 153,
+              "tag": "グッスマ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "アニメ『らき☆すた』より、「泉こなた」が再びねんどろいどになって登場です！ 表情パーツ： 「笑顔」「どや顔」「きらきら顔」 オプションパーツ：「チョココロネ」「単行本」ほか",
+              "display_url": "goodsmile.link/779qJl",
+              "end": 145,
+              "expanded_url": "https://goodsmile.link/779qJl",
+              "images": [
+                {
+                  "height": 1000,
+                  "url": "https://pbs.twimg.com/news_img/2019359388431949824/4Mj7KtkQ?format=jpg&name=orig",
+                  "width": 750
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2019359388431949824/4Mj7KtkQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 122,
+              "status": 200,
+              "title": "ねんどろいど 泉こなた 2.0｜グッドスマイルカンパニー公式ショップ",
+              "unwound_url": "https://www.goodsmile.com/ja/product/1138549/%E3%81%AD%E3%82%93%E3%81%A9%E3%82%8D%E3%81%84%E3%81%A9+%E6%B3%89%E3%81%93%E3%81%AA%E3%81%9F+2.0",
+              "url": "https://t.co/WC0fM2lTUT"
+            },
+            {
+              "display_url": "pic.x.com/qdyXp1y19p",
+              "end": 182,
+              "expanded_url": "https://x.com/gsc_goodsmile/status/2019359345050341751/photo/1",
+              "media_key": "3_2018924555306426368",
+              "start": 159,
+              "url": "https://t.co/qdyXp1y19p"
+            },
+            {
+              "display_url": "pic.x.com/qdyXp1y19p",
+              "end": 182,
+              "expanded_url": "https://x.com/gsc_goodsmile/status/2019359345050341751/photo/1",
+              "media_key": "3_2018924575128756224",
+              "start": 159,
+              "url": "https://t.co/qdyXp1y19p"
+            },
+            {
+              "display_url": "pic.x.com/qdyXp1y19p",
+              "end": 182,
+              "expanded_url": "https://x.com/gsc_goodsmile/status/2019359345050341751/photo/1",
+              "media_key": "3_2018924593856331776",
+              "start": 159,
+              "url": "https://t.co/qdyXp1y19p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019359345050341751",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 152,
+                "start": 147,
+                "tag": "らきすた"
+              },
+              {
+                "end": 158,
+                "start": 153,
+                "tag": "グッスマ"
+              },
+              {
+                "end": 170,
+                "start": 159,
+                "tag": "ねんどろいどFUNS"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "goodsmile.link/779qJl",
+                "end": 145,
+                "expanded_url": "https://goodsmile.link/779qJl",
+                "start": 122,
+                "url": "https://t.co/OA6dOgp8vq"
+              }
+            ]
+          },
+          "text": "✨ 予約受付開始 ✨\n\n￣￣￣￣￣￣￣￣￣￣￣￣\nねんどろいど 泉こなた 2.0\n＿＿＿＿＿＿＿＿＿＿＿＿\n\nアニメ『らき☆すた』より、\n「泉こなた」が再びねんどろいどになって登場！\n\n🎁グッスマ公式ショップ特典\n特製台座\n\n▼ご予約はこちら\nhttps://t.co/OA6dOgp8vq\n\n#らきすた #グッスマ #ねんどろいどFUNS"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 292,
+          "impression_count": 85761,
+          "like_count": 2405,
+          "quote_count": 109,
+          "reply_count": 16,
+          "retweet_count": 806
+        },
+        "reply_settings": "everyone",
+        "text": "✨ 予約受付開始 ✨\n\n￣￣￣￣￣￣￣￣￣￣￣￣\nねんどろいど 泉こなた 2.0\n＿＿＿＿＿＿＿＿＿＿＿＿\n\nアニメ『らき☆すた』より、\n「泉こなた」が再びねんどろいどになって登場！\n\n🎁グッスマ公式ショップ特典\n特製台座\n\n▼ご予約はこちら\nhttps://t.co/WC0fM2lTUT\n\n#らきすた #グッスマ https://t.co/qdyXp1y19p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 967,
+          "like_count": 19613,
+          "listed_count": 3,
+          "media_count": 548,
+          "tweet_count": 6923
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-26T01:27:56.000Z",
+        "description": "グッドスマイルカンパニーの公式Xアカウント。\n最新情報や商品情報・関連情報などをお知らせします！ \n\n※27新卒選考エントリー受付中：https://t.co/9rHy554ZET\n※商品等のご質問はカスタマーサポートへご連絡ください：https://t.co/OUheYprvvz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "goodsmile.link/XLANYW",
+                "end": 90,
+                "expanded_url": "https://goodsmile.link/XLANYW",
+                "start": 67,
+                "url": "https://t.co/9rHy554ZET"
+              },
+              {
+                "display_url": "goodsmile.link/support",
+                "end": 141,
+                "expanded_url": "http://goodsmile.link/support",
+                "start": 118,
+                "url": "https://t.co/OUheYprvvz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "goodsmile.com/ja",
+                "end": 23,
+                "expanded_url": "https://www.goodsmile.com/ja",
+                "start": 0,
+                "url": "https://t.co/c64MyOutju"
+              }
+            ]
+          }
+        },
+        "id": "68864104",
+        "location": "GOOD SMILE COMPANY",
+        "name": "グッドスマイルカンパニー【公式】",
+        "pinned_tweet_id": "2009464512437735677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1556825377757995008/3387cyqJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395694,
+          "following_count": 194,
+          "like_count": 533,
+          "listed_count": 3403,
+          "media_count": 40048,
+          "tweet_count": 64364
+        },
+        "url": "https://t.co/c64MyOutju",
+        "username": "gsc_goodsmile",
+        "verified": true
+      }
+    ]
+  }
+}

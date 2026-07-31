@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2014288157815304192"
+      ],
+      "media_source_tweet_id": [
+        "2014288278447641013"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2014389165090300401",
+    "created_at": "2026-01-22T17:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T18:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014389165090300401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1322099241074880518",
+          "start": 3,
+          "username": "ikuta41"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I3bE7sEQcI",
+          "end": 36,
+          "expanded_url": "https://x.com/ikuta41/status/2014288278447641013/video/1",
+          "media_key": "13_2014288157815304192",
+          "start": 13,
+          "url": "https://t.co/I3bE7sEQcI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014389165090300401",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1734
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014288278447641013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ikuta41: https://t.co/I3bE7sEQcI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27416,
+        "height": 1268,
+        "media_key": "13_2014288157815304192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014288157815304192/img/naTXLfoOu-itUqv8.jpg",
+        "public_metrics": {
+          "view_count": 245922
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014288157815304192/pl/f2N57JJx7MaNEhPN.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014288157815304192/vid/avc1/726x720/SBm6R2qknfW3FEju.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014288157815304192/vid/avc1/1280x1268/gCQMwjr0g40gNP2u.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014288157815304192/vid/avc1/272x270/qA81ruBKVq5S9OY3.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014288157815304192/vid/avc1/362x360/1xf0VOXgBDAtS3G1.mp4"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014288157815304192"
+          ],
+          "media_source_tweet_id": [
+            "2014288278447641013"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014389165090300401",
+        "created_at": "2026-01-22T17:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T18:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014389165090300401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1322099241074880518",
+              "start": 3,
+              "username": "ikuta41"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I3bE7sEQcI",
+              "end": 36,
+              "expanded_url": "https://x.com/ikuta41/status/2014288278447641013/video/1",
+              "media_key": "13_2014288157815304192",
+              "start": 13,
+              "url": "https://t.co/I3bE7sEQcI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014389165090300401",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1734
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014288278447641013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ikuta41: https://t.co/I3bE7sEQcI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014288157815304192"
+          ]
+        },
+        "author_id": "1322099241074880518",
+        "conversation_id": "2014288278447641013",
+        "created_at": "2026-01-22T10:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T11:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014288278447641013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I3bE7sEQcI",
+              "end": 23,
+              "expanded_url": "https://x.com/ikuta41/status/2014288278447641013/video/1",
+              "media_key": "13_2014288157815304192",
+              "start": 0,
+              "url": "https://t.co/I3bE7sEQcI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014288278447641013",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3291,
+          "impression_count": 535242,
+          "like_count": 22497,
+          "quote_count": 39,
+          "reply_count": 26,
+          "retweet_count": 1734
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/I3bE7sEQcI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 993,
+          "like_count": 18071,
+          "listed_count": 3,
+          "media_count": 529,
+          "tweet_count": 6409
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-30T08:53:37.000Z",
+        "description": "contact▶︎▷ ikutaj0041@gmail.com Instagram▶︎▷https://t.co/T8RHIysAEi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ikuta_ikuta41",
+                "end": 67,
+                "expanded_url": "http://instagram.com/ikuta_ikuta41",
+                "start": 44,
+                "url": "https://t.co/T8RHIysAEi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/28025925",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/28025925",
+                "start": 0,
+                "url": "https://t.co/gOdCylraah"
+              }
+            ]
+          }
+        },
+        "id": "1322099241074880518",
+        "name": "幾田",
+        "pinned_tweet_id": "1784499811716366430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767357340066738176/y_kUFp1a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247836,
+          "following_count": 329,
+          "like_count": 3793,
+          "listed_count": 1478,
+          "media_count": 134,
+          "tweet_count": 624
+        },
+        "url": "https://t.co/gOdCylraah",
+        "username": "ikuta41",
+        "verified": true
+      }
+    ]
+  }
+}

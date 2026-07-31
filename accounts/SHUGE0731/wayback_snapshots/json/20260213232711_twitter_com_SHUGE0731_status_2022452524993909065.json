@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2022400265593467051",
+    "created_at": "2026-02-13T23:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T00:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022452524993909065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1441713283728216076",
+          "start": 0,
+          "username": "sukikwiineko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022452524993909065",
+    "in_reply_to_user_id": "1441713283728216076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022400265593467051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sukikwiineko 哎哎…马一龙你害惨我们了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2022400265593467051",
+        "created_at": "2026-02-13T23:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T00:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022452524993909065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1441713283728216076",
+              "start": 0,
+              "username": "sukikwiineko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022452524993909065",
+        "in_reply_to_user_id": "1441713283728216076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022400265593467051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sukikwiineko 哎哎…马一龙你害惨我们了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1441713283728216076",
+        "conversation_id": "2022400265593467051",
+        "created_at": "2026-02-13T19:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T20:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022400265593467051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SHUGE0731/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/SHUGE0731/status/2022284031682064541",
+              "start": 3,
+              "url": "https://t.co/9l2yVyrVYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022400265593467051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022284031682064541",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "心情 https://t.co/9l2yVyrVYc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 983,
+          "like_count": 20699,
+          "listed_count": 3,
+          "media_count": 562,
+          "tweet_count": 7356
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-25T10:36:57.000Z",
+        "description": "雜多",
+        "id": "1441713283728216076",
+        "location": "ai❌瘟❌",
+        "name": "ぜんぶわすれた",
+        "pinned_tweet_id": "1989201363935576166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020563536917766144/DRBzE0Z2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 939,
+          "like_count": 6543,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 3791
+        },
+        "username": "sukikwiineko",
+        "verified": false
+      }
+    ]
+  }
+}

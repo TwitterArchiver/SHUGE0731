@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2000860184940310529"
+      ],
+      "media_source_tweet_id": [
+        "2000860198437605716"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2001198161386180745",
+    "created_at": "2025-12-17T07:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T08:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001198161386180745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1911388464378994688",
+          "start": 3,
+          "username": "kirailiss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ouc1gccVr9",
+          "end": 38,
+          "expanded_url": "https://x.com/kirailiss/status/2000860198437605716/video/1",
+          "media_key": "13_2000860184940310529",
+          "start": 15,
+          "url": "https://t.co/Ouc1gccVr9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001198161386180745",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000860198437605716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kirailiss: https://t.co/Ouc1gccVr9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3633,
+        "height": 408,
+        "media_key": "13_2000860184940310529",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000860184940310529/img/ZtvlCcrxu2_LEMYq.jpg",
+        "public_metrics": {
+          "view_count": 1964
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000860184940310529/vid/avc1/380x270/Jq3-zuwoNb2F_ZrU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000860184940310529/vid/avc1/576x408/JTv8tSi54l3z9maZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000860184940310529/pl/Ba7X9Japm-jVi9wv.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000860184940310529"
+          ],
+          "media_source_tweet_id": [
+            "2000860198437605716"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2001198161386180745",
+        "created_at": "2025-12-17T07:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T08:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001198161386180745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1911388464378994688",
+              "start": 3,
+              "username": "kirailiss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ouc1gccVr9",
+              "end": 38,
+              "expanded_url": "https://x.com/kirailiss/status/2000860198437605716/video/1",
+              "media_key": "13_2000860184940310529",
+              "start": 15,
+              "url": "https://t.co/Ouc1gccVr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001198161386180745",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000860198437605716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kirailiss: https://t.co/Ouc1gccVr9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000860184940310529"
+          ]
+        },
+        "author_id": "1911388464378994688",
+        "conversation_id": "2000860198437605716",
+        "created_at": "2025-12-16T09:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T10:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000860198437605716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ouc1gccVr9",
+              "end": 23,
+              "expanded_url": "https://x.com/kirailiss/status/2000860198437605716/video/1",
+              "media_key": "13_2000860184940310529",
+              "start": 0,
+              "url": "https://t.co/Ouc1gccVr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000860198437605716",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 4995,
+          "like_count": 521,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ouc1gccVr9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 1033,
+          "like_count": 14149,
+          "listed_count": 2,
+          "media_count": 461,
+          "tweet_count": 4356
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T11:58:30.000Z",
+        "description": "im 17 and uh yeah im not niche at all now; i play siege, touhou, tboi; i like bobchi and garupan ayayayayayaya",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kirailiss.straw.page",
+                "end": 23,
+                "expanded_url": "https://kirailiss.straw.page",
+                "start": 0,
+                "url": "https://t.co/MQIfIEqOkB"
+              }
+            ]
+          }
+        },
+        "id": "1911388464378994688",
+        "name": "kirailiss",
+        "pinned_tweet_id": "1977819890921906590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982584209148346368/jXYAUhZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 212,
+          "like_count": 15262,
+          "listed_count": 0,
+          "media_count": 1486,
+          "tweet_count": 3902
+        },
+        "url": "https://t.co/MQIfIEqOkB",
+        "username": "kirailiss",
+        "verified": false
+      }
+    ]
+  }
+}

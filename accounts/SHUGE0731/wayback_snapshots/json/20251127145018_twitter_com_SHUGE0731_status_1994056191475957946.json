@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994043876810870785"
+      ],
+      "media_source_tweet_id": [
+        "1994044034583810347"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1994056191475957946",
+    "created_at": "2025-11-27T14:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T15:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994056191475957946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1522473189158244352",
+          "start": 3,
+          "username": "bye_cruelworld"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IGXkbdfvqY",
+          "end": 43,
+          "expanded_url": "https://x.com/bye_cruelworld/status/1994044034583810347/photo/1",
+          "media_key": "3_1994043876810870785",
+          "start": 20,
+          "url": "https://t.co/IGXkbdfvqY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994056191475957946",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 189
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994044034583810347",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bye_cruelworld: https://t.co/IGXkbdfvqY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_1994043876810870785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xEV0_a0AEsz2-.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994043876810870785"
+          ],
+          "media_source_tweet_id": [
+            "1994044034583810347"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1994056191475957946",
+        "created_at": "2025-11-27T14:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994056191475957946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1522473189158244352",
+              "start": 3,
+              "username": "bye_cruelworld"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IGXkbdfvqY",
+              "end": 43,
+              "expanded_url": "https://x.com/bye_cruelworld/status/1994044034583810347/photo/1",
+              "media_key": "3_1994043876810870785",
+              "start": 20,
+              "url": "https://t.co/IGXkbdfvqY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994056191475957946",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 189
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994044034583810347",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bye_cruelworld: https://t.co/IGXkbdfvqY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994043876810870785"
+          ]
+        },
+        "author_id": "1522473189158244352",
+        "conversation_id": "1994044034583810347",
+        "created_at": "2025-11-27T14:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994044034583810347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IGXkbdfvqY",
+              "end": 23,
+              "expanded_url": "https://x.com/bye_cruelworld/status/1994044034583810347/photo/1",
+              "media_key": "3_1994043876810870785",
+              "start": 0,
+              "url": "https://t.co/IGXkbdfvqY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994044034583810347",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 5542,
+          "like_count": 532,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 189
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IGXkbdfvqY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1057,
+          "like_count": 11938,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 3175
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-06T07:08:11.000Z",
+        "description": "20↑/トプオペ      \nbanner by @Sion_ara_uma",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "Sion_ara_uma"
+              }
+            ]
+          }
+        },
+        "id": "1522473189158244352",
+        "name": "Zizzu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971095188656513024/xtYzeyyO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5120,
+          "following_count": 213,
+          "like_count": 6445,
+          "listed_count": 33,
+          "media_count": 159,
+          "tweet_count": 2301
+        },
+        "username": "bye_cruelworld",
+        "verified": false
+      }
+    ]
+  }
+}

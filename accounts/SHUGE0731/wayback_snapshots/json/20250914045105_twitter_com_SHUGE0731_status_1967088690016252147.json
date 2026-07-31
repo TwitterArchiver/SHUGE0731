@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966853389213745152"
+      ],
+      "media_source_tweet_id": [
+        "1966853682626171173"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "1967088690016252147",
+    "created_at": "2025-09-14T04:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T05:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967088690016252147"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "古明地さとり",
+          "probability": 0.451,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 25,
+          "tag": "東方Project"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "67233396",
+          "start": 3,
+          "username": "fujimatakuya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ws8k7nw7gD",
+          "end": 59,
+          "expanded_url": "https://x.com/fujimatakuya/status/1966853682626171173/photo/1",
+          "media_key": "3_1966853389213745152",
+          "start": 36,
+          "url": "https://t.co/Ws8k7nw7gD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967088690016252147",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 819
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966853682626171173",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fujimatakuya: 古明地さとり\n#東方Project https://t.co/Ws8k7nw7gD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1031,
+        "media_key": "3_1966853389213745152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uqvJVbwAAdCvy.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966853389213745152"
+          ],
+          "media_source_tweet_id": [
+            "1966853682626171173"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1967088690016252147",
+        "created_at": "2025-09-14T04:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T05:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967088690016252147"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "古明地さとり",
+              "probability": 0.451,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 25,
+              "tag": "東方Project"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "67233396",
+              "start": 3,
+              "username": "fujimatakuya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ws8k7nw7gD",
+              "end": 59,
+              "expanded_url": "https://x.com/fujimatakuya/status/1966853682626171173/photo/1",
+              "media_key": "3_1966853389213745152",
+              "start": 36,
+              "url": "https://t.co/Ws8k7nw7gD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967088690016252147",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 819
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966853682626171173",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fujimatakuya: 古明地さとり\n#東方Project https://t.co/Ws8k7nw7gD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966853389213745152"
+          ]
+        },
+        "author_id": "67233396",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "1966853682626171173",
+        "created_at": "2025-09-13T13:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T14:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966853682626171173"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "古明地さとり",
+              "probability": 0.4994,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 7,
+              "tag": "東方Project"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ws8k7nw7gD",
+              "end": 41,
+              "expanded_url": "https://x.com/fujimatakuya/status/1966853682626171173/photo/1",
+              "media_key": "3_1966853389213745152",
+              "start": 18,
+              "url": "https://t.co/Ws8k7nw7gD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966853682626171173",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 321,
+          "impression_count": 77990,
+          "like_count": 4138,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 819
+        },
+        "reply_settings": "everyone",
+        "text": "古明地さとり\n#東方Project https://t.co/Ws8k7nw7gD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 有一只牡丹鹦鹉叫uno！｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 1006,
+          "like_count": 9087,
+          "listed_count": 2,
+          "media_count": 288,
+          "tweet_count": 1916
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-20T05:00:32.000Z",
+        "description": "イラストレーター\n■アニメキャラ原案▶HIGHSPEED Étoile┃戦翼のシグルドリーヴァ┃魔法少女リリカルなのはViVid┃アイナナ ここな\n■イラスト▶各種TCG┃FGO概念礼装┃補講男子\n■漫画▶たくあかっ！┃スパイスしたいな。\n■FANBOX▶https://t.co/v6SCzkitBN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.la/P3q8vcW",
+                "end": 151,
+                "expanded_url": "http://onl.la/P3q8vcW",
+                "start": 128,
+                "url": "https://t.co/v6SCzkitBN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fujimatakuya.com",
+                "end": 23,
+                "expanded_url": "http://fujimatakuya.com/",
+                "start": 0,
+                "url": "https://t.co/BXQNBVjJWv"
+              }
+            ]
+          }
+        },
+        "id": "67233396",
+        "location": "お仕事の相談▶fujimaya040@hotmail.com",
+        "name": "藤真拓哉",
+        "pinned_tweet_id": "1954536409282289703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766327127996297216/9Waxebvl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326710,
+          "following_count": 80930,
+          "like_count": 1902,
+          "listed_count": 4932,
+          "media_count": 16460,
+          "tweet_count": 74673
+        },
+        "url": "https://t.co/BXQNBVjJWv",
+        "username": "fujimatakuya",
+        "verified": true
+      }
+    ]
+  }
+}

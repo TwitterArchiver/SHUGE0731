@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998624028106567688"
+      ],
+      "media_source_tweet_id": [
+        "1998624034288972224"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1998789811243733321",
+    "created_at": "2025-12-10T16:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T17:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998789811243733321"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 72,
+          "start": 63,
+          "tag": "らいおんはあーと"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "170304676",
+          "start": 3,
+          "username": "konabetate"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0twX9k79VT",
+          "end": 96,
+          "expanded_url": "https://x.com/konabetate/status/1998624034288972224/photo/1",
+          "media_key": "3_1998624028106567688",
+          "start": 73,
+          "url": "https://t.co/0twX9k79VT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998789811243733321",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998624034288972224",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @konabetate: 絵チャで描いた小動物。\n尻尾のためにこのアングルで描いたけど\n描きにくいことこの上なかった…\n#らいおんはあーと https://t.co/0twX9k79VT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1159,
+        "media_key": "3_1998624028106567688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7yJ9uLaMAgZ9yD.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998624028106567688"
+          ],
+          "media_source_tweet_id": [
+            "1998624034288972224"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1998789811243733321",
+        "created_at": "2025-12-10T16:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T17:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998789811243733321"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 63,
+              "tag": "らいおんはあーと"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "170304676",
+              "start": 3,
+              "username": "konabetate"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0twX9k79VT",
+              "end": 96,
+              "expanded_url": "https://x.com/konabetate/status/1998624034288972224/photo/1",
+              "media_key": "3_1998624028106567688",
+              "start": 73,
+              "url": "https://t.co/0twX9k79VT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998789811243733321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998624034288972224",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @konabetate: 絵チャで描いた小動物。\n尻尾のためにこのアングルで描いたけど\n描きにくいことこの上なかった…\n#らいおんはあーと https://t.co/0twX9k79VT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998624028106567688"
+          ]
+        },
+        "author_id": "170304676",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1998624034288972224",
+        "created_at": "2025-12-10T05:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T06:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998624034288972224"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 47,
+              "tag": "らいおんはあーと"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0twX9k79VT",
+              "end": 80,
+              "expanded_url": "https://x.com/konabetate/status/1998624034288972224/photo/1",
+              "media_key": "3_1998624028106567688",
+              "start": 57,
+              "url": "https://t.co/0twX9k79VT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998624034288972224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 9924,
+          "like_count": 682,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "絵チャで描いた小動物。\n尻尾のためにこのアングルで描いたけど\n描きにくいことこの上なかった…\n#らいおんはあーと https://t.co/0twX9k79VT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 1064,
+          "like_count": 13194,
+          "listed_count": 2,
+          "media_count": 434,
+          "tweet_count": 3904
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-24T13:28:43.000Z",
+        "description": "名を表さねば体を成さず･･･悩みどころ",
+        "id": "170304676",
+        "location": "日本上空",
+        "name": "konabetate",
+        "pinned_tweet_id": "1984276025858306171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1087774039/purofi-ru_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10555,
+          "following_count": 35,
+          "like_count": 314,
+          "listed_count": 181,
+          "media_count": 792,
+          "tweet_count": 27053
+        },
+        "username": "konabetate",
+        "verified": false
+      }
+    ]
+  }
+}

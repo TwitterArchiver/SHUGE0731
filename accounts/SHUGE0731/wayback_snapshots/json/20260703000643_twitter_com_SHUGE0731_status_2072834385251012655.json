@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1441472383211114515",
+          "name": "Stuffed toys"
+        }
+      }
+    ],
+    "conversation_id": "2072834385251012655",
+    "created_at": "2026-07-03T00:06:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T01:06:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072834385251012655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1886594348860760065",
+          "start": 3,
+          "username": "AmiAmi_Report"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072834385251012655",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 271
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072727812587590135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AmiAmi_Report: 🌏Announcing the AmiAmi × Gift Plushie World Tour!🌏\n\nNEEDY STREAMER OVERLOAD Plush🍬\n-FUMOFUMO OMG KawaiiAngel\n-FUMOFUMO A…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2028,
+        "media_key": "3_2072727791171452928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPO8bzawAAAxi_.jpg",
+        "width": 1521
+      },
+      {
+        "height": 1870,
+        "media_key": "3_2072727791175659520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPO8b0a8AAwQSQ.jpg",
+        "width": 1257
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "2072834385251012655",
+        "created_at": "2026-07-03T00:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T01:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072834385251012655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1886594348860760065",
+              "start": 3,
+              "username": "AmiAmi_Report"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072834385251012655",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 271
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072727812587590135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AmiAmi_Report: 🌏Announcing the AmiAmi × Gift Plushie World Tour!🌏\n\nNEEDY STREAMER OVERLOAD Plush🍬\n-FUMOFUMO OMG KawaiiAngel\n-FUMOFUMO A…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072727791171452928",
+            "3_2072727791175659520"
+          ]
+        },
+        "author_id": "1886594348860760065",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1313582267084599296",
+              "name": "Anime Expo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "2072727812587590135",
+        "created_at": "2026-07-02T17:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072727812587590135"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 163,
+              "start": 150,
+              "tag": "amiamiAX2026"
+            },
+            {
+              "end": 188,
+              "start": 181,
+              "tag": "AX2026"
+            },
+            {
+              "end": 194,
+              "start": 189,
+              "tag": "Fumo"
+            },
+            {
+              "end": 205,
+              "start": 195,
+              "tag": "AnimeExpo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vnkWhOjeJg",
+              "end": 229,
+              "expanded_url": "https://x.com/AmiAmi_Report/status/2072727812587590135/photo/1",
+              "media_key": "3_2072727791171452928",
+              "start": 206,
+              "url": "https://t.co/vnkWhOjeJg"
+            },
+            {
+              "display_url": "pic.x.com/vnkWhOjeJg",
+              "end": 229,
+              "expanded_url": "https://x.com/AmiAmi_Report/status/2072727812587590135/photo/1",
+              "media_key": "3_2072727791175659520",
+              "start": 206,
+              "url": "https://t.co/vnkWhOjeJg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072727812587590135",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 268,
+          "impression_count": 35212,
+          "like_count": 2131,
+          "quote_count": 32,
+          "reply_count": 3,
+          "retweet_count": 271
+        },
+        "reply_settings": "everyone",
+        "text": "🌏Announcing the AmiAmi × Gift Plushie World Tour!🌏\n\nNEEDY STREAMER OVERLOAD Plush🍬\n-FUMOFUMO OMG KawaiiAngel\n-FUMOFUMO Amechan\n\nNow on display at the #amiamiAX2026 booth, SH-314!✨\n\n#AX2026 #Fumo #AnimeExpo https://t.co/vnkWhOjeJg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "Dorcus10031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTtCZA"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 1177,
+          "like_count": 32870,
+          "listed_count": 4,
+          "media_count": 722,
+          "tweet_count": 11115
+        },
+        "url": "https://t.co/ApKveTtCZA",
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T01:55:56.000Z",
+        "description": "Official Sub Account of https://t.co/KAao5FBZTx ran by AmiAmi Staff🧡 We post fun information, including figures, events and more! For updates head to @AmiAmi_English",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 165,
+                "start": 150,
+                "username": "AmiAmi_English"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "amiami.com",
+                "end": 47,
+                "expanded_url": "http://amiami.com",
+                "start": 24,
+                "url": "https://t.co/KAao5FBZTx"
+              }
+            ]
+          }
+        },
+        "id": "1886594348860760065",
+        "name": "AmiAmi Report",
+        "pinned_tweet_id": "2070326178427072590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886995054788796417/6reRRG6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15360,
+          "following_count": 16,
+          "like_count": 1224,
+          "listed_count": 45,
+          "media_count": 1631,
+          "tweet_count": 2684
+        },
+        "url": "",
+        "username": "AmiAmi_Report",
+        "verified": true
+      }
+    ]
+  }
+}

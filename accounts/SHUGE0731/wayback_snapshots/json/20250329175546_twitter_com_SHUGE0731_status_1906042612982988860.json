@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1905780854615617537"
+      ],
+      "media_source_tweet_id": [
+        "1905781430879420803"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1906042612982988860",
+    "created_at": "2025-03-29T17:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T18:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906042612982988860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "835091642268835840",
+          "start": 3,
+          "username": "tsubasa_nikke"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nGw4PLrUCR",
+          "end": 69,
+          "expanded_url": "https://x.com/tsubasa_nikke/status/1905781430879420803/video/1",
+          "media_key": "13_1905780854615617537",
+          "start": 46,
+          "url": "https://t.co/nGw4PLrUCR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906042612982988860",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905781430879420803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsubasa_nikke: リロード集153キャラ！！\nブレッディも追加でーす🍰 https://t.co/nGw4PLrUCR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 312116,
+        "height": 1920,
+        "media_key": "13_1905780854615617537",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1905780854615617537/img/JXj0xkRHWbQ9uzHQ.jpg",
+        "public_metrics": {
+          "view_count": 17842
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1905780854615617537/vid/avc1/320x690/1EZwIArF4vBGcEFM.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1905780854615617537/vid/avc1/480x1036/leyURccBmx-bK2P1.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1905780854615617537/vid/avc1/720x1556/iVfJP_qngCtriGHb.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1905780854615617537/pl/VgQGkWmgWQeVMUf2.m3u8?tag=16"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1905780854615617537"
+          ],
+          "media_source_tweet_id": [
+            "1905781430879420803"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1906042612982988860",
+        "created_at": "2025-03-29T17:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T18:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906042612982988860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "835091642268835840",
+              "start": 3,
+              "username": "tsubasa_nikke"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nGw4PLrUCR",
+              "end": 69,
+              "expanded_url": "https://x.com/tsubasa_nikke/status/1905781430879420803/video/1",
+              "media_key": "13_1905780854615617537",
+              "start": 46,
+              "url": "https://t.co/nGw4PLrUCR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906042612982988860",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905781430879420803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsubasa_nikke: リロード集153キャラ！！\nブレッディも追加でーす🍰 https://t.co/nGw4PLrUCR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1905780854615617537"
+          ]
+        },
+        "author_id": "835091642268835840",
+        "conversation_id": "1905781430879420803",
+        "created_at": "2025-03-29T00:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T01:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905781430879420803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nGw4PLrUCR",
+              "end": 50,
+              "expanded_url": "https://x.com/tsubasa_nikke/status/1905781430879420803/video/1",
+              "media_key": "13_1905780854615617537",
+              "start": 27,
+              "url": "https://t.co/nGw4PLrUCR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905781430879420803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 326,
+          "impression_count": 24063,
+          "like_count": 1192,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "リロード集153キャラ！！\nブレッディも追加でーす🍰 https://t.co/nGw4PLrUCR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 893,
+          "like_count": 5940,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 1311
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-24T11:38:57.000Z",
+        "description": "スクエアガーデン所属( ˙꒳ ˙ᐢ ) サーバーは「285」 #NIKKE \nフレームやバナーを作ってます 作った物は \n#フェザーBOX  のタグつけてます！\n📣シャドバン中は @tsubasa_su ←避難垢\n🆕#無言で一番好きなNIKKEの画像あげる",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 31,
+                "tag": "NIKKE"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "フェザーBOX"
+              },
+              {
+                "end": 128,
+                "start": 108,
+                "tag": "無言で一番好きなNIKKEの画像あげる"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "tsubasa_su"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@tsubasa_nikke",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@tsubasa_nikke",
+                "start": 0,
+                "url": "https://t.co/VWJP8UyeGp"
+              }
+            ]
+          }
+        },
+        "id": "835091642268835840",
+        "location": "日本 東京",
+        "name": "つばさ_メガニケ",
+        "pinned_tweet_id": "1834789174743888221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848597258499149824/RsZRNTJ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11525,
+          "following_count": 5155,
+          "like_count": 104908,
+          "listed_count": 94,
+          "media_count": 4094,
+          "tweet_count": 33321
+        },
+        "url": "https://t.co/VWJP8UyeGp",
+        "username": "tsubasa_nikke",
+        "verified": true
+      }
+    ]
+  }
+}

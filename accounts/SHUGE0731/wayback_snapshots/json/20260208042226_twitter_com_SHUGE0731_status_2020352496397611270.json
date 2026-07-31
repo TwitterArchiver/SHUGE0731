@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051561438",
+          "name": "Steins;Gate"
+        }
+      }
+    ],
+    "conversation_id": "2020352496397611270",
+    "created_at": "2026-02-08T04:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T05:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020352496397611270"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gsc_kahotan/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/gsc_kahotan/status/2020296645318168858",
+          "start": 9,
+          "url": "https://t.co/1j84OEQJKc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020352496397611270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020296645318168858",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "wtf这一套真帅 https://t.co/1j84OEQJKc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2019815166490341378",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAfTMUaacAI6nA5.jpg",
+        "width": 571
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051561438",
+              "name": "Steins;Gate"
+            }
+          }
+        ],
+        "conversation_id": "2020352496397611270",
+        "created_at": "2026-02-08T04:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T05:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020352496397611270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gsc_kahotan/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/gsc_kahotan/status/2020296645318168858",
+              "start": 9,
+              "url": "https://t.co/1j84OEQJKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020352496397611270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020296645318168858",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "wtf这一套真帅 https://t.co/1j84OEQJKc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019815166490341378"
+          ]
+        },
+        "author_id": "547299604",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051561438",
+              "name": "Steins;Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020296645318168858",
+        "created_at": "2026-02-08T00:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T01:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020296645318168858"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "牧瀬紅莉栖",
+              "probability": 0.4326,
+              "start": 32,
+              "type": "Person"
+            },
+            {
+              "end": 52,
+              "normalized_text": "精匠麗刻のルミナスリフレクト",
+              "probability": 0.1452,
+              "start": 39,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 73,
+              "tag": "ワンホビ40"
+            },
+            {
+              "end": 122,
+              "start": 117,
+              "tag": "シュタゲ"
+            },
+            {
+              "end": 129,
+              "start": 123,
+              "tag": "TRIKT"
+            },
+            {
+              "end": 135,
+              "start": 130,
+              "tag": "グッスマ"
+            },
+            {
+              "end": 144,
+              "start": 136,
+              "tag": "WF2026W"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ワンホビ39で展示されている＆ねんどろいどFUNSで発表された新作フィギュアを写真でご紹介！",
+              "display_url": "gallery.whl4u.jp/wh40/",
+              "end": 114,
+              "expanded_url": "http://gallery.whl4u.jp/wh40/",
+              "start": 91,
+              "status": 200,
+              "title": "ワンホビ39新作フィギュアフォトギャラリー",
+              "unwound_url": "http://gallery.whl4u.jp/wh40/",
+              "url": "https://t.co/1LntTycOuI"
+            },
+            {
+              "display_url": "pic.x.com/dhBUga2OHZ",
+              "end": 168,
+              "expanded_url": "https://x.com/gsc_kahotan/status/2020296645318168858/photo/1",
+              "media_key": "3_2019815166490341378",
+              "start": 145,
+              "url": "https://t.co/dhBUga2OHZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020296645318168858",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 274,
+          "impression_count": 80525,
+          "like_count": 1943,
+          "quote_count": 50,
+          "reply_count": 2,
+          "retweet_count": 509
+        },
+        "reply_settings": "everyone",
+        "text": "◤◢◤　彩色原型初公開　◢◤◢\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n牧瀬紅莉栖\n-精匠麗刻のルミナスリフレクト-\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n📷️＃ワンホビ40 フォトギャラリー\n https://t.co/1LntTycOuI\n\n #シュタゲ #TRIKT #グッスマ #WF2026W https://t.co/dhBUga2OHZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 971,
+          "like_count": 19820,
+          "listed_count": 3,
+          "media_count": 552,
+          "tweet_count": 6997
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-07T03:50:58.000Z",
+        "description": "グッドスマイルカンパニーの企画部所属。フィギュア商品企画の他にブログも担当しております！どうぞよろしくお願いいたします◎\n\nグッスマ公式サイト：https://t.co/B3NQgLhKAI\nマシュマロ： https://t.co/bnSJnl4bxZ…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "goodsmile.com/ja",
+                "end": 95,
+                "expanded_url": "https://www.goodsmile.com/ja",
+                "start": 72,
+                "url": "https://t.co/B3NQgLhKAI"
+              },
+              {
+                "display_url": "marshmallow-qa.com/gsc_kahotan?ut",
+                "end": 126,
+                "expanded_url": "http://marshmallow-qa.com/gsc_kahotan?ut",
+                "start": 103,
+                "url": "https://t.co/bnSJnl4bxZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "goodsmile.jp/kahotan",
+                "end": 23,
+                "expanded_url": "http://goodsmile.jp/kahotan",
+                "start": 0,
+                "url": "https://t.co/KkUNvZ3Rio"
+              }
+            ]
+          }
+        },
+        "id": "547299604",
+        "location": "秋葉原の程近く",
+        "name": "カホタン＠グッスマのすみっこ",
+        "pinned_tweet_id": "2019364297730908379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1557060860631138304/DNcidBzz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299445,
+          "following_count": 347,
+          "like_count": 3833,
+          "listed_count": 2723,
+          "media_count": 39682,
+          "tweet_count": 75746
+        },
+        "url": "https://t.co/KkUNvZ3Rio",
+        "username": "gsc_kahotan",
+        "verified": true
+      }
+    ]
+  }
+}

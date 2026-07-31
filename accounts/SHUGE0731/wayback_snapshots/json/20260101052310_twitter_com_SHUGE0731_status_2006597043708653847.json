@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006297313275518976"
+      ],
+      "media_source_tweet_id": [
+        "2006379872655216843"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      }
+    ],
+    "conversation_id": "2006597043708653847",
+    "created_at": "2026-01-01T05:23:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T06:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006597043708653847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "996991543180382209",
+          "start": 3,
+          "username": "amaxa58700"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CDtROH0U69",
+          "end": 67,
+          "expanded_url": "https://x.com/amaxa58700/status/2006379872655216843/photo/1",
+          "media_key": "3_2006297313275518976",
+          "start": 44,
+          "url": "https://t.co/CDtROH0U69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006597043708653847",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 963
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006379872655216843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amaxa58700: あけましておめでとうございます\n今年もよしなにやで～！ https://t.co/CDtROH0U69"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2006297313275518976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9fMxs-boAAMBH8.jpg",
+        "width": 2900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006297313275518976"
+          ],
+          "media_source_tweet_id": [
+            "2006379872655216843"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          }
+        ],
+        "conversation_id": "2006597043708653847",
+        "created_at": "2026-01-01T05:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T06:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006597043708653847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "996991543180382209",
+              "start": 3,
+              "username": "amaxa58700"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CDtROH0U69",
+              "end": 67,
+              "expanded_url": "https://x.com/amaxa58700/status/2006379872655216843/photo/1",
+              "media_key": "3_2006297313275518976",
+              "start": 44,
+              "url": "https://t.co/CDtROH0U69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006597043708653847",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 963
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006379872655216843",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amaxa58700: あけましておめでとうございます\n今年もよしなにやで～！ https://t.co/CDtROH0U69"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006297313275518976"
+          ]
+        },
+        "author_id": "996991543180382209",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          }
+        ],
+        "conversation_id": "2006379872655216843",
+        "created_at": "2025-12-31T15:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T16:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006379872655216843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CDtROH0U69",
+              "end": 51,
+              "expanded_url": "https://x.com/amaxa58700/status/2006379872655216843/photo/1",
+              "media_key": "3_2006297313275518976",
+              "start": 28,
+              "url": "https://t.co/CDtROH0U69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006379872655216843",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 635,
+          "impression_count": 76124,
+          "like_count": 8106,
+          "quote_count": 3,
+          "reply_count": 26,
+          "retweet_count": 963
+        },
+        "reply_settings": "everyone",
+        "text": "あけましておめでとうございます\n今年もよしなにやで～！ https://t.co/CDtROH0U69"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 994,
+          "like_count": 16677,
+          "listed_count": 3,
+          "media_count": 505,
+          "tweet_count": 5553
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-17T05:51:21.000Z",
+        "description": "あまくさと読みます。絵を見て下さった全ての方に感謝を。ビアンカ派でゲレゲレ派。作品の使用は許可を取って頂ければ、煮るなり焼くなりご自由に",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/11714562",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/11714562",
+                "start": 0,
+                "url": "https://t.co/CWl2kQoP9N"
+              }
+            ]
+          }
+        },
+        "id": "996991543180382209",
+        "location": "地球ん中でオゾンより下",
+        "name": "amaxa@skeb初心者",
+        "pinned_tweet_id": "2001644206176243902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771870467416379393/G_7LjdHR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50572,
+          "following_count": 919,
+          "like_count": 38318,
+          "listed_count": 337,
+          "media_count": 3335,
+          "tweet_count": 21670
+        },
+        "url": "https://t.co/CWl2kQoP9N",
+        "username": "amaxa58700",
+        "verified": false
+      }
+    ]
+  }
+}

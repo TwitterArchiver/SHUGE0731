@@ -1,0 +1,506 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "1998744418220913002",
+    "created_at": "2025-12-10T13:19:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T14:19:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998744418220913002"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "初音ミク",
+          "probability": 0.56,
+          "start": 19,
+          "type": "Person"
+        },
+        {
+          "end": 63,
+          "normalized_text": "初音ミク亜種",
+          "probability": 0.2058,
+          "start": 58,
+          "type": "Person"
+        },
+        {
+          "end": 69,
+          "normalized_text": "骸音シーエ",
+          "probability": 0.1246,
+          "start": 65,
+          "type": "Person"
+        },
+        {
+          "end": 102,
+          "normalized_text": "クリプトンさん",
+          "probability": 0.6792,
+          "start": 96,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "494001525",
+          "start": 3,
+          "username": "Calcium_bot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998744418220913002",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1515
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998671155763552611",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Calcium_bot: また初音ミク界隈がざわついてるみたいですね。ということで……\n\nクリプトン\"公認\"初音ミク亜種、骸音シーエですこんばんは\n来年にはフィギュアも出ます。もちろんクリプトンさん公認です\n\n少なくともこのラインまでは許させるらしいですよ\n\n#骸音シー…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1192,
+        "media_key": "3_1998670382191226881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7y0H4maMAEBmlq.jpg",
+        "width": 840
+      },
+      {
+        "height": 1192,
+        "media_key": "3_1998670484020637696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7y0Nz8bsAAu41j.jpg",
+        "width": 854
+      },
+      {
+        "height": 1500,
+        "media_key": "3_1998670757573046272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7y0dvAaMAAZ5VY.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1998744418220913002",
+        "created_at": "2025-12-10T13:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T14:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998744418220913002"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "初音ミク",
+              "probability": 0.56,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 63,
+              "normalized_text": "初音ミク亜種",
+              "probability": 0.2058,
+              "start": 58,
+              "type": "Person"
+            },
+            {
+              "end": 69,
+              "normalized_text": "骸音シーエ",
+              "probability": 0.1246,
+              "start": 65,
+              "type": "Person"
+            },
+            {
+              "end": 102,
+              "normalized_text": "クリプトンさん",
+              "probability": 0.6792,
+              "start": 96,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "494001525",
+              "start": 3,
+              "username": "Calcium_bot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998744418220913002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1515
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998671155763552611",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Calcium_bot: また初音ミク界隈がざわついてるみたいですね。ということで……\n\nクリプトン\"公認\"初音ミク亜種、骸音シーエですこんばんは\n来年にはフィギュアも出ます。もちろんクリプトンさん公認です\n\n少なくともこのラインまでは許させるらしいですよ\n\n#骸音シー…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998670382191226881",
+            "3_1998670484020637696",
+            "3_1998670757573046272"
+          ]
+        },
+        "author_id": "494001525",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1998671155763552611",
+        "created_at": "2025-12-10T08:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T09:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998671155763552611"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "初音ミク",
+              "probability": 0.5977,
+              "start": 2,
+              "type": "Person"
+            },
+            {
+              "end": 46,
+              "normalized_text": "初音ミク亜種",
+              "probability": 0.2236,
+              "start": 41,
+              "type": "Person"
+            },
+            {
+              "end": 52,
+              "normalized_text": "骸音シーエ",
+              "probability": 0.1619,
+              "start": 48,
+              "type": "Person"
+            },
+            {
+              "end": 85,
+              "normalized_text": "クリプトンさん",
+              "probability": 0.6702,
+              "start": 79,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 123,
+              "start": 117,
+              "tag": "骸音シーエ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uNyvUUYp0w",
+              "end": 147,
+              "expanded_url": "https://x.com/Calcium_bot/status/1998671155763552611/photo/1",
+              "media_key": "3_1998670382191226881",
+              "start": 124,
+              "url": "https://t.co/uNyvUUYp0w"
+            },
+            {
+              "display_url": "pic.x.com/uNyvUUYp0w",
+              "end": 147,
+              "expanded_url": "https://x.com/Calcium_bot/status/1998671155763552611/photo/1",
+              "media_key": "3_1998670484020637696",
+              "start": 124,
+              "url": "https://t.co/uNyvUUYp0w"
+            },
+            {
+              "display_url": "pic.x.com/uNyvUUYp0w",
+              "end": 147,
+              "expanded_url": "https://x.com/Calcium_bot/status/1998671155763552611/photo/1",
+              "media_key": "3_1998670757573046272",
+              "start": 124,
+              "url": "https://t.co/uNyvUUYp0w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998671155763552611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 900,
+          "impression_count": 315132,
+          "like_count": 8915,
+          "quote_count": 254,
+          "reply_count": 26,
+          "retweet_count": 1515
+        },
+        "reply_settings": "everyone",
+        "text": "また初音ミク界隈がざわついてるみたいですね。ということで……\n\nクリプトン\"公認\"初音ミク亜種、骸音シーエですこんばんは\n来年にはフィギュアも出ます。もちろんクリプトンさん公認です\n\n少なくともこのラインまでは許させるらしいですよ\n\n#骸音シーエ https://t.co/uNyvUUYp0w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 1063,
+          "like_count": 13286,
+          "listed_count": 2,
+          "media_count": 434,
+          "tweet_count": 3891
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-16T12:21:30.000Z",
+        "description": "サァァァァァイ！Deinoオリジナルキャラ「シーエ」との公式アカウントです。「細菌汚染」に出てたヤツですよ。初音ミクの服を着てると骸音シーエになります\n主に誰得知識と下ネタツイート、皆さんが描いてくれたイラストのリツートをします\nシーエ関連のツイート（ファンアート含む）→#シーエ\n\nあと何かVtuberも始めました",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 140,
+                "start": 136,
+                "tag": "シーエ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/Calcium_bot",
+                "end": 23,
+                "expanded_url": "https://twpf.jp/Calcium_bot",
+                "start": 0,
+                "url": "https://t.co/B4Eh9yv2Bq"
+              }
+            ]
+          }
+        },
+        "id": "494001525",
+        "location": "和室",
+        "name": "シーエ公式",
+        "pinned_tweet_id": "1980941255053029588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1101149993140772864/q355YAki_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30268,
+          "following_count": 20358,
+          "like_count": 982,
+          "listed_count": 265,
+          "media_count": 24874,
+          "tweet_count": 239562
+        },
+        "url": "https://t.co/B4Eh9yv2Bq",
+        "username": "Calcium_bot",
+        "verified": false
+      }
+    ]
+  }
+}

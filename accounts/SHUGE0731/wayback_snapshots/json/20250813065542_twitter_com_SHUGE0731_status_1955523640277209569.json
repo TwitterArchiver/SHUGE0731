@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955447742182068225"
+      ],
+      "media_source_tweet_id": [
+        "1955447747483672771"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1955523640277209569",
+    "created_at": "2025-08-13T06:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T07:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955523640277209569"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "笠松",
+          "probability": 0.5225,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 26,
+          "tag": "wplace"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1443202719062261762",
+          "start": 3,
+          "username": "Eishin_Flash77"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/35SnM8MFp1",
+          "end": 57,
+          "expanded_url": "https://x.com/Eishin_Flash77/status/1955447747483672771/photo/1",
+          "media_key": "3_1955447742182068225",
+          "start": 34,
+          "url": "https://t.co/35SnM8MFp1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955523640277209569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1291
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955447747483672771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Eishin_Flash77: 笠松すご！\n#wplace https://t.co/35SnM8MFp1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1955447742182068225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyMlXHGaEAEX_Ld.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955447742182068225"
+          ],
+          "media_source_tweet_id": [
+            "1955447747483672771"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1955523640277209569",
+        "created_at": "2025-08-13T06:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T07:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955523640277209569"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "笠松",
+              "probability": 0.5225,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 26,
+              "tag": "wplace"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1443202719062261762",
+              "start": 3,
+              "username": "Eishin_Flash77"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/35SnM8MFp1",
+              "end": 57,
+              "expanded_url": "https://x.com/Eishin_Flash77/status/1955447747483672771/photo/1",
+              "media_key": "3_1955447742182068225",
+              "start": 34,
+              "url": "https://t.co/35SnM8MFp1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955523640277209569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1291
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955447747483672771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Eishin_Flash77: 笠松すご！\n#wplace https://t.co/35SnM8MFp1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955447742182068225"
+          ]
+        },
+        "author_id": "1443202719062261762",
+        "conversation_id": "1955447747483672771",
+        "created_at": "2025-08-13T01:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T02:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955447747483672771"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "笠松",
+              "probability": 0.5795,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 6,
+              "tag": "wplace"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/35SnM8MFp1",
+              "end": 37,
+              "expanded_url": "https://x.com/Eishin_Flash77/status/1955447747483672771/photo/1",
+              "media_key": "3_1955447742182068225",
+              "start": 14,
+              "url": "https://t.co/35SnM8MFp1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955447747483672771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 622,
+          "impression_count": 115211,
+          "like_count": 11289,
+          "quote_count": 13,
+          "reply_count": 9,
+          "retweet_count": 1291
+        },
+        "reply_settings": "everyone",
+        "text": "笠松すご！\n#wplace https://t.co/35SnM8MFp1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 974,
+          "like_count": 8643,
+          "listed_count": 1,
+          "media_count": 273,
+          "tweet_count": 1795
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-29T13:15:25.000Z",
+        "description": "#エイシンフラッシュ #一生エイシンフラッシュ推し アイコンは@karoro3rd 様から許可を貰って使用させていただいています 無言フォロー失礼します エイシンフラッシュ推しです エイシンフラッシュに人生を捧げると決めたエイシンフラッシュの事が大好きなフラッシュガチ恋トレーナー お別れはブロ解で",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "エイシンフラッシュ"
+              },
+              {
+                "end": 25,
+                "start": 11,
+                "tag": "一生エイシンフラッシュ推し"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "karoro3rd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "EishinFlash.kawaisugi.com",
+                "end": 23,
+                "expanded_url": "http://EishinFlash.kawaisugi.com",
+                "start": 0,
+                "url": "https://t.co/WcnYUK8D5R"
+              }
+            ]
+          }
+        },
+        "id": "1443202719062261762",
+        "location": "フラッシュのトレーナー",
+        "name": "Ogoma🇩🇪フラッシュ専属🐞",
+        "pinned_tweet_id": "1563492011562262529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603988227471605760/wwXnoHgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6801,
+          "following_count": 7056,
+          "like_count": 130006,
+          "listed_count": 45,
+          "media_count": 9330,
+          "tweet_count": 60973
+        },
+        "url": "https://t.co/WcnYUK8D5R",
+        "username": "Eishin_Flash77",
+        "verified": false
+      }
+    ]
+  }
+}

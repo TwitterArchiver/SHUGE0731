@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2009471101781541013",
+    "created_at": "2026-01-09T14:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T15:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009637087298064744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1927085982521655296",
+          "start": 0,
+          "username": "Q9435669749939"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009637087298064744",
+    "in_reply_to_user_id": "1927085982521655296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009602490866839642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Q9435669749939 很有道理🤔干脆停止思考好了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2009471101781541013",
+        "created_at": "2026-01-09T14:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T15:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009637087298064744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1927085982521655296",
+              "start": 0,
+              "username": "Q9435669749939"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009637087298064744",
+        "in_reply_to_user_id": "1927085982521655296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009602490866839642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Q9435669749939 很有道理🤔干脆停止思考好了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927085982521655296",
+        "conversation_id": "2009471101781541013",
+        "created_at": "2026-01-09T12:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T13:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009602490866839642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009602490866839642",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009471101781541013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 看过一个说法\n自杀的人到底是想通了还是没想通？\n是不愿再想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 997,
+          "like_count": 17702,
+          "listed_count": 3,
+          "media_count": 518,
+          "tweet_count": 6065
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T19:34:56.000Z",
+        "description": "愚者千面，游戏人间",
+        "id": "1927085982521655296",
+        "name": "一人千役",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983688168730980357/0Yh89qA5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 33,
+          "like_count": 382,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 527
+        },
+        "username": "Q9435669749939",
+        "verified": false
+      }
+    ]
+  }
+}

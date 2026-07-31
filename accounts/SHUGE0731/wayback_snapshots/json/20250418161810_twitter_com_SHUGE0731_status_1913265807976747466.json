@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913044289979838465"
+      ],
+      "media_source_tweet_id": [
+        "1913044292475523258"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1913265807976747466",
+    "created_at": "2025-04-18T16:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T17:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913265807976747466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1902824122654097408",
+          "start": 3,
+          "username": "pimpimpurim"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oiy5wjxlbk",
+          "end": 40,
+          "expanded_url": "https://x.com/pimpimpurim/status/1913044292475523258/photo/1",
+          "media_key": "3_1913044289979838465",
+          "start": 17,
+          "url": "https://t.co/oiy5wjxlbk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913265807976747466",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913044292475523258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pimpimpurim: https://t.co/oiy5wjxlbk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 486,
+        "media_key": "3_1913044289979838465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gox_pV_WcAEDjYE.jpg",
+        "width": 630
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913044289979838465"
+          ],
+          "media_source_tweet_id": [
+            "1913044292475523258"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1913265807976747466",
+        "created_at": "2025-04-18T16:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T17:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913265807976747466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1902824122654097408",
+              "start": 3,
+              "username": "pimpimpurim"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oiy5wjxlbk",
+              "end": 40,
+              "expanded_url": "https://x.com/pimpimpurim/status/1913044292475523258/photo/1",
+              "media_key": "3_1913044289979838465",
+              "start": 17,
+              "url": "https://t.co/oiy5wjxlbk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913265807976747466",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913044292475523258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pimpimpurim: https://t.co/oiy5wjxlbk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913044289979838465"
+          ]
+        },
+        "author_id": "1902824122654097408",
+        "conversation_id": "1913044292475523258",
+        "created_at": "2025-04-18T01:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T02:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913044292475523258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oiy5wjxlbk",
+              "end": 23,
+              "expanded_url": "https://x.com/pimpimpurim/status/1913044292475523258/photo/1",
+              "media_key": "3_1913044289979838465",
+              "start": 0,
+              "url": "https://t.co/oiy5wjxlbk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913044292475523258",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 2779,
+          "like_count": 206,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oiy5wjxlbk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 913,
+          "like_count": 6642,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 1452
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T20:46:47.000Z",
+        "description": "Επειδή είμαι ένα χαριτωμένο αγόρι 'too moe for this world'",
+        "id": "1902824122654097408",
+        "name": "pimpim",
+        "pinned_tweet_id": "1912208993998545384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912588862523670528/s6MmMeWh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 45,
+          "like_count": 303,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 140
+        },
+        "username": "pimpimpurim",
+        "verified": false
+      }
+    ]
+  }
+}

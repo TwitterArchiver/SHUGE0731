@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1847604030073393152"
+      ],
+      "media_source_tweet_id": [
+        "1847604034502611031"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "1847898812536275405",
+    "created_at": "2024-10-20T07:13:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T08:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847898812536275405"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "初音ミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1692841793224953856",
+          "start": 3,
+          "username": "Rick_Nami"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SlpabYOrgP",
+          "end": 52,
+          "expanded_url": "https://x.com/Rick_Nami/status/1847604034502611031/photo/1",
+          "media_key": "3_1847604030073393152",
+          "start": 29,
+          "url": "https://t.co/SlpabYOrgP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847898812536275405",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2241
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847604034502611031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rick_Nami: 紅葉ミク🍁🍇\n\n#初音ミク https://t.co/SlpabYOrgP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1847604030073393152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaQCE4oa0AAYnpV.jpg",
+        "width": 1443
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847604030073393152"
+          ],
+          "media_source_tweet_id": [
+            "1847604034502611031"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1847898812536275405",
+        "created_at": "2024-10-20T07:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T08:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847898812536275405"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1692841793224953856",
+              "start": 3,
+              "username": "Rick_Nami"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SlpabYOrgP",
+              "end": 52,
+              "expanded_url": "https://x.com/Rick_Nami/status/1847604034502611031/photo/1",
+              "media_key": "3_1847604030073393152",
+              "start": 29,
+              "url": "https://t.co/SlpabYOrgP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847898812536275405",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2241
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847604034502611031",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rick_Nami: 紅葉ミク🍁🍇\n\n#初音ミク https://t.co/SlpabYOrgP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847604030073393152"
+          ]
+        },
+        "author_id": "1692841793224953856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1847604034502611031",
+        "created_at": "2024-10-19T11:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T12:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847604034502611031"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SlpabYOrgP",
+              "end": 37,
+              "expanded_url": "https://x.com/Rick_Nami/status/1847604034502611031/photo/1",
+              "media_key": "3_1847604030073393152",
+              "start": 14,
+              "url": "https://t.co/SlpabYOrgP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847604034502611031",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1132,
+          "impression_count": 284942,
+          "like_count": 25200,
+          "quote_count": 23,
+          "reply_count": 10,
+          "retweet_count": 2241
+        },
+        "reply_settings": "everyone",
+        "text": "紅葉ミク🍁🍇\n\n#初音ミク https://t.co/SlpabYOrgP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 688,
+          "like_count": 2467,
+          "listed_count": 0,
+          "tweet_count": 461
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-19T10:13:59.000Z",
+        "description": "無断使用・AI学習❌ミクさん描きます🖋️🩵",
+        "id": "1692841793224953856",
+        "name": "Nami",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747412097817063425/RSHO5vqx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 725,
+          "like_count": 2942,
+          "listed_count": 13,
+          "tweet_count": 257
+        },
+        "username": "Rick_Nami",
+        "verified": false
+      }
+    ]
+  }
+}

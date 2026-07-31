@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965401599460999180"
+      ],
+      "media_source_tweet_id": [
+        "1965401668033675426"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      }
+    ],
+    "conversation_id": "1965586428928426233",
+    "created_at": "2025-09-10T01:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T02:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965586428928426233"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 32,
+          "tag": "ウマ娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "874968477970210819",
+          "start": 3,
+          "username": "himawari_himuka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wxJpkOiRYW",
+          "end": 60,
+          "expanded_url": "https://x.com/himawari_himuka/status/1965401668033675426/photo/1",
+          "media_key": "3_1965401599460999180",
+          "start": 37,
+          "url": "https://t.co/wxJpkOiRYW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965586428928426233",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2524
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965401668033675426",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @himawari_himuka: スティルインラブ♥️ #ウマ娘 https://t.co/wxJpkOiRYW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965401599460999180",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0aCV3DbgAw6d1d.jpg",
+        "width": 1395
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965401599460999180"
+          ],
+          "media_source_tweet_id": [
+            "1965401668033675426"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "1965586428928426233",
+        "created_at": "2025-09-10T01:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T02:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965586428928426233"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "ウマ娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "874968477970210819",
+              "start": 3,
+              "username": "himawari_himuka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wxJpkOiRYW",
+              "end": 60,
+              "expanded_url": "https://x.com/himawari_himuka/status/1965401668033675426/photo/1",
+              "media_key": "3_1965401599460999180",
+              "start": 37,
+              "url": "https://t.co/wxJpkOiRYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965586428928426233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2524
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965401668033675426",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @himawari_himuka: スティルインラブ♥️ #ウマ娘 https://t.co/wxJpkOiRYW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965401599460999180"
+          ]
+        },
+        "author_id": "874968477970210819",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "1965401668033675426",
+        "created_at": "2025-09-09T13:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T14:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965401668033675426"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "ウマ娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wxJpkOiRYW",
+              "end": 39,
+              "expanded_url": "https://x.com/himawari_himuka/status/1965401668033675426/photo/1",
+              "media_key": "3_1965401599460999180",
+              "start": 16,
+              "url": "https://t.co/wxJpkOiRYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965401668033675426",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1407,
+          "impression_count": 157268,
+          "like_count": 13428,
+          "quote_count": 10,
+          "reply_count": 7,
+          "retweet_count": 2524
+        },
+        "reply_settings": "everyone",
+        "text": "スティルインラブ♥️ #ウマ娘 https://t.co/wxJpkOiRYW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 有一只牡丹鹦鹉叫uno！｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 1000,
+          "like_count": 9041,
+          "listed_count": 2,
+          "media_count": 286,
+          "tweet_count": 1899
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-14T12:35:16.000Z",
+        "description": "ひむです。楽器大好き絵描き🫧#ひむの楽器ウマ娘妄想 【サブ▶︎@himukasub】 【Skeb▶︎ https://t.co/rjK45Bo9uH 】 【ﾌﾟﾛﾌｨｰﾙとﾘﾝｸ色々▶︎ https://t.co/gKJ2wievfn 】",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 14,
+                "tag": "ひむの楽器ウマ娘妄想"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "himukasub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@himawari_himu…",
+                "end": 74,
+                "expanded_url": "https://skeb.jp/@himawari_himuka",
+                "start": 51,
+                "url": "https://t.co/rjK45Bo9uH"
+              },
+              {
+                "display_url": "lit.link/himawarihimuka",
+                "end": 117,
+                "expanded_url": "https://lit.link/himawarihimuka",
+                "start": 94,
+                "url": "https://t.co/gKJ2wievfn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "melonbooks.co.jp/circle/index.p…",
+                "end": 23,
+                "expanded_url": "https://www.melonbooks.co.jp/circle/index.php?circle_id=129580",
+                "start": 0,
+                "url": "https://t.co/jKw3AApiBL"
+              }
+            ]
+          }
+        },
+        "id": "874968477970210819",
+        "location": "オーボエ吹き♬(アマチュア) / 依頼・Skeb受付停止中",
+        "name": "ひまわり ひむか🌻",
+        "pinned_tweet_id": "1963898303873224797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619305377836990465/OYjvNSK9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17882,
+          "following_count": 692,
+          "like_count": 79941,
+          "listed_count": 245,
+          "media_count": 303,
+          "tweet_count": 8963
+        },
+        "url": "https://t.co/jKw3AApiBL",
+        "username": "himawari_himuka",
+        "verified": false
+      }
+    ]
+  }
+}

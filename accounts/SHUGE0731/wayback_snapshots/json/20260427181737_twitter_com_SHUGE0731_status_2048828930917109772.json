@@ -1,0 +1,683 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048764887455977472",
+        "3_2048764899334217728",
+        "3_2048764912533651456",
+        "3_2048765583139950593"
+      ],
+      "media_source_tweet_id": [
+        "2048765736055968189",
+        "2048765736055968189",
+        "2048765736055968189",
+        "2048765736055968189"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2048828930917109772",
+    "created_at": "2026-04-27T18:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T19:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048828930917109772"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 47,
+          "tag": "Arknights"
+        },
+        {
+          "end": 65,
+          "start": 58,
+          "tag": "アークナイツ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1129882365642399744",
+          "start": 3,
+          "username": "mcmeao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p0BATakzpz",
+          "end": 89,
+          "expanded_url": "https://x.com/mcmeao/status/2048765736055968189/photo/1",
+          "media_key": "3_2048764887455977472",
+          "start": 66,
+          "url": "https://t.co/p0BATakzpz"
+        },
+        {
+          "display_url": "pic.x.com/p0BATakzpz",
+          "end": 89,
+          "expanded_url": "https://x.com/mcmeao/status/2048765736055968189/photo/1",
+          "media_key": "3_2048764899334217728",
+          "start": 66,
+          "url": "https://t.co/p0BATakzpz"
+        },
+        {
+          "display_url": "pic.x.com/p0BATakzpz",
+          "end": 89,
+          "expanded_url": "https://x.com/mcmeao/status/2048765736055968189/photo/1",
+          "media_key": "3_2048764912533651456",
+          "start": 66,
+          "url": "https://t.co/p0BATakzpz"
+        },
+        {
+          "display_url": "pic.x.com/p0BATakzpz",
+          "end": 89,
+          "expanded_url": "https://x.com/mcmeao/status/2048765736055968189/photo/1",
+          "media_key": "3_2048765583139950593",
+          "start": 66,
+          "url": "https://t.co/p0BATakzpz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048828930917109772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048765736055968189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mcmeao: 负责绘制了黑流树海PV中的2D美术素材，非常感谢PV团队老师的指导！ #Arknights #アークナイツ https://t.co/p0BATakzpz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1300,
+        "media_key": "3_2048764887455977472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6sz3EbUAArQ_X.jpg",
+        "width": 1300
+      },
+      {
+        "height": 1300,
+        "media_key": "3_2048764899334217728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6s0jUa4AAuzNW.jpg",
+        "width": 1300
+      },
+      {
+        "height": 1300,
+        "media_key": "3_2048764912533651456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6s1UfaQAAIokR.jpg",
+        "width": 1300
+      },
+      {
+        "height": 1108,
+        "media_key": "3_2048765583139950593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6tcWsaUAETUlA.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048764887455977472",
+            "3_2048764899334217728",
+            "3_2048764912533651456",
+            "3_2048765583139950593"
+          ],
+          "media_source_tweet_id": [
+            "2048765736055968189",
+            "2048765736055968189",
+            "2048765736055968189",
+            "2048765736055968189"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2048828930917109772",
+        "created_at": "2026-04-27T18:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T19:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048828930917109772"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 47,
+              "tag": "Arknights"
+            },
+            {
+              "end": 65,
+              "start": 58,
+              "tag": "アークナイツ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1129882365642399744",
+              "start": 3,
+              "username": "mcmeao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p0BATakzpz",
+              "end": 89,
+              "expanded_url": "https://x.com/mcmeao/status/2048765736055968189/photo/1",
+              "media_key": "3_2048764887455977472",
+              "start": 66,
+              "url": "https://t.co/p0BATakzpz"
+            },
+            {
+              "display_url": "pic.x.com/p0BATakzpz",
+              "end": 89,
+              "expanded_url": "https://x.com/mcmeao/status/2048765736055968189/photo/1",
+              "media_key": "3_2048764899334217728",
+              "start": 66,
+              "url": "https://t.co/p0BATakzpz"
+            },
+            {
+              "display_url": "pic.x.com/p0BATakzpz",
+              "end": 89,
+              "expanded_url": "https://x.com/mcmeao/status/2048765736055968189/photo/1",
+              "media_key": "3_2048764912533651456",
+              "start": 66,
+              "url": "https://t.co/p0BATakzpz"
+            },
+            {
+              "display_url": "pic.x.com/p0BATakzpz",
+              "end": 89,
+              "expanded_url": "https://x.com/mcmeao/status/2048765736055968189/photo/1",
+              "media_key": "3_2048765583139950593",
+              "start": 66,
+              "url": "https://t.co/p0BATakzpz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048828930917109772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048765736055968189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mcmeao: 负责绘制了黑流树海PV中的2D美术素材，非常感谢PV团队老师的指导！ #Arknights #アークナイツ https://t.co/p0BATakzpz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048764887455977472",
+            "3_2048764899334217728",
+            "3_2048764912533651456",
+            "3_2048765583139950593"
+          ]
+        },
+        "author_id": "1129882365642399744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2048765736055968189",
+        "created_at": "2026-04-27T14:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048765736055968189"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 35,
+              "tag": "Arknights"
+            },
+            {
+              "end": 53,
+              "start": 46,
+              "tag": "アークナイツ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p0BATakzpz",
+              "end": 77,
+              "expanded_url": "https://x.com/mcmeao/status/2048765736055968189/photo/1",
+              "media_key": "3_2048764887455977472",
+              "start": 54,
+              "url": "https://t.co/p0BATakzpz"
+            },
+            {
+              "display_url": "pic.x.com/p0BATakzpz",
+              "end": 77,
+              "expanded_url": "https://x.com/mcmeao/status/2048765736055968189/photo/1",
+              "media_key": "3_2048764899334217728",
+              "start": 54,
+              "url": "https://t.co/p0BATakzpz"
+            },
+            {
+              "display_url": "pic.x.com/p0BATakzpz",
+              "end": 77,
+              "expanded_url": "https://x.com/mcmeao/status/2048765736055968189/photo/1",
+              "media_key": "3_2048764912533651456",
+              "start": 54,
+              "url": "https://t.co/p0BATakzpz"
+            },
+            {
+              "display_url": "pic.x.com/p0BATakzpz",
+              "end": 77,
+              "expanded_url": "https://x.com/mcmeao/status/2048765736055968189/photo/1",
+              "media_key": "3_2048765583139950593",
+              "start": 54,
+              "url": "https://t.co/p0BATakzpz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048765736055968189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 4217,
+          "like_count": 359,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "负责绘制了黑流树海PV中的2D美术素材，非常感谢PV团队老师的指导！ #Arknights #アークナイツ https://t.co/p0BATakzpz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 1084,
+          "like_count": 27242,
+          "listed_count": 4,
+          "media_count": 639,
+          "tweet_count": 9442
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-18T22:52:02.000Z",
+        "description": "= Meao/一猫 | Freelance Illustrator: Avaliable for work! | 请勿转载 do not repost | Work email: meaodraws@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mcmeao.com",
+                "end": 23,
+                "expanded_url": "https://mcmeao.com",
+                "start": 0,
+                "url": "https://t.co/q7J5wpycjx"
+              }
+            ]
+          }
+        },
+        "id": "1129882365642399744",
+        "location": "🇨🇳",
+        "name": "Meao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1418876834264100864/6tp3Vfjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48850,
+          "following_count": 346,
+          "like_count": 2839,
+          "listed_count": 379,
+          "media_count": 486,
+          "tweet_count": 1689
+        },
+        "url": "https://t.co/q7J5wpycjx",
+        "username": "mcmeao",
+        "verified": false
+      }
+    ]
+  }
+}

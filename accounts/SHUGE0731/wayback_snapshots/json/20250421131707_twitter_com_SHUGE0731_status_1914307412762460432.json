@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1856909146576359715",
+    "created_at": "2025-04-21T13:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T14:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914307412762460432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1177007765493100544",
+          "start": 0,
+          "username": "xiaokaotu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914307412762460432",
+    "in_reply_to_user_id": "1177007765493100544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914288398971675083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaokaotu 有人养的hhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1856909146576359715",
+        "created_at": "2025-04-21T13:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T14:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914307412762460432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1177007765493100544",
+              "start": 0,
+              "username": "xiaokaotu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914307412762460432",
+        "in_reply_to_user_id": "1177007765493100544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914288398971675083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaokaotu 有人养的hhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1177007765493100544",
+        "conversation_id": "1856909146576359715",
+        "created_at": "2025-04-21T12:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T13:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914288398971675083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914288398971675083",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856909146576359715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 哇，可爱，这是你们那里的吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 914,
+          "like_count": 6799,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 1475
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-25T23:51:44.000Z",
+        "description": "我只想你快乐",
+        "id": "1177007765493100544",
+        "location": "Los Angeles, CA",
+        "name": "小烤兔",
+        "pinned_tweet_id": "1914193022826512536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530597125662208000/cz0DPr8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2501,
+          "following_count": 242,
+          "like_count": 16945,
+          "listed_count": 15,
+          "media_count": 16,
+          "tweet_count": 613
+        },
+        "username": "xiaokaotu",
+        "verified": false
+      }
+    ]
+  }
+}

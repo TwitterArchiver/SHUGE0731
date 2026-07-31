@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924894188958842882"
+      ],
+      "media_source_tweet_id": [
+        "1924894209166938543"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1925247135483928594",
+    "created_at": "2025-05-21T17:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T18:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925247135483928594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1050566307140124672",
+          "start": 3,
+          "username": "Karma6211"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3akYF8oIST",
+          "end": 42,
+          "expanded_url": "https://x.com/Karma6211/status/1924894209166938543/photo/1",
+          "media_key": "3_1924894188958842882",
+          "start": 19,
+          "url": "https://t.co/3akYF8oIST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925247135483928594",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 151
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924894209166938543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Karma6211: wip https://t.co/3akYF8oIST"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 985,
+        "media_key": "3_1924894188958842882",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GraZEPsbAAIP4YF.png",
+        "width": 1118
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924894188958842882"
+          ],
+          "media_source_tweet_id": [
+            "1924894209166938543"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1925247135483928594",
+        "created_at": "2025-05-21T17:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T18:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925247135483928594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1050566307140124672",
+              "start": 3,
+              "username": "Karma6211"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3akYF8oIST",
+              "end": 42,
+              "expanded_url": "https://x.com/Karma6211/status/1924894209166938543/photo/1",
+              "media_key": "3_1924894188958842882",
+              "start": 19,
+              "url": "https://t.co/3akYF8oIST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925247135483928594",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 151
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924894209166938543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Karma6211: wip https://t.co/3akYF8oIST"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924894188958842882"
+          ]
+        },
+        "author_id": "1050566307140124672",
+        "conversation_id": "1924894209166938543",
+        "created_at": "2025-05-20T18:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T19:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924894209166938543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3akYF8oIST",
+              "end": 27,
+              "expanded_url": "https://x.com/Karma6211/status/1924894209166938543/photo/1",
+              "media_key": "3_1924894188958842882",
+              "start": 4,
+              "url": "https://t.co/3akYF8oIST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924894209166938543",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 257,
+          "impression_count": 29594,
+          "like_count": 2067,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 151
+        },
+        "reply_settings": "following",
+        "text": "wip https://t.co/3akYF8oIST"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 933,
+          "like_count": 7698,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 1599
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-12T01:58:21.000Z",
+        "description": "cute girls and tummys\nsometimes nsfw retweets / vert few nsfw contents\nno AI plz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/karma6…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/karma621.bsky.social",
+                "start": 0,
+                "url": "https://t.co/xNVw196BSo"
+              }
+            ]
+          }
+        },
+        "id": "1050566307140124672",
+        "location": "People's Republic of China",
+        "name": "Karma621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1457063417890496516/DsoDSvbE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34172,
+          "following_count": 6088,
+          "like_count": 20002,
+          "listed_count": 306,
+          "media_count": 784,
+          "tweet_count": 9162
+        },
+        "url": "https://t.co/xNVw196BSo",
+        "username": "Karma6211",
+        "verified": true
+      }
+    ]
+  }
+}

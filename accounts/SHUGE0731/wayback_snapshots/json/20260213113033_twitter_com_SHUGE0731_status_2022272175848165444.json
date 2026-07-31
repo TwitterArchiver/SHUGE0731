@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2022262475979477154",
+    "created_at": "2026-02-13T11:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T12:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022272175848165444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1358061535340290048",
+          "start": 0,
+          "username": "Uni_btt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022272175848165444",
+    "in_reply_to_user_id": "1358061535340290048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022262475979477154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Uni_btt 但是超可爱…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11801,
+        "height": 1280,
+        "media_key": "13_2022262393913643008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022262393913643008/img/EzXIG_uASU5o8h3G.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022262393913643008/vid/avc1/320x568/YjCOMcU4Uq9qgvMg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022262393913643008/vid/avc1/480x852/oRtaMTUR5GtcD0Yv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022262393913643008/vid/avc1/720x1280/t3mTLgMbRd7YxgAS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022262393913643008/pl/xcDsAkZQNYTQCzHP.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2022262475979477154",
+        "created_at": "2026-02-13T11:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022272175848165444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1358061535340290048",
+              "start": 0,
+              "username": "Uni_btt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022272175848165444",
+        "in_reply_to_user_id": "1358061535340290048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022262475979477154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Uni_btt 但是超可爱…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022262393913643008"
+          ]
+        },
+        "author_id": "1358061535340290048",
+        "conversation_id": "2022262475979477154",
+        "created_at": "2026-02-13T10:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T11:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022262475979477154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cg2C1oDu17",
+              "end": 32,
+              "expanded_url": "https://x.com/Uni_btt/status/2022262475979477154/video/1",
+              "media_key": "13_2022262393913643008",
+              "start": 9,
+              "url": "https://t.co/Cg2C1oDu17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022262475979477154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我做手势舞非常呆 https://t.co/Cg2C1oDu17"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 973,
+          "like_count": 20529,
+          "listed_count": 3,
+          "media_count": 559,
+          "tweet_count": 7296
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-06T14:34:47.000Z",
+        "description": "已成年 / 妈妈   @kanakosama0223f",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "kanakosama0223f"
+              }
+            ]
+          }
+        },
+        "id": "1358061535340290048",
+        "location": "垃圾堆",
+        "name": "🎀扁桃體🗑️😿momoko",
+        "pinned_tweet_id": "2003597089046147143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998865969494765570/Cqz1u5ja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10731,
+          "following_count": 522,
+          "like_count": 11689,
+          "listed_count": 16,
+          "media_count": 1559,
+          "tweet_count": 11469
+        },
+        "username": "Uni_btt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1983058311537955069",
+    "created_at": "2025-10-29T10:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T11:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983485637899759755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "4577117415",
+          "start": 0,
+          "username": "sissychinkyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983485637899759755",
+    "in_reply_to_user_id": "4577117415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983480769193591237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sissychinkyao 谢谢！😽❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1983058311537955069",
+        "created_at": "2025-10-29T10:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T11:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983485637899759755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "4577117415",
+              "start": 0,
+              "username": "sissychinkyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983485637899759755",
+        "in_reply_to_user_id": "4577117415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983480769193591237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sissychinkyao 谢谢！😽❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4577117415",
+        "conversation_id": "1983058311537955069",
+        "created_at": "2025-10-29T10:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T11:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983480769193591237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983480769193591237",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983058311537955069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 好好看！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 |  中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 1026,
+          "like_count": 10677,
+          "listed_count": 2,
+          "media_count": 352,
+          "tweet_count": 2562
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-23T09:45:23.000Z",
+        "description": "NSFW\n伪娘/摄影/数码\n间歇性发情，持续性性冷淡\n来自小男娘的二手炮机，应该如何取悦欧姆弥赛亚？",
+        "id": "4577117415",
+        "name": "织瑶",
+        "pinned_tweet_id": "1848529755089293458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793133379283779584/knGNFK-R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 176,
+          "like_count": 67812,
+          "listed_count": 7,
+          "media_count": 138,
+          "tweet_count": 5429
+        },
+        "username": "sissychinkyao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004856491896176640"
+      ],
+      "media_source_tweet_id": [
+        "2004856499856965962"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2004891545837994464",
+    "created_at": "2025-12-27T12:26:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T13:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004891545837994464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1381178244498513921",
+          "start": 3,
+          "username": "sawararado"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PaPOkUu5oi",
+          "end": 46,
+          "expanded_url": "https://x.com/sawararado/status/2004856499856965962/photo/1",
+          "media_key": "3_2004856491896176640",
+          "start": 23,
+          "url": "https://t.co/PaPOkUu5oi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004891545837994464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 114
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004856499856965962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sawararado: 射命丸wip https://t.co/PaPOkUu5oi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1066,
+        "media_key": "3_2004856491896176640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9KuW3EbgAATCGI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004856491896176640"
+          ],
+          "media_source_tweet_id": [
+            "2004856499856965962"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2004891545837994464",
+        "created_at": "2025-12-27T12:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T13:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004891545837994464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1381178244498513921",
+              "start": 3,
+              "username": "sawararado"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PaPOkUu5oi",
+              "end": 46,
+              "expanded_url": "https://x.com/sawararado/status/2004856499856965962/photo/1",
+              "media_key": "3_2004856491896176640",
+              "start": 23,
+              "url": "https://t.co/PaPOkUu5oi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004891545837994464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004856499856965962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sawararado: 射命丸wip https://t.co/PaPOkUu5oi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004856491896176640"
+          ]
+        },
+        "author_id": "1381178244498513921",
+        "conversation_id": "2004856499856965962",
+        "created_at": "2025-12-27T10:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T11:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004856499856965962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PaPOkUu5oi",
+              "end": 30,
+              "expanded_url": "https://x.com/sawararado/status/2004856499856965962/photo/1",
+              "media_key": "3_2004856491896176640",
+              "start": 7,
+              "url": "https://t.co/PaPOkUu5oi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004856499856965962",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 14561,
+          "like_count": 1205,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "射命丸wip https://t.co/PaPOkUu5oi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1000,
+          "like_count": 15861,
+          "listed_count": 3,
+          "media_count": 489,
+          "tweet_count": 5140
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-11T09:32:43.000Z",
+        "description": "イラスト練習してます 東方やポケモン、創作キャラを主に描きます ⚠️無断転載、AI学習等禁止skeb→ https://t.co/zlOQXOd3zJ ✉️→sawararado@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@sawararado",
+                "end": 75,
+                "expanded_url": "https://skeb.jp/@sawararado",
+                "start": 52,
+                "url": "https://t.co/zlOQXOd3zJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sawararado",
+                "end": 23,
+                "expanded_url": "https://lit.link/sawararado",
+                "start": 0,
+                "url": "https://t.co/KsREihirTy"
+              }
+            ]
+          }
+        },
+        "id": "1381178244498513921",
+        "location": "コーギー",
+        "name": "さわららど",
+        "pinned_tweet_id": "1928028495327727946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810869996027006979/8x3h28Ed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31345,
+          "following_count": 223,
+          "like_count": 385567,
+          "listed_count": 237,
+          "media_count": 78,
+          "tweet_count": 1042
+        },
+        "url": "https://t.co/KsREihirTy",
+        "username": "sawararado",
+        "verified": false
+      }
+    ]
+  }
+}

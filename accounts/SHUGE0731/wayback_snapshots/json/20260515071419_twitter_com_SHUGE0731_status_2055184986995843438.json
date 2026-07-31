@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2054937681663279134",
+    "created_at": "2026-05-15T07:14:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T08:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055184986995843438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1548471557873610752",
+          "start": 0,
+          "username": "In2dTt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055184986995843438",
+    "in_reply_to_user_id": "1548471557873610752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054937681663279134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@In2dTt 为什么这么可爱…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17900,
+        "height": 970,
+        "media_key": "13_2054937611689693184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054937611689693184/img/o41OpQbYY9brgtTx.jpg",
+        "public_metrics": {
+          "view_count": 489
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054937611689693184/vid/avc1/320x430/M1UXH7e6UfhOuq4S.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054937611689693184/vid/avc1/480x646/sov3_cTki4HtwTvR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054937611689693184/vid/avc1/720x970/smnq2TBBAjOZ-Jf7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054937611689693184/pl/Ct6iR-JiboD_vETd.m3u8?v=e49"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2054937681663279134",
+        "created_at": "2026-05-15T07:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055184986995843438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1548471557873610752",
+              "start": 0,
+              "username": "In2dTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055184986995843438",
+        "in_reply_to_user_id": "1548471557873610752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054937681663279134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@In2dTt 为什么这么可爱…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054937611689693184"
+          ]
+        },
+        "author_id": "1548471557873610752",
+        "conversation_id": "2054937681663279134",
+        "created_at": "2026-05-14T14:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054937681663279134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZYwb7USaDT",
+              "end": 28,
+              "expanded_url": "https://x.com/In2dTt/status/2054937681663279134/video/1",
+              "media_key": "13_2054937611689693184",
+              "start": 5,
+              "url": "https://t.co/ZYwb7USaDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054937681663279134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1201,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "电波电波 https://t.co/ZYwb7USaDT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 1108,
+          "like_count": 28498,
+          "listed_count": 4,
+          "media_count": 664,
+          "tweet_count": 9801
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-17T00:56:28.000Z",
+        "description": "電子狸貓水是一種外星生物寄生後的病理性名稱 狸貓會以電波的形式寄生於人體水分 所以被寄生的人類會有百分之七十的狸貓和僅存百分之三十的人類 人格轉換",
+        "id": "1548471557873610752",
+        "location": "世纪末端之界裂之结界处(^_^) ",
+        "name": "電子狸貓水tanuki👾",
+        "pinned_tweet_id": "2054207822053994984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411063511175168/3sLHHg2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28985,
+          "following_count": 293,
+          "like_count": 10644,
+          "listed_count": 26,
+          "media_count": 872,
+          "tweet_count": 3219
+        },
+        "username": "In2dTt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1807550680682680365",
+    "created_at": "2024-07-01T01:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-01T02:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807587970523726188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1291988176496545792",
+          "start": 0,
+          "username": "Vox35112635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807587970523726188",
+    "in_reply_to_user_id": "1291988176496545792",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807550680682680365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vox35112635 好好放假～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1807550680682680365",
+        "created_at": "2024-07-01T01:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T02:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807587970523726188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291988176496545792",
+              "start": 0,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807587970523726188",
+        "in_reply_to_user_id": "1291988176496545792",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807550680682680365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vox35112635 好好放假～"
+      },
+      {
+        "attachments": {},
+        "author_id": "1291988176496545792",
+        "conversation_id": "1807550680682680365",
+        "created_at": "2024-06-30T23:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T00:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807550680682680365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807550680682680365",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7138,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 82,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "七月大家有什么想做到的小目标"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 423,
+          "like_count": 508,
+          "listed_count": 0,
+          "tweet_count": 73
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "备用小号@Kingggg54809864/抖音号：32625516049/没有小红书/随便玩玩/现在会接一点有偿转发/付费交友委托/主流游戏陪玩服务/加vx随缘给门槛就好了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "Kingggg54809864"
+              }
+            ]
+          }
+        },
+        "id": "1291988176496545792",
+        "location": "沙发床上",
+        "name": "跑调的毕加索",
+        "pinned_tweet_id": "1803561904364986582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152691,
+          "following_count": 491,
+          "like_count": 506,
+          "listed_count": 189,
+          "tweet_count": 8297
+        },
+        "username": "Vox35112635",
+        "verified": false
+      }
+    ]
+  }
+}

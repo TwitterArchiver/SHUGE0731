@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014154471060979712"
+      ],
+      "media_source_tweet_id": [
+        "2014156416467313132"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2014187574210797581",
+    "created_at": "2026-01-22T04:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T05:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014187574210797581"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "アルデリアちゃん",
+          "probability": 0.8588,
+          "start": 40,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 67,
+          "start": 58,
+          "tag": "エンドフィールド"
+        },
+        {
+          "end": 86,
+          "start": 68,
+          "tag": "ArknightsEndfield"
+        },
+        {
+          "end": 95,
+          "start": 87,
+          "tag": "明日方舟終末地"
+        },
+        {
+          "end": 105,
+          "start": 96,
+          "tag": "명일방주엔드필드"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "99054535",
+          "start": 3,
+          "username": "Anmi_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FukI0Ftzsu",
+          "end": 129,
+          "expanded_url": "https://x.com/Anmi_/status/2014156416467313132/photo/1",
+          "media_key": "3_2014154471060979712",
+          "start": 106,
+          "url": "https://t.co/FukI0Ftzsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014187574210797581",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3005
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014156416467313132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Anmi_: アークナイツエンドフィールドリリースおめでとうございます。アルデリアちゃんに会いに行く！！🐏\n#エンドフィールド #ArknightsEndfield #明日方舟終末地 #명일방주엔드필드 https://t.co/FukI0Ftzsu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2014154471060979712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_O20epawAAsio9.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014154471060979712"
+          ],
+          "media_source_tweet_id": [
+            "2014156416467313132"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014187574210797581",
+        "created_at": "2026-01-22T04:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T05:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014187574210797581"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "アルデリアちゃん",
+              "probability": 0.8588,
+              "start": 40,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 58,
+              "tag": "エンドフィールド"
+            },
+            {
+              "end": 86,
+              "start": 68,
+              "tag": "ArknightsEndfield"
+            },
+            {
+              "end": 95,
+              "start": 87,
+              "tag": "明日方舟終末地"
+            },
+            {
+              "end": 105,
+              "start": 96,
+              "tag": "명일방주엔드필드"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "99054535",
+              "start": 3,
+              "username": "Anmi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FukI0Ftzsu",
+              "end": 129,
+              "expanded_url": "https://x.com/Anmi_/status/2014156416467313132/photo/1",
+              "media_key": "3_2014154471060979712",
+              "start": 106,
+              "url": "https://t.co/FukI0Ftzsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014187574210797581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3005
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014156416467313132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Anmi_: アークナイツエンドフィールドリリースおめでとうございます。アルデリアちゃんに会いに行く！！🐏\n#エンドフィールド #ArknightsEndfield #明日方舟終末地 #명일방주엔드필드 https://t.co/FukI0Ftzsu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014154471060979712"
+          ]
+        },
+        "author_id": "99054535",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014156416467313132",
+        "created_at": "2026-01-22T02:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T03:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014156416467313132"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "アルデリアちゃん",
+              "probability": 0.8557,
+              "start": 29,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 47,
+              "tag": "エンドフィールド"
+            },
+            {
+              "end": 75,
+              "start": 57,
+              "tag": "ArknightsEndfield"
+            },
+            {
+              "end": 84,
+              "start": 76,
+              "tag": "明日方舟終末地"
+            },
+            {
+              "end": 94,
+              "start": 85,
+              "tag": "명일방주엔드필드"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FukI0Ftzsu",
+              "end": 118,
+              "expanded_url": "https://x.com/Anmi_/status/2014156416467313132/photo/1",
+              "media_key": "3_2014154471060979712",
+              "start": 95,
+              "url": "https://t.co/FukI0Ftzsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014156416467313132",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1025,
+          "impression_count": 156402,
+          "like_count": 9521,
+          "quote_count": 45,
+          "reply_count": 36,
+          "retweet_count": 3005
+        },
+        "reply_settings": "everyone",
+        "text": "アークナイツエンドフィールドリリースおめでとうございます。アルデリアちゃんに会いに行く！！🐏\n#エンドフィールド #ArknightsEndfield #明日方舟終末地 #명일방주엔드필드 https://t.co/FukI0Ftzsu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 994,
+          "like_count": 18027,
+          "listed_count": 3,
+          "media_count": 528,
+          "tweet_count": 6396
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-24T07:22:38.000Z",
+        "description": "画集「Crystal Clear」ahnanmi@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/anmi_",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/anmi_",
+                "start": 0,
+                "url": "https://t.co/lTPMxV3Gus"
+              }
+            ]
+          }
+        },
+        "id": "99054535",
+        "location": "ファンタジスタッ都",
+        "name": "Anmi@夏コミ新刊委託中",
+        "pinned_tweet_id": "1953758585306943709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1556269168223141888/szg117NA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717290,
+          "following_count": 794,
+          "like_count": 7594,
+          "listed_count": 7144,
+          "media_count": 674,
+          "tweet_count": 15300
+        },
+        "url": "https://t.co/lTPMxV3Gus",
+        "username": "Anmi_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1835348003617718718",
+    "created_at": "2024-09-16T09:28:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T10:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835611811212841046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1831294274782281728",
+          "start": 0,
+          "username": "zxcvbnm72997"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835611811212841046",
+    "in_reply_to_user_id": "1831294274782281728",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835611105676185945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zxcvbnm72997 做不到😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1835348003617718718",
+        "created_at": "2024-09-16T09:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T10:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835611811212841046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1831294274782281728",
+              "start": 0,
+              "username": "zxcvbnm72997"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835611811212841046",
+        "in_reply_to_user_id": "1831294274782281728",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835611105676185945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxcvbnm72997 做不到😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831294274782281728",
+        "conversation_id": "1835348003617718718",
+        "created_at": "2024-09-16T09:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T10:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835611105676185945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835611105676185945",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835348003617718718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 为什么不分手?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 587,
+          "like_count": 1762,
+          "listed_count": 0,
+          "tweet_count": 277
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T11:33:21.000Z",
+        "description": "",
+        "id": "1831294274782281728",
+        "name": "zxcvbnm",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 81,
+          "like_count": 32,
+          "listed_count": 0,
+          "tweet_count": 1
+        },
+        "username": "zxcvbnm72997",
+        "verified": false
+      }
+    ]
+  }
+}

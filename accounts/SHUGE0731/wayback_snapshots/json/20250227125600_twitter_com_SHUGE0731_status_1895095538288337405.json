@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895088338853330944",
+        "3_1895088339738329088",
+        "3_1895088338459336705"
+      ],
+      "media_source_tweet_id": [
+        "1895088378670100968",
+        "1895088378670100968",
+        "1895088378670100968"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1895095538288337405",
+    "created_at": "2025-02-27T12:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T13:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895095538288337405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1822652017241886720",
+          "start": 3,
+          "username": "dooropenatnight"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ctN5zcCXoS",
+          "end": 100,
+          "expanded_url": "https://x.com/dooropenatnight/status/1895088378670100968/photo/1",
+          "media_key": "3_1895088338853330944",
+          "start": 77,
+          "url": "https://t.co/ctN5zcCXoS"
+        },
+        {
+          "display_url": "pic.x.com/ctN5zcCXoS",
+          "end": 100,
+          "expanded_url": "https://x.com/dooropenatnight/status/1895088378670100968/photo/1",
+          "media_key": "3_1895088339738329088",
+          "start": 77,
+          "url": "https://t.co/ctN5zcCXoS"
+        },
+        {
+          "display_url": "pic.x.com/ctN5zcCXoS",
+          "end": 100,
+          "expanded_url": "https://x.com/dooropenatnight/status/1895088378670100968/photo/1",
+          "media_key": "3_1895088338459336705",
+          "start": 77,
+          "url": "https://t.co/ctN5zcCXoS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895095538288337405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895088378670100968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dooropenatnight: 漂流银计划启动！一张火车票的钱，来玩来见你！我买个小相机拍纪录片，请大家多多转发支持小银！微博b站：十银火星十 https://t.co/ctN5zcCXoS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1895095538288337405].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1895095538288337405",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1895095538288337405"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1348,
+        "media_key": "3_1895088338853330944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gky0zbdWgAAFtWh.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1524,
+        "media_key": "3_1895088339738329088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gky0zewWgAAogTm.jpg",
+        "width": 1118
+      },
+      {
+        "height": 1680,
+        "media_key": "3_1895088338459336705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gky0zZ_aoAEPufD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895088338853330944",
+            "3_1895088339738329088",
+            "3_1895088338459336705"
+          ]
+        },
+        "author_id": "1822652017241886720",
+        "conversation_id": "1895088378670100968",
+        "created_at": "2025-02-27T12:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T13:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895088378670100968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ctN5zcCXoS",
+              "end": 79,
+              "expanded_url": "https://x.com/dooropenatnight/status/1895088378670100968/photo/1",
+              "media_key": "3_1895088338853330944",
+              "start": 56,
+              "url": "https://t.co/ctN5zcCXoS"
+            },
+            {
+              "display_url": "pic.x.com/ctN5zcCXoS",
+              "end": 79,
+              "expanded_url": "https://x.com/dooropenatnight/status/1895088378670100968/photo/1",
+              "media_key": "3_1895088339738329088",
+              "start": 56,
+              "url": "https://t.co/ctN5zcCXoS"
+            },
+            {
+              "display_url": "pic.x.com/ctN5zcCXoS",
+              "end": 79,
+              "expanded_url": "https://x.com/dooropenatnight/status/1895088378670100968/photo/1",
+              "media_key": "3_1895088338459336705",
+              "start": 56,
+              "url": "https://t.co/ctN5zcCXoS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895088378670100968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "漂流银计划启动！一张火车票的钱，来玩来见你！我买个小相机拍纪录片，请大家多多转发支持小银！微博b站：十银火星十 https://t.co/ctN5zcCXoS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 869,
+          "like_count": 5348,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1179
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T15:11:43.000Z",
+        "description": "我是银",
+        "id": "1822652017241886720",
+        "name": "金属制廉价银河",
+        "pinned_tweet_id": "1895088378670100968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874836691581902848/E9xbbdwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 85,
+          "like_count": 1886,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 285
+        },
+        "username": "dooropenatnight",
+        "verified": false
+      }
+    ]
+  }
+}

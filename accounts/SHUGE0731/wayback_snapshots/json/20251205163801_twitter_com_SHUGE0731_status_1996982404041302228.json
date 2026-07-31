@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1996982404041302228",
+    "created_at": "2025-12-05T16:38:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T17:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996982404041302228"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1996731246077214946",
+          "start": 26,
+          "url": "https://t.co/o7VdpCSoRR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996982404041302228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996731246077214946",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我靠 好震撼 有一种魔幻现实主义和公路电影的荒诞感 https://t.co/o7VdpCSoRR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12027,
+        "height": 848,
+        "media_key": "13_1996704025857671168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996704025857671168/img/8hStfU2hu9x02KLw.jpg",
+        "public_metrics": {
+          "view_count": 93880
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996704025857671168/vid/avc1/320x564/XlzEPTPtF24d6O5N.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996704025857671168/vid/avc1/480x848/KZujI6ohSjR2-yqU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996704025857671168/pl/sX5Av-N6bliSkpak.m3u8?v=cfc"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1996982404041302228",
+        "created_at": "2025-12-05T16:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T17:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996982404041302228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1996731246077214946",
+              "start": 26,
+              "url": "https://t.co/o7VdpCSoRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996982404041302228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996731246077214946",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠 好震撼 有一种魔幻现实主义和公路电影的荒诞感 https://t.co/o7VdpCSoRR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996704025857671168"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1996731246077214946",
+        "created_at": "2025-12-05T00:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T01:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996731246077214946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KLqy3faWgM",
+              "end": 108,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1996731246077214946/video/1",
+              "media_key": "13_1996704025857671168",
+              "start": 85,
+              "url": "https://t.co/KLqy3faWgM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996731246077214946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 149632,
+          "like_count": 916,
+          "quote_count": 6,
+          "reply_count": 53,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "“逃离山东”\n12月3日，广东揭阳。有网友拍到一名身着道袍的男子，站在被四只哈士奇和阿拉斯加犬拉动、悬挂着“济宁老爷强拆”，“逃离山东”巨型标语的三轮车上，在街头飞驰。 https://t.co/KLqy3faWgM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 1058,
+          "like_count": 12622,
+          "listed_count": 2,
+          "media_count": 410,
+          "tweet_count": 3485
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1991824796930187302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152320,
+          "following_count": 983,
+          "like_count": 8404,
+          "listed_count": 8414,
+          "media_count": 38149,
+          "tweet_count": 45042
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

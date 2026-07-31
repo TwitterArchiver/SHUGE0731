@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942162375366291456"
+      ],
+      "media_source_tweet_id": [
+        "1942162395776078221"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1942594845270479338",
+    "created_at": "2025-07-08T14:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T15:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942594845270479338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "903247512114311170",
+          "start": 3,
+          "username": "mashiroKta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5MDVNzLNSZ",
+          "end": 55,
+          "expanded_url": "https://x.com/mashiroKta/status/1942162395776078221/photo/1",
+          "media_key": "3_1942162375366291456",
+          "start": 32,
+          "url": "https://t.co/5MDVNzLNSZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942594845270479338",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1814
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942162395776078221",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mashiroKta: 777 LUCKY GIRL？ https://t.co/5MDVNzLNSZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1942162375366291456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvPyY-_WMAAQkUc.jpg",
+        "width": 2339
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942162375366291456"
+          ],
+          "media_source_tweet_id": [
+            "1942162395776078221"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1942594845270479338",
+        "created_at": "2025-07-08T14:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T15:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942594845270479338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "903247512114311170",
+              "start": 3,
+              "username": "mashiroKta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5MDVNzLNSZ",
+              "end": 55,
+              "expanded_url": "https://x.com/mashiroKta/status/1942162395776078221/photo/1",
+              "media_key": "3_1942162375366291456",
+              "start": 32,
+              "url": "https://t.co/5MDVNzLNSZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942594845270479338",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1814
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942162395776078221",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mashiroKta: 777 LUCKY GIRL？ https://t.co/5MDVNzLNSZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942162375366291456"
+          ]
+        },
+        "author_id": "903247512114311170",
+        "conversation_id": "1942162395776078221",
+        "created_at": "2025-07-07T10:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T11:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942162395776078221"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "777",
+              "probability": 0.5116,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 8,
+              "normalized_text": "LUCKY",
+              "probability": 0.3573,
+              "start": 4,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5MDVNzLNSZ",
+              "end": 39,
+              "expanded_url": "https://x.com/mashiroKta/status/1942162395776078221/photo/1",
+              "media_key": "3_1942162375366291456",
+              "start": 16,
+              "url": "https://t.co/5MDVNzLNSZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942162395776078221",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2947,
+          "impression_count": 335560,
+          "like_count": 26326,
+          "quote_count": 11,
+          "reply_count": 13,
+          "retweet_count": 1814
+        },
+        "reply_settings": "everyone",
+        "text": "777 LUCKY GIRL？ https://t.co/5MDVNzLNSZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 954,
+          "like_count": 8342,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 1722
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-31T13:26:03.000Z",
+        "description": "✉︎mashirokta@gメール（ご依頼は企業様のみ）■FANBOX→https://t.co/esbe7UKvJD ■デザイン:星屑ぷらね 月草かなで ■7th作品集→ https://t.co/RD3fdII4TU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mashiro-kta.fanbox.cc",
+                "end": 59,
+                "expanded_url": "https://mashiro-kta.fanbox.cc",
+                "start": 36,
+                "url": "https://t.co/esbe7UKvJD"
+              },
+              {
+                "display_url": "melonbooks.co.jp/detail/detail.…",
+                "end": 110,
+                "expanded_url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=2683711",
+                "start": 87,
+                "url": "https://t.co/RD3fdII4TU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/24088410",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/24088410",
+                "start": 0,
+                "url": "https://t.co/RLksjAvJlM"
+              }
+            ]
+          }
+        },
+        "id": "903247512114311170",
+        "name": "真白K大@C106日曜日南j24ab",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729799469196288001/qj7GMQ3x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207522,
+          "following_count": 373,
+          "like_count": 13345,
+          "listed_count": 1696,
+          "media_count": 279,
+          "tweet_count": 8169
+        },
+        "url": "https://t.co/RLksjAvJlM",
+        "username": "mashiroKta",
+        "verified": true
+      }
+    ]
+  }
+}

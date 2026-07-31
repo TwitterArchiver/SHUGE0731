@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055936916898664448"
+      ],
+      "media_source_tweet_id": [
+        "2055936924888785371"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2055996113132593489",
+    "created_at": "2026-05-17T12:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T13:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055996113132593489"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 24,
+          "tag": "久遠寺有珠"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "807055164695662593",
+          "start": 3,
+          "username": "KAYA_kaya430"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nXvNLZoEnJ",
+          "end": 54,
+          "expanded_url": "https://x.com/KAYA_kaya430/status/2055936924888785371/photo/1",
+          "media_key": "3_2055936916898664448",
+          "start": 31,
+          "url": "https://t.co/nXvNLZoEnJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055996113132593489",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 793
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055936924888785371",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KAYA_kaya430: Alice #久遠寺有珠 https://t.co/nXvNLZoEnJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055936916898664448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgnu6xbUAARlT7.jpg",
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055936916898664448"
+          ],
+          "media_source_tweet_id": [
+            "2055936924888785371"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2055996113132593489",
+        "created_at": "2026-05-17T12:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055996113132593489"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 24,
+              "tag": "久遠寺有珠"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "807055164695662593",
+              "start": 3,
+              "username": "KAYA_kaya430"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nXvNLZoEnJ",
+              "end": 54,
+              "expanded_url": "https://x.com/KAYA_kaya430/status/2055936924888785371/photo/1",
+              "media_key": "3_2055936916898664448",
+              "start": 31,
+              "url": "https://t.co/nXvNLZoEnJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055996113132593489",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 793
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055936924888785371",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KAYA_kaya430: Alice #久遠寺有珠 https://t.co/nXvNLZoEnJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055936916898664448"
+          ]
+        },
+        "author_id": "807055164695662593",
+        "conversation_id": "2055936924888785371",
+        "created_at": "2026-05-17T09:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055936924888785371"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "久遠寺有珠"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nXvNLZoEnJ",
+              "end": 36,
+              "expanded_url": "https://x.com/KAYA_kaya430/status/2055936924888785371/photo/1",
+              "media_key": "3_2055936916898664448",
+              "start": 13,
+              "url": "https://t.co/nXvNLZoEnJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055936924888785371",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 416,
+          "impression_count": 46465,
+          "like_count": 4362,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 793
+        },
+        "reply_settings": "everyone",
+        "text": "Alice #久遠寺有珠 https://t.co/nXvNLZoEnJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 1112,
+          "like_count": 28721,
+          "listed_count": 4,
+          "media_count": 668,
+          "tweet_count": 9860
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-09T02:52:00.000Z",
+        "description": "-秩序菜喵kaya-/weibo：https://t.co/UKP40LknPB /🍠秩序菜喵/ 不授權印刷/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/2286823474",
+                "end": 40,
+                "expanded_url": "https://weibo.com/u/2286823474",
+                "start": 17,
+                "url": "https://t.co/UKP40LknPB"
+              }
+            ]
+          }
+        },
+        "id": "807055164695662593",
+        "name": "✨KAYA_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837469929253359622/rJvMv7RL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109981,
+          "following_count": 235,
+          "like_count": 370,
+          "listed_count": 670,
+          "media_count": 153,
+          "tweet_count": 270
+        },
+        "username": "KAYA_kaya430",
+        "verified": false
+      }
+    ]
+  }
+}

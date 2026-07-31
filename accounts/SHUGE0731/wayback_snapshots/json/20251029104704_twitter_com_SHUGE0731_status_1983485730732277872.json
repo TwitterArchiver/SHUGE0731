@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1983378171262276028",
+    "created_at": "2025-10-29T10:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T11:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983485730732277872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1761433627299315712",
+          "start": 0,
+          "username": "oiqxpio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983485730732277872",
+    "in_reply_to_user_id": "1761433627299315712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983484334607888789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oiqxpio 好的！我去试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1983378171262276028",
+        "created_at": "2025-10-29T10:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T11:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983485730732277872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1761433627299315712",
+              "start": 0,
+              "username": "oiqxpio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983485730732277872",
+        "in_reply_to_user_id": "1761433627299315712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983484334607888789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oiqxpio 好的！我去试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761433627299315712",
+        "conversation_id": "1983378171262276028",
+        "created_at": "2025-10-29T10:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T11:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983484334607888789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983484334607888789",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983378171262276028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 可以用 notebook lm 试试，能生成梗概和思维导图。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 |  中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 1026,
+          "like_count": 10678,
+          "listed_count": 2,
+          "media_count": 352,
+          "tweet_count": 2563
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T16:51:32.000Z",
+        "description": "还不明白吗？",
+        "id": "1761433627299315712",
+        "location": "比尔特沃夫",
+        "name": "苔藓球",
+        "pinned_tweet_id": "1790064694989914186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811322591912861696/ru4ePI2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 50,
+          "like_count": 208,
+          "listed_count": 1,
+          "media_count": 467,
+          "tweet_count": 1667
+        },
+        "username": "oiqxpio",
+        "verified": false
+      }
+    ]
+  }
+}

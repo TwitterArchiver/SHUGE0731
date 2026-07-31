@@ -1,0 +1,588 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1905579856009535911",
+    "created_at": "2025-03-28T11:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T12:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905579856009535911"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "Arknights",
+          "probability": 0.721,
+          "start": 17,
+          "type": "Other"
+        },
+        {
+          "end": 46,
+          "normalized_text": "AmbienceSynesthesia",
+          "probability": 0.5558,
+          "start": 28,
+          "type": "Other"
+        },
+        {
+          "end": 103,
+          "normalized_text": "Blooms of Time",
+          "probability": 0.9481,
+          "start": 90,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "Arknights"
+        },
+        {
+          "end": 47,
+          "start": 27,
+          "tag": "AmbienceSynesthesia"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1268049461768413184",
+          "start": 3,
+          "username": "ruoganzhua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905579856009535911",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1121
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905549560719835372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ruoganzhua: #Arknights #AmbienceSynesthesia \nProud to have created the key visual for Blooms of Time! Let's celebrate the 5th Anniversa…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1905549348920066050",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnHfCWxbgAIzI_u.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1905579856009535911",
+        "created_at": "2025-03-28T11:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T12:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905579856009535911"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "Arknights",
+              "probability": 0.721,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 46,
+              "normalized_text": "AmbienceSynesthesia",
+              "probability": 0.5558,
+              "start": 28,
+              "type": "Other"
+            },
+            {
+              "end": 103,
+              "normalized_text": "Blooms of Time",
+              "probability": 0.9481,
+              "start": 90,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "Arknights"
+            },
+            {
+              "end": 47,
+              "start": 27,
+              "tag": "AmbienceSynesthesia"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1268049461768413184",
+              "start": 3,
+              "username": "ruoganzhua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905579856009535911",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1121
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905549560719835372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ruoganzhua: #Arknights #AmbienceSynesthesia \nProud to have created the key visual for Blooms of Time! Let's celebrate the 5th Anniversa…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905549348920066050"
+          ]
+        },
+        "author_id": "1268049461768413184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1905549560719835372",
+        "created_at": "2025-03-28T09:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T10:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905549560719835372"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Arknights",
+              "probability": 0.6331,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 30,
+              "normalized_text": "AmbienceSynesthesia",
+              "probability": 0.7253,
+              "start": 12,
+              "type": "Other"
+            },
+            {
+              "end": 87,
+              "normalized_text": "Blooms of Time",
+              "probability": 0.9647,
+              "start": 74,
+              "type": "Other"
+            },
+            {
+              "end": 148,
+              "normalized_text": "Ambience Synesthesia",
+              "probability": 0.9339,
+              "start": 129,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "Arknights"
+            },
+            {
+              "end": 31,
+              "start": 11,
+              "tag": "AmbienceSynesthesia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m052Hpvsyn",
+              "end": 198,
+              "expanded_url": "https://x.com/ruoganzhua/status/1905549560719835372/photo/1",
+              "media_key": "3_1905549348920066050",
+              "start": 175,
+              "url": "https://t.co/m052Hpvsyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905549560719835372",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 492,
+          "impression_count": 67574,
+          "like_count": 3412,
+          "quote_count": 34,
+          "reply_count": 14,
+          "retweet_count": 1121
+        },
+        "reply_settings": "everyone",
+        "text": "#Arknights #AmbienceSynesthesia \nProud to have created the key visual for Blooms of Time! Let's celebrate the 5th Anniversary of Ambience Synesthesia together, May 1–4, 2025! https://t.co/m052Hpvsyn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 888,
+          "like_count": 5916,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 1302
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-03T05:18:55.000Z",
+        "description": "",
+        "id": "1268049461768413184",
+        "name": "若干爪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708807688388571136/uFjw7umX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116665,
+          "following_count": 359,
+          "like_count": 946,
+          "listed_count": 834,
+          "media_count": 70,
+          "tweet_count": 296
+        },
+        "username": "ruoganzhua",
+        "verified": false
+      }
+    ]
+  }
+}

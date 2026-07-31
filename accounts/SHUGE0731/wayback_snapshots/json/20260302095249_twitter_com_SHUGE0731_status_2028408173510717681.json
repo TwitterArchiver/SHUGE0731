@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028385893908946944"
+      ],
+      "media_source_tweet_id": [
+        "2028385897310523655"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2028408173510717681",
+    "created_at": "2026-03-02T09:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T10:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028408173510717681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1069968408",
+          "start": 3,
+          "username": "acidvaccine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5oudlfIN5H",
+          "end": 65,
+          "expanded_url": "https://x.com/acidvaccine/status/2028385897310523655/photo/1",
+          "media_key": "3_2028385893908946944",
+          "start": 42,
+          "url": "https://t.co/5oudlfIN5H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028408173510717681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028385897310523655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acidvaccine: 派对 o&gt;_&lt;o 北京 猫咪的诞生日 https://t.co/5oudlfIN5H"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2028408173510717681].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2028408173510717681",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2028408173510717681"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2009,
+        "media_key": "3_2028385893908946944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZGOUHbIAAIvVf.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028385893908946944"
+          ]
+        },
+        "author_id": "1069968408",
+        "conversation_id": "2028385897310523655",
+        "created_at": "2026-03-02T08:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028385897310523655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5oudlfIN5H",
+              "end": 48,
+              "expanded_url": "https://x.com/acidvaccine/status/2028385897310523655/photo/1",
+              "media_key": "3_2028385893908946944",
+              "start": 25,
+              "url": "https://t.co/5oudlfIN5H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028385897310523655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "派对 o&gt;_&lt;o 北京 猫咪的诞生日 https://t.co/5oudlfIN5H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ 最最亲爱的恋人&主人 @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 1001,
+          "like_count": 22844,
+          "listed_count": 3,
+          "media_count": 583,
+          "tweet_count": 8095
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-08T04:37:06.000Z",
+        "description": "@SickG33024 /  China.\nphotograph art commissions open.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "SickG33024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sickgirl.xyz",
+                "end": 23,
+                "expanded_url": "http://sickgirl.xyz",
+                "start": 0,
+                "url": "https://t.co/mu0ah4FUvZ"
+              }
+            ]
+          }
+        },
+        "id": "1069968408",
+        "name": "Sickgirl 疫瞄 ⁾⁾ ༘☼ฅ˒˒ ｡・ﾟ",
+        "pinned_tweet_id": "1615671407421296640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023034235922321408/yjNJ7OXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10558,
+          "following_count": 636,
+          "like_count": 1807,
+          "listed_count": 29,
+          "media_count": 629,
+          "tweet_count": 1532
+        },
+        "url": "https://t.co/mu0ah4FUvZ",
+        "username": "acidvaccine",
+        "verified": false
+      }
+    ]
+  }
+}

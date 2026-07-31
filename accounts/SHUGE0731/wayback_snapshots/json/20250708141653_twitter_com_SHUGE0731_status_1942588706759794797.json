@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942433806700429313"
+      ],
+      "media_source_tweet_id": [
+        "1942433812228759988"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1942588706759794797",
+    "created_at": "2025-07-08T14:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T15:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942588706759794797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3140679366",
+          "start": 3,
+          "username": "rare_jpg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AAKCefLNuk",
+          "end": 37,
+          "expanded_url": "https://x.com/rare_jpg/status/1942433812228759988/photo/1",
+          "media_key": "3_1942433806700429313",
+          "start": 14,
+          "url": "https://t.co/AAKCefLNuk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942588706759794797",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1076
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942433812228759988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rare_jpg: https://t.co/AAKCefLNuk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1942433806700429313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvTpQXgWwAEenNL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942433806700429313"
+          ],
+          "media_source_tweet_id": [
+            "1942433812228759988"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1942588706759794797",
+        "created_at": "2025-07-08T14:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T15:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942588706759794797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3140679366",
+              "start": 3,
+              "username": "rare_jpg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AAKCefLNuk",
+              "end": 37,
+              "expanded_url": "https://x.com/rare_jpg/status/1942433812228759988/photo/1",
+              "media_key": "3_1942433806700429313",
+              "start": 14,
+              "url": "https://t.co/AAKCefLNuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942588706759794797",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1076
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942433812228759988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rare_jpg: https://t.co/AAKCefLNuk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942433806700429313"
+          ]
+        },
+        "author_id": "3140679366",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1942433812228759988",
+        "created_at": "2025-07-08T04:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T05:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942433812228759988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AAKCefLNuk",
+              "end": 23,
+              "expanded_url": "https://x.com/rare_jpg/status/1942433812228759988/photo/1",
+              "media_key": "3_1942433806700429313",
+              "start": 0,
+              "url": "https://t.co/AAKCefLNuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942433812228759988",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1539,
+          "impression_count": 313333,
+          "like_count": 20854,
+          "quote_count": 21,
+          "reply_count": 15,
+          "retweet_count": 1076
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AAKCefLNuk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 952,
+          "like_count": 8336,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 1721
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-05T20:50:17.000Z",
+        "description": "the internet.",
+        "id": "3140679366",
+        "location": "🌐",
+        "name": "rare.jpg",
+        "pinned_tweet_id": "1942320717871341889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854365475003920384/mbml_UNx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79196,
+          "following_count": 232,
+          "like_count": 1816,
+          "listed_count": 155,
+          "media_count": 939,
+          "tweet_count": 963
+        },
+        "username": "rare_jpg",
+        "verified": true
+      }
+    ]
+  }
+}

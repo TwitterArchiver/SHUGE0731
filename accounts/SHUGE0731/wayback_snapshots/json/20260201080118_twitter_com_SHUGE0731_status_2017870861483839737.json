@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2017771967563370578",
+    "created_at": "2026-02-01T08:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T09:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017870861483839737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1992652354320216064",
+          "start": 0,
+          "username": "yoyori_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017870861483839737",
+    "in_reply_to_user_id": "1992652354320216064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017771967563370578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoyori_01 真的很感慨啊…这个游戏太强了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30020,
+        "height": 720,
+        "media_key": "13_2017771898428641280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017771898428641280/img/W8EvpXoswcz5tDMX.jpg",
+        "public_metrics": {
+          "view_count": 1572
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017771898428641280/vid/avc1/320x320/J740omTcdiLL5eFt.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017771898428641280/vid/avc1/540x540/2_moitIWnvfExPaM.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017771898428641280/vid/avc1/720x720/tWZypBJtomS9-1Xq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017771898428641280/pl/2jF8o5-P0SQyjViA.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2017771967563370578",
+        "created_at": "2026-02-01T08:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T09:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017870861483839737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1992652354320216064",
+              "start": 0,
+              "username": "yoyori_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017870861483839737",
+        "in_reply_to_user_id": "1992652354320216064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017771967563370578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyori_01 真的很感慨啊…这个游戏太强了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017771898428641280"
+          ]
+        },
+        "author_id": "1992652354320216064",
+        "conversation_id": "2017771967563370578",
+        "created_at": "2026-02-01T01:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T02:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017771967563370578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g5beDUTM2S",
+              "end": 158,
+              "expanded_url": "https://x.com/yoyori_01/status/2017771967563370578/video/1",
+              "media_key": "13_2017771898428641280",
+              "start": 135,
+              "url": "https://t.co/g5beDUTM2S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017771967563370578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3628,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我又在玩林老师做的文游😢\n这是最让我难受的结局，玩到这个结局的时候正好手机里的音乐播到了这首歌。\n相比来说个人或者用其他手段维持现在无论是开明还是威严独裁，这种则让我感到更加后怕和悲哀，因为谁也不知道我们现在所处的这个时代，未来会不会在结束在历史上留下过去淡淡的一笔。 https://t.co/g5beDUTM2S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 966,
+          "like_count": 18982,
+          "listed_count": 3,
+          "media_count": 542,
+          "tweet_count": 6763
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T17:52:07.000Z",
+        "description": "第二人格 此号会发一堆废话  @hazuki8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "hazuki8964"
+              }
+            ]
+          }
+        },
+        "id": "1992652354320216064",
+        "name": "よよリ",
+        "pinned_tweet_id": "2016550384597405738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992652587242536960/McVaXhgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 80,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 107
+        },
+        "username": "yoyori_01",
+        "verified": false
+      }
+    ]
+  }
+}

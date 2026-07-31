@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783350882985385984",
+          "name": "Home - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168894730781904896",
+          "name": "NITORI"
+        }
+      }
+    ],
+    "conversation_id": "1973361929445056602",
+    "created_at": "2025-10-01T12:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T13:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973361929445056602"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/012_shiro/stat…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/012_shiro/status/1973236417989054648",
+          "start": 27,
+          "url": "https://t.co/XTErsGV7lc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973361929445056602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973236417989054648",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽 我需要这个 要是脖子那儿能够再贴紧一点就更好了 https://t.co/XTErsGV7lc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1235,
+        "media_key": "3_1973236411802509312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2JYD9da4AA26m7.jpg",
+        "width": 1235
+      },
+      {
+        "height": 1320,
+        "media_key": "3_1973236411831820288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2JYD9kaIAAHhV_.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168894730781904896",
+              "name": "NITORI"
+            }
+          }
+        ],
+        "conversation_id": "1973361929445056602",
+        "created_at": "2025-10-01T12:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T13:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973361929445056602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/012_shiro/stat…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/012_shiro/status/1973236417989054648",
+              "start": 27,
+              "url": "https://t.co/XTErsGV7lc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973361929445056602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973236417989054648",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽 我需要这个 要是脖子那儿能够再贴紧一点就更好了 https://t.co/XTErsGV7lc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973236411802509312",
+            "3_1973236411831820288"
+          ]
+        },
+        "author_id": "1051320775343407104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168894730781904896",
+              "name": "NITORI"
+            }
+          }
+        ],
+        "conversation_id": "1973236417989054648",
+        "created_at": "2025-10-01T03:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T04:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973236417989054648"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "ニトリさん",
+              "probability": 0.5849,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PP521FmoqR",
+              "end": 48,
+              "expanded_url": "https://x.com/012_shiro/status/1973236417989054648/photo/1",
+              "media_key": "3_1973236411802509312",
+              "start": 25,
+              "url": "https://t.co/PP521FmoqR"
+            },
+            {
+              "display_url": "pic.x.com/PP521FmoqR",
+              "end": 48,
+              "expanded_url": "https://x.com/012_shiro/status/1973236417989054648/photo/1",
+              "media_key": "3_1973236411831820288",
+              "start": 25,
+              "url": "https://t.co/PP521FmoqR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973236417989054648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10977,
+          "impression_count": 6612949,
+          "like_count": 112612,
+          "quote_count": 2174,
+          "reply_count": 414,
+          "retweet_count": 9157
+        },
+        "reply_settings": "everyone",
+        "text": "ニトリさん、首元スースーしない天才毛布出してきた https://t.co/PP521FmoqR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣  |  中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 1045,
+          "like_count": 9542,
+          "listed_count": 2,
+          "media_count": 306,
+          "tweet_count": 2108
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-14T03:56:20.000Z",
+        "description": "心ときめく購入品やコスメ・インテリアなど🦢🏹インスタのストーリー限定投稿も多め / YouTube更新中🎞️ （サブ垢→ @012_shiro2）https://t.co/2Hhm4Od9nY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "012_shiro2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/012_shiro",
+                "end": 96,
+                "expanded_url": "https://www.instagram.com/012_shiro",
+                "start": 73,
+                "url": "https://t.co/2Hhm4Od9nY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "room.rakuten.co.jp/012_shiro/items",
+                "end": 23,
+                "expanded_url": "https://room.rakuten.co.jp/012_shiro/items",
+                "start": 0,
+                "url": "https://t.co/maHl2y6jgH"
+              }
+            ]
+          }
+        },
+        "id": "1051320775343407104",
+        "location": "楽天ROOM公式ユーザー/Amazonアソシエイト",
+        "name": "白",
+        "pinned_tweet_id": "1964694037858033705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595401950773723136/n_XVZbKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137502,
+          "following_count": 72,
+          "like_count": 28769,
+          "listed_count": 801,
+          "media_count": 10854,
+          "tweet_count": 36508
+        },
+        "url": "https://t.co/maHl2y6jgH",
+        "username": "012_shiro",
+        "verified": true
+      }
+    ]
+  }
+}

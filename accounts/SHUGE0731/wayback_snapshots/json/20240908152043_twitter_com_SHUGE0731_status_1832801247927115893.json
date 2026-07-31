@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1461307133916749827"
+      ],
+      "media_source_tweet_id": [
+        "1461307371951558660"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+          "id": "1010244637770985472",
+          "name": "Neon Genesis Evangelion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1832801247927115893",
+    "created_at": "2024-09-08T15:20:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T16:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832801247927115893"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "Evangelion",
+          "probability": 0.6579,
+          "start": 14,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 13,
+          "tag": "Evangelion"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3302294173",
+          "start": 3,
+          "username": "askziye"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jdwjjgog6y",
+          "end": 55,
+          "expanded_url": "https://twitter.com/askziye/status/1461307371951558660/photo/1",
+          "media_key": "3_1461307133916749827",
+          "start": 32,
+          "url": "https://t.co/jDwJJgoG6Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832801247927115893",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14156
+    },
+    "referenced_tweets": [
+      {
+        "id": "1461307371951558660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @askziye: #Evangelion Always https://t.co/jDwJJgoG6Y"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1832801247927115893].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1832801247927115893",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1832801247927115893"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1294,
+        "media_key": "3_1461307133916749827",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FEebGJDaIAMlbFa.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1461307133916749827"
+          ]
+        },
+        "author_id": "3302294173",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1461307371951558660",
+        "created_at": "2021-11-18T12:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2021-11-18T12:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1461307371951558660"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Evangelion",
+              "probability": 0.6519,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "Evangelion"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jdwjjgog6y",
+              "end": 42,
+              "expanded_url": "https://twitter.com/askziye/status/1461307371951558660/photo/1",
+              "media_key": "3_1461307133916749827",
+              "start": 19,
+              "url": "https://t.co/jDwJJgoG6Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1461307371951558660",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2816,
+          "impression_count": 0,
+          "like_count": 83186,
+          "quote_count": 150,
+          "reply_count": 68,
+          "retweet_count": 14156
+        },
+        "reply_settings": "everyone",
+        "text": "#Evangelion Always https://t.co/jDwJJgoG6Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 576,
+          "like_count": 1643,
+          "listed_count": 0,
+          "tweet_count": 235
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-31T08:31:46.000Z",
+        "description": "メッセージがあまり読まないので、返信はできないかもしれないです 。仕事に関するご連絡はメールでお願いします\naskzy9464@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/askzy",
+                "end": 23,
+                "expanded_url": "https://pixiv.me/askzy",
+                "start": 0,
+                "url": "https://t.co/r7BrvyTtJB"
+              }
+            ]
+          }
+        },
+        "id": "3302294173",
+        "location": "china",
+        "name": "ASK",
+        "pinned_tweet_id": "1759541074568294508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1232862373209231361/XqqCEzXQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800402,
+          "following_count": 98,
+          "like_count": 62,
+          "listed_count": 5776,
+          "tweet_count": 166
+        },
+        "url": "https://t.co/r7BrvyTtJB",
+        "username": "askziye",
+        "verified": true
+      }
+    ]
+  }
+}

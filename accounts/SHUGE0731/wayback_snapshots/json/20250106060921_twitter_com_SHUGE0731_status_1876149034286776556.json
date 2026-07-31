@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1875933548391313408"
+      ],
+      "media_source_tweet_id": [
+        "1875933759696257407"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1876149034286776556",
+    "created_at": "2025-01-06T06:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T07:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876149034286776556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1427998701478285321",
+          "start": 3,
+          "username": "ryaw_2523"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4VhdZ8XIrC",
+          "end": 43,
+          "expanded_url": "https://x.com/ryaw_2523/status/1875933759696257407/photo/1",
+          "media_key": "3_1875933548391313408",
+          "start": 20,
+          "url": "https://t.co/4VhdZ8XIrC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876149034286776556",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 444
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875933759696257407",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ryaw_2523: 集中しろ https://t.co/4VhdZ8XIrC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3600,
+        "media_key": "3_1875933548391313408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gginn4YaMAAvlLe.jpg",
+        "width": 3600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875933548391313408"
+          ],
+          "media_source_tweet_id": [
+            "1875933759696257407"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1876149034286776556",
+        "created_at": "2025-01-06T06:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T07:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876149034286776556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1427998701478285321",
+              "start": 3,
+              "username": "ryaw_2523"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4VhdZ8XIrC",
+              "end": 43,
+              "expanded_url": "https://x.com/ryaw_2523/status/1875933759696257407/photo/1",
+              "media_key": "3_1875933548391313408",
+              "start": 20,
+              "url": "https://t.co/4VhdZ8XIrC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876149034286776556",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 444
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875933759696257407",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ryaw_2523: 集中しろ https://t.co/4VhdZ8XIrC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875933548391313408"
+          ]
+        },
+        "author_id": "1427998701478285321",
+        "conversation_id": "1875933759696257407",
+        "created_at": "2025-01-05T15:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T16:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875933759696257407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4VhdZ8XIrC",
+              "end": 28,
+              "expanded_url": "https://x.com/ryaw_2523/status/1875933759696257407/photo/1",
+              "media_key": "3_1875933548391313408",
+              "start": 5,
+              "url": "https://t.co/4VhdZ8XIrC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875933759696257407",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 713,
+          "impression_count": 124842,
+          "like_count": 7575,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 444
+        },
+        "reply_settings": "everyone",
+        "text": "集中しろ https://t.co/4VhdZ8XIrC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1863243605252690301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 836,
+          "like_count": 4579,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 954
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-18T14:20:08.000Z",
+        "description": "絵描いてます。デジタル",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ryaw.2523?utm_…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/ryaw.2523?utm_medium=copy_link",
+                "start": 0,
+                "url": "https://t.co/212LPLdcpe"
+              }
+            ]
+          }
+        },
+        "id": "1427998701478285321",
+        "location": "福岡 ",
+        "name": "りゃう",
+        "pinned_tweet_id": "1869029090084471201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1492521609470492675/mEMK0ua7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20820,
+          "following_count": 538,
+          "like_count": 2003,
+          "listed_count": 189,
+          "media_count": 223,
+          "tweet_count": 636
+        },
+        "url": "https://t.co/212LPLdcpe",
+        "username": "ryaw_2523",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2049075148746330253",
+    "created_at": "2026-04-28T10:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T11:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049075623231123845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1940190746016976897",
+          "start": 0,
+          "username": "sakarayaner"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049075623231123845",
+    "in_reply_to_user_id": "1940190746016976897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049075148746330253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakarayaner 可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10433,
+        "height": 1280,
+        "media_key": "13_2049075081822040064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049075081822040064/img/3OODlUN0KfTw13k-.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049075081822040064/vid/avc1/320x568/ZQ2ZaC4ezeBvr_0F.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049075081822040064/vid/avc1/480x852/iV4zFLy_SCBBmikg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049075081822040064/vid/avc1/720x1280/lvrrU15tpy4TbR9I.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049075081822040064/pl/ftpr6wR7yoVmI6H-.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2049075148746330253",
+        "created_at": "2026-04-28T10:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049075623231123845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1940190746016976897",
+              "start": 0,
+              "username": "sakarayaner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049075623231123845",
+        "in_reply_to_user_id": "1940190746016976897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049075148746330253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakarayaner 可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049075081822040064"
+          ]
+        },
+        "author_id": "1940190746016976897",
+        "conversation_id": "2049075148746330253",
+        "created_at": "2026-04-28T10:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049075148746330253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uz4fyHic1r",
+              "end": 28,
+              "expanded_url": "https://x.com/sakarayaner/status/2049075148746330253/video/1",
+              "media_key": "13_2049075081822040064",
+              "start": 5,
+              "url": "https://t.co/uz4fyHic1r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049075148746330253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们好。 https://t.co/uz4fyHic1r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 1092,
+          "like_count": 27314,
+          "listed_count": 4,
+          "media_count": 642,
+          "tweet_count": 9462
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T23:28:26.000Z",
+        "description": "i 🩶 uuu so @in2dkira | coser | 舞萌| 不闲聊私信只回口令 | 不接线下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "in2dkira"
+              }
+            ]
+          }
+        },
+        "id": "1940190746016976897",
+        "location": "🚪88/188/520",
+        "name": "sakara648",
+        "pinned_tweet_id": "2041544288291725341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032452412095750145/e_dC_gVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 46,
+          "like_count": 892,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 219
+        },
+        "username": "sakarayaner",
+        "verified": false
+      }
+    ]
+  }
+}

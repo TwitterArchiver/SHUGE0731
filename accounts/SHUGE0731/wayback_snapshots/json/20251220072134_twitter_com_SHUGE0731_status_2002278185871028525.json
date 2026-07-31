@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2002229305649344518"
+      ],
+      "media_source_tweet_id": [
+        "2002229323978453481"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2002278185871028525",
+    "created_at": "2025-12-20T07:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T08:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002278185871028525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1372865424132431873",
+          "start": 3,
+          "username": "mme_daigaku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5YcnshSktD",
+          "end": 50,
+          "expanded_url": "https://x.com/mme_daigaku/status/2002229323978453481/video/1",
+          "media_key": "7_2002229305649344518",
+          "start": 27,
+          "url": "https://t.co/5YcnshSktD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002278185871028525",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 219
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002229323978453481",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mme_daigaku: Newステッカー！ https://t.co/5YcnshSktD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8300,
+        "height": 866,
+        "media_key": "7_2002229305649344518",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2002229305649344518/pu/img/ItjQeC3EvukOn-Jr.jpg",
+        "public_metrics": {
+          "view_count": 16039
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002229305649344518/pu/vid/avc1/320x384/NH4LuN0_mb_9ftpp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002229305649344518/pu/vid/avc1/480x576/JaelFHzbEJx-1xEp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002229305649344518/pu/vid/avc1/720x866/pTnDGc1ZfzirYjcR.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2002229305649344518/pu/pl/qedzOCblcd759sbE.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2002229305649344518"
+          ],
+          "media_source_tweet_id": [
+            "2002229323978453481"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2002278185871028525",
+        "created_at": "2025-12-20T07:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T08:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002278185871028525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1372865424132431873",
+              "start": 3,
+              "username": "mme_daigaku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5YcnshSktD",
+              "end": 50,
+              "expanded_url": "https://x.com/mme_daigaku/status/2002229323978453481/video/1",
+              "media_key": "7_2002229305649344518",
+              "start": 27,
+              "url": "https://t.co/5YcnshSktD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002278185871028525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 219
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002229323978453481",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mme_daigaku: Newステッカー！ https://t.co/5YcnshSktD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2002229305649344518"
+          ]
+        },
+        "author_id": "1372865424132431873",
+        "conversation_id": "2002229323978453481",
+        "created_at": "2025-12-20T04:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T05:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002229323978453481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5YcnshSktD",
+              "end": 33,
+              "expanded_url": "https://x.com/mme_daigaku/status/2002229323978453481/video/1",
+              "media_key": "7_2002229305649344518",
+              "start": 10,
+              "url": "https://t.co/5YcnshSktD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002229323978453481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 233,
+          "impression_count": 43227,
+          "like_count": 3400,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 219
+        },
+        "reply_settings": "everyone",
+        "text": "Newステッカー！ https://t.co/5YcnshSktD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 1036,
+          "like_count": 14509,
+          "listed_count": 2,
+          "media_count": 467,
+          "tweet_count": 4553
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-19T11:00:06.000Z",
+        "description": "contact→momoe.artwork@gmail.com\nhttps://t.co/ec3wDgBY1t",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mmemme.booth.pm",
+                "end": 55,
+                "expanded_url": "https://mmemme.booth.pm/",
+                "start": 32,
+                "url": "https://t.co/ec3wDgBY1t"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mmemme_daigaku…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/mmemme_daigaku?igshid=NzMyMjgxZWIzNw==",
+                "start": 0,
+                "url": "https://t.co/276CEb0bBb"
+              }
+            ]
+          }
+        },
+        "id": "1372865424132431873",
+        "location": "ヘッダー　なご村さん@nagomurasan",
+        "name": "ももえ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636385960429748229/Qk7cFd6h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39015,
+          "following_count": 1291,
+          "like_count": 34806,
+          "listed_count": 207,
+          "media_count": 246,
+          "tweet_count": 3435
+        },
+        "url": "https://t.co/276CEb0bBb",
+        "username": "mme_daigaku",
+        "verified": false
+      }
+    ]
+  }
+}

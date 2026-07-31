@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1865701235078385665"
+      ],
+      "media_source_tweet_id": [
+        "1865701389076427091"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1865730577120534906",
+    "created_at": "2024-12-08T12:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T13:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865730577120534906"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "ゴアゾノさん",
+          "probability": 0.6832,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 39,
+          "tag": "ハイスクールゴアガール"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1467095000609849345",
+          "start": 3,
+          "username": "carnagesociety"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fQdQ0TCYdS",
+          "end": 75,
+          "expanded_url": "https://x.com/carnagesociety/status/1865701389076427091/photo/1",
+          "media_key": "3_1865701235078385665",
+          "start": 52,
+          "url": "https://t.co/fQdQ0TCYdS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865730577120534906",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865701389076427091",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @carnagesociety: ゴアゾノさんのマフラー(去年のやつ)\n#ハイスクールゴアガール https://t.co/fQdQ0TCYdS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1865701235078385665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeRNY23a0AE4rBT.jpg",
+        "width": 1506
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865701235078385665"
+          ],
+          "media_source_tweet_id": [
+            "1865701389076427091"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1865730577120534906",
+        "created_at": "2024-12-08T12:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T13:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865730577120534906"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "ゴアゾノさん",
+              "probability": 0.6832,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 39,
+              "tag": "ハイスクールゴアガール"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1467095000609849345",
+              "start": 3,
+              "username": "carnagesociety"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fQdQ0TCYdS",
+              "end": 75,
+              "expanded_url": "https://x.com/carnagesociety/status/1865701389076427091/photo/1",
+              "media_key": "3_1865701235078385665",
+              "start": 52,
+              "url": "https://t.co/fQdQ0TCYdS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865730577120534906",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865701389076427091",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @carnagesociety: ゴアゾノさんのマフラー(去年のやつ)\n#ハイスクールゴアガール https://t.co/fQdQ0TCYdS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865701235078385665"
+          ]
+        },
+        "author_id": "1467095000609849345",
+        "conversation_id": "1865701389076427091",
+        "created_at": "2024-12-08T10:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T11:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865701389076427091"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "ゴアゾノさん",
+              "probability": 0.7232,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 19,
+              "tag": "ハイスクールゴアガール"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fQdQ0TCYdS",
+              "end": 55,
+              "expanded_url": "https://x.com/carnagesociety/status/1865701389076427091/photo/1",
+              "media_key": "3_1865701235078385665",
+              "start": 32,
+              "url": "https://t.co/fQdQ0TCYdS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865701389076427091",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 2240,
+          "like_count": 263,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "ゴアゾノさんのマフラー(去年のやつ)\n#ハイスクールゴアガール https://t.co/fQdQ0TCYdS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1863243605252690301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 750,
+          "like_count": 3714,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 727
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T11:34:48.000Z",
+        "description": "ゴアゾノさんを推せ🩸メタルとV系が好き \n💀commission▶@yuki12278947 \n💀避難用▶@GorezonoNeo \n💀goods▶#CarnageSociety \n💀comic▶#ハイスクールゴアガール \n💀fanart▶#ゴアガールファンアート \n💀link▼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 74,
+                "tag": "CarnageSociety"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "tag": "ハイスクールゴアガール"
+              },
+              {
+                "end": 132,
+                "start": 120,
+                "tag": "ゴアガールファンアート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "yuki12278947"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "GorezonoNeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yukicarnagesoc…",
+                "end": 23,
+                "expanded_url": "https://lit.link/yukicarnagesociety",
+                "start": 0,
+                "url": "https://t.co/ZWgT5VWTU9"
+              }
+            ]
+          }
+        },
+        "id": "1467095000609849345",
+        "location": "⚠️新規依頼受付停止中(今年いっぱい)",
+        "name": "幽妃-yuki-🔞G0RE-GlRL PR0JECT/流血少女",
+        "pinned_tweet_id": "1829535401356542376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846377096198938624/-w-dRSd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31680,
+          "following_count": 722,
+          "like_count": 91099,
+          "listed_count": 164,
+          "media_count": 1287,
+          "tweet_count": 35055
+        },
+        "url": "https://t.co/ZWgT5VWTU9",
+        "username": "carnagesociety",
+        "verified": true
+      }
+    ]
+  }
+}

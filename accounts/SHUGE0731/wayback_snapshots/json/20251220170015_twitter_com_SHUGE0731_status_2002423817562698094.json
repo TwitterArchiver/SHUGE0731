@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2002416132976730112"
+      ],
+      "media_source_tweet_id": [
+        "2002416185812660549"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2002423817562698094",
+    "created_at": "2025-12-20T17:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T18:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002423817562698094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1713564760975822848",
+          "start": 3,
+          "username": "offsrambledegg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UP8uWj82kX",
+          "end": 43,
+          "expanded_url": "https://x.com/offsrambledegg/status/2002416185812660549/video/1",
+          "media_key": "13_2002416132976730112",
+          "start": 20,
+          "url": "https://t.co/UP8uWj82kX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002423817562698094",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002416185812660549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @offsrambledegg: https://t.co/UP8uWj82kX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8999,
+        "height": 1920,
+        "media_key": "13_2002416132976730112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002416132976730112/img/P6AeZ2RMsaP-L7VF.jpg",
+        "public_metrics": {
+          "view_count": 6891
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002416132976730112/vid/avc1/320x568/TXwY0LRHK6TZiVB4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002416132976730112/vid/avc1/480x852/ZniQsjijDRTED338.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002416132976730112/vid/avc1/1080x1920/jIRjh7IASpl4t5Ul.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002416132976730112/pl/n60KuL8zSaz0nEDz.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002416132976730112/vid/avc1/720x1280/y8RhraMuRWah74kp.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002416132976730112"
+          ],
+          "media_source_tweet_id": [
+            "2002416185812660549"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2002423817562698094",
+        "created_at": "2025-12-20T17:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T18:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002423817562698094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1713564760975822848",
+              "start": 3,
+              "username": "offsrambledegg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UP8uWj82kX",
+              "end": 43,
+              "expanded_url": "https://x.com/offsrambledegg/status/2002416185812660549/video/1",
+              "media_key": "13_2002416132976730112",
+              "start": 20,
+              "url": "https://t.co/UP8uWj82kX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002423817562698094",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 127
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002416185812660549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @offsrambledegg: https://t.co/UP8uWj82kX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002416132976730112"
+          ]
+        },
+        "author_id": "1713564760975822848",
+        "conversation_id": "2002416185812660549",
+        "created_at": "2025-12-20T16:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T17:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002416185812660549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UP8uWj82kX",
+              "end": 23,
+              "expanded_url": "https://x.com/offsrambledegg/status/2002416185812660549/video/1",
+              "media_key": "13_2002416132976730112",
+              "start": 0,
+              "url": "https://t.co/UP8uWj82kX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002416185812660549",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 16835,
+          "like_count": 1374,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UP8uWj82kX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 1037,
+          "like_count": 14589,
+          "listed_count": 3,
+          "media_count": 468,
+          "tweet_count": 4587
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T14:37:41.000Z",
+        "description": "Today is the happiest day of my life",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/offscrambledegg",
+                "end": 23,
+                "expanded_url": "http://patreon.com/offscrambledegg",
+                "start": 0,
+                "url": "https://t.co/28z9bmirbY"
+              }
+            ]
+          }
+        },
+        "id": "1713564760975822848",
+        "name": "OFF SCRIPT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981368685487906816/aCloafms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184008,
+          "following_count": 184,
+          "like_count": 608,
+          "listed_count": 231,
+          "media_count": 34,
+          "tweet_count": 78
+        },
+        "url": "https://t.co/28z9bmirbY",
+        "username": "offsrambledegg",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,551 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1586040452628721664",
+          "name": "Slice of life"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2067908005744787849",
+    "created_at": "2026-06-19T09:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067908005744787849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fancy_fukuya/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/fancy_fukuya/status/2067804582902935967",
+          "start": 5,
+          "url": "https://t.co/NZoQzbv0BO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067908005744787849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067804582902935967",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽 萌 https://t.co/NZoQzbv0BO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2067800831844569088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJN5qBaUAAtVS3.jpg",
+        "width": 900
+      },
+      {
+        "height": 600,
+        "media_key": "3_2067800831957819392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJN5qcaYAAZ4rA.jpg",
+        "width": 600
+      },
+      {
+        "height": 1201,
+        "media_key": "3_2067800831999803393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJN5qmbAAEcs9l.jpg",
+        "width": 1201
+      },
+      {
+        "height": 1201,
+        "media_key": "3_2067800832129851392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJN5rFbYAAkU_h.jpg",
+        "width": 1201
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1586040452628721664",
+              "name": "Slice of life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2067908005744787849",
+        "created_at": "2026-06-19T09:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067908005744787849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fancy_fukuya/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/fancy_fukuya/status/2067804582902935967",
+              "start": 5,
+              "url": "https://t.co/NZoQzbv0BO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067908005744787849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067804582902935967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽 萌 https://t.co/NZoQzbv0BO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067800831844569088",
+            "3_2067800831957819392",
+            "3_2067800831999803393",
+            "3_2067800832129851392"
+          ]
+        },
+        "author_id": "1486722150",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1586040452628721664",
+              "name": "Slice of life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2067804582902935967",
+        "created_at": "2026-06-19T03:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067804582902935967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "30823510",
+              "start": 22,
+              "username": "himaraya"
+            }
+          ],
+          "urls": [
+            {
+              "description": "株式会社フクヤは企業様向けにアミューズメント用景品の企画販売ならびに景品用玩具・雑貨の卸売を行っております",
+              "display_url": "fancy-fukuya.co.jp/topics/202607n…",
+              "end": 152,
+              "expanded_url": "https://www.fancy-fukuya.co.jp/topics/202607nichijou01/",
+              "start": 129,
+              "status": 200,
+              "title": "株式会社フクヤ│プライズ・アニメ・雑貨",
+              "unwound_url": "https://www.fancy-fukuya.co.jp/",
+              "url": "https://t.co/5h60vnYEGJ"
+            },
+            {
+              "display_url": "pic.x.com/rDIRWmyrr2",
+              "end": 176,
+              "expanded_url": "https://x.com/fancy_fukuya/status/2067804582902935967/photo/1",
+              "media_key": "3_2067800831844569088",
+              "start": 153,
+              "url": "https://t.co/rDIRWmyrr2"
+            },
+            {
+              "display_url": "pic.x.com/rDIRWmyrr2",
+              "end": 176,
+              "expanded_url": "https://x.com/fancy_fukuya/status/2067804582902935967/photo/1",
+              "media_key": "3_2067800831957819392",
+              "start": 153,
+              "url": "https://t.co/rDIRWmyrr2"
+            },
+            {
+              "display_url": "pic.x.com/rDIRWmyrr2",
+              "end": 176,
+              "expanded_url": "https://x.com/fancy_fukuya/status/2067804582902935967/photo/1",
+              "media_key": "3_2067800831999803393",
+              "start": 153,
+              "url": "https://t.co/rDIRWmyrr2"
+            },
+            {
+              "display_url": "pic.x.com/rDIRWmyrr2",
+              "end": 176,
+              "expanded_url": "https://x.com/fancy_fukuya/status/2067804582902935967/photo/1",
+              "media_key": "3_2067800832129851392",
+              "start": 153,
+              "url": "https://t.co/rDIRWmyrr2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067804582902935967",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 603,
+          "impression_count": 293677,
+          "like_count": 4462,
+          "quote_count": 299,
+          "reply_count": 2,
+          "retweet_count": 1238
+        },
+        "reply_settings": "everyone",
+        "text": "🐈発売商品情報🐈\n\n大人気コミック『日常』（@himaraya）から、\n「ましゅもっちおおもり」が\nプライズで再登場！\n全長約40㎝で抱き心地バツグン♪\n\n7月4日（土）から\n全国のGiGOグループのお店の取扱店舗にて\n順次展開予定です💫\n\n詳細はこちら🔽\nhttps://t.co/5h60vnYEGJ https://t.co/rDIRWmyrr2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "Dorcus10031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTtCZA"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 1161,
+          "like_count": 31778,
+          "listed_count": 4,
+          "media_count": 704,
+          "tweet_count": 10776
+        },
+        "url": "https://t.co/ApKveTtCZA",
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-06T03:48:54.000Z",
+        "description": "プライズ情報をお届けするフクヤ公式アカウント！カプセルトイ（@fukuya_capsule）fanfancy+（@fanfancy_info）キャラ福くじ（@fukuya_kuji） ■お問い合わせ（https://t.co/HqWlN1yVcw）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "fukuya_capsule"
+              },
+              {
+                "end": 70,
+                "start": 56,
+                "username": "fanfancy_info"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "fukuya_kuji"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/2Rr9nu1",
+                "end": 123,
+                "expanded_url": "http://bit.ly/2Rr9nu1",
+                "start": 100,
+                "url": "https://t.co/HqWlN1yVcw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fancy-fukuya.co.jp",
+                "end": 23,
+                "expanded_url": "https://www.fancy-fukuya.co.jp/",
+                "start": 0,
+                "url": "https://t.co/6iRylHwskO"
+              }
+            ]
+          }
+        },
+        "id": "1486722150",
+        "name": "【公式】フクヤ｜プライズ",
+        "pinned_tweet_id": "1887355101461028998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886968443506974720/JCXEUAce_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164648,
+          "following_count": 1871,
+          "like_count": 4932,
+          "listed_count": 319,
+          "media_count": 3645,
+          "tweet_count": 7181
+        },
+        "url": "https://t.co/6iRylHwskO",
+        "username": "fancy_fukuya",
+        "verified": true
+      }
+    ]
+  }
+}

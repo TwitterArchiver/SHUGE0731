@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022324894906949632"
+      ],
+      "media_source_tweet_id": [
+        "2022324896655884562"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2022351693900665111",
+    "created_at": "2026-02-13T16:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T17:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022351693900665111"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "小木曽雪菜",
+          "probability": 0.6921,
+          "start": 29,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 83,
+          "start": 79,
+          "tag": "WA2"
+        },
+        {
+          "end": 96,
+          "start": 84,
+          "tag": "WHITEALBUM2"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "99216952",
+          "start": 3,
+          "username": "AQUAPLUS_JP"
+        }
+      ],
+      "urls": [
+        {
+          "description": "PlayStation®Vita「WHITE ALBUM2 幸せの向こう側 」2013.11.28",
+          "display_url": "aquaplus.jp/wa2vita/charac…",
+          "end": 78,
+          "expanded_url": "https://aquaplus.jp/wa2vita/character/ogiso.html",
+          "images": [
+            {
+              "height": 200,
+              "url": "https://pbs.twimg.com/news_img/2022324948275175424/Q2sUOWx9?format=jpg&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2022324948275175424/Q2sUOWx9?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 55,
+          "status": 200,
+          "title": "WHITE ALBUM2 幸せの向こう側 PS Vita",
+          "unwound_url": "https://aquaplus.jp/wa2vita/character/ogiso.html",
+          "url": "https://t.co/bAFZPFZVdX"
+        },
+        {
+          "display_url": "pic.x.com/s94rqwaRdG",
+          "end": 120,
+          "expanded_url": "https://x.com/AQUAPLUS_JP/status/2022324896655884562/photo/1",
+          "media_key": "3_2022324894906949632",
+          "start": 97,
+          "url": "https://t.co/s94rqwaRdG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022351693900665111",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 608
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022324896655884562",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AQUAPLUS_JP: 🎂今日(2/14)は、小木曽雪菜（WHITE ALBUM2）の誕生日です！\nhttps://t.co/bAFZPFZVdX\n#WA2 #WHITEALBUM2 https://t.co/s94rqwaRdG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2022324894906949632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBC9xvVboAA9UVk.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022324894906949632"
+          ],
+          "media_source_tweet_id": [
+            "2022324896655884562"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022351693900665111",
+        "created_at": "2026-02-13T16:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022351693900665111"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "小木曽雪菜",
+              "probability": 0.6921,
+              "start": 29,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 79,
+              "tag": "WA2"
+            },
+            {
+              "end": 96,
+              "start": 84,
+              "tag": "WHITEALBUM2"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "99216952",
+              "start": 3,
+              "username": "AQUAPLUS_JP"
+            }
+          ],
+          "urls": [
+            {
+              "description": "PlayStation®Vita「WHITE ALBUM2 幸せの向こう側 」2013.11.28",
+              "display_url": "aquaplus.jp/wa2vita/charac…",
+              "end": 78,
+              "expanded_url": "https://aquaplus.jp/wa2vita/character/ogiso.html",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/2022324948275175424/Q2sUOWx9?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2022324948275175424/Q2sUOWx9?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 55,
+              "status": 200,
+              "title": "WHITE ALBUM2 幸せの向こう側 PS Vita",
+              "unwound_url": "https://aquaplus.jp/wa2vita/character/ogiso.html",
+              "url": "https://t.co/bAFZPFZVdX"
+            },
+            {
+              "display_url": "pic.x.com/s94rqwaRdG",
+              "end": 120,
+              "expanded_url": "https://x.com/AQUAPLUS_JP/status/2022324896655884562/photo/1",
+              "media_key": "3_2022324894906949632",
+              "start": 97,
+              "url": "https://t.co/s94rqwaRdG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022351693900665111",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 608
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022324896655884562",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AQUAPLUS_JP: 🎂今日(2/14)は、小木曽雪菜（WHITE ALBUM2）の誕生日です！\nhttps://t.co/bAFZPFZVdX\n#WA2 #WHITEALBUM2 https://t.co/s94rqwaRdG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022324894906949632"
+          ]
+        },
+        "author_id": "99216952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022324896655884562",
+        "created_at": "2026-02-13T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022324896655884562"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "小木曽雪菜",
+              "probability": 0.7314,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 62,
+              "tag": "WA2"
+            },
+            {
+              "end": 79,
+              "start": 67,
+              "tag": "WHITEALBUM2"
+            }
+          ],
+          "urls": [
+            {
+              "description": "PlayStation®Vita「WHITE ALBUM2 幸せの向こう側 」2013.11.28",
+              "display_url": "aquaplus.jp/wa2vita/charac…",
+              "end": 61,
+              "expanded_url": "https://aquaplus.jp/wa2vita/character/ogiso.html",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/2022324948275175424/Q2sUOWx9?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2022324948275175424/Q2sUOWx9?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 38,
+              "status": 200,
+              "title": "WHITE ALBUM2 幸せの向こう側 PS Vita",
+              "unwound_url": "https://aquaplus.jp/wa2vita/character/ogiso.html",
+              "url": "https://t.co/bAFZPFZVdX"
+            },
+            {
+              "display_url": "pic.x.com/s94rqwaRdG",
+              "end": 103,
+              "expanded_url": "https://x.com/AQUAPLUS_JP/status/2022324896655884562/photo/1",
+              "media_key": "3_2022324894906949632",
+              "start": 80,
+              "url": "https://t.co/s94rqwaRdG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022324896655884562",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 32548,
+          "like_count": 1184,
+          "quote_count": 59,
+          "reply_count": 15,
+          "retweet_count": 608
+        },
+        "reply_settings": "everyone",
+        "text": "🎂今日(2/14)は、小木曽雪菜（WHITE ALBUM2）の誕生日です！\nhttps://t.co/bAFZPFZVdX\n#WA2 #WHITEALBUM2 https://t.co/s94rqwaRdG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 983,
+          "like_count": 20656,
+          "listed_count": 3,
+          "media_count": 562,
+          "tweet_count": 7348
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-25T04:14:18.000Z",
+        "description": "ゲームメーカー「アクアプラス」の 情報を発信します。\n\nお問合せ🔸https://t.co/5hgkdY4J3L\nうたわれるもの ロストフラグ 公式🔸https://t.co/Fh8yL9wBZ6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "aquaplus.jp/contact/",
+                "end": 56,
+                "expanded_url": "https://aquaplus.jp/contact/",
+                "start": 33,
+                "url": "https://t.co/5hgkdY4J3L"
+              },
+              {
+                "display_url": "x.com/Utaware_LF",
+                "end": 98,
+                "expanded_url": "https://x.com/Utaware_LF",
+                "start": 75,
+                "url": "https://t.co/Fh8yL9wBZ6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aquaplus.jp",
+                "end": 23,
+                "expanded_url": "https://aquaplus.jp/",
+                "start": 0,
+                "url": "https://t.co/a9agE7AR9W"
+              }
+            ]
+          }
+        },
+        "id": "99216952",
+        "location": "日本",
+        "name": "アクアプラス",
+        "pinned_tweet_id": "2018882211773354319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892121601870790656/gL80Z4ab_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111414,
+          "following_count": 565,
+          "like_count": 347,
+          "listed_count": 1403,
+          "media_count": 1793,
+          "tweet_count": 31601
+        },
+        "url": "https://t.co/a9agE7AR9W",
+        "username": "AQUAPLUS_JP",
+        "verified": true
+      }
+    ]
+  }
+}

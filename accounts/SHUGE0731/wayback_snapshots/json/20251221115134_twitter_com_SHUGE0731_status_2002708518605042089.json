@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2002708518605042089",
+    "created_at": "2025-12-21T11:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T12:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002708518605042089"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/2tejhqfgss6956…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/2tejhqfgss69569/status/2002692666317066325",
+          "start": 18,
+          "url": "https://t.co/Geo70a0qDT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002708518605042089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002692666317066325",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊！怎会如此😢我的入宅作…再见了！ https://t.co/Geo70a0qDT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 744,
+        "media_key": "3_2002692659643826176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8r-XPxaQAAmvMV.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2002708518605042089",
+        "created_at": "2025-12-21T11:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T12:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002708518605042089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/2tejhqfgss6956…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/2tejhqfgss69569/status/2002692666317066325",
+              "start": 18,
+              "url": "https://t.co/Geo70a0qDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002708518605042089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002692666317066325",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊！怎会如此😢我的入宅作…再见了！ https://t.co/Geo70a0qDT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002692659643826176"
+          ]
+        },
+        "author_id": "1918279776969842688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2002692666317066325",
+        "created_at": "2025-12-21T10:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T11:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002692666317066325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PBhF2X8vP3",
+              "end": 68,
+              "expanded_url": "https://x.com/2TejHqfgsS69569/status/2002692666317066325/photo/1",
+              "media_key": "3_2002692659643826176",
+              "start": 45,
+              "url": "https://t.co/PBhF2X8vP3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002692666317066325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉好悲伤，小埋是我最喜欢的漫画和动漫。\n似乎漫画也是停更于2017年，再见了!UMR! https://t.co/PBhF2X8vP3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 1037,
+          "like_count": 14724,
+          "listed_count": 3,
+          "media_count": 471,
+          "tweet_count": 4638
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:22:12.000Z",
+        "description": "世界很好，你也不赖。Student in FPGA/ASIC\n \n匿名提问箱\nhttps://t.co/J4wVJFT545",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2tejhqfgss69569",
+                "end": 62,
+                "expanded_url": "https://ngl.link/2tejhqfgss69569",
+                "start": 39,
+                "url": "https://t.co/J4wVJFT545"
+              }
+            ]
+          }
+        },
+        "id": "1918279776969842688",
+        "name": "小白覆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998236948713086976/pxAnc45g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 39,
+          "like_count": 2647,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 2423
+        },
+        "username": "2TejHqfgsS69569",
+        "verified": false
+      }
+    ]
+  }
+}

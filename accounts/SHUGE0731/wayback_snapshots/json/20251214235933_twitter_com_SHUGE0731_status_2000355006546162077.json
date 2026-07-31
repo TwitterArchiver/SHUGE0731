@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2000153999199326208"
+      ],
+      "media_source_tweet_id": [
+        "2000154125359894984"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2000355006546162077",
+    "created_at": "2025-12-14T23:59:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T00:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000355006546162077"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 18,
+          "tag": "今年も残りわずかなので今年一番伸びた絵を貼る"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1355718864751964160",
+          "start": 3,
+          "username": "P1PEGraphics"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a8OEZSQtoJ",
+          "end": 65,
+          "expanded_url": "https://x.com/P1PEGraphics/status/2000154125359894984/video/1",
+          "media_key": "13_2000153999199326208",
+          "start": 42,
+          "url": "https://t.co/a8OEZSQtoJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000355006546162077",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 615
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000154125359894984",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @P1PEGraphics: #今年も残りわずかなので今年一番伸びた絵を貼る https://t.co/a8OEZSQtoJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12708,
+        "height": 1470,
+        "media_key": "13_2000153999199326208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000153999199326208/img/d0vT-t3jVlW8iHcH.jpg",
+        "public_metrics": {
+          "view_count": 114495
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000153999199326208/vid/avc1/388x360/hAF2PLGP2DD2HSnF.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000153999199326208/vid/avc1/290x270/4aZvjPsFzqOW5L0e.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000153999199326208/vid/avc1/1586x1470/5XwkMmhx2qfUEUpK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000153999199326208/vid/avc1/776x720/a3pRkr8i3q5cXRbQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000153999199326208/pl/0kzB6Jq3sPmdSiL2.m3u8?v=cfc"
+          }
+        ],
+        "width": 1586
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000153999199326208"
+          ],
+          "media_source_tweet_id": [
+            "2000154125359894984"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2000355006546162077",
+        "created_at": "2025-12-14T23:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T00:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000355006546162077"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 18,
+              "tag": "今年も残りわずかなので今年一番伸びた絵を貼る"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1355718864751964160",
+              "start": 3,
+              "username": "P1PEGraphics"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a8OEZSQtoJ",
+              "end": 65,
+              "expanded_url": "https://x.com/P1PEGraphics/status/2000154125359894984/video/1",
+              "media_key": "13_2000153999199326208",
+              "start": 42,
+              "url": "https://t.co/a8OEZSQtoJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000355006546162077",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 615
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000154125359894984",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @P1PEGraphics: #今年も残りわずかなので今年一番伸びた絵を貼る https://t.co/a8OEZSQtoJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000153999199326208"
+          ]
+        },
+        "author_id": "1355718864751964160",
+        "conversation_id": "2000154125359894984",
+        "created_at": "2025-12-14T10:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T11:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000154125359894984"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 0,
+              "tag": "今年も残りわずかなので今年一番伸びた絵を貼る"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a8OEZSQtoJ",
+              "end": 47,
+              "expanded_url": "https://x.com/P1PEGraphics/status/2000154125359894984/video/1",
+              "media_key": "13_2000153999199326208",
+              "start": 24,
+              "url": "https://t.co/a8OEZSQtoJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000154125359894984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1319,
+          "impression_count": 222755,
+          "like_count": 9650,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 615
+        },
+        "reply_settings": "everyone",
+        "text": "#今年も残りわずかなので今年一番伸びた絵を貼る https://t.co/a8OEZSQtoJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 1023,
+          "like_count": 13837,
+          "listed_count": 2,
+          "media_count": 453,
+          "tweet_count": 4212
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-31T03:25:46.000Z",
+        "description": "絵、映像、記号、文脈、構造に関心があります。MV、ジャケットイラスト、キャラデザインなど / Works：LE SSERAFIM, Mori Calliope, 第四境界, hololive, ILLUSTRATION2025, VISIONS2026 など",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "p1pe.notion.site/P1PE-2805a32fa…",
+                "end": 23,
+                "expanded_url": "https://p1pe.notion.site/P1PE-2805a32fae278094b2bef5f9bc20f85e",
+                "start": 0,
+                "url": "https://t.co/o8sZ1aZQ10"
+              }
+            ]
+          }
+        },
+        "id": "1355718864751964160",
+        "location": "p1pegraphicss@gmail.com",
+        "name": "P1PE",
+        "pinned_tweet_id": "1972532023228252301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885850680541511680/cYCdxyVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36575,
+          "following_count": 55,
+          "like_count": 26219,
+          "listed_count": 230,
+          "media_count": 578,
+          "tweet_count": 1688
+        },
+        "url": "https://t.co/o8sZ1aZQ10",
+        "username": "P1PEGraphics",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1896490504105402679",
+    "created_at": "2025-03-03T10:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T11:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896504437348377067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1854549691775725568",
+          "start": 0,
+          "username": "sc3n3gh0ust_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896504437348377067",
+    "in_reply_to_user_id": "1854549691775725568",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896490504105402679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sc3n3gh0ust_ 11"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1896490504105402679].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1896490504105402679",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1896490504105402679"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1896490504105402679",
+        "created_at": "2025-03-03T10:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T11:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896504437348377067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854549691775725568",
+              "start": 0,
+              "username": "sc3n3gh0ust_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896504437348377067",
+        "in_reply_to_user_id": "1854549691775725568",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896490504105402679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sc3n3gh0ust_ 11"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 872,
+          "like_count": 5428,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 1201
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-07T15:41:34.000Z",
+        "description": "废话推｜绘画账号：@_RotteNCaT_233 我没有门，只和互关扩列，查主页成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "_RotteNCaT_233"
+              }
+            ]
+          }
+        },
+        "id": "1854549691775725568",
+        "name": "~꯱ׁׅ֒ᝯׁꫀׁׅܻꪀׁׅꫀׁׅܻᧁׁhׁׅ֮ᨵׁׅυׁׅ꯱ׁׅ֒tׁׅ~shtwt",
+        "pinned_tweet_id": "1886312524636618841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893909195918909440/IuXiLBEj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 65,
+          "like_count": 444,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 554
+        },
+        "username": "sc3n3gh0ust_",
+        "verified": false
+      }
+    ]
+  }
+}

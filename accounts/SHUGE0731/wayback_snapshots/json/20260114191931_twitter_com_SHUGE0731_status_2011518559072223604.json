@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011501457275752448"
+      ],
+      "media_source_tweet_id": [
+        "2011501466763346185"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2011518559072223604",
+    "created_at": "2026-01-14T19:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T20:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011518559072223604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1439888751761575946",
+          "start": 3,
+          "username": "iiibanah"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tA56s29HcR",
+          "end": 37,
+          "expanded_url": "https://x.com/iiibanah/status/2011501466763346185/photo/1",
+          "media_key": "3_2011501457275752448",
+          "start": 14,
+          "url": "https://t.co/tA56s29HcR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011518559072223604",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011501466763346185",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iiibanah: https://t.co/tA56s29HcR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2011518559072223604].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2011518559072223604",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2011518559072223604"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2011501457275752448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-pJ6wIaEAAXu5C.jpg",
+        "width": 726
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011501457275752448"
+          ]
+        },
+        "author_id": "1439888751761575946",
+        "conversation_id": "2011501466763346185",
+        "created_at": "2026-01-14T18:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T19:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011501466763346185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tA56s29HcR",
+              "end": 23,
+              "expanded_url": "https://x.com/iiibanah/status/2011501466763346185/photo/1",
+              "media_key": "3_2011501457275752448",
+              "start": 0,
+              "url": "https://t.co/tA56s29HcR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011501466763346185",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 1123,
+          "like_count": 151,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tA56s29HcR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 997,
+          "like_count": 18089,
+          "listed_count": 3,
+          "media_count": 521,
+          "tweet_count": 6250
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-20T09:47:02.000Z",
+        "description": "鸣叫",
+        "id": "1439888751761575946",
+        "location": "昼长15小时的轨道",
+        "name": "祈",
+        "pinned_tweet_id": "1983487414539899015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933530034939068417/ZOIzHlVO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52246,
+          "following_count": 707,
+          "like_count": 8571,
+          "listed_count": 310,
+          "media_count": 739,
+          "tweet_count": 2233
+        },
+        "username": "iiibanah",
+        "verified": false
+      }
+    ]
+  }
+}

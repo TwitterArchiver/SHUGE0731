@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2020574169147298172",
+    "created_at": "2026-02-08T19:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T20:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020577791146876941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1805961850971992064",
+          "start": 0,
+          "username": "_taromeme_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020577791146876941",
+    "in_reply_to_user_id": "1805961850971992064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020574169147298172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_taromeme_ 好萌…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2020574164046979072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAqFfypaIAAoQD9.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2020574169147298172",
+        "created_at": "2026-02-08T19:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T20:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020577791146876941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1805961850971992064",
+              "start": 0,
+              "username": "_taromeme_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020577791146876941",
+        "in_reply_to_user_id": "1805961850971992064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020574169147298172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_taromeme_ 好萌…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020574164046979072"
+          ]
+        },
+        "author_id": "1805961850971992064",
+        "conversation_id": "2020574169147298172",
+        "created_at": "2026-02-08T19:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T20:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020574169147298172"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6e8dB8KwqB",
+              "end": 28,
+              "expanded_url": "https://x.com/_taromeme_/status/2020574169147298172/photo/1",
+              "media_key": "3_2020574164046979072",
+              "start": 5,
+              "url": "https://t.co/6e8dB8KwqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020574169147298172",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/6e8dB8KwqB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 972,
+          "like_count": 19889,
+          "listed_count": 3,
+          "media_count": 553,
+          "tweet_count": 7021
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-26T13:50:45.000Z",
+        "description": "タロミムです 何でもポストするで、フォローする方はご注意を あなたの絵好きです",
+        "id": "1805961850971992064",
+        "location": "？",
+        "name": "taromeme",
+        "pinned_tweet_id": "1970776984470110683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020574135781625856/MvatFbDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 1027,
+          "like_count": 9331,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1738
+        },
+        "username": "_taromeme_",
+        "verified": false
+      }
+    ]
+  }
+}

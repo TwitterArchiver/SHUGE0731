@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2000578136971563008"
+      ],
+      "media_source_tweet_id": [
+        "2000578215623172462"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2000620209305264330",
+    "created_at": "2025-12-15T17:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T18:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000620209305264330"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "きなこさん",
+          "probability": 0.6865,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "731678526160523265",
+          "start": 3,
+          "username": "kotakeninko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nnu9FhAo8Z",
+          "end": 50,
+          "expanded_url": "https://x.com/kotakeninko/status/2000578215623172462/video/1",
+          "media_key": "13_2000578136971563008",
+          "start": 27,
+          "url": "https://t.co/nnu9FhAo8Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000620209305264330",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000578215623172462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kotakeninko: きなこさん💕😜😜😜 https://t.co/nnu9FhAo8Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19840,
+        "height": 1280,
+        "media_key": "13_2000578136971563008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000578136971563008/img/-cVUkrYQygPBj-wZ.jpg",
+        "public_metrics": {
+          "view_count": 2125
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000578136971563008/vid/avc1/320x568/rDAekviYwlR7YYe7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000578136971563008/vid/avc1/480x852/mRr7-KFVh73vKrZQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000578136971563008/vid/avc1/720x1280/saR9saCW-fI585EQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000578136971563008/pl/Rtj8ZRQYmrHAtoNE.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000578136971563008"
+          ],
+          "media_source_tweet_id": [
+            "2000578215623172462"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2000620209305264330",
+        "created_at": "2025-12-15T17:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T18:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000620209305264330"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "きなこさん",
+              "probability": 0.6865,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "731678526160523265",
+              "start": 3,
+              "username": "kotakeninko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nnu9FhAo8Z",
+              "end": 50,
+              "expanded_url": "https://x.com/kotakeninko/status/2000578215623172462/video/1",
+              "media_key": "13_2000578136971563008",
+              "start": 27,
+              "url": "https://t.co/nnu9FhAo8Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000620209305264330",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000578215623172462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kotakeninko: きなこさん💕😜😜😜 https://t.co/nnu9FhAo8Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000578136971563008"
+          ]
+        },
+        "author_id": "731678526160523265",
+        "conversation_id": "2000578215623172462",
+        "created_at": "2025-12-15T14:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T15:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000578215623172462"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "きなこさん",
+              "probability": 0.6152,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nnu9FhAo8Z",
+              "end": 33,
+              "expanded_url": "https://x.com/kotakeninko/status/2000578215623172462/video/1",
+              "media_key": "13_2000578136971563008",
+              "start": 10,
+              "url": "https://t.co/nnu9FhAo8Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000578215623172462",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 5394,
+          "like_count": 496,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "きなこさん💕😜😜😜 https://t.co/nnu9FhAo8Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 1026,
+          "like_count": 13973,
+          "listed_count": 2,
+          "media_count": 457,
+          "tweet_count": 4278
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-15T02:52:09.000Z",
+        "description": "シロハラインコ２羽、セキセイ１羽。モモイロインコ １羽お迎えしました。",
+        "id": "731678526160523265",
+        "name": "kotakeninko",
+        "pinned_tweet_id": "1021739330505662464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/903622897360449536/TY2pqtRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21900,
+          "following_count": 783,
+          "like_count": 127642,
+          "listed_count": 219,
+          "media_count": 9781,
+          "tweet_count": 44854
+        },
+        "username": "kotakeninko",
+        "verified": false
+      }
+    ]
+  }
+}

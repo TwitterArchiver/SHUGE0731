@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024381061657219072"
+      ],
+      "media_source_tweet_id": [
+        "2024381071400587608"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2024413619262542319",
+    "created_at": "2026-02-19T09:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T10:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024413619262542319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1363439095532331011",
+          "start": 3,
+          "username": "Cracker68659106"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rhGnsaILOf",
+          "end": 44,
+          "expanded_url": "https://x.com/Cracker68659106/status/2024381071400587608/photo/1",
+          "media_key": "3_2024381061657219072",
+          "start": 21,
+          "url": "https://t.co/rhGnsaILOf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024413619262542319",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024381071400587608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cracker68659106: https://t.co/rhGnsaILOf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2024413619262542319].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2024413619262542319",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2024413619262542319"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1638,
+        "media_key": "3_2024381061657219072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgL2ZYbUAAI6aJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024381061657219072"
+          ]
+        },
+        "author_id": "1363439095532331011",
+        "conversation_id": "2024381071400587608",
+        "created_at": "2026-02-19T07:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024381071400587608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rhGnsaILOf",
+              "end": 23,
+              "expanded_url": "https://x.com/Cracker68659106/status/2024381071400587608/photo/1",
+              "media_key": "3_2024381061657219072",
+              "start": 0,
+              "url": "https://t.co/rhGnsaILOf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024381071400587608",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 2707,
+          "like_count": 285,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rhGnsaILOf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 988,
+          "like_count": 21538,
+          "listed_count": 3,
+          "media_count": 571,
+          "tweet_count": 7670
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T10:43:24.000Z",
+        "description": "RT or leave polite comment under my drawing is okay,thank you,it’s important for me)other in @Ppb68659106",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 93,
+                "username": "Ppb68659106"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/cracke…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/cracker68659106.bsky.social",
+                "start": 0,
+                "url": "https://t.co/yy3ZiknLXp"
+              }
+            ]
+          }
+        },
+        "id": "1363439095532331011",
+        "location": "LIMBO",
+        "name": "Pipebomb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007644106030469120/Zs2vW4uR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71833,
+          "following_count": 300,
+          "like_count": 18985,
+          "listed_count": 232,
+          "media_count": 1649,
+          "tweet_count": 7908
+        },
+        "url": "https://t.co/yy3ZiknLXp",
+        "username": "Cracker68659106",
+        "verified": false
+      }
+    ]
+  }
+}

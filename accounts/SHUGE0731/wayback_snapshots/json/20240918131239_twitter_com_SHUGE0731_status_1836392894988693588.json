@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1836378829100921052",
+    "created_at": "2024-09-18T13:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T14:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836392894988693588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1833311751947096064",
+          "start": 0,
+          "username": "_YanamiAnna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836392894988693588",
+    "in_reply_to_user_id": "1833311751947096064",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836378829100921052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_YanamiAnna 好恐怖 注意安全"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1836378829100921052",
+        "created_at": "2024-09-18T13:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T14:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836392894988693588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1833311751947096064",
+              "start": 0,
+              "username": "_YanamiAnna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836392894988693588",
+        "in_reply_to_user_id": "1833311751947096064",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836378829100921052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_YanamiAnna 好恐怖 注意安全"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836378816526323715"
+          ]
+        },
+        "author_id": "1833311751947096064",
+        "conversation_id": "1836378829100921052",
+        "created_at": "2024-09-18T12:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T13:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836378829100921052"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "地震"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "合肥"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dwlmvhiwy3",
+              "end": 67,
+              "expanded_url": "https://twitter.com/_YanamiAnna/status/1836378829100921052/photo/1",
+              "media_key": "3_1836378816526323715",
+              "start": 44,
+              "url": "https://t.co/dwlmVHIwy3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836378829100921052",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎，地震\n我还在寝室呢，突然地面一阵晃动，还以为自己打胶打得头昏了😵‍💫#地震 #合肥 https://t.co/dwlmVHIwy3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 597,
+          "like_count": 1818,
+          "listed_count": 0,
+          "tweet_count": 303
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-10T01:09:28.000Z",
+        "description": "普通医学生，在这里记录自己小小的欲望～",
+        "id": "1833311751947096064",
+        "name": "Yanami",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833315180933222400/pzMtwT-q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 77,
+          "like_count": 48,
+          "listed_count": 0,
+          "tweet_count": 30
+        },
+        "username": "_YanamiAnna",
+        "verified": false
+      }
+    ]
+  }
+}

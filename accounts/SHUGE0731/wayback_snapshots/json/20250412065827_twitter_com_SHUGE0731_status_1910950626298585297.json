@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1910601429871673344"
+      ],
+      "media_source_tweet_id": [
+        "1910602025869730304"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10050189708",
+          "name": "メイドインアビス"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296305541338132480",
+          "name": "Made in Abyss"
+        }
+      }
+    ],
+    "conversation_id": "1910950626298585297",
+    "created_at": "2025-04-12T06:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T07:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910950626298585297"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 22,
+          "tag": "メイドインアビス"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786258632562425856",
+          "start": 3,
+          "username": "yuateheng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6jws4pPczg",
+          "end": 55,
+          "expanded_url": "https://x.com/yuateheng/status/1910602025869730304/photo/1",
+          "media_key": "3_1910601429871673344",
+          "start": 32,
+          "url": "https://t.co/6jws4pPczg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910950626298585297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 303
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910602025869730304",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuateheng: ナナチー！！\n#メイドインアビス https://t.co/6jws4pPczg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2907,
+        "media_key": "3_1910601429871673344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoPR4K7awAAkAfO.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910601429871673344"
+          ],
+          "media_source_tweet_id": [
+            "1910602025869730304"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050189708",
+              "name": "メイドインアビス"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296305541338132480",
+              "name": "Made in Abyss"
+            }
+          }
+        ],
+        "conversation_id": "1910950626298585297",
+        "created_at": "2025-04-12T06:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T07:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910950626298585297"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 22,
+              "tag": "メイドインアビス"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786258632562425856",
+              "start": 3,
+              "username": "yuateheng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6jws4pPczg",
+              "end": 55,
+              "expanded_url": "https://x.com/yuateheng/status/1910602025869730304/photo/1",
+              "media_key": "3_1910601429871673344",
+              "start": 32,
+              "url": "https://t.co/6jws4pPczg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910950626298585297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 303
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910602025869730304",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuateheng: ナナチー！！\n#メイドインアビス https://t.co/6jws4pPczg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910601429871673344"
+          ]
+        },
+        "author_id": "1786258632562425856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050189708",
+              "name": "メイドインアビス"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296305541338132480",
+              "name": "Made in Abyss"
+            }
+          }
+        ],
+        "conversation_id": "1910602025869730304",
+        "created_at": "2025-04-11T07:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T08:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910602025869730304"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 7,
+              "tag": "メイドインアビス"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6jws4pPczg",
+              "end": 40,
+              "expanded_url": "https://x.com/yuateheng/status/1910602025869730304/photo/1",
+              "media_key": "3_1910601429871673344",
+              "start": 17,
+              "url": "https://t.co/6jws4pPczg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910602025869730304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 24522,
+          "like_count": 2318,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 303
+        },
+        "reply_settings": "everyone",
+        "text": "ナナチー！！\n#メイドインアビス https://t.co/6jws4pPczg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 908,
+          "like_count": 6448,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 1419
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T04:57:04.000Z",
+        "description": "KR/JP/ENG \n雑多にお絵描きします\nかっこいいしかわいいものがすきです。\n✉️▷natssufurin@gmail.com",
+        "id": "1786258632562425856",
+        "location": "_( :⁍ 」 )_",
+        "name": "유아퇴행ゆあ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878673624527491072/Dyuq37kU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4943,
+          "following_count": 45,
+          "like_count": 2201,
+          "listed_count": 27,
+          "media_count": 140,
+          "tweet_count": 189
+        },
+        "username": "yuateheng",
+        "verified": true
+      }
+    ]
+  }
+}

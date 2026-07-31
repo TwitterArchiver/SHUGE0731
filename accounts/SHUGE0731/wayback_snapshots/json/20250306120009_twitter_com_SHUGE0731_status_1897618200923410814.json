@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1897618178932604928"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1897618200923410814",
+    "created_at": "2025-03-06T12:00:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T13:00:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897618200923410814"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qXXCGuY7YG",
+          "end": 34,
+          "expanded_url": "https://x.com/SHUGE0731/status/1897618200923410814/photo/1",
+          "media_key": "3_1897618178932604928",
+          "start": 11,
+          "url": "https://t.co/qXXCGuY7YG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897618200923410814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧槽 这个我是真想看 https://t.co/qXXCGuY7YG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1897618178932604928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlWxrgKaAAAUSoh.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897618178932604928"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1897618200923410814",
+        "created_at": "2025-03-06T12:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T13:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897618200923410814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qXXCGuY7YG",
+              "end": 34,
+              "expanded_url": "https://x.com/SHUGE0731/status/1897618200923410814/photo/1",
+              "media_key": "3_1897618178932604928",
+              "start": 11,
+              "url": "https://t.co/qXXCGuY7YG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897618200923410814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽 这个我是真想看 https://t.co/qXXCGuY7YG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 878,
+          "like_count": 5456,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 1212
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2046860615038410752"
+      ],
+      "media_source_tweet_id": [
+        "2046860629580136448"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2046892139263729970",
+    "created_at": "2026-04-22T10:01:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T11:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046892139263729970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1234136434895810566",
+          "start": 3,
+          "username": "jjackson_0223"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jkdyWlM3bF",
+          "end": 86,
+          "expanded_url": "https://x.com/jjackson_0223/status/2046860629580136448/video/1",
+          "media_key": "7_2046860615038410752",
+          "start": 63,
+          "url": "https://t.co/jkdyWlM3bF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046892139263729970",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 603
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046860629580136448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jjackson_0223: 짹슨의 명예동생 크림이가 선풍기 소리 따라하는거 너무 귀여워서 안올릴수가 없다 https://t.co/jkdyWlM3bF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3529,
+        "height": 720,
+        "media_key": "7_2046860615038410752",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2046860615038410752/pu/img/cE3jpI94s4IImAhR.jpg",
+        "public_metrics": {
+          "view_count": 5375
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046860615038410752/pu/vid/avc1/320x320/GnBzPE_rrTcNgU6C.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046860615038410752/pu/vid/avc1/540x540/4Gv_3ViILSavmGns.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046860615038410752/pu/vid/avc1/720x720/60IbQTEA-NgD3vEt.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2046860615038410752/pu/pl/ihcEw-fD5jUItL50.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046860615038410752"
+          ],
+          "media_source_tweet_id": [
+            "2046860629580136448"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2046892139263729970",
+        "created_at": "2026-04-22T10:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046892139263729970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1234136434895810566",
+              "start": 3,
+              "username": "jjackson_0223"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jkdyWlM3bF",
+              "end": 86,
+              "expanded_url": "https://x.com/jjackson_0223/status/2046860629580136448/video/1",
+              "media_key": "7_2046860615038410752",
+              "start": 63,
+              "url": "https://t.co/jkdyWlM3bF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046892139263729970",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 603
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046860629580136448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jjackson_0223: 짹슨의 명예동생 크림이가 선풍기 소리 따라하는거 너무 귀여워서 안올릴수가 없다 https://t.co/jkdyWlM3bF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046860615038410752"
+          ]
+        },
+        "author_id": "1234136434895810566",
+        "conversation_id": "2046860629580136448",
+        "created_at": "2026-04-22T07:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046860629580136448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jkdyWlM3bF",
+              "end": 67,
+              "expanded_url": "https://x.com/jjackson_0223/status/2046860629580136448/video/1",
+              "media_key": "7_2046860615038410752",
+              "start": 44,
+              "url": "https://t.co/jkdyWlM3bF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046860629580136448",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 15397,
+          "like_count": 656,
+          "quote_count": 22,
+          "reply_count": 0,
+          "retweet_count": 603
+        },
+        "reply_settings": "everyone",
+        "text": "짹슨의 명예동생 크림이가 선풍기 소리 따라하는거 너무 귀여워서 안올릴수가 없다 https://t.co/jkdyWlM3bF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 1056,
+          "like_count": 26749,
+          "listed_count": 4,
+          "media_count": 636,
+          "tweet_count": 9314
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-01T15:20:45.000Z",
+        "description": "모란앵무 짹슨🐤",
+        "id": "1234136434895810566",
+        "name": "짹슨🐥",
+        "pinned_tweet_id": "1682353298240835589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734411038354006016/-oPQ39uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 146,
+          "like_count": 954,
+          "listed_count": 12,
+          "media_count": 469,
+          "tweet_count": 803
+        },
+        "username": "jjackson_0223",
+        "verified": false
+      }
+    ]
+  }
+}

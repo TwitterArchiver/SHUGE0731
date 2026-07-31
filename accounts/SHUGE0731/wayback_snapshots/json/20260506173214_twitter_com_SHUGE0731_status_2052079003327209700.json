@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052078989481803776"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052079003327209700",
+    "created_at": "2026-05-06T17:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T18:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052079003327209700"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6zfABT35GM",
+          "end": 44,
+          "expanded_url": "https://x.com/SHUGE0731/status/2052079003327209700/photo/1",
+          "media_key": "3_2052078989481803776",
+          "start": 21,
+          "url": "https://t.co/6zfABT35GM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052079003327209700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃了pr之后 很开心 我一直在评论别人～ https://t.co/6zfABT35GM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 174,
+        "media_key": "3_2052078989481803776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpy9_MbAAANoPh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052078989481803776"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052079003327209700",
+        "created_at": "2026-05-06T17:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T18:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052079003327209700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6zfABT35GM",
+              "end": 44,
+              "expanded_url": "https://x.com/SHUGE0731/status/2052079003327209700/photo/1",
+              "media_key": "3_2052078989481803776",
+              "start": 21,
+              "url": "https://t.co/6zfABT35GM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052079003327209700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃了pr之后 很开心 我一直在评论别人～ https://t.co/6zfABT35GM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 1108,
+          "like_count": 27927,
+          "listed_count": 5,
+          "media_count": 652,
+          "tweet_count": 9621
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      }
+    ]
+  }
+}

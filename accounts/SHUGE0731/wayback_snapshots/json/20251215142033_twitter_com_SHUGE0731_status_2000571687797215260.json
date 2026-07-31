@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000556390683979778"
+      ],
+      "media_source_tweet_id": [
+        "2000556531037909173"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2000571687797215260",
+    "created_at": "2025-12-15T14:20:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T15:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000571687797215260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1802348852936400896",
+          "start": 3,
+          "username": "22_0724"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/plnIs9m5OA",
+          "end": 46,
+          "expanded_url": "https://x.com/22_0724/status/2000556531037909173/photo/1",
+          "media_key": "3_2000556390683979778",
+          "start": 23,
+          "url": "https://t.co/plnIs9m5OA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000571687797215260",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 169
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000556531037909173",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @22_0724: 全ては変わっていく https://t.co/plnIs9m5OA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2256,
+        "media_key": "3_2000556390683979778",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8NncBvbMAIYoqs.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000556390683979778"
+          ],
+          "media_source_tweet_id": [
+            "2000556531037909173"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2000571687797215260",
+        "created_at": "2025-12-15T14:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T15:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000571687797215260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1802348852936400896",
+              "start": 3,
+              "username": "22_0724"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/plnIs9m5OA",
+              "end": 46,
+              "expanded_url": "https://x.com/22_0724/status/2000556531037909173/photo/1",
+              "media_key": "3_2000556390683979778",
+              "start": 23,
+              "url": "https://t.co/plnIs9m5OA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000571687797215260",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 169
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000556531037909173",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @22_0724: 全ては変わっていく https://t.co/plnIs9m5OA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000556390683979778"
+          ]
+        },
+        "author_id": "1802348852936400896",
+        "conversation_id": "2000556531037909173",
+        "created_at": "2025-12-15T13:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T14:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000556531037909173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/plnIs9m5OA",
+              "end": 33,
+              "expanded_url": "https://x.com/22_0724/status/2000556531037909173/photo/1",
+              "media_key": "3_2000556390683979778",
+              "start": 10,
+              "url": "https://t.co/plnIs9m5OA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000556531037909173",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 6996,
+          "like_count": 901,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 169
+        },
+        "reply_settings": "everyone",
+        "text": "全ては変わっていく https://t.co/plnIs9m5OA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 1026,
+          "like_count": 13948,
+          "listed_count": 2,
+          "media_count": 457,
+          "tweet_count": 4264
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-16T14:34:13.000Z",
+        "description": "いろいろ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/1accm6pld0ma4o…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/1accm6pld0ma4o5?t=toKNrg&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/G6wQgTBVX9"
+              }
+            ]
+          }
+        },
+        "id": "1802348852936400896",
+        "location": "🦆",
+        "name": "404ちゃん",
+        "pinned_tweet_id": "2000556531037909173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995861218209492992/XNJOK854_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 45,
+          "like_count": 1772,
+          "listed_count": 4,
+          "media_count": 25,
+          "tweet_count": 103
+        },
+        "url": "https://t.co/G6wQgTBVX9",
+        "username": "22_0724",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003216701354029056"
+      ],
+      "media_source_tweet_id": [
+        "2003216704353308677"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2003418294947316163",
+    "created_at": "2025-12-23T10:51:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T11:51:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003418294947316163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1433637346692542474",
+          "start": 3,
+          "username": "issoefofo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3rAhxE8sQX",
+          "end": 43,
+          "expanded_url": "https://x.com/issoefofo/status/2003216704353308677/photo/1",
+          "media_key": "3_2003216701354029056",
+          "start": 20,
+          "url": "https://t.co/3rAhxE8sQX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003418294947316163",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 835
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003216704353308677",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @issoefofo: Oiii https://t.co/3rAhxE8sQX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1529,
+        "media_key": "3_2003216701354029056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8za-fRWMAAaKaH.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003216701354029056"
+          ],
+          "media_source_tweet_id": [
+            "2003216704353308677"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2003418294947316163",
+        "created_at": "2025-12-23T10:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T11:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003418294947316163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1433637346692542474",
+              "start": 3,
+              "username": "issoefofo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3rAhxE8sQX",
+              "end": 43,
+              "expanded_url": "https://x.com/issoefofo/status/2003216704353308677/photo/1",
+              "media_key": "3_2003216701354029056",
+              "start": 20,
+              "url": "https://t.co/3rAhxE8sQX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003418294947316163",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 835
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003216704353308677",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @issoefofo: Oiii https://t.co/3rAhxE8sQX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003216701354029056"
+          ]
+        },
+        "author_id": "1433637346692542474",
+        "conversation_id": "2003216704353308677",
+        "created_at": "2025-12-22T21:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T22:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003216704353308677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3rAhxE8sQX",
+              "end": 28,
+              "expanded_url": "https://x.com/issoefofo/status/2003216704353308677/photo/1",
+              "media_key": "3_2003216701354029056",
+              "start": 5,
+              "url": "https://t.co/3rAhxE8sQX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003216704353308677",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 46409,
+          "like_count": 3763,
+          "quote_count": 71,
+          "reply_count": 7,
+          "retweet_count": 835
+        },
+        "reply_settings": "everyone",
+        "text": "Oiii https://t.co/3rAhxE8sQX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 1038,
+          "like_count": 15112,
+          "listed_count": 3,
+          "media_count": 476,
+          "tweet_count": 4810
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T03:46:03.000Z",
+        "description": "Os bichinhos e coisas mais fofinhas vc encontra aqui ❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chat.whatsapp.com/GaRc5OxcW5L6OP…",
+                "end": 23,
+                "expanded_url": "https://chat.whatsapp.com/GaRc5OxcW5L6OPbPLkiGNZ",
+                "start": 0,
+                "url": "https://t.co/yN6qlAqtCp"
+              }
+            ]
+          }
+        },
+        "id": "1433637346692542474",
+        "location": "Participe do nosso grupo ❤️",
+        "name": "Isso é fofo demais para não compartilhar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809649311866871808/SR5TWV2x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66463,
+          "following_count": 84,
+          "like_count": 1841,
+          "listed_count": 111,
+          "media_count": 990,
+          "tweet_count": 4276
+        },
+        "url": "https://t.co/yN6qlAqtCp",
+        "username": "issoefofo",
+        "verified": false
+      }
+    ]
+  }
+}

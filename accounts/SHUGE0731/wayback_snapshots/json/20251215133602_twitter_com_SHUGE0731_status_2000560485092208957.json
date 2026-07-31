@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000560473532661760"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2000560485092208957",
+    "created_at": "2025-12-15T13:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T14:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000560485092208957"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/l0nD0PJVfn",
+          "end": 38,
+          "expanded_url": "https://x.com/SHUGE0731/status/2000560485092208957/photo/1",
+          "media_key": "3_2000560473532661760",
+          "start": 15,
+          "url": "https://t.co/l0nD0PJVfn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000560485092208957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个可尔必思一天不喝就不得劲 https://t.co/l0nD0PJVfn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000560473532661760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8NrJriaAAAlt60.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000560473532661760"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2000560485092208957",
+        "created_at": "2025-12-15T13:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T14:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000560485092208957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l0nD0PJVfn",
+              "end": 38,
+              "expanded_url": "https://x.com/SHUGE0731/status/2000560485092208957/photo/1",
+              "media_key": "3_2000560473532661760",
+              "start": 15,
+              "url": "https://t.co/l0nD0PJVfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000560485092208957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个可尔必思一天不喝就不得劲 https://t.co/l0nD0PJVfn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 1025,
+          "like_count": 13938,
+          "listed_count": 2,
+          "media_count": 456,
+          "tweet_count": 4260
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      }
+    ]
+  }
+}

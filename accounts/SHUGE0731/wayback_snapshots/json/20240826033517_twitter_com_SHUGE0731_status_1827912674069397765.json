@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1827897196450369536"
+      ],
+      "media_source_tweet_id": [
+        "1827905556729770004"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1827912674069397765",
+    "created_at": "2024-08-26T03:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T04:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827912674069397765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2954383699",
+          "start": 3,
+          "username": "tsu_ne_tune"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8mtvlwzarw",
+          "end": 47,
+          "expanded_url": "https://twitter.com/tsu_ne_tune/status/1827905556729770004/photo/1",
+          "media_key": "3_1827897196450369536",
+          "start": 24,
+          "url": "https://t.co/8MtVLwZARw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827912674069397765",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 160
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827905556729770004",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsu_ne_tune: フランちゃん https://t.co/8MtVLwZARw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1812,
+        "media_key": "3_1827897196450369536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GV3-0MhbUAAsC4U.jpg",
+        "width": 1295
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827897196450369536"
+          ],
+          "media_source_tweet_id": [
+            "1827905556729770004"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1827912674069397765",
+        "created_at": "2024-08-26T03:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T04:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827912674069397765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2954383699",
+              "start": 3,
+              "username": "tsu_ne_tune"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8mtvlwzarw",
+              "end": 47,
+              "expanded_url": "https://twitter.com/tsu_ne_tune/status/1827905556729770004/photo/1",
+              "media_key": "3_1827897196450369536",
+              "start": 24,
+              "url": "https://t.co/8MtVLwZARw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827912674069397765",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 160
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827905556729770004",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsu_ne_tune: フランちゃん https://t.co/8MtVLwZARw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827897196450369536"
+          ]
+        },
+        "author_id": "2954383699",
+        "conversation_id": "1827905556729770004",
+        "created_at": "2024-08-26T03:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T04:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827905556729770004"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "フランちゃん",
+              "probability": 0.8458,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8mtvlwzarw",
+              "end": 30,
+              "expanded_url": "https://twitter.com/tsu_ne_tune/status/1827905556729770004/photo/1",
+              "media_key": "3_1827897196450369536",
+              "start": 7,
+              "url": "https://t.co/8MtVLwZARw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827905556729770004",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 10632,
+          "like_count": 1220,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 160
+        },
+        "reply_settings": "everyone",
+        "text": "フランちゃん https://t.co/8MtVLwZARw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 561,
+          "like_count": 1412,
+          "listed_count": 0,
+          "tweet_count": 196
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-01T05:24:54.000Z",
+        "description": "えりんぎすき skeb募集中です skeb→https://t.co/8hRnGVsf6f FANBOX→https://t.co/Avh7ZX0li7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@tsu_ne_tune",
+                "end": 45,
+                "expanded_url": "http://skeb.jp/@tsu_ne_tune",
+                "start": 22,
+                "url": "https://t.co/8hRnGVsf6f"
+              },
+              {
+                "display_url": "tsunetune.fanbox.cc",
+                "end": 76,
+                "expanded_url": "http://tsunetune.fanbox.cc",
+                "start": 53,
+                "url": "https://t.co/Avh7ZX0li7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=11365815",
+                "start": 0,
+                "url": "https://t.co/wDdFzrFD4G"
+              }
+            ]
+          }
+        },
+        "id": "2954383699",
+        "location": "北海道",
+        "name": "つね@skeb募集中",
+        "pinned_tweet_id": "1776282719548563658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668893485188157440/CzocShC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147255,
+          "following_count": 622,
+          "like_count": 3512,
+          "listed_count": 1026,
+          "tweet_count": 15827
+        },
+        "url": "https://t.co/wDdFzrFD4G",
+        "username": "tsu_ne_tune",
+        "verified": false
+      }
+    ]
+  }
+}

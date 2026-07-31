@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1967249673468739584"
+      ],
+      "media_source_tweet_id": [
+        "1967249736555188373"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      }
+    ],
+    "conversation_id": "1967421219348807835",
+    "created_at": "2025-09-15T02:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T03:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967421219348807835"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 44,
+          "normalized_text": "Umamusume",
+          "probability": 0.8291,
+          "start": 36,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 35,
+          "tag": "Umamusume"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1765421318873481220",
+          "start": 3,
+          "username": "lyn49556"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tqy7147O77",
+          "end": 69,
+          "expanded_url": "https://x.com/lyn49556/status/1967249736555188373/video/1",
+          "media_key": "13_1967249673468739584",
+          "start": 46,
+          "url": "https://t.co/tqy7147O77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967421219348807835",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2569
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967249736555188373",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lyn49556: Finally, I found it\n\n#Umamusume https://t.co/tqy7147O77"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21120,
+        "height": 1280,
+        "media_key": "13_1967249673468739584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1967249673468739584/img/vT_KQqqe3E3sBXdR.jpg",
+        "public_metrics": {
+          "view_count": 174807
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967249673468739584/vid/avc1/320x568/z0XZMuM1ttcrNatr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967249673468739584/vid/avc1/480x852/Pp36LIPwGkcUbmTX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967249673468739584/vid/avc1/720x1280/neQBV1ciinvQdik-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1967249673468739584/pl/4vFK2y7B4DFuHZT9.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967249673468739584"
+          ],
+          "media_source_tweet_id": [
+            "1967249736555188373"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "1967421219348807835",
+        "created_at": "2025-09-15T02:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T03:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967421219348807835"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "Umamusume",
+              "probability": 0.8291,
+              "start": 36,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 35,
+              "tag": "Umamusume"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1765421318873481220",
+              "start": 3,
+              "username": "lyn49556"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tqy7147O77",
+              "end": 69,
+              "expanded_url": "https://x.com/lyn49556/status/1967249736555188373/video/1",
+              "media_key": "13_1967249673468739584",
+              "start": 46,
+              "url": "https://t.co/tqy7147O77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967421219348807835",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2569
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967249736555188373",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lyn49556: Finally, I found it\n\n#Umamusume https://t.co/tqy7147O77"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967249673468739584"
+          ]
+        },
+        "author_id": "1765421318873481220",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "1967249736555188373",
+        "created_at": "2025-09-14T15:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T16:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967249736555188373"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "Umamusume",
+              "probability": 0.8699,
+              "start": 22,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "Umamusume"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tqy7147O77",
+              "end": 55,
+              "expanded_url": "https://x.com/lyn49556/status/1967249736555188373/video/1",
+              "media_key": "13_1967249673468739584",
+              "start": 32,
+              "url": "https://t.co/tqy7147O77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967249736555188373",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4614,
+          "impression_count": 341142,
+          "like_count": 24574,
+          "quote_count": 22,
+          "reply_count": 13,
+          "retweet_count": 2569
+        },
+        "reply_settings": "everyone",
+        "text": "Finally, I found it\n\n#Umamusume https://t.co/tqy7147O77"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 有一只牡丹鹦鹉叫uno！｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 1005,
+          "like_count": 9112,
+          "listed_count": 2,
+          "media_count": 288,
+          "tweet_count": 1924
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T16:57:33.000Z",
+        "description": "All about Gacha, Memes, News, Anime, Etc.",
+        "id": "1765421318873481220",
+        "location": "Tokyo",
+        "name": "lyn",
+        "pinned_tweet_id": "1967186267864752476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873260444502376450/w2bymgpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54854,
+          "following_count": 42,
+          "like_count": 358,
+          "listed_count": 99,
+          "media_count": 3053,
+          "tweet_count": 4355
+        },
+        "username": "lyn49556",
+        "verified": true
+      }
+    ]
+  }
+}

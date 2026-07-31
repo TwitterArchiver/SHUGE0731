@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2067058244153946469",
+    "created_at": "2026-06-17T02:28:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T03:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067071737305723124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2062129215219331072",
+          "start": 0,
+          "username": "8964_K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067071737305723124",
+    "in_reply_to_user_id": "2062129215219331072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067058244153946469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_K 你好你好👋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2067058239829606400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-qhHMWgAAKFDM.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2067058244153946469",
+        "created_at": "2026-06-17T02:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T03:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067071737305723124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2062129215219331072",
+              "start": 0,
+              "username": "8964_K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067071737305723124",
+        "in_reply_to_user_id": "2062129215219331072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067058244153946469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_K 你好你好👋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067058239829606400"
+          ]
+        },
+        "author_id": "2062129215219331072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2067058244153946469",
+        "created_at": "2026-06-17T01:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T02:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067058244153946469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2066391841516199936/zl74XLSB?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2066391841516199936/zl74XLSB?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/z03juqOk1L"
+            },
+            {
+              "display_url": "pic.x.com/fcbv8nM5FE",
+              "end": 64,
+              "expanded_url": "https://x.com/8964_K/status/2067058244153946469/photo/1",
+              "media_key": "3_2067058239829606400",
+              "start": 41,
+              "url": "https://t.co/fcbv8nM5FE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067058244153946469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/z03juqOk1L https://t.co/fcbv8nM5FE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "Dorcus10031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTtCZA"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 1160,
+          "like_count": 31465,
+          "listed_count": 4,
+          "media_count": 702,
+          "tweet_count": 10687
+        },
+        "url": "https://t.co/ApKveTtCZA",
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T11:08:48.000Z",
+        "description": "只是旅行者罢了\n把我说过的一切都当做梦呓吧\n无性别必\n#odtwt* #shtwt \nTG:HsHnFR\n我始终如一\n永远纪念\n@Inks_chain\n @Chain_Inks@8964_R \n@8964_U@8964_I@8964_O@8964_P@8964_L\n永远深爱@peipeimao",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "odtwt"
+              },
+              {
+                "end": 41,
+                "start": 35,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "Inks_chain"
+              },
+              {
+                "end": 147,
+                "start": 137,
+                "username": "peipeimao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rinphony",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rinphony",
+                "start": 0,
+                "url": "https://t.co/c5H9POwWy2"
+              }
+            ]
+          }
+        },
+        "id": "2062129215219331072",
+        "location": "她的怀里",
+        "name": "ヰ世界优泠#参宿七",
+        "pinned_tweet_id": "2066441057794240652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066951164999208960/V3OL3QUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 75,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 258
+        },
+        "url": "https://t.co/c5H9POwWy2",
+        "username": "8964_K",
+        "verified": true
+      }
+    ]
+  }
+}

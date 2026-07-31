@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_source_tweet_id": [
+        "1862438892345188820"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1862715290431492508",
+    "created_at": "2024-11-30T04:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T05:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862715290431492508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1124228064651517953",
+          "start": 3,
+          "username": "_AmAnok0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k8IjyKqDOZ",
+          "end": 39,
+          "expanded_url": "https://x.com/_AmAnok0/status/1862438892345188820/photo/1",
+          "media_key": "3_1862438586953691136",
+          "start": 16,
+          "url": "https://t.co/k8IjyKqDOZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862715290431492508",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1464
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862438892345188820",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_AmAnok0: 🐾 https://t.co/k8IjyKqDOZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_source_tweet_id": [
+            "1862438892345188820"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1862715290431492508",
+        "created_at": "2024-11-30T04:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T05:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862715290431492508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1124228064651517953",
+              "start": 3,
+              "username": "_AmAnok0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k8IjyKqDOZ",
+              "end": 39,
+              "expanded_url": "https://x.com/_AmAnok0/status/1862438892345188820/photo/1",
+              "media_key": "3_1862438586953691136",
+              "start": 16,
+              "url": "https://t.co/k8IjyKqDOZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862715290431492508",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1464
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862438892345188820",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_AmAnok0: 🐾 https://t.co/k8IjyKqDOZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862438586953691136"
+          ]
+        },
+        "author_id": "1124228064651517953",
+        "conversation_id": "1862438892345188820",
+        "created_at": "2024-11-29T10:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T11:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862438892345188820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k8IjyKqDOZ",
+              "end": 25,
+              "expanded_url": "https://x.com/_AmAnok0/status/1862438892345188820/photo/1",
+              "media_key": "3_1862438586953691136",
+              "start": 2,
+              "url": "https://t.co/k8IjyKqDOZ"
+            },
+            {
+              "display_url": "x.com/dEi_pft/status…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/dEi_pft/status/1861382076194529774",
+              "start": 26,
+              "url": "https://t.co/12nOUlQoUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862438892345188820",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1891,
+          "impression_count": 321856,
+          "like_count": 16193,
+          "quote_count": 7,
+          "reply_count": 18,
+          "retweet_count": 1464
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861382076194529774",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🐾 https://t.co/k8IjyKqDOZ https://t.co/12nOUlQoUn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 742,
+          "like_count": 3325,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 644
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-03T08:23:52.000Z",
+        "description": "イラストレーター　絵を描いています。\nskeb / https://t.co/qXdeFLScY0\nFANBOX / https://t.co/k96LBm1sBe\nContact / amanoko408@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@_AmAnok0",
+                "end": 49,
+                "expanded_url": "https://skeb.jp/@_AmAnok0",
+                "start": 26,
+                "url": "https://t.co/qXdeFLScY0"
+              },
+              {
+                "display_url": "amanoko.fanbox.cc",
+                "end": 82,
+                "expanded_url": "https://amanoko.fanbox.cc",
+                "start": 59,
+                "url": "https://t.co/k96LBm1sBe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/member.php?id=24802588",
+                "start": 0,
+                "url": "https://t.co/E2nXr3HeyG"
+              }
+            ]
+          }
+        },
+        "id": "1124228064651517953",
+        "name": "アマノコ＠C105(日)西き-29b",
+        "pinned_tweet_id": "1854801747233104125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690743160824279041/VxtlqrqT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49660,
+          "following_count": 331,
+          "like_count": 10850,
+          "listed_count": 452,
+          "media_count": 835,
+          "tweet_count": 7444
+        },
+        "url": "https://t.co/E2nXr3HeyG",
+        "username": "_AmAnok0",
+        "verified": true
+      }
+    ]
+  }
+}

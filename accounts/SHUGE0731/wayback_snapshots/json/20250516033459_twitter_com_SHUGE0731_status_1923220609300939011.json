@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923064501080915968"
+      ],
+      "media_source_tweet_id": [
+        "1923064503576449466"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1923220609300939011",
+    "created_at": "2025-05-16T03:34:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T04:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923220609300939011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1340462334184140800",
+          "start": 3,
+          "username": "_RAMI44"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nNpTaCXm30",
+          "end": 36,
+          "expanded_url": "https://x.com/_RAMI44/status/1923064503576449466/photo/1",
+          "media_key": "3_1923064501080915968",
+          "start": 13,
+          "url": "https://t.co/nNpTaCXm30"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923220609300939011",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6350
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923064503576449466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_RAMI44: https://t.co/nNpTaCXm30"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_1923064501080915968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrAY-ZMXgAAXRDX.jpg",
+        "width": 657
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923064501080915968"
+          ],
+          "media_source_tweet_id": [
+            "1923064503576449466"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1923220609300939011",
+        "created_at": "2025-05-16T03:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T04:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923220609300939011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1340462334184140800",
+              "start": 3,
+              "username": "_RAMI44"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nNpTaCXm30",
+              "end": 36,
+              "expanded_url": "https://x.com/_RAMI44/status/1923064503576449466/photo/1",
+              "media_key": "3_1923064501080915968",
+              "start": 13,
+              "url": "https://t.co/nNpTaCXm30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923220609300939011",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6350
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923064503576449466",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_RAMI44: https://t.co/nNpTaCXm30"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923064501080915968"
+          ]
+        },
+        "author_id": "1340462334184140800",
+        "conversation_id": "1923064503576449466",
+        "created_at": "2025-05-15T17:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T18:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923064503576449466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nNpTaCXm30",
+              "end": 23,
+              "expanded_url": "https://x.com/_RAMI44/status/1923064503576449466/photo/1",
+              "media_key": "3_1923064501080915968",
+              "start": 0,
+              "url": "https://t.co/nNpTaCXm30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923064503576449466",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7019,
+          "impression_count": 1815734,
+          "like_count": 87895,
+          "quote_count": 98,
+          "reply_count": 169,
+          "retweet_count": 6350
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nNpTaCXm30"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 931,
+          "like_count": 7586,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 1578
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-20T01:01:55.000Z",
+        "description": "",
+        "id": "1340462334184140800",
+        "location": "La casa de dross",
+        "name": "𝖗𝖆𝖒𝖎_",
+        "pinned_tweet_id": "1873055639213359285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486133216847151104/CjcIvT-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5740,
+          "following_count": 841,
+          "like_count": 25788,
+          "listed_count": 3,
+          "media_count": 2911,
+          "tweet_count": 7740
+        },
+        "username": "_RAMI44",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1852254766904283136"
+      ],
+      "media_source_tweet_id": [
+        "1852254793156497676"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1852646773313200179",
+    "created_at": "2024-11-02T09:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T10:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852646773313200179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1365545924785623044",
+          "start": 3,
+          "username": "JustUda"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mkVSZIO1tA",
+          "end": 79,
+          "expanded_url": "https://x.com/JustUda/status/1852254793156497676/video/1",
+          "media_key": "7_1852254766904283136",
+          "start": 56,
+          "url": "https://t.co/mkVSZIO1tA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852646773313200179",
+    "lang": "in",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3085
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852254793156497676",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JustUda: Skibidi 🗣️\nSkibidi 🗣️\nhawk tuah hawk🗣️🔥🗣️🔥 https://t.co/mkVSZIO1tA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31834,
+        "height": 576,
+        "media_key": "7_1852254766904283136",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1852254766904283136/pu/img/cAUwF7Ecz0WRnQ1i.jpg",
+        "public_metrics": {
+          "view_count": 196368
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1852254766904283136/pu/vid/avc1/360x270/yqRCDB_oz6DLAUP6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1852254766904283136/pu/vid/avc1/480x360/Q8_QB3Z5zil_qUUV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1852254766904283136/pu/vid/avc1/768x576/j-fse9FoE-ofmkZ4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1852254766904283136/pu/pl/wHclINchrSeBGhYK.m3u8?tag=12&v=f86"
+          }
+        ],
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1852254766904283136"
+          ],
+          "media_source_tweet_id": [
+            "1852254793156497676"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1852646773313200179",
+        "created_at": "2024-11-02T09:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T10:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852646773313200179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1365545924785623044",
+              "start": 3,
+              "username": "JustUda"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mkVSZIO1tA",
+              "end": 79,
+              "expanded_url": "https://x.com/JustUda/status/1852254793156497676/video/1",
+              "media_key": "7_1852254766904283136",
+              "start": 56,
+              "url": "https://t.co/mkVSZIO1tA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852646773313200179",
+        "lang": "in",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3085
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852254793156497676",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JustUda: Skibidi 🗣️\nSkibidi 🗣️\nhawk tuah hawk🗣️🔥🗣️🔥 https://t.co/mkVSZIO1tA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1852254766904283136"
+          ]
+        },
+        "author_id": "1365545924785623044",
+        "conversation_id": "1852254793156497676",
+        "created_at": "2024-11-01T07:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T08:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852254793156497676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mkVSZIO1tA",
+              "end": 66,
+              "expanded_url": "https://x.com/JustUda/status/1852254793156497676/video/1",
+              "media_key": "7_1852254766904283136",
+              "start": 43,
+              "url": "https://t.co/mkVSZIO1tA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852254793156497676",
+        "lang": "in",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7519,
+          "impression_count": 451902,
+          "like_count": 20250,
+          "quote_count": 139,
+          "reply_count": 137,
+          "retweet_count": 3085
+        },
+        "reply_settings": "everyone",
+        "text": "Skibidi 🗣️\nSkibidi 🗣️\nhawk tuah hawk🗣️🔥🗣️🔥 https://t.co/mkVSZIO1tA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 710,
+          "like_count": 2765,
+          "listed_count": 0,
+          "tweet_count": 530
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-27T06:15:35.000Z",
+        "description": "Vtuber and Blue Archive Brainrot\nTrying to get better at drawing\npfp by :  \n@Jasper_Xandros\nbanner by: \n@AkangDonatYako\nok im an amateur",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "Jasper_Xandros"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "AkangDonatYako"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uda.is.a.stude…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/uda.is.a.student1",
+                "start": 0,
+                "url": "https://t.co/pHeAQD8T9b"
+              }
+            ]
+          }
+        },
+        "id": "1365545924785623044",
+        "name": "Uda🔮🧟‍♀️📜🔨☔👘🎐⛓📚🎨⚔👁‍🗨🦅🍵",
+        "pinned_tweet_id": "1472226183924183043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829505078891315200/7xQrsFT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 3152,
+          "like_count": 109861,
+          "listed_count": 9,
+          "tweet_count": 52938
+        },
+        "url": "https://t.co/pHeAQD8T9b",
+        "username": "JustUda",
+        "verified": false
+      }
+    ]
+  }
+}

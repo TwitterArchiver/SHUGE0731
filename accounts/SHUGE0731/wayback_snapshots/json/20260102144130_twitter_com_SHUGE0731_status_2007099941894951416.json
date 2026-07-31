@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2007090150619451802",
+    "created_at": "2026-01-02T14:41:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T15:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007099941894951416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1976904875603873792",
+          "start": 0,
+          "username": "RXrein0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007099941894951416",
+    "in_reply_to_user_id": "1976904875603873792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007098948209836061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RXrein0 感觉柠檬味的什么火锅也不错（？）可以找个贵州人鉴定一下（bushi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2007090150619451802",
+        "created_at": "2026-01-02T14:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T15:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007099941894951416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1976904875603873792",
+              "start": 0,
+              "username": "RXrein0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007099941894951416",
+        "in_reply_to_user_id": "1976904875603873792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007098948209836061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXrein0 感觉柠檬味的什么火锅也不错（？）可以找个贵州人鉴定一下（bushi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976904875603873792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Vegetables",
+              "id": "842797798626009088",
+              "name": "Vegetable recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vegetables",
+              "id": "842797798626009088",
+              "name": "Vegetable recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Recipies/Books",
+              "id": "846736745517350912",
+              "name": "Recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Vegetables",
+              "id": "842797798626009088",
+              "name": "Vegetable recipes"
+            }
+          }
+        ],
+        "conversation_id": "2007090150619451802",
+        "created_at": "2026-01-02T14:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T15:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007098948209836061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007098948209836061",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007098357714670052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 我吃的这个完全不辣啊😰也没有番茄味，我的理解是酸甜酸甜版本的番茄锅plus，但我吃的这家像柠檬酸野菜汤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 988,
+          "like_count": 16819,
+          "listed_count": 3,
+          "media_count": 508,
+          "tweet_count": 5618
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T06:57:24.000Z",
+        "description": "一些TAG：明日方舟/假面骑士/杀戮尖塔/怪猎/老头环/23岁社畜/杂食。\n欢迎各位小窗找我玩。\n匿名提问箱链接：https://t.co/bXcjBUMlqn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rein0",
+                "end": 80,
+                "expanded_url": "https://ngl.link/rein0",
+                "start": 57,
+                "url": "https://t.co/bXcjBUMlqn"
+              }
+            ]
+          }
+        },
+        "id": "1976904875603873792",
+        "location": "深空群星-#02FA",
+        "name": "没有味淋多喝生抽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003309834922524673/d2RBO_G-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 39,
+          "like_count": 807,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 758
+        },
+        "username": "RXrein0",
+        "verified": false
+      }
+    ]
+  }
+}

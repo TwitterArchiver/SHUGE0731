@@ -1,0 +1,573 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060622744493207552",
+        "3_2060620333263241216",
+        "3_2060620852945969152",
+        "3_2060621952935723008"
+      ],
+      "media_source_tweet_id": [
+        "2060864331080663191",
+        "2060864331080663191",
+        "2060864331080663191",
+        "2060864331080663191"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2061026925561421882",
+    "created_at": "2026-05-31T10:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T11:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061026925561421882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1013676852592893952",
+          "start": 3,
+          "username": "chipushishi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TqQENteXHw",
+          "end": 59,
+          "expanded_url": "https://x.com/chipushishi/status/2060864331080663191/photo/1",
+          "media_key": "3_2060622744493207552",
+          "start": 36,
+          "url": "https://t.co/TqQENteXHw"
+        },
+        {
+          "display_url": "pic.x.com/TqQENteXHw",
+          "end": 59,
+          "expanded_url": "https://x.com/chipushishi/status/2060864331080663191/photo/1",
+          "media_key": "3_2060620333263241216",
+          "start": 36,
+          "url": "https://t.co/TqQENteXHw"
+        },
+        {
+          "display_url": "pic.x.com/TqQENteXHw",
+          "end": 59,
+          "expanded_url": "https://x.com/chipushishi/status/2060864331080663191/photo/1",
+          "media_key": "3_2060620852945969152",
+          "start": 36,
+          "url": "https://t.co/TqQENteXHw"
+        },
+        {
+          "display_url": "pic.x.com/TqQENteXHw",
+          "end": 59,
+          "expanded_url": "https://x.com/chipushishi/status/2060864331080663191/photo/1",
+          "media_key": "3_2060621952935723008",
+          "start": 36,
+          "url": "https://t.co/TqQENteXHw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061026925561421882",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2449
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060864331080663191",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chipushishi: 最近描いたPC98みたいな絵たちです https://t.co/TqQENteXHw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2060622744493207552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjNd-2bsAAyGUt.png",
+        "width": 640
+      },
+      {
+        "height": 400,
+        "media_key": "3_2060620333263241216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjLRoUaQAAjD7q.png",
+        "width": 640
+      },
+      {
+        "height": 400,
+        "media_key": "3_2060620852945969152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjLv4SbYAA5i0x.png",
+        "width": 640
+      },
+      {
+        "height": 400,
+        "media_key": "3_2060621952935723008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjMv6EbAAAnjG4.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060622744493207552",
+            "3_2060620333263241216",
+            "3_2060620852945969152",
+            "3_2060621952935723008"
+          ],
+          "media_source_tweet_id": [
+            "2060864331080663191",
+            "2060864331080663191",
+            "2060864331080663191",
+            "2060864331080663191"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2061026925561421882",
+        "created_at": "2026-05-31T10:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061026925561421882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1013676852592893952",
+              "start": 3,
+              "username": "chipushishi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TqQENteXHw",
+              "end": 59,
+              "expanded_url": "https://x.com/chipushishi/status/2060864331080663191/photo/1",
+              "media_key": "3_2060622744493207552",
+              "start": 36,
+              "url": "https://t.co/TqQENteXHw"
+            },
+            {
+              "display_url": "pic.x.com/TqQENteXHw",
+              "end": 59,
+              "expanded_url": "https://x.com/chipushishi/status/2060864331080663191/photo/1",
+              "media_key": "3_2060620333263241216",
+              "start": 36,
+              "url": "https://t.co/TqQENteXHw"
+            },
+            {
+              "display_url": "pic.x.com/TqQENteXHw",
+              "end": 59,
+              "expanded_url": "https://x.com/chipushishi/status/2060864331080663191/photo/1",
+              "media_key": "3_2060620852945969152",
+              "start": 36,
+              "url": "https://t.co/TqQENteXHw"
+            },
+            {
+              "display_url": "pic.x.com/TqQENteXHw",
+              "end": 59,
+              "expanded_url": "https://x.com/chipushishi/status/2060864331080663191/photo/1",
+              "media_key": "3_2060621952935723008",
+              "start": 36,
+              "url": "https://t.co/TqQENteXHw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061026925561421882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2449
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060864331080663191",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chipushishi: 最近描いたPC98みたいな絵たちです https://t.co/TqQENteXHw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060622744493207552",
+            "3_2060620333263241216",
+            "3_2060620852945969152",
+            "3_2060621952935723008"
+          ]
+        },
+        "author_id": "1013676852592893952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2060864331080663191",
+        "created_at": "2026-05-30T23:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T00:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060864331080663191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TqQENteXHw",
+              "end": 42,
+              "expanded_url": "https://x.com/chipushishi/status/2060864331080663191/photo/1",
+              "media_key": "3_2060622744493207552",
+              "start": 19,
+              "url": "https://t.co/TqQENteXHw"
+            },
+            {
+              "display_url": "pic.x.com/TqQENteXHw",
+              "end": 42,
+              "expanded_url": "https://x.com/chipushishi/status/2060864331080663191/photo/1",
+              "media_key": "3_2060620333263241216",
+              "start": 19,
+              "url": "https://t.co/TqQENteXHw"
+            },
+            {
+              "display_url": "pic.x.com/TqQENteXHw",
+              "end": 42,
+              "expanded_url": "https://x.com/chipushishi/status/2060864331080663191/photo/1",
+              "media_key": "3_2060620852945969152",
+              "start": 19,
+              "url": "https://t.co/TqQENteXHw"
+            },
+            {
+              "display_url": "pic.x.com/TqQENteXHw",
+              "end": 42,
+              "expanded_url": "https://x.com/chipushishi/status/2060864331080663191/photo/1",
+              "media_key": "3_2060621952935723008",
+              "start": 19,
+              "url": "https://t.co/TqQENteXHw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060864331080663191",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4028,
+          "impression_count": 611430,
+          "like_count": 20011,
+          "quote_count": 76,
+          "reply_count": 27,
+          "retweet_count": 2449
+        },
+        "reply_settings": "everyone",
+        "text": "最近描いたPC98みたいな絵たちです https://t.co/TqQENteXHw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 1138,
+          "like_count": 29753,
+          "listed_count": 4,
+          "media_count": 685,
+          "tweet_count": 10116
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-02T06:52:49.000Z",
+        "description": "ドット絵や作曲やゲーム制作など｜PC98風ゲーム制作中｜お仕事のご依頼はメールかDMでお願いします【Ci-en(制作過程)】https://t.co/UprwMpllGa 【skeb】https://t.co/1am6MbdbsZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ci-en.dlsite.com/creator/15038",
+                "end": 85,
+                "expanded_url": "http://ci-en.dlsite.com/creator/15038",
+                "start": 62,
+                "url": "https://t.co/UprwMpllGa"
+              },
+              {
+                "display_url": "skeb.jp/@chipushishi",
+                "end": 115,
+                "expanded_url": "https://skeb.jp/@chipushishi",
+                "start": 92,
+                "url": "https://t.co/1am6MbdbsZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/10325084",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/10325084",
+                "start": 0,
+                "url": "https://t.co/aBHoHyD9L5"
+              }
+            ]
+          }
+        },
+        "id": "1013676852592893952",
+        "location": "chipushishi@gmail.com",
+        "name": "ちぷしし / Chipushishi",
+        "pinned_tweet_id": "2057232399470059947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1413542144569090052/6QM0vM4-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44613,
+          "following_count": 186,
+          "like_count": 3417,
+          "listed_count": 416,
+          "media_count": 523,
+          "tweet_count": 2416
+        },
+        "url": "https://t.co/aBHoHyD9L5",
+        "username": "chipushishi",
+        "verified": false
+      }
+    ]
+  }
+}

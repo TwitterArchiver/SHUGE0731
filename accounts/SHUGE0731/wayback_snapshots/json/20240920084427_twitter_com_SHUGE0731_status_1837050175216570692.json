@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1836712301506019328"
+      ],
+      "media_source_tweet_id": [
+        "1836713502473629951"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1837050175216570692",
+    "created_at": "2024-09-20T08:44:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T09:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837050175216570692"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "トム",
+          "probability": 0.5526,
+          "start": 44,
+          "type": "Person"
+        },
+        {
+          "end": 59,
+          "normalized_text": "ミランダ",
+          "probability": 0.6689,
+          "start": 56,
+          "type": "Person"
+        },
+        {
+          "end": 70,
+          "normalized_text": "トーブ",
+          "probability": 0.4544,
+          "start": 68,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 99,
+          "start": 93,
+          "tag": "NIKKE"
+        },
+        {
+          "end": 111,
+          "start": 100,
+          "tag": "勝利の女神NIKKE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "835091642268835840",
+          "start": 3,
+          "username": "tsubasa_nikke"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0ovyrlez0z",
+          "end": 135,
+          "expanded_url": "https://twitter.com/tsubasa_nikke/status/1836713502473629951/video/1",
+          "media_key": "7_1836712301506019328",
+          "start": 112,
+          "url": "https://t.co/0OvyrLEZ0z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837050175216570692",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2259
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836713502473629951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsubasa_nikke: リロード集全137キャラ！ \nクエンシー、 ファントム、ルージュ追加して\nミランダ、レッドフード、トーブ差し替えましたー°˖☆◝(⁰▿⁰)◜☆˖°\n#NIKKE #勝利の女神NIKKE https://t.co/0OvyrLEZ0z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 274600,
+        "height": 3840,
+        "media_key": "7_1836712301506019328",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1836712301506019328/pu/img/00P5STR6XwEWCqzE.jpg",
+        "public_metrics": {
+          "view_count": 430957
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1836712301506019328/pu/vid/avc1/320x692/aNQqzKe1FsF5OeTI.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1836712301506019328/pu/pl/3dc4L1Hof8i8FpwZ.m3u8?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1836712301506019328/pu/vid/avc1/480x1038/SU8M_zqyJU5cTwvo.mp4?tag=14"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1836712301506019328/pu/vid/avc1/1080x2336/tj-TWr_H5LI4pkND.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1836712301506019328/pu/vid/avc1/720x1558/o52WdKylKfrs6WA-.mp4?tag=14"
+          }
+        ],
+        "width": 1774
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1836712301506019328"
+          ],
+          "media_source_tweet_id": [
+            "1836713502473629951"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1837050175216570692",
+        "created_at": "2024-09-20T08:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T09:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837050175216570692"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "トム",
+              "probability": 0.5526,
+              "start": 44,
+              "type": "Person"
+            },
+            {
+              "end": 59,
+              "normalized_text": "ミランダ",
+              "probability": 0.6689,
+              "start": 56,
+              "type": "Person"
+            },
+            {
+              "end": 70,
+              "normalized_text": "トーブ",
+              "probability": 0.4544,
+              "start": 68,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 93,
+              "tag": "NIKKE"
+            },
+            {
+              "end": 111,
+              "start": 100,
+              "tag": "勝利の女神NIKKE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "835091642268835840",
+              "start": 3,
+              "username": "tsubasa_nikke"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ovyrlez0z",
+              "end": 135,
+              "expanded_url": "https://twitter.com/tsubasa_nikke/status/1836713502473629951/video/1",
+              "media_key": "7_1836712301506019328",
+              "start": 112,
+              "url": "https://t.co/0OvyrLEZ0z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837050175216570692",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2259
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836713502473629951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsubasa_nikke: リロード集全137キャラ！ \nクエンシー、 ファントム、ルージュ追加して\nミランダ、レッドフード、トーブ差し替えましたー°˖☆◝(⁰▿⁰)◜☆˖°\n#NIKKE #勝利の女神NIKKE https://t.co/0OvyrLEZ0z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1836712301506019328"
+          ]
+        },
+        "author_id": "835091642268835840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1836713502473629951",
+        "created_at": "2024-09-19T10:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T11:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836713502473629951"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "トム",
+              "probability": 0.5002,
+              "start": 25,
+              "type": "Person"
+            },
+            {
+              "end": 40,
+              "normalized_text": "ミランダ",
+              "probability": 0.655,
+              "start": 37,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 74,
+              "tag": "NIKKE"
+            },
+            {
+              "end": 92,
+              "start": 81,
+              "tag": "勝利の女神NIKKE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ovyrlez0z",
+              "end": 116,
+              "expanded_url": "https://twitter.com/tsubasa_nikke/status/1836713502473629951/video/1",
+              "media_key": "7_1836712301506019328",
+              "start": 93,
+              "url": "https://t.co/0OvyrLEZ0z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836713502473629951",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9131,
+          "impression_count": 931084,
+          "like_count": 22331,
+          "quote_count": 99,
+          "reply_count": 30,
+          "retweet_count": 2259
+        },
+        "reply_settings": "everyone",
+        "text": "リロード集全137キャラ！ \nクエンシー、 ファントム、ルージュ追加して\nミランダ、レッドフード、トーブ差し替えましたー°˖☆◝(⁰▿⁰)◜☆˖°\n#NIKKE #勝利の女神NIKKE https://t.co/0OvyrLEZ0z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 603,
+          "like_count": 1866,
+          "listed_count": 0,
+          "tweet_count": 319
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-24T11:38:57.000Z",
+        "description": "スクエアガーデン所属( ˙꒳ ˙ᐢ ) サーバーは「285」 #NIKKE \nフレームやバナーを作ってます 作った物は \n#フェザーBOX  のタグつけてます！\n📣シャドバン中は @tsubasa_su ←避難垢\n🆕#無言で一番好きなNIKKEの画像あげる",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 31,
+                "tag": "NIKKE"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "フェザーBOX"
+              },
+              {
+                "end": 128,
+                "start": 108,
+                "tag": "無言で一番好きなNIKKEの画像あげる"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "tsubasa_su"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@tsubasa_nikke",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@tsubasa_nikke",
+                "start": 0,
+                "url": "https://t.co/VWJP8UxGQR"
+              }
+            ]
+          }
+        },
+        "id": "835091642268835840",
+        "location": "日本 東京",
+        "name": "つばさ_メガニケ",
+        "pinned_tweet_id": "1834789174743888221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778613639194517504/JLmBPlbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10458,
+          "following_count": 4664,
+          "like_count": 100798,
+          "listed_count": 86,
+          "tweet_count": 29686
+        },
+        "url": "https://t.co/VWJP8UxGQR",
+        "username": "tsubasa_nikke",
+        "verified": true
+      }
+    ]
+  }
+}

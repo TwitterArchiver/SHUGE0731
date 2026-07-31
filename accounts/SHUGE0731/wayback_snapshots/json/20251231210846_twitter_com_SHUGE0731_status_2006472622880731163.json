@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006335897701318656"
+      ],
+      "media_source_tweet_id": [
+        "2006379857450569753"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      }
+    ],
+    "conversation_id": "2006472622880731163",
+    "created_at": "2025-12-31T21:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T22:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006472622880731163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1079881115681284098",
+          "start": 3,
+          "username": "kashiyuki_yuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BxtIH9VPGM",
+          "end": 127,
+          "expanded_url": "https://x.com/kashiyuki_yuki/status/2006379857450569753/photo/1",
+          "media_key": "3_2006335897701318656",
+          "start": 104,
+          "url": "https://t.co/BxtIH9VPGM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006472622880731163",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 766
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006379857450569753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kashiyuki_yuki: あけましておめでとうございます！\n今年は午年！\nつまり...、ウマ娘の年！！\nどこまでも全力で駆けていく1年に出来るように頑張ります！\n今年もよろしくお願いしますっ！ https://t.co/BxtIH9VPGM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006335897701318656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9fv3nKaAAAK84h.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006335897701318656"
+          ],
+          "media_source_tweet_id": [
+            "2006379857450569753"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "2006472622880731163",
+        "created_at": "2025-12-31T21:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T22:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006472622880731163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1079881115681284098",
+              "start": 3,
+              "username": "kashiyuki_yuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BxtIH9VPGM",
+              "end": 127,
+              "expanded_url": "https://x.com/kashiyuki_yuki/status/2006379857450569753/photo/1",
+              "media_key": "3_2006335897701318656",
+              "start": 104,
+              "url": "https://t.co/BxtIH9VPGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006472622880731163",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 766
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006379857450569753",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kashiyuki_yuki: あけましておめでとうございます！\n今年は午年！\nつまり...、ウマ娘の年！！\nどこまでも全力で駆けていく1年に出来るように頑張ります！\n今年もよろしくお願いしますっ！ https://t.co/BxtIH9VPGM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006335897701318656"
+          ]
+        },
+        "author_id": "1079881115681284098",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "2006379857450569753",
+        "created_at": "2025-12-31T15:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T16:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006379857450569753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BxtIH9VPGM",
+              "end": 107,
+              "expanded_url": "https://x.com/kashiyuki_yuki/status/2006379857450569753/photo/1",
+              "media_key": "3_2006335897701318656",
+              "start": 84,
+              "url": "https://t.co/BxtIH9VPGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006379857450569753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 486,
+          "impression_count": 46888,
+          "like_count": 4318,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 766
+        },
+        "reply_settings": "everyone",
+        "text": "あけましておめでとうございます！\n今年は午年！\nつまり...、ウマ娘の年！！\nどこまでも全力で駆けていく1年に出来るように頑張ります！\n今年もよろしくお願いしますっ！ https://t.co/BxtIH9VPGM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 995,
+          "like_count": 16635,
+          "listed_count": 3,
+          "media_count": 505,
+          "tweet_count": 5531
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-31T23:24:55.000Z",
+        "description": "イラストレーター/ウマ娘ライスシャワー好き/AI使用・無断転載禁止🚫/ご依頼の際はMailまで！【Mail】kashiyukiworks@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/37188185",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/37188185",
+                "start": 0,
+                "url": "https://t.co/rN2vNAsObm"
+              }
+            ]
+          }
+        },
+        "id": "1079881115681284098",
+        "name": "かつしかゆき",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765009513621659648/x1DE1CED_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24767,
+          "following_count": 955,
+          "like_count": 46275,
+          "listed_count": 180,
+          "media_count": 653,
+          "tweet_count": 46443
+        },
+        "url": "https://t.co/rN2vNAsObm",
+        "username": "kashiyuki_yuki",
+        "verified": true
+      }
+    ]
+  }
+}

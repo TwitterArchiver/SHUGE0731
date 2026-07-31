@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1824357284207570944"
+      ],
+      "media_source_tweet_id": [
+        "1824357421151658284"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1824378582702924105",
+    "created_at": "2024-08-16T09:32:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T10:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824378582702924105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1473865858548056065",
+          "start": 3,
+          "username": "PwdPwdPwdPwdPwd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wkxl57isnu",
+          "end": 55,
+          "expanded_url": "https://twitter.com/PwdPwdPwdPwdPwd/status/1824357421151658284/photo/1",
+          "media_key": "16_1824357284207570944",
+          "start": 32,
+          "url": "https://t.co/WkXl57IsNu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824378582702924105",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 137
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824357421151658284",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PwdPwdPwdPwdPwd: サキュバスbind5 https://t.co/WkXl57IsNu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1824378582702924105].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1824378582702924105",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1824378582702924105"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "16_1824357284207570944",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GVFrSLyWsAAvYWd.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GVFrSLyWsAAvYWd.mp4"
+          }
+        ],
+        "width": 1248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1824357284207570944"
+          ]
+        },
+        "author_id": "1473865858548056065",
+        "conversation_id": "1824357421151658284",
+        "created_at": "2024-08-16T08:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T09:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824357421151658284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wkxl57isnu",
+              "end": 34,
+              "expanded_url": "https://twitter.com/PwdPwdPwdPwdPwd/status/1824357421151658284/photo/1",
+              "media_key": "16_1824357284207570944",
+              "start": 11,
+              "url": "https://t.co/WkXl57IsNu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824357421151658284",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 299,
+          "impression_count": 15558,
+          "like_count": 1291,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "サキュバスbind5 https://t.co/WkXl57IsNu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 533,
+          "like_count": 1266,
+          "listed_count": 0,
+          "tweet_count": 159
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T03:59:52.000Z",
+        "description": "2DドットACTゲーム「Sister Virodar」開発中！ᐕ)⁾⁾\nCien:https://t.co/oynfTjDmGy\nPatreon:https://t.co/sSyDw5vLF4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ci-en.dlsite.com/creator/21639",
+                "end": 64,
+                "expanded_url": "http://ci-en.dlsite.com/creator/21639",
+                "start": 41,
+                "url": "https://t.co/oynfTjDmGy"
+              },
+              {
+                "display_url": "patreon.com/pwdpwdpwd",
+                "end": 96,
+                "expanded_url": "http://patreon.com/pwdpwdpwd",
+                "start": 73,
+                "url": "https://t.co/sSyDw5vLF4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/13966401",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/13966401",
+                "start": 0,
+                "url": "https://t.co/NGjZy4pZ91"
+              }
+            ]
+          }
+        },
+        "id": "1473865858548056065",
+        "location": "蒼い惑星",
+        "name": "Pwd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590250734154526721/trJOQt1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98267,
+          "following_count": 305,
+          "like_count": 16470,
+          "listed_count": 346,
+          "tweet_count": 2214
+        },
+        "url": "https://t.co/NGjZy4pZ91",
+        "username": "PwdPwdPwdPwdPwd",
+        "verified": true
+      }
+    ]
+  }
+}

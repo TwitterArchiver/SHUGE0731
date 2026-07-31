@@ -1,0 +1,652 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1326539256244838401",
+          "name": "Rabbits"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1326539256244838401",
+          "name": "Rabbits"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Fukuoka",
+          "id": "1009168505252352000",
+          "name": "Fukuoka"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "1889938163180904880",
+    "created_at": "2025-02-13T07:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T08:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889938163180904880"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chiikawa_kouho…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/chiikawa_kouhou/status/1889933674990453223",
+          "start": 7,
+          "url": "https://t.co/jPLYS7aMlp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889938163180904880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889933674990453223",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个太可爱了 https://t.co/jPLYS7aMlp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1326539256244838401",
+              "name": "Rabbits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1326539256244838401",
+              "name": "Rabbits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Fukuoka",
+              "id": "1009168505252352000",
+              "name": "Fukuoka"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1889938163180904880",
+        "created_at": "2025-02-13T07:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T08:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889938163180904880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chiikawa_kouho…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/chiikawa_kouhou/status/1889933674990453223",
+              "start": 7,
+              "url": "https://t.co/jPLYS7aMlp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889938163180904880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889933674990453223",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个太可爱了 https://t.co/jPLYS7aMlp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889933671110676480",
+            "3_1889933671244931072"
+          ]
+        },
+        "author_id": "1333641452149116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1326539256244838401",
+              "name": "Rabbits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1326539256244838401",
+              "name": "Rabbits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Fukuoka",
+              "id": "1009168505252352000",
+              "name": "Fukuoka"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1889933674990453223",
+        "created_at": "2025-02-13T07:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T08:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889933674990453223"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "ゆらゆらピアス",
+              "probability": 0.59,
+              "start": 8,
+              "type": "Other"
+            },
+            {
+              "end": 136,
+              "normalized_text": "原宿店",
+              "probability": 0.6465,
+              "start": 134,
+              "type": "Place"
+            },
+            {
+              "end": 142,
+              "normalized_text": "大阪梅田店",
+              "probability": 0.6503,
+              "start": 138,
+              "type": "Place"
+            },
+            {
+              "end": 149,
+              "normalized_text": "福岡パルコ店",
+              "probability": 0.7274,
+              "start": 144,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "X(旧Twitter)で大人気のイラストレーター・ナガノが描く「ちいかわ」の公式グッズショップです。ちいかわ、ハチワレ、うさぎたちのグッズが大集合！",
+              "display_url": "chiikawamarket.jp",
+              "end": 121,
+              "expanded_url": "https://chiikawamarket.jp",
+              "images": [
+                {
+                  "height": 252,
+                  "url": "https://pbs.twimg.com/news_img/1889021279019188224/T-kEdr2w?format=png&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1889021279019188224/T-kEdr2w?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 98,
+              "status": 200,
+              "title": "ちいかわマーケット 公式グッズショップ",
+              "unwound_url": "https://chiikawamarket.jp",
+              "url": "https://t.co/au5Fi0NigA"
+            },
+            {
+              "display_url": "pic.x.com/52PhIRn43T",
+              "end": 175,
+              "expanded_url": "https://x.com/chiikawa_kouhou/status/1889933674990453223/photo/1",
+              "media_key": "3_1889933671110676480",
+              "start": 152,
+              "url": "https://t.co/52PhIRn43T"
+            },
+            {
+              "display_url": "pic.x.com/52PhIRn43T",
+              "end": 175,
+              "expanded_url": "https://x.com/chiikawa_kouhou/status/1889933674990453223/photo/1",
+              "media_key": "3_1889933671244931072",
+              "start": 152,
+              "url": "https://t.co/52PhIRn43T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889933674990453223",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 399,
+                "start": 394,
+                "tag": "ちいかわ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "chiikawamarket.jp",
+                "end": 121,
+                "expanded_url": "https://chiikawamarket.jp",
+                "start": 98,
+                "url": "https://t.co/oJGfp3OupZ"
+              }
+            ]
+          },
+          "text": "＼新商品／\n\n『ゆらゆらピアス』\n（寄生されちゃったちいかわ、なんでェ？、\n　モモンガ、罠にかかったうさぎ、\n　カボチャなうさぎ）\n\n📝2月21日発売\n・ちいかわマーケット（オンラインストア）\n（https://t.co/oJGfp3OupZ）\n・ちいかわらんど\n（原宿店、大阪梅田店、福岡パルコ店、\n京都四条河原町店、TOKYO Station\n東京スカイツリータウン・ソラマチ店、\n名古屋パルコ店、仙台パルコ、札幌パルコ店、\nマルイシティ横浜店、心斎橋パルコ店）\n・まじかるちいかわストア@新宿マルイ店\n・ちいかわPOP UP STORE\n（イオンモール鶴見緑地、イオンモール宮崎、\nサンシャインシティ アネックス、\nイオンモール秋田、\nボーノ相模大野ショッピングセンター、\nイオンモール福岡、ららぽーと磐田）\n\n📝2月28日発売\n・ちいかわらんど 広島パルコ店 ※仮店舗にて発売\n\n#ちいかわ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 28726,
+          "like_count": 516,
+          "quote_count": 28,
+          "reply_count": 2,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "＼新商品／\n\n『ゆらゆらピアス』\n（寄生されちゃったちいかわ、なんでェ？、\n　モモンガ、罠にかかったうさぎ、\n　カボチャなうさぎ）\n\n📝2月21日発売\n・ちいかわマーケット（オンラインストア）\n（https://t.co/au5Fi0NigA）\n・ちいかわらんど\n（原宿店、大阪梅田店、福岡パルコ店、… https://t.co/52PhIRn43T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1889222348160762359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 863,
+          "like_count": 5200,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1133
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-01T05:18:41.000Z",
+        "description": "「ちいかわ」のグッズやイベントの最新情報をお届けいたします🌱\n▷https://t.co/Ph5Pd8Iy6W\nこのアカウントから個別のお問い合わせには対応しておりません。\n商品化、広告などのお問い合わせはこちら。 ▶︎https://t.co/CdUlLPfaQw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/chiikawa_kouhou",
+                "end": 55,
+                "expanded_url": "http://instagram.com/chiikawa_kouhou",
+                "start": 32,
+                "url": "https://t.co/Ph5Pd8Iy6W"
+              },
+              {
+                "display_url": "spiralcute.com/contact/index",
+                "end": 133,
+                "expanded_url": "http://spiralcute.com/contact/index",
+                "start": 110,
+                "url": "https://t.co/CdUlLPfaQw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiikawa-info.jp",
+                "end": 23,
+                "expanded_url": "https://chiikawa-info.jp/",
+                "start": 0,
+                "url": "https://t.co/El0StKQ2LP"
+              }
+            ]
+          }
+        },
+        "id": "1333641452149116928",
+        "name": "ちいかわグッズ公式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1334664411143815168/s9lYM1mU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736590,
+          "following_count": 28,
+          "like_count": 916,
+          "listed_count": 3364,
+          "media_count": 2877,
+          "tweet_count": 12123
+        },
+        "url": "https://t.co/El0StKQ2LP",
+        "username": "chiikawa_kouhou",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997336390510813184"
+      ],
+      "media_source_tweet_id": [
+        "1997336432818467265"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1997354662081818913",
+    "created_at": "2025-12-06T17:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T18:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997354662081818913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1692963782501556224",
+          "start": 3,
+          "username": "1mop1cs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mpo4jcKgr4",
+          "end": 38,
+          "expanded_url": "https://x.com/1mop1cs/status/1997336432818467265/photo/1",
+          "media_key": "3_1997336390510813184",
+          "start": 15,
+          "url": "https://t.co/Mpo4jcKgr4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997354662081818913",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997336432818467265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1mop1cs: k https://t.co/Mpo4jcKgr4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2060,
+        "media_key": "3_1997336390510813184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7f23WVboAAETKc.jpg",
+        "width": 1510
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997336390510813184"
+          ],
+          "media_source_tweet_id": [
+            "1997336432818467265"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1997354662081818913",
+        "created_at": "2025-12-06T17:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T18:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997354662081818913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1692963782501556224",
+              "start": 3,
+              "username": "1mop1cs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mpo4jcKgr4",
+              "end": 38,
+              "expanded_url": "https://x.com/1mop1cs/status/1997336432818467265/photo/1",
+              "media_key": "3_1997336390510813184",
+              "start": 15,
+              "url": "https://t.co/Mpo4jcKgr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997354662081818913",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997336432818467265",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1mop1cs: k https://t.co/Mpo4jcKgr4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997336390510813184"
+          ]
+        },
+        "author_id": "1692963782501556224",
+        "conversation_id": "1997336432818467265",
+        "created_at": "2025-12-06T16:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T17:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997336432818467265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mpo4jcKgr4",
+              "end": 25,
+              "expanded_url": "https://x.com/1mop1cs/status/1997336432818467265/photo/1",
+              "media_key": "3_1997336390510813184",
+              "start": 2,
+              "url": "https://t.co/Mpo4jcKgr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997336432818467265",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 5401,
+          "like_count": 653,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "k https://t.co/Mpo4jcKgr4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 1059,
+          "like_count": 12752,
+          "listed_count": 2,
+          "media_count": 417,
+          "tweet_count": 3590
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-19T18:16:46.000Z",
+        "description": "絵、うごメモなど",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "piku.page/@1mop1cs",
+                "end": 23,
+                "expanded_url": "https://piku.page/@1mop1cs",
+                "start": 0,
+                "url": "https://t.co/sWsfvuwdfT"
+              }
+            ]
+          }
+        },
+        "id": "1692963782501556224",
+        "location": "棒バト",
+        "name": "ｲﾓ.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951843137175048192/oEXa_j2__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28017,
+          "following_count": 811,
+          "like_count": 53335,
+          "listed_count": 174,
+          "media_count": 289,
+          "tweet_count": 1180
+        },
+        "url": "https://t.co/sWsfvuwdfT",
+        "username": "1mop1cs",
+        "verified": false
+      }
+    ]
+  }
+}

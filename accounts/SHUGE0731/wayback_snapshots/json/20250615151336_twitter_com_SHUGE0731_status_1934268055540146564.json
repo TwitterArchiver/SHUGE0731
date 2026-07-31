@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1934267779009724784",
+    "created_at": "2025-06-15T15:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T16:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934268055540146564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1834246658823196672",
+          "start": 0,
+          "username": "ChanYong61395"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934268055540146564",
+    "in_reply_to_user_id": "1834246658823196672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934267779009724784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChanYong61395 期待 想看…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1934267766992986112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtfmSTAa4AAGJRk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1934267779009724784",
+        "created_at": "2025-06-15T15:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T16:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934268055540146564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834246658823196672",
+              "start": 0,
+              "username": "ChanYong61395"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934268055540146564",
+        "in_reply_to_user_id": "1834246658823196672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934267779009724784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChanYong61395 期待 想看…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934267766992986112"
+          ]
+        },
+        "author_id": "1834246658823196672",
+        "conversation_id": "1934267779009724784",
+        "created_at": "2025-06-15T15:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T16:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934267779009724784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bleqwqDluX",
+              "end": 41,
+              "expanded_url": "https://x.com/ChanYong61395/status/1934267779009724784/photo/1",
+              "media_key": "3_1934267766992986112",
+              "start": 18,
+              "url": "https://t.co/bleqwqDluX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934267779009724784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "十九号去拍金克丝 拍完又要滚回学校 https://t.co/bleqwqDluX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 948,
+          "like_count": 8061,
+          "listed_count": 1,
+          "media_count": 258,
+          "tweet_count": 1672
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-12T15:04:29.000Z",
+        "description": "只是一个喜欢自言自语发泄情绪的骸子",
+        "id": "1834246658823196672",
+        "location": "你妈坟头上",
+        "name": "我祝你成功吧",
+        "pinned_tweet_id": "1840685538661286070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920825097935294464/0fHVdpTN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 35,
+          "like_count": 2547,
+          "listed_count": 2,
+          "media_count": 634,
+          "tweet_count": 3718
+        },
+        "username": "ChanYong61395",
+        "verified": false
+      }
+    ]
+  }
+}

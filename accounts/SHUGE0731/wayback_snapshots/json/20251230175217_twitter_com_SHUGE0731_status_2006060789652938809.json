@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1441472383211114515",
+          "name": "Stuffed toys"
+        }
+      }
+    ],
+    "conversation_id": "2006060789652938809",
+    "created_at": "2025-12-30T17:52:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T18:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006060789652938809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gift_news/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/gift_news/status/2005818369745006688",
+          "start": 8,
+          "url": "https://t.co/s4jRYorBqP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006060789652938809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005818369745006688",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个特别萌呀！ https://t.co/s4jRYorBqP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2004481864053252096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9FZopmbYAA8Zgz.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2004481868612476928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9FZo6lboAAy8E4.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "2006060789652938809",
+        "created_at": "2025-12-30T17:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T18:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006060789652938809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gift_news/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/gift_news/status/2005818369745006688",
+              "start": 8,
+              "url": "https://t.co/s4jRYorBqP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006060789652938809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005818369745006688",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个特别萌呀！ https://t.co/s4jRYorBqP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004481864053252096",
+            "3_2004481868612476928"
+          ]
+        },
+        "author_id": "942859622",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "2005818369745006688",
+        "created_at": "2025-12-30T01:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T02:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005818369745006688"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "NEEDY GIRL OVERDOSE",
+              "probability": 0.2718,
+              "start": 28,
+              "type": "Organization"
+            },
+            {
+              "end": 69,
+              "normalized_text": "超絶最かわてんしちゃん",
+              "probability": 0.2642,
+              "start": 59,
+              "type": "Other"
+            },
+            {
+              "end": 90,
+              "normalized_text": "あめちゃん",
+              "probability": 0.7192,
+              "start": 86,
+              "type": "Person"
+            },
+            {
+              "end": 100,
+              "normalized_text": "ふもふもあめちゃん",
+              "probability": 0.4686,
+              "start": 92,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5F1Z6BtVWH",
+              "end": 178,
+              "expanded_url": "https://x.com/gift_news/status/2005818369745006688/photo/1",
+              "media_key": "3_2004481864053252096",
+              "start": 155,
+              "url": "https://t.co/5F1Z6BtVWH"
+            },
+            {
+              "display_url": "pic.x.com/5F1Z6BtVWH",
+              "end": 178,
+              "expanded_url": "https://x.com/gift_news/status/2005818369745006688/photo/1",
+              "media_key": "3_2004481868612476928",
+              "start": 155,
+              "url": "https://t.co/5F1Z6BtVWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005818369745006688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 205,
+                "start": 200,
+                "tag": "ニディガ"
+              }
+            ]
+          },
+          "text": "【C107  Giftブース サンプル展示（新作）】 \nNEEDY GIRL OVERDOSE ぬいぐるみシリーズ\n【超絶最かわてんしちゃん】ふもふもちょうてんちゃん。\n【あめちゃん】ふもふもあめちゃん。\n\n2026年7月発売予定です。楽しみにお待ちください！\n※こちらの商品の予約期間は終了をしております。\n※ブース混雑状況により展示スペースをご覧頂けない場合がございます。ご了承くださいませ。\n\n#ニディガ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 21467,
+          "like_count": 868,
+          "quote_count": 24,
+          "reply_count": 4,
+          "retweet_count": 138
+        },
+        "reply_settings": "everyone",
+        "text": "【C107  Giftブース サンプル展示（新作）】 \nNEEDY GIRL OVERDOSE ぬいぐるみシリーズ\n【超絶最かわてんしちゃん】ふもふもちょうてんちゃん。\n【あめちゃん】ふもふもあめちゃん。\n\n2026年7月発売予定です。楽しみにお待ちください！\n※こちらの商品の予約期間は終了をしております。 https://t.co/5F1Z6BtVWH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 990,
+          "like_count": 16513,
+          "listed_count": 3,
+          "media_count": 500,
+          "tweet_count": 5454
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-12T05:08:55.000Z",
+        "description": "ぬいぐるみメーカーのGiftです。新商品のご案内、イベント情報、Gift ONLINE SHOPのお知らせなどをツイートします。※基本的に本アカウントからは個別にリプライはしておりません。お問い合わせはGift公式サイトへ！\n\"Official maker of Touhou FUMOFUMO plush toys.\"",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gift-gift.jp",
+                "end": 23,
+                "expanded_url": "https://www.gift-gift.jp/",
+                "start": 0,
+                "url": "https://t.co/ehjFqhNSd0"
+              }
+            ]
+          }
+        },
+        "id": "942859622",
+        "location": "TOKYO",
+        "name": "株式会社Gift",
+        "pinned_tweet_id": "2005806043973185738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/458829947721613312/idZoDlPj_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60584,
+          "following_count": 73,
+          "like_count": 51,
+          "listed_count": 597,
+          "media_count": 10726,
+          "tweet_count": 24889
+        },
+        "url": "https://t.co/ehjFqhNSd0",
+        "username": "gift_news",
+        "verified": true
+      }
+    ]
+  }
+}

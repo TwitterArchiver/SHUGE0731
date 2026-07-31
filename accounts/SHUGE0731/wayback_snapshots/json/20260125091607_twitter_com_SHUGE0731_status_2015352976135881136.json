@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2015331154426257654",
+    "created_at": "2026-01-25T09:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T10:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015352976135881136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "488823839",
+          "start": 0,
+          "username": "taikongjile000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015352976135881136",
+    "in_reply_to_user_id": "488823839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015331154426257654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taikongjile000 有没有劲歌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 965,
+        "media_key": "3_2015331150768553984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_flAQJWwAAbjPU.jpg",
+        "width": 688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2015331154426257654",
+        "created_at": "2026-01-25T09:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T10:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015352976135881136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "488823839",
+              "start": 0,
+              "username": "taikongjile000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015352976135881136",
+        "in_reply_to_user_id": "488823839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015331154426257654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taikongjile000 有没有劲歌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015331150768553984"
+          ]
+        },
+        "author_id": "488823839",
+        "conversation_id": "2015331154426257654",
+        "created_at": "2026-01-25T07:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T08:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015331154426257654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sTO0QP0npS",
+              "end": 23,
+              "expanded_url": "https://x.com/taikongjile000/status/2015331154426257654/photo/1",
+              "media_key": "3_2015331150768553984",
+              "start": 0,
+              "url": "https://t.co/sTO0QP0npS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015331154426257654",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 301,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sTO0QP0npS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 998,
+          "like_count": 18252,
+          "listed_count": 3,
+          "media_count": 532,
+          "tweet_count": 6476
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-10T21:51:18.000Z",
+        "description": "一个地地道道的农民\n迷幻剂/大麻去污名化\n两年老oder\n\n官网：https://t.co/G0KfQSHAWC\ntg群：https://t.co/kaCNpFerhN\ndiscord频道∶https://t.co/IzuK03aQBW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 56,
+                "expanded_url": "https://overdose.day/",
+                "start": 33,
+                "url": "https://t.co/G0KfQSHAWC"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 84,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 61,
+                "url": "https://t.co/kaCNpFerhN"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 118,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 95,
+                "url": "https://t.co/IzuK03aQBW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/G0KfQSHAWC"
+              }
+            ]
+          }
+        },
+        "id": "488823839",
+        "name": "太空极乐百科",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014660301787111424/0VYqqC_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 50,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/G0KfQSHAWC",
+        "username": "taikongjile000",
+        "verified": false
+      }
+    ]
+  }
+}

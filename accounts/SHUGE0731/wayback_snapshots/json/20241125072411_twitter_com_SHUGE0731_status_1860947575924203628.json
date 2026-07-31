@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860711940877959168",
+        "3_1860711942119469056",
+        "3_1860711942190690304",
+        "3_1860711942446592001"
+      ],
+      "media_source_tweet_id": [
+        "1860711946187841602",
+        "1860711946187841602",
+        "1860711946187841602",
+        "1860711946187841602"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1860947575924203628",
+    "created_at": "2024-11-25T07:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T08:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860947575924203628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1652757998995927043",
+          "start": 3,
+          "username": "Strv_122_B_PLSS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qJEkNk0Rgz",
+          "end": 80,
+          "expanded_url": "https://x.com/Strv_122_B_PLSS/status/1860711946187841602/photo/1",
+          "media_key": "3_1860711940877959168",
+          "start": 57,
+          "url": "https://t.co/qJEkNk0Rgz"
+        },
+        {
+          "display_url": "pic.x.com/qJEkNk0Rgz",
+          "end": 80,
+          "expanded_url": "https://x.com/Strv_122_B_PLSS/status/1860711946187841602/photo/1",
+          "media_key": "3_1860711942119469056",
+          "start": 57,
+          "url": "https://t.co/qJEkNk0Rgz"
+        },
+        {
+          "display_url": "pic.x.com/qJEkNk0Rgz",
+          "end": 80,
+          "expanded_url": "https://x.com/Strv_122_B_PLSS/status/1860711946187841602/photo/1",
+          "media_key": "3_1860711942190690304",
+          "start": 57,
+          "url": "https://t.co/qJEkNk0Rgz"
+        },
+        {
+          "display_url": "pic.x.com/qJEkNk0Rgz",
+          "end": 80,
+          "expanded_url": "https://x.com/Strv_122_B_PLSS/status/1860711946187841602/photo/1",
+          "media_key": "3_1860711942446592001",
+          "start": 57,
+          "url": "https://t.co/qJEkNk0Rgz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860947575924203628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860711946187841602",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Strv_122_B_PLSS: B 海鸥疯了\n⚠️媒体警告：怪诞，文字恐怖谷\n可能令人不适的媒体内容！ https://t.co/qJEkNk0Rgz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1860947575924203628].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1860947575924203628",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1860947575924203628"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_1860711940877959168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdKTptlbwAArTsH.jpg",
+        "width": 335
+      },
+      {
+        "height": 731,
+        "media_key": "3_1860711942119469056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdKTpyNbsAA-8Mx.jpg",
+        "width": 748
+      },
+      {
+        "height": 731,
+        "media_key": "3_1860711942190690304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdKTpyeacAApP0O.jpg",
+        "width": 748
+      },
+      {
+        "height": 731,
+        "media_key": "3_1860711942446592001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdKTpzbbMAEa84E.jpg",
+        "width": 748
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860711940877959168",
+            "3_1860711942119469056",
+            "3_1860711942190690304",
+            "3_1860711942446592001"
+          ]
+        },
+        "author_id": "1652757998995927043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1860711946187841602",
+        "created_at": "2024-11-24T15:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T16:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860711946187841602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qJEkNk0Rgz",
+              "end": 59,
+              "expanded_url": "https://x.com/Strv_122_B_PLSS/status/1860711946187841602/photo/1",
+              "media_key": "3_1860711940877959168",
+              "start": 36,
+              "url": "https://t.co/qJEkNk0Rgz"
+            },
+            {
+              "display_url": "pic.x.com/qJEkNk0Rgz",
+              "end": 59,
+              "expanded_url": "https://x.com/Strv_122_B_PLSS/status/1860711946187841602/photo/1",
+              "media_key": "3_1860711942119469056",
+              "start": 36,
+              "url": "https://t.co/qJEkNk0Rgz"
+            },
+            {
+              "display_url": "pic.x.com/qJEkNk0Rgz",
+              "end": 59,
+              "expanded_url": "https://x.com/Strv_122_B_PLSS/status/1860711946187841602/photo/1",
+              "media_key": "3_1860711942190690304",
+              "start": 36,
+              "url": "https://t.co/qJEkNk0Rgz"
+            },
+            {
+              "display_url": "pic.x.com/qJEkNk0Rgz",
+              "end": 59,
+              "expanded_url": "https://x.com/Strv_122_B_PLSS/status/1860711946187841602/photo/1",
+              "media_key": "3_1860711942446592001",
+              "start": 36,
+              "url": "https://t.co/qJEkNk0Rgz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860711946187841602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1045,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "B 海鸥疯了\n⚠️媒体警告：怪诞，文字恐怖谷\n可能令人不适的媒体内容！ https://t.co/qJEkNk0Rgz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 737,
+          "like_count": 3248,
+          "listed_count": 0,
+          "tweet_count": 631
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T19:33:16.000Z",
+        "description": "Strv 122主战坦克（Stridsvagn 122）是瑞典的主战坦克，与德国豹2A5一样，以德国豹2改进型为基础，运用了指挥、控制和火控系统和强化装甲等新技术。从外观上看，该车与豹2A5的区别在于法制GALIX烟雾弹发射器、不同的储物箱和较厚的乘员舱口",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se",
+                "start": 0,
+                "url": "https://t.co/QNeewOQ6E2"
+              }
+            ]
+          }
+        },
+        "id": "1652757998995927043",
+        "location": "［战区控制］瑞典 D 点",
+        "name": "Stridsvagn 122 Panoramautsikt Låg Signature System",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824048793278705664/gjVV_jOu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2618,
+          "following_count": 4974,
+          "like_count": 132724,
+          "listed_count": 2,
+          "tweet_count": 3242
+        },
+        "url": "https://t.co/QNeewOQ6E2",
+        "username": "Strv_122_B_PLSS",
+        "verified": false
+      }
+    ]
+  }
+}

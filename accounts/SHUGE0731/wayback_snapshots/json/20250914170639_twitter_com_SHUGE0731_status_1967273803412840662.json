@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1967270456836358197",
+    "created_at": "2025-09-14T17:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T18:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967273803412840662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1707087995902545920",
+          "start": 0,
+          "username": "nnewdw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967273803412840662",
+    "in_reply_to_user_id": "1707087995902545920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967273632176194025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nnewdw 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1967270456836358197",
+        "created_at": "2025-09-14T17:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T18:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967273803412840662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1707087995902545920",
+              "start": 0,
+              "username": "nnewdw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967273803412840662",
+        "in_reply_to_user_id": "1707087995902545920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967273632176194025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nnewdw 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707087995902545920",
+        "conversation_id": "1967270456836358197",
+        "created_at": "2025-09-14T17:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T18:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967273632176194025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967273632176194025",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967273223500054928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 不是这么说，应该是让你有了更多的畅想空间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 有一只牡丹鹦鹉叫uno！｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 1005,
+          "like_count": 9101,
+          "listed_count": 2,
+          "media_count": 288,
+          "tweet_count": 1923
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T17:41:19.000Z",
+        "description": "",
+        "id": "1707087995902545920",
+        "name": "吴清风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707088253487353856/B7YDMX5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 94,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 35
+        },
+        "username": "nnewdw",
+        "verified": false
+      }
+    ]
+  }
+}

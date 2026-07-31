@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1980323327605633195",
+    "created_at": "2025-10-20T17:20:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T18:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980323327605633195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaot288979523…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/xiaot2889795231/status/1980302180491104394",
+          "start": 9,
+          "url": "https://t.co/Tws5WuY2zC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980323327605633195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980302180491104394",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽 我一直在笑 https://t.co/Tws5WuY2zC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10216,
+        "height": 1280,
+        "media_key": "7_1980302160366612480",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1980302160366612480/pu/img/fFUB7GXO9TwmhkBi.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980302160366612480/pu/vid/avc1/320x568/54Ft4JSXoAZqs9EB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980302160366612480/pu/vid/avc1/480x852/H34iRSifRZyRsT7f.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980302160366612480/pu/vid/avc1/720x1280/oPI2n3HNmcjQ17ZJ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1980302160366612480/pu/pl/ABtow0twdev4UzkP.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1980323327605633195",
+        "created_at": "2025-10-20T17:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T18:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980323327605633195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaot288979523…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/xiaot2889795231/status/1980302180491104394",
+              "start": 9,
+              "url": "https://t.co/Tws5WuY2zC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980323327605633195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980302180491104394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽 我一直在笑 https://t.co/Tws5WuY2zC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1980302160366612480"
+          ]
+        },
+        "author_id": "1808859690451021829",
+        "conversation_id": "1980302180491104394",
+        "created_at": "2025-10-20T15:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T16:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980302180491104394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zsoKqfJCUK",
+              "end": 23,
+              "expanded_url": "https://x.com/xiaot2889795231/status/1980302180491104394/video/1",
+              "media_key": "7_1980302160366612480",
+              "start": 0,
+              "url": "https://t.co/zsoKqfJCUK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980302180491104394",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zsoKqfJCUK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 |  中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 1074,
+          "like_count": 10174,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 2321
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T13:46:01.000Z",
+        "description": "想要藏起来的雏草姬，可以叫我小叹或者食人鱼，qq2889795231，男的，下面是匿名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiotn3520326018",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiotn3520326018",
+                "start": 0,
+                "url": "https://t.co/iOFm0052lp"
+              }
+            ]
+          }
+        },
+        "id": "1808859690451021829",
+        "location": "下水道",
+        "name": "难缠的食尸鱼人☃︎",
+        "pinned_tweet_id": "1876241216188330049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875233306205364224/vS_J9BnG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 154,
+          "like_count": 19891,
+          "listed_count": 0,
+          "media_count": 399,
+          "tweet_count": 10384
+        },
+        "url": "https://t.co/iOFm0052lp",
+        "username": "xiaot2889795231",
+        "verified": false
+      }
+    ]
+  }
+}

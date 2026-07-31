@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992219090841423873"
+      ],
+      "media_source_tweet_id": [
+        "1992219094389846056"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1992254817759342738",
+    "created_at": "2025-11-22T15:32:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T16:32:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992254817759342738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1069968408",
+          "start": 3,
+          "username": "acidvaccine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rM4B0ok6aQ",
+          "end": 56,
+          "expanded_url": "https://x.com/acidvaccine/status/1992219094389846056/photo/1",
+          "media_key": "3_1992219090841423873",
+          "start": 33,
+          "url": "https://t.co/rM4B0ok6aQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992254817759342738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992219094389846056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acidvaccine: 我的首映，请转发，很重要，感谢 https://t.co/rM4B0ok6aQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1992254817759342738].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1992254817759342738",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1992254817759342738"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992219090841423873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6XItTha0AE7RGL.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992219090841423873"
+          ]
+        },
+        "author_id": "1069968408",
+        "conversation_id": "1992219094389846056",
+        "created_at": "2025-11-22T13:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T14:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992219094389846056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rM4B0ok6aQ",
+              "end": 39,
+              "expanded_url": "https://x.com/acidvaccine/status/1992219094389846056/photo/1",
+              "media_key": "3_1992219090841423873",
+              "start": 16,
+              "url": "https://t.co/rM4B0ok6aQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992219094389846056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 302,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我的首映，请转发，很重要，感谢 https://t.co/rM4B0ok6aQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 1054,
+          "like_count": 11710,
+          "listed_count": 2,
+          "media_count": 385,
+          "tweet_count": 3077
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-08T04:37:06.000Z",
+        "description": "螺旋状的在生长",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "5dd22dbc41b6e.site123.me",
+                "end": 23,
+                "expanded_url": "https://5dd22dbc41b6e.site123.me/",
+                "start": 0,
+                "url": "https://t.co/3GFQPT11R1"
+              }
+            ]
+          }
+        },
+        "id": "1069968408",
+        "name": "Sickgirl 疫瞄 ⁾⁾ ༘☼ฅ˒˒ ｡・ﾟ",
+        "pinned_tweet_id": "1615671407421296640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984304205784637440/B7OXDlJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10671,
+          "following_count": 635,
+          "like_count": 1803,
+          "listed_count": 29,
+          "media_count": 585,
+          "tweet_count": 1474
+        },
+        "url": "https://t.co/3GFQPT11R1",
+        "username": "acidvaccine",
+        "verified": false
+      }
+    ]
+  }
+}

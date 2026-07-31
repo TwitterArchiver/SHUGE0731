@@ -1,0 +1,517 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2074495123162066944"
+      ],
+      "media_source_tweet_id": [
+        "2074495136885870660"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2074808374529777994",
+    "created_at": "2026-07-08T10:50:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074808374529777994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "845052465124818944",
+          "start": 3,
+          "username": "betabetarimocon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MGuc4R9Ray",
+          "end": 44,
+          "expanded_url": "https://x.com/betabetarimocon/status/2074495136885870660/photo/1",
+          "media_key": "16_2074495123162066944",
+          "start": 21,
+          "url": "https://t.co/MGuc4R9Ray"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074808374529777994",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 313
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074495136885870660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @betabetarimocon: https://t.co/MGuc4R9Ray"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 896,
+        "media_key": "16_2074495123162066944",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMoWUsha8AAaHWk.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMoWUsha8AAaHWk.mp4"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2074495123162066944"
+          ],
+          "media_source_tweet_id": [
+            "2074495136885870660"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2074808374529777994",
+        "created_at": "2026-07-08T10:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074808374529777994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "845052465124818944",
+              "start": 3,
+              "username": "betabetarimocon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MGuc4R9Ray",
+              "end": 44,
+              "expanded_url": "https://x.com/betabetarimocon/status/2074495136885870660/photo/1",
+              "media_key": "16_2074495123162066944",
+              "start": 21,
+              "url": "https://t.co/MGuc4R9Ray"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074808374529777994",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 313
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074495136885870660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @betabetarimocon: https://t.co/MGuc4R9Ray"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2074495123162066944"
+          ]
+        },
+        "author_id": "845052465124818944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2074495136885870660",
+        "created_at": "2026-07-07T14:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074495136885870660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MGuc4R9Ray",
+              "end": 23,
+              "expanded_url": "https://x.com/betabetarimocon/status/2074495136885870660/photo/1",
+              "media_key": "16_2074495123162066944",
+              "start": 0,
+              "url": "https://t.co/MGuc4R9Ray"
+            },
+            {
+              "display_url": "x.com/ti111310/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ti111310/status/2068316463774265496",
+              "start": 24,
+              "url": "https://t.co/sNCUIj9Mv8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074495136885870660",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 281,
+          "impression_count": 46334,
+          "like_count": 2726,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 313
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068316463774265496",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/MGuc4R9Ray https://t.co/sNCUIj9Mv8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "Dorcus10031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTtCZA"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 1184,
+          "like_count": 33233,
+          "listed_count": 4,
+          "media_count": 730,
+          "tweet_count": 11217
+        },
+        "url": "https://t.co/ApKveTtCZA",
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-23T23:19:42.000Z",
+        "description": "絵と漫画を描くジョジョとエヴァとルーミアが好きな去年から古武道居合習ってる生命体。一次創作もするよ。□skeb等各種リンク→https://t.co/0kL3mgJdne □commissionご依頼などあれば→uryykun@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "potofu.me/asahishioshio",
+                "end": 85,
+                "expanded_url": "https://potofu.me/asahishioshio",
+                "start": 62,
+                "url": "https://t.co/0kL3mgJdne"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=8852877",
+                "start": 0,
+                "url": "https://t.co/v2aZ6u7WzG"
+              }
+            ]
+          }
+        },
+        "id": "845052465124818944",
+        "location": "サークル名『しおしワールド』",
+        "name": "しおしお",
+        "pinned_tweet_id": "2074289837390336064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1474451766892974081/Eap1p1fn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7281,
+          "following_count": 3809,
+          "like_count": 405201,
+          "listed_count": 103,
+          "media_count": 5580,
+          "tweet_count": 145920
+        },
+        "url": "https://t.co/v2aZ6u7WzG",
+        "username": "betabetarimocon",
+        "verified": false
+      }
+    ]
+  }
+}

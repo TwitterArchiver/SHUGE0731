@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2000943368550121700",
+    "created_at": "2025-12-16T15:27:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T16:27:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000950876060705103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1814968084538826753",
+          "start": 0,
+          "username": "aiyuqiu4ev10883"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000950876060705103",
+    "in_reply_to_user_id": "1814968084538826753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000943368550121700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiyuqiu4ev10883 我靠 原！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2000943144662450176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8THMElbwAA7uci.jpg",
+        "width": 1280
+      },
+      {
+        "duration_ms": 5154,
+        "height": 1280,
+        "media_key": "7_2000943148797980673",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2000943148797980673/pu/img/vi0cl-0a5qTdsuL1.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000943148797980673/pu/vid/avc1/320x710/pvUWAoexP01fHkXt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000943148797980673/pu/vid/avc1/480x1066/DbvcFYwoL8YMYSVa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000943148797980673/pu/vid/avc1/576x1280/0NAOTi7SkDZ6VY4i.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2000943148797980673/pu/pl/a-L-MKyH00qvbTkM.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2000943366029324289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8THY9PaMAExOAG.jpg",
+        "width": 793
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2000943368550121700",
+        "created_at": "2025-12-16T15:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T16:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000950876060705103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1814968084538826753",
+              "start": 0,
+              "username": "aiyuqiu4ev10883"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000950876060705103",
+        "in_reply_to_user_id": "1814968084538826753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000943368550121700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiyuqiu4ev10883 我靠 原！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000943144662450176",
+            "7_2000943148797980673",
+            "3_2000943366029324289"
+          ]
+        },
+        "author_id": "1814968084538826753",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000943368550121700",
+        "created_at": "2025-12-16T14:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T15:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000943368550121700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xKYyD3SWR6",
+              "end": 75,
+              "expanded_url": "https://x.com/aiyuqiu4ev10883/status/2000943368550121700/video/1",
+              "media_key": "3_2000943144662450176",
+              "start": 52,
+              "url": "https://t.co/xKYyD3SWR6"
+            },
+            {
+              "display_url": "pic.x.com/xKYyD3SWR6",
+              "end": 75,
+              "expanded_url": "https://x.com/aiyuqiu4ev10883/status/2000943368550121700/video/1",
+              "media_key": "7_2000943148797980673",
+              "start": 52,
+              "url": "https://t.co/xKYyD3SWR6"
+            },
+            {
+              "display_url": "pic.x.com/xKYyD3SWR6",
+              "end": 75,
+              "expanded_url": "https://x.com/aiyuqiu4ev10883/status/2000943368550121700/video/1",
+              "media_key": "3_2000943366029324289",
+              "start": 52,
+              "url": "https://t.co/xKYyD3SWR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000943368550121700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子們 第一節還是第二節晚自習的時候我正在睡覺然後聽到轟隆一聲 我當時還開玩笑呢 不是這蘑菇雲啥意思？ https://t.co/xKYyD3SWR6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 1029,
+          "like_count": 14075,
+          "listed_count": 2,
+          "media_count": 459,
+          "tweet_count": 4310
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T10:18:13.000Z",
+        "description": "立希漂亮漂亮",
+        "id": "1814968084538826753",
+        "location": "中南海",
+        "name": "邪恶立希希",
+        "pinned_tweet_id": "1988210475360997463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889311638156726272/jweyIFL7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 350,
+          "like_count": 1482,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 2552
+        },
+        "username": "aiyuqiu4ev10883",
+        "verified": false
+      }
+    ]
+  }
+}

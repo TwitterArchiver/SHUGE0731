@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051561438",
+          "name": "Steins;Gate"
+        }
+      }
+    ],
+    "conversation_id": "2052306978291269811",
+    "created_at": "2026-05-07T08:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T09:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052306978291269811"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kagakuadv/stat…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/kagakuadv/status/2052269195610767514",
+          "start": 20,
+          "url": "https://t.co/AWNkIAPHwU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052306978291269811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052269195610767514",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉没有老版对味 虽然动起来很可爱啦… https://t.co/AWNkIAPHwU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 69986,
+        "height": 1080,
+        "media_key": "13_2052268970779299840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052268970779299840/img/ltcbGPbX88yX_SUH.jpg",
+        "public_metrics": {
+          "view_count": 53376
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052268970779299840/pl/Z-jW6_p8c0RsVY4Y.m3u8?v=dc9"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052268970779299840/vid/avc1/1280x720/6oOX-5tUYU7reupc.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052268970779299840/vid/avc1/1920x1080/QvxqjYD5F_-_sp6Y.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052268970779299840/vid/avc1/480x270/BUlq4ZnSQAl4eqZc.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052268970779299840/vid/avc1/640x360/t-nWmQNDcXSQA2UQ.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051561438",
+              "name": "Steins;Gate"
+            }
+          }
+        ],
+        "conversation_id": "2052306978291269811",
+        "created_at": "2026-05-07T08:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052306978291269811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kagakuadv/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/kagakuadv/status/2052269195610767514",
+              "start": 20,
+              "url": "https://t.co/AWNkIAPHwU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052306978291269811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052269195610767514",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉没有老版对味 虽然动起来很可爱啦… https://t.co/AWNkIAPHwU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052268970779299840"
+          ]
+        },
+        "author_id": "869524129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051561438",
+              "name": "Steins;Gate"
+            }
+          }
+        ],
+        "conversation_id": "2052269195610767514",
+        "created_at": "2026-05-07T06:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052269195610767514"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 160,
+              "start": 155,
+              "tag": "シュタゲ"
+            },
+            {
+              "end": 170,
+              "start": 161,
+              "tag": "シュタゲリブート"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「STEINS;GATE RE:BOOT」制作決定",
+              "display_url": "steinsgate.jp/reboot/",
+              "end": 154,
+              "expanded_url": "https://steinsgate.jp/reboot/",
+              "start": 131,
+              "status": 200,
+              "title": "「STEINS;GATE RE:BOOT」制作決定",
+              "unwound_url": "https://steinsgate.jp/reboot/",
+              "url": "https://t.co/VPQVL3vjRD"
+            },
+            {
+              "display_url": "pic.x.com/sD4ceKRS25",
+              "end": 194,
+              "expanded_url": "https://x.com/kagakuadv/status/2052269195610767514/video/1",
+              "media_key": "13_2052268970779299840",
+              "start": 171,
+              "url": "https://t.co/sD4ceKRS25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052269195610767514",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 439,
+          "impression_count": 198545,
+          "like_count": 2336,
+          "quote_count": 170,
+          "reply_count": 21,
+          "retweet_count": 825
+        },
+        "reply_settings": "everyone",
+        "text": "『STEINS;GATE RE:BOOT』\nE-moteモーション紹介映像⚙\n\n本作では次世代アニメーションツール「E-mote」を導入し、キャラクターが生き生きと動き出します！\n繊細な表情の変化や自然な息遣いまでもが再現され、物語への没入感を加速させます✨\n\nhttps://t.co/VPQVL3vjRD\n#シュタゲ #シュタゲリブート https://t.co/sD4ceKRS25"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 1108,
+          "like_count": 28022,
+          "listed_count": 5,
+          "media_count": 655,
+          "tweet_count": 9656
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-09T09:02:03.000Z",
+        "description": "CHAOS;HEAD／ROBOTICS;NOTES／CHAOS;CHILD／STEINS;GATE／ANONYMOUS;CODE／OCCULTIC;NINE 等シリーズ作品の情報をお伝えします。\n◆『STEINS;GATE RE:BOOT』2026年発売予定 https://t.co/nUCN3rwcyf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "steinsgate.jp/reboot/",
+                "end": 153,
+                "expanded_url": "https://steinsgate.jp/reboot/",
+                "start": 130,
+                "url": "https://t.co/nUCN3rwcyf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kagaku-adv.com",
+                "end": 23,
+                "expanded_url": "http://www.kagaku-adv.com/",
+                "start": 0,
+                "url": "https://t.co/YHvpv4YVC1"
+              }
+            ]
+          }
+        },
+        "id": "869524129",
+        "location": "秋葉原 渋谷 種子島 吉祥寺 中野",
+        "name": "科学アドベンチャーシリーズ公式",
+        "pinned_tweet_id": "2052267182315196639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1338468975236141056/K1gA_T41_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122598,
+          "following_count": 116,
+          "like_count": 595,
+          "listed_count": 968,
+          "media_count": 109685,
+          "tweet_count": 117100
+        },
+        "url": "https://t.co/YHvpv4YVC1",
+        "username": "kagakuadv",
+        "verified": true
+      }
+    ]
+  }
+}

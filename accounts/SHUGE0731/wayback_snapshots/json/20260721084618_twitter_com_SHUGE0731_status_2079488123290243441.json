@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2079480926850211895",
+    "created_at": "2026-07-21T08:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T09:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079488123290243441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1997495772066324480",
+          "start": 0,
+          "username": "kuma02150128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079488123290243441",
+    "in_reply_to_user_id": "1997495772066324480",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079480926850211895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuma02150128 hso"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1921,
+        "media_key": "3_2079480908802043904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvM3nZaMAAUAxv.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2079480908839800832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvM3niaUAAeGhz.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2079480908839817216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvM3niakAAiuhH.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2079480908835627008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvM3nhaoAASEQL.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2079480926850211895",
+        "created_at": "2026-07-21T08:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T09:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079488123290243441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1997495772066324480",
+              "start": 0,
+              "username": "kuma02150128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079488123290243441",
+        "in_reply_to_user_id": "1997495772066324480",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079480926850211895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuma02150128 hso"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079480908802043904",
+            "3_2079480908839800832",
+            "3_2079480908839817216",
+            "3_2079480908835627008"
+          ]
+        },
+        "author_id": "1997495772066324480",
+        "conversation_id": "2079480926850211895",
+        "created_at": "2026-07-21T08:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T09:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079480926850211895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SJhAF3sMtG",
+              "end": 52,
+              "expanded_url": "https://x.com/kuma02150128/status/2079480926850211895/photo/1",
+              "media_key": "3_2079480908802043904",
+              "start": 29,
+              "url": "https://t.co/SJhAF3sMtG"
+            },
+            {
+              "display_url": "pic.x.com/SJhAF3sMtG",
+              "end": 52,
+              "expanded_url": "https://x.com/kuma02150128/status/2079480926850211895/photo/1",
+              "media_key": "3_2079480908839800832",
+              "start": 29,
+              "url": "https://t.co/SJhAF3sMtG"
+            },
+            {
+              "display_url": "pic.x.com/SJhAF3sMtG",
+              "end": 52,
+              "expanded_url": "https://x.com/kuma02150128/status/2079480926850211895/photo/1",
+              "media_key": "3_2079480908839817216",
+              "start": 29,
+              "url": "https://t.co/SJhAF3sMtG"
+            },
+            {
+              "display_url": "pic.x.com/SJhAF3sMtG",
+              "end": 52,
+              "expanded_url": "https://x.com/kuma02150128/status/2079480926850211895/photo/1",
+              "media_key": "3_2079480908835627008",
+              "start": 29,
+              "url": "https://t.co/SJhAF3sMtG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079480926850211895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天0721 噢呐泥～\n哦对了晚上就删因为这是老公专属🌚 https://t.co/SJhAF3sMtG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno（2024.12.20-2026.7.17）｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Dorcus10031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTtCZA"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964（低浮上）",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 1185,
+          "like_count": 33669,
+          "listed_count": 4,
+          "media_count": 740,
+          "tweet_count": 11389
+        },
+        "url": "https://t.co/ApKveTtCZA",
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T02:38:15.000Z",
+        "description": "我是kuma！很高兴认识你们！！欢迎找我互fo 🥺/精神状态up/自残/我在努力生活！！！\n亲爱的@qsmhls",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 49,
+                "username": "qsmhls"
+              }
+            ]
+          }
+        },
+        "id": "1997495772066324480",
+        "location": "熊窝",
+        "name": "ぼくわくま",
+        "pinned_tweet_id": "2065564227063206277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075528994418733056/T8LWUPso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 211,
+          "like_count": 3942,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 1253
+        },
+        "url": "",
+        "username": "kuma02150128",
+        "verified": false
+      }
+    ]
+  }
+}

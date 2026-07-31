@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1872468276573523968",
+        "3_1872468276565221376"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "1872468285582958809",
+    "created_at": "2024-12-27T02:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T03:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1872468285582958809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mMUsFBVqcY",
+          "end": 97,
+          "expanded_url": "https://x.com/SHUGE0731/status/1872468285582958809/photo/1",
+          "media_key": "3_1872468276573523968",
+          "start": 74,
+          "url": "https://t.co/mMUsFBVqcY"
+        },
+        {
+          "display_url": "pic.x.com/mMUsFBVqcY",
+          "end": 97,
+          "expanded_url": "https://x.com/SHUGE0731/status/1872468285582958809/photo/1",
+          "media_key": "3_1872468276565221376",
+          "start": 74,
+          "url": "https://t.co/mMUsFBVqcY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872468285582958809",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "day6-让你想尽情跳舞的歌\n（因为看了很多遍宅舞 听到就想跟着跳）\n\n神のまにまに (神的随波逐流）-  初音ミク/鏡音リン/GUMI/れるりり https://t.co/mMUsFBVqcY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_1872468276573523968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfxX-g5aUAAhDa-.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1872468276565221376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfxX-g3boAAtyGF.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872468276573523968",
+            "3_1872468276565221376"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1872468285582958809",
+        "created_at": "2024-12-27T02:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T03:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872468285582958809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mMUsFBVqcY",
+              "end": 97,
+              "expanded_url": "https://x.com/SHUGE0731/status/1872468285582958809/photo/1",
+              "media_key": "3_1872468276573523968",
+              "start": 74,
+              "url": "https://t.co/mMUsFBVqcY"
+            },
+            {
+              "display_url": "pic.x.com/mMUsFBVqcY",
+              "end": 97,
+              "expanded_url": "https://x.com/SHUGE0731/status/1872468285582958809/photo/1",
+              "media_key": "3_1872468276565221376",
+              "start": 74,
+              "url": "https://t.co/mMUsFBVqcY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872468285582958809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "day6-让你想尽情跳舞的歌\n（因为看了很多遍宅舞 听到就想跟着跳）\n\n神のまにまに (神的随波逐流）-  初音ミク/鏡音リン/GUMI/れるりり https://t.co/mMUsFBVqcY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1863243605252690301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 802,
+          "like_count": 4297,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 883
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      }
+    ]
+  }
+}

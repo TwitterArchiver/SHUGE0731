@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2010335700772946137",
+    "created_at": "2026-01-11T14:03:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T15:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010351936655290861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1976904875603873792",
+          "start": 0,
+          "username": "RXrein0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010351936655290861",
+    "in_reply_to_user_id": "1976904875603873792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010335700772946137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RXrein0 小猫可爱捏！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2010335680769966080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-YlpoOWQAAtGm_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2010335700772946137",
+        "created_at": "2026-01-11T14:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T15:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010351936655290861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1976904875603873792",
+              "start": 0,
+              "username": "RXrein0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010351936655290861",
+        "in_reply_to_user_id": "1976904875603873792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010335700772946137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXrein0 小猫可爱捏！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010335680769966080"
+          ]
+        },
+        "author_id": "1976904875603873792",
+        "conversation_id": "2010335700772946137",
+        "created_at": "2026-01-11T12:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T13:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010335700772946137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dkwoQitXNk",
+              "end": 48,
+              "expanded_url": "https://x.com/RXrein0/status/2010335700772946137/photo/1",
+              "media_key": "3_2010335680769966080",
+              "start": 25,
+              "url": "https://t.co/dkwoQitXNk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010335700772946137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "定制的亚克力到了，贴上魔术贴毛面就可以贴在包上了 https://t.co/dkwoQitXNk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 997,
+          "like_count": 17892,
+          "listed_count": 3,
+          "media_count": 521,
+          "tweet_count": 6182
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T06:57:24.000Z",
+        "description": "一些TAG：粥/来打/杀戮尖塔/MHWI/老头环/相互尊重/多坑杂食。\n并非男娘，欢迎各位小窗私信。\n0人在意的匿名提问箱链接：https://t.co/bXcjBUMlqn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rein0",
+                "end": 87,
+                "expanded_url": "https://ngl.link/rein0",
+                "start": 64,
+                "url": "https://t.co/bXcjBUMlqn"
+              }
+            ]
+          }
+        },
+        "id": "1976904875603873792",
+        "location": "深空群星-#02FA",
+        "name": "没有味淋多喝生抽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007363156499410945/6HYIYZ3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 41,
+          "like_count": 1521,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1144
+        },
+        "username": "RXrein0",
+        "verified": false
+      }
+    ]
+  }
+}

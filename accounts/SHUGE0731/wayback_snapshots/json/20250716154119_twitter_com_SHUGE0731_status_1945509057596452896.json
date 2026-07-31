@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945453678736928768"
+      ],
+      "media_source_tweet_id": [
+        "1945453712031559716"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1945509057596452896",
+    "created_at": "2025-07-16T15:41:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T16:41:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945509057596452896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1718189371663519744",
+          "start": 3,
+          "username": "eatsleep1111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ngZ6kNper7",
+          "end": 48,
+          "expanded_url": "https://x.com/eatsleep1111/status/1945453712031559716/photo/1",
+          "media_key": "3_1945453678736928768",
+          "start": 25,
+          "url": "https://t.co/ngZ6kNper7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945509057596452896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945453712031559716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eatsleep1111: スキャンティ https://t.co/ngZ6kNper7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_1945453678736928768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv-j0DgXcAA0IkI.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945453678736928768"
+          ],
+          "media_source_tweet_id": [
+            "1945453712031559716"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1945509057596452896",
+        "created_at": "2025-07-16T15:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T16:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945509057596452896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1718189371663519744",
+              "start": 3,
+              "username": "eatsleep1111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ngZ6kNper7",
+              "end": 48,
+              "expanded_url": "https://x.com/eatsleep1111/status/1945453712031559716/photo/1",
+              "media_key": "3_1945453678736928768",
+              "start": 25,
+              "url": "https://t.co/ngZ6kNper7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945509057596452896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945453712031559716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eatsleep1111: スキャンティ https://t.co/ngZ6kNper7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945453678736928768"
+          ]
+        },
+        "author_id": "1718189371663519744",
+        "conversation_id": "1945453712031559716",
+        "created_at": "2025-07-16T12:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T13:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945453712031559716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ngZ6kNper7",
+              "end": 30,
+              "expanded_url": "https://x.com/eatsleep1111/status/1945453712031559716/photo/1",
+              "media_key": "3_1945453678736928768",
+              "start": 7,
+              "url": "https://t.co/ngZ6kNper7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945453712031559716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 16751,
+          "like_count": 997,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "スキャンティ https://t.co/ngZ6kNper7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 951,
+          "like_count": 8375,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 1744
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-28T08:54:21.000Z",
+        "description": "AIと加筆修正 成人向けイラストは↓のリンクからどうぞ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/ai_chan_1111",
+                "end": 23,
+                "expanded_url": "https://patreon.com/ai_chan_1111",
+                "start": 0,
+                "url": "https://t.co/HPmPV07fVo"
+              }
+            ]
+          }
+        },
+        "id": "1718189371663519744",
+        "name": "えーあい",
+        "pinned_tweet_id": "1945488184806375802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733860889835823104/USkbmsG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384710,
+          "following_count": 705,
+          "like_count": 18775,
+          "listed_count": 2012,
+          "media_count": 1957,
+          "tweet_count": 7634
+        },
+        "url": "https://t.co/HPmPV07fVo",
+        "username": "eatsleep1111",
+        "verified": true
+      }
+    ]
+  }
+}

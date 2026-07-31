@@ -1,0 +1,667 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880160028730224642",
+        "16_1880160028730224640",
+        "16_1880160028721836033"
+      ],
+      "media_source_tweet_id": [
+        "1880178250393026838",
+        "1880178250393026838",
+        "1880178250393026838"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1880451190351401177",
+    "created_at": "2025-01-18T03:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T04:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880451190351401177"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 105,
+          "start": 98,
+          "tag": "アークナイツ"
+        },
+        {
+          "end": 115,
+          "start": 106,
+          "tag": "MuseDash"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "945488202307026945",
+          "start": 3,
+          "username": "MuseDashtheGame"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GY5aYh7Fzh",
+          "end": 139,
+          "expanded_url": "https://x.com/MuseDashtheGame/status/1880178250393026838/photo/1",
+          "media_key": "3_1880160028730224642",
+          "start": 116,
+          "url": "https://t.co/GY5aYh7Fzh"
+        },
+        {
+          "display_url": "pic.x.com/GY5aYh7Fzh",
+          "end": 139,
+          "expanded_url": "https://x.com/MuseDashtheGame/status/1880178250393026838/photo/1",
+          "media_key": "16_1880160028730224640",
+          "start": 116,
+          "url": "https://t.co/GY5aYh7Fzh"
+        },
+        {
+          "display_url": "pic.x.com/GY5aYh7Fzh",
+          "end": 139,
+          "expanded_url": "https://x.com/MuseDashtheGame/status/1880178250393026838/photo/1",
+          "media_key": "16_1880160028721836033",
+          "start": 116,
+          "url": "https://t.co/GY5aYh7Fzh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880451190351401177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2825
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880178250393026838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MuseDashtheGame: 「MSR特選楽曲パック_Vol.02」\n//サルカズの傭兵 ウィシャデル\n「公文も任務概要もいらない、やっぱり気分に任せて仕事できる場所があったわ！」\n\n#アークナイツ　#MuseDash https://t.co/GY5aYh7Fzh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1541,
+        "media_key": "3_1880160028730224642",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GherlalacAI9Ahg.jpg",
+        "width": 1080
+      },
+      {
+        "height": 726,
+        "media_key": "16_1880160028730224640",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GherlalacAA0N5Z.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GherlalacAA0N5Z.mp4"
+          }
+        ],
+        "width": 500
+      },
+      {
+        "height": 726,
+        "media_key": "16_1880160028721836033",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GherlajacAE2X8R.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GherlajacAE2X8R.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880160028730224642",
+            "16_1880160028730224640",
+            "16_1880160028721836033"
+          ],
+          "media_source_tweet_id": [
+            "1880178250393026838",
+            "1880178250393026838",
+            "1880178250393026838"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1880451190351401177",
+        "created_at": "2025-01-18T03:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T04:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880451190351401177"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 98,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 115,
+              "start": 106,
+              "tag": "MuseDash"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "945488202307026945",
+              "start": 3,
+              "username": "MuseDashtheGame"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GY5aYh7Fzh",
+              "end": 139,
+              "expanded_url": "https://x.com/MuseDashtheGame/status/1880178250393026838/photo/1",
+              "media_key": "3_1880160028730224642",
+              "start": 116,
+              "url": "https://t.co/GY5aYh7Fzh"
+            },
+            {
+              "display_url": "pic.x.com/GY5aYh7Fzh",
+              "end": 139,
+              "expanded_url": "https://x.com/MuseDashtheGame/status/1880178250393026838/photo/1",
+              "media_key": "16_1880160028730224640",
+              "start": 116,
+              "url": "https://t.co/GY5aYh7Fzh"
+            },
+            {
+              "display_url": "pic.x.com/GY5aYh7Fzh",
+              "end": 139,
+              "expanded_url": "https://x.com/MuseDashtheGame/status/1880178250393026838/photo/1",
+              "media_key": "16_1880160028721836033",
+              "start": 116,
+              "url": "https://t.co/GY5aYh7Fzh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880451190351401177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2825
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880178250393026838",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MuseDashtheGame: 「MSR特選楽曲パック_Vol.02」\n//サルカズの傭兵 ウィシャデル\n「公文も任務概要もいらない、やっぱり気分に任せて仕事できる場所があったわ！」\n\n#アークナイツ　#MuseDash https://t.co/GY5aYh7Fzh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880160028730224642",
+            "16_1880160028730224640",
+            "16_1880160028721836033"
+          ]
+        },
+        "author_id": "945488202307026945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1880178250393026838",
+        "created_at": "2025-01-17T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880178250393026838"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 77,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 94,
+              "start": 85,
+              "tag": "MuseDash"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GY5aYh7Fzh",
+              "end": 118,
+              "expanded_url": "https://x.com/MuseDashtheGame/status/1880178250393026838/photo/1",
+              "media_key": "3_1880160028730224642",
+              "start": 95,
+              "url": "https://t.co/GY5aYh7Fzh"
+            },
+            {
+              "display_url": "pic.x.com/GY5aYh7Fzh",
+              "end": 118,
+              "expanded_url": "https://x.com/MuseDashtheGame/status/1880178250393026838/photo/1",
+              "media_key": "16_1880160028730224640",
+              "start": 95,
+              "url": "https://t.co/GY5aYh7Fzh"
+            },
+            {
+              "display_url": "pic.x.com/GY5aYh7Fzh",
+              "end": 118,
+              "expanded_url": "https://x.com/MuseDashtheGame/status/1880178250393026838/photo/1",
+              "media_key": "16_1880160028721836033",
+              "start": 95,
+              "url": "https://t.co/GY5aYh7Fzh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880178250393026838",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1193,
+          "impression_count": 330527,
+          "like_count": 12205,
+          "quote_count": 167,
+          "reply_count": 17,
+          "retweet_count": 2825
+        },
+        "reply_settings": "everyone",
+        "text": "「MSR特選楽曲パック_Vol.02」\n//サルカズの傭兵 ウィシャデル\n「公文も任務概要もいらない、やっぱり気分に任せて仕事できる場所があったわ！」\n\n#アークナイツ　#MuseDash https://t.co/GY5aYh7Fzh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1863243605252690301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 850,
+          "like_count": 4812,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 1038
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-26T02:55:28.000Z",
+        "description": "Steam/iOS/Android/Nintendo SwitchアクションリズムゲームMuse Dash公式アカウント!楽曲投稿:submit@peropero.net;お問い合わせ: https://t.co/iVFlE41S79; Discord:https://t.co/n77bpXKIZp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "service.peropero.net/#/",
+                "end": 117,
+                "expanded_url": "http://service.peropero.net/#/",
+                "start": 94,
+                "url": "https://t.co/iVFlE41S79"
+              },
+              {
+                "display_url": "discord.gg/MuseDash",
+                "end": 150,
+                "expanded_url": "http://discord.gg/MuseDash",
+                "start": 127,
+                "url": "https://t.co/n77bpXKIZp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "musedash.peropero.net",
+                "end": 23,
+                "expanded_url": "http://musedash.peropero.net",
+                "start": 0,
+                "url": "https://t.co/9wJA0zftyA"
+              }
+            ]
+          }
+        },
+        "id": "945488202307026945",
+        "name": "Muse Dash公式",
+        "pinned_tweet_id": "1875104816633905408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775090154853806080/m2fEsE2j_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127146,
+          "following_count": 158,
+          "like_count": 1580,
+          "listed_count": 556,
+          "media_count": 638,
+          "tweet_count": 1973
+        },
+        "url": "https://t.co/9wJA0zftyA",
+        "username": "MuseDashtheGame",
+        "verified": false
+      }
+    ]
+  }
+}

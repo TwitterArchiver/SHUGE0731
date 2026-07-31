@@ -1,0 +1,562 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2015050462056345916",
+    "created_at": "2026-01-24T13:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T14:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015050462056345916"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/h609667669/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/h609667669/status/2014993508118225231",
+          "start": 12,
+          "url": "https://t.co/Fgxldy2A3o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015050462056345916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014993508118225231",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "wtf？ 史诗级作品… https://t.co/Fgxldy2A3o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014993500333359104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ax6aQXQAAktGB.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2015050462056345916",
+        "created_at": "2026-01-24T13:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T14:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015050462056345916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h609667669/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/h609667669/status/2014993508118225231",
+              "start": 12,
+              "url": "https://t.co/Fgxldy2A3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015050462056345916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014993508118225231",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "wtf？ 史诗级作品… https://t.co/Fgxldy2A3o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014993500333359104"
+          ]
+        },
+        "author_id": "2794034912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2014993508118225231",
+        "created_at": "2026-01-24T09:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T10:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014993508118225231"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "下江 コハル",
+              "probability": 0.8736,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 96,
+              "tag": "WF2026W"
+            },
+            {
+              "end": 113,
+              "start": 105,
+              "tag": "WF2026冬"
+            },
+            {
+              "end": 123,
+              "start": 114,
+              "tag": "ブルーアーカイブ"
+            },
+            {
+              "end": 129,
+              "start": 124,
+              "tag": "下江小春"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 58,
+              "id": "4793541360",
+              "start": 50,
+              "username": "cyohank"
+            },
+            {
+              "end": 75,
+              "id": "1788768016857186304",
+              "start": 64,
+              "username": "Ki_nomi168"
+            },
+            {
+              "end": 94,
+              "id": "1929399153450520576",
+              "start": 81,
+              "username": "Luka__Studio"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FhhOKCDCGM",
+              "end": 153,
+              "expanded_url": "https://x.com/h609667669/status/2014993508118225231/photo/1",
+              "media_key": "3_2014993500333359104",
+              "start": 130,
+              "url": "https://t.co/FhhOKCDCGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014993508118225231",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 13555,
+          "like_count": 145,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "WF2026W 新作展示！\n下江 コハル -ハニーウィッシュver\n原画： 木糖椿口服液\n\n原型： @cyohank\n\n色彩： @Ki_nomi168\n\n撮影： @Luka__Studio \n#WF2026W #WF2026冬 #ブルーアーカイブ #下江小春 https://t.co/FhhOKCDCGM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 997,
+          "like_count": 18159,
+          "listed_count": 3,
+          "media_count": 531,
+          "tweet_count": 6457
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-06T14:25:30.000Z",
+        "description": "趣味が生んだ同人フィギュアサークル\n連絡先：psk.pikunikku@qq.com \nweibo:https://t.co/6Dj3V7rYde\nbooth:https://t.co/VkAbXZJUj5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/2185152824",
+                "end": 73,
+                "expanded_url": "https://weibo.com/u/2185152824",
+                "start": 50,
+                "url": "https://t.co/6Dj3V7rYde"
+              },
+              {
+                "display_url": "pikunikku.booth.pm",
+                "end": 103,
+                "expanded_url": "https://pikunikku.booth.pm/",
+                "start": 80,
+                "url": "https://t.co/VkAbXZJUj5"
+              }
+            ]
+          }
+        },
+        "id": "2794034912",
+        "location": "中国 广州",
+        "name": "PSK-ピクニック工房@WF2026W 5-12-05",
+        "pinned_tweet_id": "1951084303355650541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769237618229927936/ijbBxD5-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3613,
+          "following_count": 2489,
+          "like_count": 6407,
+          "listed_count": 50,
+          "media_count": 137,
+          "tweet_count": 440
+        },
+        "username": "h609667669",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998295245931638784"
+      ],
+      "media_source_tweet_id": [
+        "1998295254781595976"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1998401106532036916",
+    "created_at": "2025-12-09T14:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T15:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998401106532036916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1218074854861111302",
+          "start": 3,
+          "username": "ringring_ring"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/81fmovEwe0",
+          "end": 46,
+          "expanded_url": "https://x.com/ringring_ring/status/1998295254781595976/photo/1",
+          "media_key": "3_1998295245931638784",
+          "start": 23,
+          "url": "https://t.co/81fmovEwe0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998401106532036916",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 320
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998295254781595976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ringring_ring: 41分 https://t.co/81fmovEwe0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3035,
+        "media_key": "3_1998295245931638784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7te8FIbcAAACfw.jpg",
+        "width": 2150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998295245931638784"
+          ],
+          "media_source_tweet_id": [
+            "1998295254781595976"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1998401106532036916",
+        "created_at": "2025-12-09T14:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T15:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998401106532036916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1218074854861111302",
+              "start": 3,
+              "username": "ringring_ring"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/81fmovEwe0",
+              "end": 46,
+              "expanded_url": "https://x.com/ringring_ring/status/1998295254781595976/photo/1",
+              "media_key": "3_1998295245931638784",
+              "start": 23,
+              "url": "https://t.co/81fmovEwe0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998401106532036916",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 320
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998295254781595976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ringring_ring: 41分 https://t.co/81fmovEwe0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998295245931638784"
+          ]
+        },
+        "author_id": "1218074854861111302",
+        "conversation_id": "1998295254781595976",
+        "created_at": "2025-12-09T07:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T08:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998295254781595976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/81fmovEwe0",
+              "end": 27,
+              "expanded_url": "https://x.com/ringring_ring/status/1998295254781595976/photo/1",
+              "media_key": "3_1998295245931638784",
+              "start": 4,
+              "url": "https://t.co/81fmovEwe0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998295254781595976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 14625,
+          "like_count": 1854,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 320
+        },
+        "reply_settings": "everyone",
+        "text": "41分 https://t.co/81fmovEwe0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 1061,
+          "like_count": 13121,
+          "listed_count": 2,
+          "media_count": 433,
+          "tweet_count": 3799
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-17T07:37:40.000Z",
+        "description": "好きなものを楽しく描いてる。AIに食わせないで。しぶ  https://t.co/p0ZOPsRx84 まろ https://t.co/VTo9SSK9Np",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/95459801",
+                "end": 51,
+                "expanded_url": "https://www.pixiv.net/users/95459801",
+                "start": 28,
+                "url": "https://t.co/p0ZOPsRx84"
+              },
+              {
+                "display_url": "marshmallow-qa.com/ringring_ring?…",
+                "end": 78,
+                "expanded_url": "https://marshmallow-qa.com/ringring_ring?t=nEr130&utm_medium=url_text&utm_source=promotion",
+                "start": 55,
+                "url": "https://t.co/VTo9SSK9Np"
+              }
+            ]
+          }
+        },
+        "id": "1218074854861111302",
+        "location": "道成寺の梵鐘の中",
+        "name": "ringring",
+        "pinned_tweet_id": "1989182752894464170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959879508477227008/WPiUTKlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18030,
+          "following_count": 1756,
+          "like_count": 45118,
+          "listed_count": 103,
+          "media_count": 6749,
+          "tweet_count": 33605
+        },
+        "username": "ringring_ring",
+        "verified": false
+      }
+    ]
+  }
+}

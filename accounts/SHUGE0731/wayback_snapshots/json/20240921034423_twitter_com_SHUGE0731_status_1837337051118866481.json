@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1837072676231499776"
+      ],
+      "media_source_tweet_id": [
+        "1837072680325108045"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1837337051118866481",
+    "created_at": "2024-09-21T03:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T04:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837337051118866481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1542772014309511168",
+          "start": 3,
+          "username": "kaorukakoii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dmohbvkfuu",
+          "end": 58,
+          "expanded_url": "https://twitter.com/kaorukakoii/status/1837072680325108045/photo/1",
+          "media_key": "3_1837072676231499776",
+          "start": 35,
+          "url": "https://t.co/dMohbvkFUu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837337051118866481",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837072680325108045",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kaorukakoii: （為什麼一拿到娃娃就在玩這種爛梗） https://t.co/dMohbvkFUu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1866,
+        "media_key": "3_1837072676231499776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GX6X3aVa0AAkvF9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837072676231499776"
+          ],
+          "media_source_tweet_id": [
+            "1837072680325108045"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1837337051118866481",
+        "created_at": "2024-09-21T03:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T04:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837337051118866481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1542772014309511168",
+              "start": 3,
+              "username": "kaorukakoii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dmohbvkfuu",
+              "end": 58,
+              "expanded_url": "https://twitter.com/kaorukakoii/status/1837072680325108045/photo/1",
+              "media_key": "3_1837072676231499776",
+              "start": 35,
+              "url": "https://t.co/dMohbvkFUu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837337051118866481",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837072680325108045",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kaorukakoii: （為什麼一拿到娃娃就在玩這種爛梗） https://t.co/dMohbvkFUu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837072676231499776"
+          ]
+        },
+        "author_id": "1542772014309511168",
+        "conversation_id": "1837072680325108045",
+        "created_at": "2024-09-20T10:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T11:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837072680325108045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dmohbvkfuu",
+              "end": 41,
+              "expanded_url": "https://twitter.com/kaorukakoii/status/1837072680325108045/photo/1",
+              "media_key": "3_1837072676231499776",
+              "start": 18,
+              "url": "https://t.co/dMohbvkFUu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837072680325108045",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 28492,
+          "like_count": 853,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "（為什麼一拿到娃娃就在玩這種爛梗） https://t.co/dMohbvkFUu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 604,
+          "like_count": 1875,
+          "listed_count": 0,
+          "tweet_count": 319
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-01T07:28:14.000Z",
+        "description": "❖所屬@Sonet_VOiX\n👓您的「好」執事恭候您的大駕\n♟️直播地為Twitch\nママ:@makura_wet\n🔸️我的狗➡️@corgicapon L2D建模帳➡️@kaoru_Live2D\nFanArt◊ #顧客回饋單",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 113,
+                "start": 107,
+                "tag": "顧客回饋單"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "Sonet_VOiX"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "username": "makura_wet"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "corgicapon"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "kaoru_Live2D"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "portaly.cc/kaoruVoix",
+                "end": 23,
+                "expanded_url": "https://portaly.cc/kaoruVoix",
+                "start": 0,
+                "url": "https://t.co/05nmCZr8T4"
+              }
+            ]
+          }
+        },
+        "id": "1542772014309511168",
+        "location": "至高無上尊爵不凡的顧客腳底下",
+        "name": "淺野薰☕️好想被踩系女子執事【VOiX所屬】",
+        "pinned_tweet_id": "1812128324585746564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812194770191548416/e5RKCrW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18906,
+          "following_count": 693,
+          "like_count": 32737,
+          "listed_count": 40,
+          "tweet_count": 26038
+        },
+        "url": "https://t.co/05nmCZr8T4",
+        "username": "kaorukakoii",
+        "verified": true
+      }
+    ]
+  }
+}

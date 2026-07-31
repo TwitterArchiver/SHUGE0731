@@ -1,0 +1,559 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1831337061078724608",
+        "3_1831337061091266560",
+        "3_1831337061095440384",
+        "3_1831337061241999360"
+      ],
+      "media_source_tweet_id": [
+        "1831337065210134798",
+        "1831337065210134798",
+        "1831337065210134798",
+        "1831337065210134798"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051379291",
+          "name": "宝石の国"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1542567079424839680",
+          "name": "Land of the Lustrous"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1542567079424839680",
+          "name": "Land of the Lustrous"
+        }
+      }
+    ],
+    "conversation_id": "1831598840572411958",
+    "created_at": "2024-09-05T07:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-05T08:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831598840572411958"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 29,
+          "tag": "housekinokuni_fanart"
+        },
+        {
+          "end": 57,
+          "start": 52,
+          "tag": "宝石の国"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1580845532788162560",
+          "start": 3,
+          "username": "IIIIII_kasba"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hlpeq4yttn",
+          "end": 81,
+          "expanded_url": "https://twitter.com/IIIIII_kasba/status/1831337065210134798/photo/1",
+          "media_key": "3_1831337061078724608",
+          "start": 58,
+          "url": "https://t.co/HlPeQ4ytTn"
+        },
+        {
+          "display_url": "pic.x.com/hlpeq4yttn",
+          "end": 81,
+          "expanded_url": "https://twitter.com/IIIIII_kasba/status/1831337065210134798/photo/1",
+          "media_key": "3_1831337061091266560",
+          "start": 58,
+          "url": "https://t.co/HlPeQ4ytTn"
+        },
+        {
+          "display_url": "pic.x.com/hlpeq4yttn",
+          "end": 81,
+          "expanded_url": "https://twitter.com/IIIIII_kasba/status/1831337065210134798/photo/1",
+          "media_key": "3_1831337061095440384",
+          "start": 58,
+          "url": "https://t.co/HlPeQ4ytTn"
+        },
+        {
+          "display_url": "pic.x.com/hlpeq4yttn",
+          "end": 81,
+          "expanded_url": "https://twitter.com/IIIIII_kasba/status/1831337065210134798/photo/1",
+          "media_key": "3_1831337061241999360",
+          "start": 58,
+          "url": "https://t.co/HlPeQ4ytTn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831598840572411958",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3146
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831337065210134798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IIIIII_kasba: 流行りに乗ってみた\n #housekinokuni_fanart  #宝石の国 https://t.co/HlPeQ4ytTn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 437,
+        "media_key": "3_1831337061078724608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWo3Wq2a8AAcIKr.jpg",
+        "width": 787
+      },
+      {
+        "height": 437,
+        "media_key": "3_1831337061091266560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWo3Wq5aUAA_dKX.jpg",
+        "width": 787
+      },
+      {
+        "height": 437,
+        "media_key": "3_1831337061095440384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWo3Wq6aAAAQH4T.jpg",
+        "width": 787
+      },
+      {
+        "height": 437,
+        "media_key": "3_1831337061241999360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWo3WrdWUAAJjzn.jpg",
+        "width": 787
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831337061078724608",
+            "3_1831337061091266560",
+            "3_1831337061095440384",
+            "3_1831337061241999360"
+          ],
+          "media_source_tweet_id": [
+            "1831337065210134798",
+            "1831337065210134798",
+            "1831337065210134798",
+            "1831337065210134798"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379291",
+              "name": "宝石の国"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1542567079424839680",
+              "name": "Land of the Lustrous"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1542567079424839680",
+              "name": "Land of the Lustrous"
+            }
+          }
+        ],
+        "conversation_id": "1831598840572411958",
+        "created_at": "2024-09-05T07:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T08:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831598840572411958"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 29,
+              "tag": "housekinokuni_fanart"
+            },
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "宝石の国"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1580845532788162560",
+              "start": 3,
+              "username": "IIIIII_kasba"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hlpeq4yttn",
+              "end": 81,
+              "expanded_url": "https://twitter.com/IIIIII_kasba/status/1831337065210134798/photo/1",
+              "media_key": "3_1831337061078724608",
+              "start": 58,
+              "url": "https://t.co/HlPeQ4ytTn"
+            },
+            {
+              "display_url": "pic.x.com/hlpeq4yttn",
+              "end": 81,
+              "expanded_url": "https://twitter.com/IIIIII_kasba/status/1831337065210134798/photo/1",
+              "media_key": "3_1831337061091266560",
+              "start": 58,
+              "url": "https://t.co/HlPeQ4ytTn"
+            },
+            {
+              "display_url": "pic.x.com/hlpeq4yttn",
+              "end": 81,
+              "expanded_url": "https://twitter.com/IIIIII_kasba/status/1831337065210134798/photo/1",
+              "media_key": "3_1831337061095440384",
+              "start": 58,
+              "url": "https://t.co/HlPeQ4ytTn"
+            },
+            {
+              "display_url": "pic.x.com/hlpeq4yttn",
+              "end": 81,
+              "expanded_url": "https://twitter.com/IIIIII_kasba/status/1831337065210134798/photo/1",
+              "media_key": "3_1831337061241999360",
+              "start": 58,
+              "url": "https://t.co/HlPeQ4ytTn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831598840572411958",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3146
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831337065210134798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IIIIII_kasba: 流行りに乗ってみた\n #housekinokuni_fanart  #宝石の国 https://t.co/HlPeQ4ytTn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831337061078724608",
+            "3_1831337061091266560",
+            "3_1831337061095440384",
+            "3_1831337061241999360"
+          ]
+        },
+        "author_id": "1580845532788162560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379291",
+              "name": "宝石の国"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1542567079424839680",
+              "name": "Land of the Lustrous"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1542567079424839680",
+              "name": "Land of the Lustrous"
+            }
+          }
+        ],
+        "conversation_id": "1831337065210134798",
+        "created_at": "2024-09-04T14:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T15:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831337065210134798"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 11,
+              "tag": "housekinokuni_fanart"
+            },
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "宝石の国"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hlpeq4yttn",
+              "end": 63,
+              "expanded_url": "https://twitter.com/IIIIII_kasba/status/1831337065210134798/photo/1",
+              "media_key": "3_1831337061078724608",
+              "start": 40,
+              "url": "https://t.co/HlPeQ4ytTn"
+            },
+            {
+              "display_url": "pic.x.com/hlpeq4yttn",
+              "end": 63,
+              "expanded_url": "https://twitter.com/IIIIII_kasba/status/1831337065210134798/photo/1",
+              "media_key": "3_1831337061091266560",
+              "start": 40,
+              "url": "https://t.co/HlPeQ4ytTn"
+            },
+            {
+              "display_url": "pic.x.com/hlpeq4yttn",
+              "end": 63,
+              "expanded_url": "https://twitter.com/IIIIII_kasba/status/1831337065210134798/photo/1",
+              "media_key": "3_1831337061095440384",
+              "start": 40,
+              "url": "https://t.co/HlPeQ4ytTn"
+            },
+            {
+              "display_url": "pic.x.com/hlpeq4yttn",
+              "end": 63,
+              "expanded_url": "https://twitter.com/IIIIII_kasba/status/1831337065210134798/photo/1",
+              "media_key": "3_1831337061241999360",
+              "start": 40,
+              "url": "https://t.co/HlPeQ4ytTn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831337065210134798",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1539,
+          "impression_count": 207202,
+          "like_count": 16683,
+          "quote_count": 55,
+          "reply_count": 11,
+          "retweet_count": 3146
+        },
+        "reply_settings": "everyone",
+        "text": "流行りに乗ってみた\n #housekinokuni_fanart  #宝石の国 https://t.co/HlPeQ4ytTn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 574,
+          "like_count": 1593,
+          "listed_count": 0,
+          "tweet_count": 225
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T08:58:49.000Z",
+        "description": "二次創作スﾁ￤絵描いてます￤雑多絵垢￤宝石の国と原神が多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/xflftm38voxx4dc",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/xflftm38voxx4dc",
+                "start": 0,
+                "url": "https://t.co/2COdAVvCqu"
+              }
+            ]
+          }
+        },
+        "id": "1580845532788162560",
+        "name": "かしば",
+        "pinned_tweet_id": "1820349633283100977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822140377618362368/eyZpU03p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 67,
+          "like_count": 4548,
+          "listed_count": 9,
+          "tweet_count": 362
+        },
+        "url": "https://t.co/2COdAVvCqu",
+        "username": "IIIIII_kasba",
+        "verified": false
+      }
+    ]
+  }
+}

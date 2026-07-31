@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2031422583527411799",
+    "created_at": "2026-03-10T17:31:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T18:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031422583527411799"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/astapfher/stat…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/astapfher/status/2031379073533096329",
+          "start": 18,
+          "url": "https://t.co/GXeFUuhNBI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031422583527411799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031379073533096329",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真觉得自己找不到工作 要去挂壁了 https://t.co/GXeFUuhNBI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2031422583527411799",
+        "created_at": "2026-03-10T17:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031422583527411799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/astapfher/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/astapfher/status/2031379073533096329",
+              "start": 18,
+              "url": "https://t.co/GXeFUuhNBI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031422583527411799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031379073533096329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真觉得自己找不到工作 要去挂壁了 https://t.co/GXeFUuhNBI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016546663524167680",
+        "conversation_id": "2031307957887992043",
+        "created_at": "2026-03-10T14:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031379073533096329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1882637113",
+              "start": 0,
+              "username": "Desvl_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031379073533096329",
+        "in_reply_to_user_id": "1882637113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 262,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031307957887992043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Desvl_ 现在变成了考上研究生/考上好单位后（基本都是硕士学位）就轻松了：不少人上班后就躺平了，更有甚者当了三和大神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 1009,
+          "like_count": 23507,
+          "listed_count": 3,
+          "media_count": 589,
+          "tweet_count": 8276
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T16:20:54.000Z",
+        "description": "Komakaze Rabu，I love you！\nKR=河駒风愛(河駒風ラブ)",
+        "id": "2016546663524167680",
+        "location": "Jabjab Helmet",
+        "name": "ASTAPFHER",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017622655252455424/8JfwAIBq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 173,
+          "like_count": 890,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 205
+        },
+        "username": "astapfher",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876052093552799744"
+      ],
+      "media_source_tweet_id": [
+        "1876293649010729106"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1876412932176883888",
+    "created_at": "2025-01-06T23:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T00:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876412932176883888"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "Freud",
+          "probability": 0.9088,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1512916739583090692",
+          "start": 3,
+          "username": "WiredSacred"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x7FVwbchjK",
+          "end": 51,
+          "expanded_url": "https://x.com/WiredSacred/status/1876293649010729106/photo/1",
+          "media_key": "3_1876052093552799744",
+          "start": 28,
+          "url": "https://t.co/x7FVwbchjK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876412932176883888",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 154
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876293649010729106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WiredSacred: Freud knew https://t.co/x7FVwbchjK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 496,
+        "media_key": "3_1876052093552799744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgkTcHhXsAAI6K9.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876052093552799744"
+          ],
+          "media_source_tweet_id": [
+            "1876293649010729106"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1876412932176883888",
+        "created_at": "2025-01-06T23:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T00:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876412932176883888"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Freud",
+              "probability": 0.9088,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1512916739583090692",
+              "start": 3,
+              "username": "WiredSacred"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x7FVwbchjK",
+              "end": 51,
+              "expanded_url": "https://x.com/WiredSacred/status/1876293649010729106/photo/1",
+              "media_key": "3_1876052093552799744",
+              "start": 28,
+              "url": "https://t.co/x7FVwbchjK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876412932176883888",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876293649010729106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WiredSacred: Freud knew https://t.co/x7FVwbchjK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876052093552799744"
+          ]
+        },
+        "author_id": "1512916739583090692",
+        "conversation_id": "1876293649010729106",
+        "created_at": "2025-01-06T15:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T16:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876293649010729106"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Freud",
+              "probability": 0.8959,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x7FVwbchjK",
+              "end": 34,
+              "expanded_url": "https://x.com/WiredSacred/status/1876293649010729106/photo/1",
+              "media_key": "3_1876052093552799744",
+              "start": 11,
+              "url": "https://t.co/x7FVwbchjK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876293649010729106",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 198,
+          "impression_count": 9307,
+          "like_count": 1081,
+          "quote_count": 7,
+          "reply_count": 4,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "Freud knew https://t.co/x7FVwbchjK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1863243605252690301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 836,
+          "like_count": 4600,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 960
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-09T22:14:34.000Z",
+        "description": "enjoy\n\n~ run and made by \"The Prophet of the Dam\"",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@thewiredinter…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@thewiredintersection_1",
+                "start": 0,
+                "url": "https://t.co/iVMOrp38w3"
+              }
+            ]
+          }
+        },
+        "id": "1512916739583090692",
+        "location": "Wired",
+        "name": "The Wired Intersection",
+        "pinned_tweet_id": "1772109415891476893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1587106819159244801/rQjf3HPG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7787,
+          "following_count": 50,
+          "like_count": 5820,
+          "listed_count": 16,
+          "media_count": 832,
+          "tweet_count": 3712
+        },
+        "url": "https://t.co/iVMOrp38w3",
+        "username": "WiredSacred",
+        "verified": true
+      }
+    ]
+  }
+}

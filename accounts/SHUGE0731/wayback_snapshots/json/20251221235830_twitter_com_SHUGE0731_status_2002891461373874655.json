@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002780146517073920"
+      ],
+      "media_source_tweet_id": [
+        "2002780153680916529"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2002891461373874655",
+    "created_at": "2025-12-21T23:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T00:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002891461373874655"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "ゆかゆゆ",
+          "probability": 0.3735,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1269547398902149121",
+          "start": 3,
+          "username": "dodo7880"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CKZyfHTqV6",
+          "end": 42,
+          "expanded_url": "https://x.com/dodo7880/status/2002780153680916529/photo/1",
+          "media_key": "3_2002780146517073920",
+          "start": 19,
+          "url": "https://t.co/CKZyfHTqV6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002891461373874655",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 219
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002780153680916529",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dodo7880: ゆかゆゆ https://t.co/CKZyfHTqV6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002780146517073920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8tN7pxa4AArd3E.jpg",
+        "width": 1546
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002780146517073920"
+          ],
+          "media_source_tweet_id": [
+            "2002780153680916529"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002891461373874655",
+        "created_at": "2025-12-21T23:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T00:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002891461373874655"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "ゆかゆゆ",
+              "probability": 0.3735,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1269547398902149121",
+              "start": 3,
+              "username": "dodo7880"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CKZyfHTqV6",
+              "end": 42,
+              "expanded_url": "https://x.com/dodo7880/status/2002780153680916529/photo/1",
+              "media_key": "3_2002780146517073920",
+              "start": 19,
+              "url": "https://t.co/CKZyfHTqV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002891461373874655",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 219
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002780153680916529",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dodo7880: ゆかゆゆ https://t.co/CKZyfHTqV6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002780146517073920"
+          ]
+        },
+        "author_id": "1269547398902149121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002780153680916529",
+        "created_at": "2025-12-21T16:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T17:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002780153680916529"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "ゆかゆゆ",
+              "probability": 0.4889,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CKZyfHTqV6",
+              "end": 28,
+              "expanded_url": "https://x.com/dodo7880/status/2002780153680916529/photo/1",
+              "media_key": "3_2002780146517073920",
+              "start": 5,
+              "url": "https://t.co/CKZyfHTqV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002780153680916529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 10475,
+          "like_count": 1249,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 219
+        },
+        "reply_settings": "everyone",
+        "text": "ゆかゆゆ https://t.co/CKZyfHTqV6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 1039,
+          "like_count": 14822,
+          "listed_count": 3,
+          "media_count": 474,
+          "tweet_count": 4676
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-07T08:31:16.000Z",
+        "description": "=Rain/蓮です｜絵を描くのが好き｜中文OK ｜日本語勉強中｜よろしくお願いします！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/26536041",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/26536041",
+                "start": 0,
+                "url": "https://t.co/NcPsJvGfJN"
+              }
+            ]
+          }
+        },
+        "id": "1269547398902149121",
+        "location": "Tokyo-to, Japan",
+        "name": "Rain蓮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1301473801637515265/-V0EGULf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8691,
+          "following_count": 273,
+          "like_count": 1135,
+          "listed_count": 103,
+          "media_count": 63,
+          "tweet_count": 262
+        },
+        "url": "https://t.co/NcPsJvGfJN",
+        "username": "dodo7880",
+        "verified": false
+      }
+    ]
+  }
+}

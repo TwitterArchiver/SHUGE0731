@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1943720683244335528",
+    "created_at": "2025-07-11T17:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T18:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943720683244335528"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "Fata Morgana",
+          "probability": 0.5648,
+          "start": 28,
+          "type": "Place"
+        },
+        {
+          "end": 91,
+          "normalized_text": "Bilibili World 2025",
+          "probability": 0.799,
+          "start": 73,
+          "type": "Other"
+        },
+        {
+          "end": 103,
+          "normalized_text": "Shanghai",
+          "probability": 0.9783,
+          "start": 96,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "824223386691698688",
+          "start": 3,
+          "username": "NOVECT_EN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943720683244335528",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943488845984538886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NOVECT_EN: The House in Fata Morgana is currently being exhibited at Bilibili World 2025 in Shanghai!\nWe’ve prepared exclusive displays…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_1943488830813712384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvioy2mXMAAr7jS.jpg",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "media_key": "3_1943488830595899392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvioy1yboAAxmkT.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1943720683244335528",
+        "created_at": "2025-07-11T17:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T18:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943720683244335528"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "Fata Morgana",
+              "probability": 0.5648,
+              "start": 28,
+              "type": "Place"
+            },
+            {
+              "end": 91,
+              "normalized_text": "Bilibili World 2025",
+              "probability": 0.799,
+              "start": 73,
+              "type": "Other"
+            },
+            {
+              "end": 103,
+              "normalized_text": "Shanghai",
+              "probability": 0.9783,
+              "start": 96,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "824223386691698688",
+              "start": 3,
+              "username": "NOVECT_EN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943720683244335528",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943488845984538886",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NOVECT_EN: The House in Fata Morgana is currently being exhibited at Bilibili World 2025 in Shanghai!\nWe’ve prepared exclusive displays…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943488830813712384",
+            "3_1943488830595899392"
+          ]
+        },
+        "author_id": "824223386691698688",
+        "conversation_id": "1943488845984538886",
+        "created_at": "2025-07-11T01:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T02:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943488845984538886"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Fata Morgana",
+              "probability": 0.7068,
+              "start": 13,
+              "type": "Place"
+            },
+            {
+              "end": 76,
+              "normalized_text": "Bilibili World 2025",
+              "probability": 0.7508,
+              "start": 58,
+              "type": "Other"
+            },
+            {
+              "end": 88,
+              "normalized_text": "Shanghai",
+              "probability": 0.9737,
+              "start": 81,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DxXp3Hhlpc",
+              "end": 194,
+              "expanded_url": "https://x.com/NOVECT_EN/status/1943488845984538886/photo/1",
+              "media_key": "3_1943488830813712384",
+              "start": 171,
+              "url": "https://t.co/DxXp3Hhlpc"
+            },
+            {
+              "display_url": "pic.x.com/DxXp3Hhlpc",
+              "end": 194,
+              "expanded_url": "https://x.com/NOVECT_EN/status/1943488845984538886/photo/1",
+              "media_key": "3_1943488830595899392",
+              "start": 171,
+              "url": "https://t.co/DxXp3Hhlpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943488845984538886",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5815,
+          "like_count": 272,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "The House in Fata Morgana is currently being exhibited at Bilibili World 2025 in Shanghai!\nWe’ve prepared exclusive displays and merchandise available only at the venue 🥰 https://t.co/DxXp3Hhlpc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 954,
+          "like_count": 8375,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 1732
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-25T11:52:23.000Z",
+        "description": "Official account for NOVECT (formerly Novectacle). Developer of \"The House in Fata Morgana\", and making new game now. JP:@NOVECT_JP Blog:https://t.co/oKzCgDpfuY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "NOVECT_JP"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/325abHK",
+                "end": 160,
+                "expanded_url": "http://bit.ly/325abHK",
+                "start": 137,
+                "url": "https://t.co/oKzCgDpfuY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "novect.net",
+                "end": 23,
+                "expanded_url": "http://novect.net",
+                "start": 0,
+                "url": "https://t.co/SYlhECd4vm"
+              }
+            ]
+          }
+        },
+        "id": "824223386691698688",
+        "location": "NOVECT",
+        "name": "NOVECT",
+        "pinned_tweet_id": "1940947455278711002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503219218740756481/75-Lo9Dv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8562,
+          "following_count": 1,
+          "like_count": 34,
+          "listed_count": 29,
+          "media_count": 497,
+          "tweet_count": 3015
+        },
+        "url": "https://t.co/SYlhECd4vm",
+        "username": "NOVECT_EN",
+        "verified": true
+      }
+    ]
+  }
+}

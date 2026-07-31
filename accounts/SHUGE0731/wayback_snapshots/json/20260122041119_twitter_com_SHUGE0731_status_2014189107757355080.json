@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2013403667068530688"
+      ],
+      "media_source_tweet_id": [
+        "2013403766020583581"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390782787301494785",
+          "name": "Touhou Project"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      }
+    ],
+    "conversation_id": "2014189107757355080",
+    "created_at": "2026-01-22T04:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T05:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014189107757355080"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 21,
+          "tag": "東方Project"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1744646578332422144",
+          "start": 3,
+          "username": "EIKIch_Nebokeee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CuVrDrvyn6",
+          "end": 62,
+          "expanded_url": "https://x.com/EIKIch_Nebokeee/status/2013403766020583581/video/1",
+          "media_key": "13_2013403667068530688",
+          "start": 39,
+          "url": "https://t.co/CuVrDrvyn6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014189107757355080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 124
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013403766020583581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EIKIch_Nebokeee: #東方Project \n閻魔最終日 https://t.co/CuVrDrvyn6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33200,
+        "height": 720,
+        "media_key": "13_2013403667068530688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2013403667068530688/img/in-7E2VV0CkQ8g_k.jpg",
+        "public_metrics": {
+          "view_count": 2805
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013403667068530688/vid/avc1/480x270/4hoNoqegIzR9xe4H.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013403667068530688/vid/avc1/640x360/M3chvT73MfQA5BP0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013403667068530688/vid/avc1/1280x720/Sex1D6HUI7nBghS3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2013403667068530688/pl/Pr9HCj09sKPf-oFG.m3u8?v=a37"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013403667068530688"
+          ],
+          "media_source_tweet_id": [
+            "2013403766020583581"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2014189107757355080",
+        "created_at": "2026-01-22T04:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T05:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014189107757355080"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "東方Project"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1744646578332422144",
+              "start": 3,
+              "username": "EIKIch_Nebokeee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CuVrDrvyn6",
+              "end": 62,
+              "expanded_url": "https://x.com/EIKIch_Nebokeee/status/2013403766020583581/video/1",
+              "media_key": "13_2013403667068530688",
+              "start": 39,
+              "url": "https://t.co/CuVrDrvyn6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014189107757355080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013403766020583581",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EIKIch_Nebokeee: #東方Project \n閻魔最終日 https://t.co/CuVrDrvyn6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013403667068530688"
+          ]
+        },
+        "author_id": "1744646578332422144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2013403766020583581",
+        "created_at": "2026-01-20T00:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T01:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013403766020583581"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "東方Project"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CuVrDrvyn6",
+              "end": 41,
+              "expanded_url": "https://x.com/EIKIch_Nebokeee/status/2013403766020583581/video/1",
+              "media_key": "13_2013403667068530688",
+              "start": 18,
+              "url": "https://t.co/CuVrDrvyn6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013403766020583581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 232,
+          "impression_count": 9887,
+          "like_count": 890,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "#東方Project \n閻魔最終日 https://t.co/CuVrDrvyn6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20 ｜ ❤️@Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 994,
+          "like_count": 18037,
+          "listed_count": 3,
+          "media_count": 528,
+          "tweet_count": 6398
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-09T09:05:49.000Z",
+        "description": "寝ることが好き || ⚠️病み垢@EikiCH_X3 || ⚠️グロ専用 @Neboke_goreCH || たまにリョナ出すかもね（エロ垢じゃありません） || 病み散らかしてるのでそこはご注意ください|| 正映とこまえーき描きます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "EikiCH_X3"
+              },
+              {
+                "end": 51,
+                "start": 37,
+                "username": "Neboke_goreCH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/NebokeCH",
+                "end": 23,
+                "expanded_url": "https://lit.link/NebokeCH",
+                "start": 0,
+                "url": "https://t.co/Yp2EFIh6gz"
+              }
+            ]
+          }
+        },
+        "id": "1744646578332422144",
+        "location": "リクエストはマシュマロのみ可",
+        "name": "ねぼけ",
+        "pinned_tweet_id": "1988565670846419081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012884755738447873/McqaX97n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 205,
+          "like_count": 4310,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 4124
+        },
+        "url": "https://t.co/Yp2EFIh6gz",
+        "username": "EIKIch_Nebokeee",
+        "verified": false
+      }
+    ]
+  }
+}

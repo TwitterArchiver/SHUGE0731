@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1970839353023717376"
+      ],
+      "media_source_tweet_id": [
+        "1970839497274458353"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1971035894984605931",
+    "created_at": "2025-09-25T02:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T03:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971035894984605931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1606746928288567297",
+          "start": 3,
+          "username": "crack_inhaler"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FGSHuJ2GmX",
+          "end": 45,
+          "expanded_url": "https://x.com/crack_inhaler/status/1970839497274458353/video/1",
+          "media_key": "13_1970839353023717376",
+          "start": 22,
+          "url": "https://t.co/FGSHuJ2GmX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971035894984605931",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1308
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970839497274458353",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crack_inhaler: hi https://t.co/FGSHuJ2GmX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13376,
+        "height": 898,
+        "media_key": "13_1970839353023717376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1970839353023717376/img/O0CypeUygJlUrZHB.jpg",
+        "public_metrics": {
+          "view_count": 52749
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970839353023717376/vid/avc1/310x270/XWM46N3CvIONgWYo.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970839353023717376/vid/avc1/412x360/3oQ1qVZ23JeBxjON.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970839353023717376/vid/avc1/826x720/I3FjGtvV3YzwS33d.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1970839353023717376/pl/cBbgCWKublbyAxrc.m3u8?tag=14&v=86b"
+          }
+        ],
+        "width": 1032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1970839353023717376"
+          ],
+          "media_source_tweet_id": [
+            "1970839497274458353"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1971035894984605931",
+        "created_at": "2025-09-25T02:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T03:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971035894984605931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1606746928288567297",
+              "start": 3,
+              "username": "crack_inhaler"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FGSHuJ2GmX",
+              "end": 45,
+              "expanded_url": "https://x.com/crack_inhaler/status/1970839497274458353/video/1",
+              "media_key": "13_1970839353023717376",
+              "start": 22,
+              "url": "https://t.co/FGSHuJ2GmX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971035894984605931",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1308
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970839497274458353",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crack_inhaler: hi https://t.co/FGSHuJ2GmX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1970839353023717376"
+          ]
+        },
+        "author_id": "1606746928288567297",
+        "conversation_id": "1970839497274458353",
+        "created_at": "2025-09-24T13:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T14:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970839497274458353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FGSHuJ2GmX",
+              "end": 26,
+              "expanded_url": "https://x.com/crack_inhaler/status/1970839497274458353/video/1",
+              "media_key": "13_1970839353023717376",
+              "start": 3,
+              "url": "https://t.co/FGSHuJ2GmX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970839497274458353",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1609,
+          "impression_count": 122026,
+          "like_count": 10838,
+          "quote_count": 14,
+          "reply_count": 19,
+          "retweet_count": 1308
+        },
+        "reply_settings": "everyone",
+        "text": "hi https://t.co/FGSHuJ2GmX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 有一只牡丹鹦鹉叫uno！｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 1026,
+          "like_count": 9312,
+          "listed_count": 2,
+          "media_count": 296,
+          "tweet_count": 1996
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T20:21:42.000Z",
+        "description": "Go birds",
+        "id": "1606746928288567297",
+        "location": "Philadelphia, PA",
+        "name": "Zoo Military Official",
+        "pinned_tweet_id": "1816306143678943453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909165618936283136/O0lg1LC7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11369,
+          "following_count": 1940,
+          "like_count": 57432,
+          "listed_count": 25,
+          "media_count": 4665,
+          "tweet_count": 10891
+        },
+        "username": "crack_inhaler",
+        "verified": false
+      }
+    ]
+  }
+}

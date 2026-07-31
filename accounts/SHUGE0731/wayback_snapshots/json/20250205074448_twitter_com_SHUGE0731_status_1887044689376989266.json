@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886773259150221312"
+      ],
+      "media_source_tweet_id": [
+        "1886773263474553272"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1887044689376989266",
+    "created_at": "2025-02-05T07:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T08:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887044689376989266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1284865554315001856",
+          "start": 3,
+          "username": "rapperdays"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oMANLJvXRu",
+          "end": 39,
+          "expanded_url": "https://x.com/rapperdays/status/1886773263474553272/photo/1",
+          "media_key": "3_1886773259150221312",
+          "start": 16,
+          "url": "https://t.co/oMANLJvXRu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887044689376989266",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2844
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886773263474553272",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rapperdays: https://t.co/oMANLJvXRu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1432,
+        "media_key": "3_1886773259150221312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi8qSFta4AAnI-O.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886773259150221312"
+          ],
+          "media_source_tweet_id": [
+            "1886773263474553272"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1887044689376989266",
+        "created_at": "2025-02-05T07:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T08:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887044689376989266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1284865554315001856",
+              "start": 3,
+              "username": "rapperdays"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oMANLJvXRu",
+              "end": 39,
+              "expanded_url": "https://x.com/rapperdays/status/1886773263474553272/photo/1",
+              "media_key": "3_1886773259150221312",
+              "start": 16,
+              "url": "https://t.co/oMANLJvXRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887044689376989266",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2844
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886773263474553272",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rapperdays: https://t.co/oMANLJvXRu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886773259150221312"
+          ]
+        },
+        "author_id": "1284865554315001856",
+        "conversation_id": "1886773263474553272",
+        "created_at": "2025-02-04T13:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T14:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886773263474553272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oMANLJvXRu",
+              "end": 23,
+              "expanded_url": "https://x.com/rapperdays/status/1886773263474553272/photo/1",
+              "media_key": "3_1886773259150221312",
+              "start": 0,
+              "url": "https://t.co/oMANLJvXRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886773263474553272",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1405,
+          "impression_count": 1285601,
+          "like_count": 39438,
+          "quote_count": 200,
+          "reply_count": 121,
+          "retweet_count": 2844
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oMANLJvXRu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 22",
+        "pinned_tweet_id": "1863243605252690301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 859,
+          "like_count": 5084,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 1109
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-19T15:00:07.000Z",
+        "description": "Life is Good",
+        "id": "1284865554315001856",
+        "name": "Rapperの日常",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1284866024727130119/biGPpUgP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58522,
+          "following_count": 528,
+          "like_count": 1753,
+          "listed_count": 83,
+          "media_count": 1788,
+          "tweet_count": 2057
+        },
+        "username": "rapperdays",
+        "verified": true
+      }
+    ]
+  }
+}

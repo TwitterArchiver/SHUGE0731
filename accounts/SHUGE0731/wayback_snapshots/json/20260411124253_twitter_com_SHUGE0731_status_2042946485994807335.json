@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042707311685439488"
+      ],
+      "media_source_tweet_id": [
+        "2042707317800735209"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2042946485994807335",
+    "created_at": "2026-04-11T12:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T13:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042946485994807335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1409461634838392832",
+          "start": 3,
+          "username": "a313131333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2DGMvWikBG",
+          "end": 39,
+          "expanded_url": "https://x.com/a313131333/status/2042707317800735209/photo/1",
+          "media_key": "3_2042707311685439488",
+          "start": 16,
+          "url": "https://t.co/2DGMvWikBG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042946485994807335",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1505
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042707317800735209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @a313131333: https://t.co/2DGMvWikBG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042707311685439488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFknei0akAA1JtI.jpg",
+        "width": 1207
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042707311685439488"
+          ],
+          "media_source_tweet_id": [
+            "2042707317800735209"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2042946485994807335",
+        "created_at": "2026-04-11T12:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042946485994807335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1409461634838392832",
+              "start": 3,
+              "username": "a313131333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2DGMvWikBG",
+              "end": 39,
+              "expanded_url": "https://x.com/a313131333/status/2042707317800735209/photo/1",
+              "media_key": "3_2042707311685439488",
+              "start": 16,
+              "url": "https://t.co/2DGMvWikBG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042946485994807335",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1505
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042707317800735209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @a313131333: https://t.co/2DGMvWikBG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042707311685439488"
+          ]
+        },
+        "author_id": "1409461634838392832",
+        "conversation_id": "2042707317800735209",
+        "created_at": "2026-04-10T20:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T21:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042707317800735209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2DGMvWikBG",
+              "end": 23,
+              "expanded_url": "https://x.com/a313131333/status/2042707317800735209/photo/1",
+              "media_key": "3_2042707311685439488",
+              "start": 0,
+              "url": "https://t.co/2DGMvWikBG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042707317800735209",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1623,
+          "impression_count": 161101,
+          "like_count": 15270,
+          "quote_count": 11,
+          "reply_count": 6,
+          "retweet_count": 1505
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2DGMvWikBG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 1041,
+          "like_count": 26064,
+          "listed_count": 3,
+          "media_count": 625,
+          "tweet_count": 9109
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T10:40:29.000Z",
+        "description": "絵を描くのが好き。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@a313131333",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@a313131333",
+                "start": 0,
+                "url": "https://t.co/45Q0dJDXqH"
+              }
+            ]
+          }
+        },
+        "id": "1409461634838392832",
+        "location": "絵の使用・AI学習禁止",
+        "name": "Taki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894179159095869441/IUO616ui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37139,
+          "following_count": 53,
+          "like_count": 5222,
+          "listed_count": 249,
+          "media_count": 24,
+          "tweet_count": 1100
+        },
+        "url": "https://t.co/45Q0dJDXqH",
+        "username": "a313131333",
+        "verified": false
+      }
+    ]
+  }
+}

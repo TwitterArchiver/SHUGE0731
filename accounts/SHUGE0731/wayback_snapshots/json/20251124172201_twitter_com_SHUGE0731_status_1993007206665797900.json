@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1992589116459077632"
+      ],
+      "media_source_tweet_id": [
+        "1992589183098187909"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1993007206665797900",
+    "created_at": "2025-11-24T17:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T18:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993007206665797900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "722006731652407296",
+          "start": 3,
+          "username": "chitose_torisan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qW6zeYSjSn",
+          "end": 78,
+          "expanded_url": "https://x.com/chitose_torisan/status/1992589183098187909/video/1",
+          "media_key": "13_1992589116459077632",
+          "start": 55,
+          "url": "https://t.co/qW6zeYSjSn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993007206665797900",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 363
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992589183098187909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chitose_torisan: 入ってるつもりらしい\n\n全然入れてない\n空気清浄機が全力で動き出す https://t.co/qW6zeYSjSn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20460,
+        "height": 720,
+        "media_key": "13_1992589116459077632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1992589116459077632/img/T2YDVdpR44xFxVGB.jpg",
+        "public_metrics": {
+          "view_count": 36169
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992589116459077632/vid/avc1/320x320/8PqywjWFMCzMa_07.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992589116459077632/vid/avc1/540x540/Y8zS89kvCWL1u4u-.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992589116459077632/vid/avc1/720x720/lN4f0RubPpkD74xQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1992589116459077632/pl/5oD84AK038dK4Le_.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1992589116459077632"
+          ],
+          "media_source_tweet_id": [
+            "1992589183098187909"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1993007206665797900",
+        "created_at": "2025-11-24T17:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T18:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993007206665797900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "722006731652407296",
+              "start": 3,
+              "username": "chitose_torisan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qW6zeYSjSn",
+              "end": 78,
+              "expanded_url": "https://x.com/chitose_torisan/status/1992589183098187909/video/1",
+              "media_key": "13_1992589116459077632",
+              "start": 55,
+              "url": "https://t.co/qW6zeYSjSn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993007206665797900",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 363
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992589183098187909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chitose_torisan: 入ってるつもりらしい\n\n全然入れてない\n空気清浄機が全力で動き出す https://t.co/qW6zeYSjSn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1992589116459077632"
+          ]
+        },
+        "author_id": "722006731652407296",
+        "conversation_id": "1992589183098187909",
+        "created_at": "2025-11-23T13:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T14:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992589183098187909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qW6zeYSjSn",
+              "end": 57,
+              "expanded_url": "https://x.com/chitose_torisan/status/1992589183098187909/video/1",
+              "media_key": "13_1992589116459077632",
+              "start": 34,
+              "url": "https://t.co/qW6zeYSjSn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992589183098187909",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 256,
+          "impression_count": 79507,
+          "like_count": 3726,
+          "quote_count": 17,
+          "reply_count": 20,
+          "retweet_count": 363
+        },
+        "reply_settings": "everyone",
+        "text": "入ってるつもりらしい\n\n全然入れてない\n空気清浄機が全力で動き出す https://t.co/qW6zeYSjSn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1057,
+          "like_count": 11837,
+          "listed_count": 2,
+          "media_count": 393,
+          "tweet_count": 3131
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-18T10:19:53.000Z",
+        "description": "オカメ(ロコさん:シナモン♀ 2016.3)と世話係(ちー♀)と\n犬(トイプー♀ 2002.11～2020.8🌈)とダラダラ生息中 \n-- たっぷりめの誤字脱字 --\nあんこ好き💕",
+        "id": "722006731652407296",
+        "location": "阪急沿線",
+        "name": "🐥🐥🐥(ちー)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1060367071689625601/kTWPVaE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 295,
+          "like_count": 66160,
+          "listed_count": 16,
+          "media_count": 5672,
+          "tweet_count": 10372
+        },
+        "username": "chitose_torisan",
+        "verified": false
+      }
+    ]
+  }
+}

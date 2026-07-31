@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006317136424439808"
+      ],
+      "media_source_tweet_id": [
+        "2006317141021364482"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2006621762914759023",
+    "created_at": "2026-01-01T07:01:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T08:01:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006621762914759023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "4902414444",
+          "start": 3,
+          "username": "rasra25"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lAE7Cno8nc",
+          "end": 42,
+          "expanded_url": "https://x.com/rasra25/status/2006317141021364482/photo/1",
+          "media_key": "3_2006317136424439808",
+          "start": 19,
+          "url": "https://t.co/lAE7Cno8nc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006621762914759023",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 958
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006317141021364482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @rasra25: おさめます https://t.co/lAE7Cno8nc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2006317136424439808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9fezj9bkAAYi5U.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006317136424439808"
+          ],
+          "media_source_tweet_id": [
+            "2006317141021364482"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2006621762914759023",
+        "created_at": "2026-01-01T07:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T08:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006621762914759023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4902414444",
+              "start": 3,
+              "username": "rasra25"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lAE7Cno8nc",
+              "end": 42,
+              "expanded_url": "https://x.com/rasra25/status/2006317141021364482/photo/1",
+              "media_key": "3_2006317136424439808",
+              "start": 19,
+              "url": "https://t.co/lAE7Cno8nc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006621762914759023",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 958
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006317141021364482",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @rasra25: おさめます https://t.co/lAE7Cno8nc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006317136424439808"
+          ]
+        },
+        "author_id": "4902414444",
+        "conversation_id": "2006317141021364482",
+        "created_at": "2025-12-31T10:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T11:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006317141021364482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lAE7Cno8nc",
+              "end": 29,
+              "expanded_url": "https://x.com/rasra25/status/2006317141021364482/photo/1",
+              "media_key": "3_2006317136424439808",
+              "start": 6,
+              "url": "https://t.co/lAE7Cno8nc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006317141021364482",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 462,
+          "impression_count": 73691,
+          "like_count": 8753,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 958
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "おさめます https://t.co/lAE7Cno8nc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜会fo眼熟的｜🚪20",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 993,
+          "like_count": 16690,
+          "listed_count": 3,
+          "media_count": 505,
+          "tweet_count": 5559
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-13T15:38:06.000Z",
+        "description": "★AI学習禁止★\n私について→https://t.co/fYweTmUtwg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rasra25.fanbox.cc/posts/6865994?…",
+                "end": 38,
+                "expanded_url": "https://rasra25.fanbox.cc/posts/6865994?utm_campaign=manage_post_page&utm_medium=share&utm_source=twitter",
+                "start": 15,
+                "url": "https://t.co/fYweTmUtwg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@rasra25",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@rasra25",
+                "start": 0,
+                "url": "https://t.co/D7oA7mWnMJ"
+              }
+            ]
+          }
+        },
+        "id": "4902414444",
+        "location": "2016.02.14",
+        "name": "煮込らしか",
+        "pinned_tweet_id": "835855079617904642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/848391033737969665/p-KDZU4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150651,
+          "following_count": 30,
+          "like_count": 3301,
+          "listed_count": 1315,
+          "media_count": 2405,
+          "tweet_count": 6160
+        },
+        "url": "https://t.co/D7oA7mWnMJ",
+        "username": "rasra25",
+        "verified": false
+      }
+    ]
+  }
+}

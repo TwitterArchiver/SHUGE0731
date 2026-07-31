@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2051216386882757108",
+    "created_at": "2026-05-04T08:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T09:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051222171788468478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1829589054452805632",
+          "start": 0,
+          "username": "wohenhaipaT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051222171788468478",
+    "in_reply_to_user_id": "1829589054452805632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051216386882757108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wohenhaipaT omg这种气质好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2666,
+        "height": 1280,
+        "media_key": "13_2051216326094725120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051216326094725120/img/bQbWuH-LY6KsNfqj.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051216326094725120/vid/avc1/320x568/5uSi6PQ9QtWv-e2R.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051216326094725120/vid/avc1/480x852/G-7eq6R8iR6WoCN1.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051216326094725120/vid/avc1/720x1280/Qzb_MuSytFo-Y7vH.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051216326094725120/pl/_C6IdtlGABicwJSS.m3u8?tag=27"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2051216386882757108",
+        "created_at": "2026-05-04T08:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T09:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051222171788468478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1829589054452805632",
+              "start": 0,
+              "username": "wohenhaipaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051222171788468478",
+        "in_reply_to_user_id": "1829589054452805632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051216386882757108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohenhaipaT omg这种气质好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051216326094725120"
+          ]
+        },
+        "author_id": "1829589054452805632",
+        "conversation_id": "2051216386882757108",
+        "created_at": "2026-05-04T08:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T09:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051216386882757108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XLRtzq91Hc",
+              "end": 27,
+              "expanded_url": "https://x.com/wohenhaipaT/status/2051216386882757108/video/1",
+              "media_key": "13_2051216326094725120",
+              "start": 4,
+              "url": "https://t.co/XLRtzq91Hc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051216386882757108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "病号服 https://t.co/XLRtzq91Hc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 1103,
+          "like_count": 27692,
+          "listed_count": 4,
+          "media_count": 646,
+          "tweet_count": 9552
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T18:36:44.000Z",
+        "description": "ゆかいはん",
+        "id": "1829589054452805632",
+        "name": "Endorphin",
+        "pinned_tweet_id": "2036089947179069790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950767483985817600/VjgGYzNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 294,
+          "like_count": 9082,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 4928
+        },
+        "username": "wohenhaipaT",
+        "verified": false
+      }
+    ]
+  }
+}

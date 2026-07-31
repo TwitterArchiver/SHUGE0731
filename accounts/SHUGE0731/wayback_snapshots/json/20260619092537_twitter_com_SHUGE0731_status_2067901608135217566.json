@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2067793408270454912",
+    "created_at": "2026-06-19T09:25:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:25:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067901608135217566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1358061535340290048",
+          "start": 0,
+          "username": "Uni_btt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067901608135217566",
+    "in_reply_to_user_id": "1358061535340290048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067793408270454912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Uni_btt 妈妈…萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10898,
+        "height": 1280,
+        "media_key": "13_2067793334471688193",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067793334471688193/img/Xci8G06cRomrg3Pf.jpg",
+        "public_metrics": {
+          "view_count": 91
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067793334471688193/vid/avc1/320x568/FYo_hv2lgYSat4oY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067793334471688193/vid/avc1/480x852/KXnm82mhrq_S-Bdr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067793334471688193/vid/avc1/720x1280/rns4rGXcdLh5C5qR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067793334471688193/pl/uG2eF7ajFWV8OcS-.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2067793408270454912",
+        "created_at": "2026-06-19T09:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067901608135217566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1358061535340290048",
+              "start": 0,
+              "username": "Uni_btt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067901608135217566",
+        "in_reply_to_user_id": "1358061535340290048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067793408270454912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Uni_btt 妈妈…萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067793334471688193"
+          ]
+        },
+        "author_id": "1358061535340290048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2067793408270454912",
+        "created_at": "2026-06-19T02:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067793408270454912"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "地下アイドル"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iokr1NdXTA",
+              "end": 31,
+              "expanded_url": "https://x.com/Uni_btt/status/2067793408270454912/video/1",
+              "media_key": "13_2067793334471688193",
+              "start": 8,
+              "url": "https://t.co/iokr1NdXTA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067793408270454912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 436,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#地下アイドル https://t.co/iokr1NdXTA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "Dorcus10031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTtCZA"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 1162,
+          "like_count": 31757,
+          "listed_count": 4,
+          "media_count": 704,
+          "tweet_count": 10772
+        },
+        "url": "https://t.co/ApKveTtCZA",
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-06T14:34:47.000Z",
+        "description": "地偶预备役/妈妈 @Kanakoyq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Kanakoyq"
+              }
+            ]
+          }
+        },
+        "id": "1358061535340290048",
+        "location": "垃圾堆",
+        "name": "🎀扁桃體🗑️😿momoko",
+        "pinned_tweet_id": "2067754861618495678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998865969494765570/Cqz1u5ja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11034,
+          "following_count": 515,
+          "like_count": 11649,
+          "listed_count": 16,
+          "media_count": 1041,
+          "tweet_count": 10742
+        },
+        "url": "",
+        "username": "Uni_btt",
+        "verified": false
+      }
+    ]
+  }
+}

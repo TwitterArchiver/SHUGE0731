@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1996479505880514736",
+    "created_at": "2025-12-05T01:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T02:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996753388089053308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1571296108781129729",
+          "start": 0,
+          "username": "sscola114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996753388089053308",
+    "in_reply_to_user_id": "1571296108781129729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996719158177026559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sscola114514 我喜欢你（原声大碟版"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1000,
+        "height": 1280,
+        "media_key": "13_1996719147053731844",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996719147053731844/img/jcNhG-twCNcge2SP.jpg",
+        "public_metrics": {
+          "view_count": 305
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996719147053731844/vid/avc1/320x568/FPSVL8eAVnwtD3Uv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996719147053731844/vid/avc1/480x852/iskZqL1ck7EMZmYp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996719147053731844/vid/avc1/720x1280/sVrgP2vKgqqGPYzF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996719147053731844/pl/N1g3pb5EtowsI5fY.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1996479505880514736",
+        "created_at": "2025-12-05T01:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T02:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996753388089053308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1571296108781129729",
+              "start": 0,
+              "username": "sscola114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996753388089053308",
+        "in_reply_to_user_id": "1571296108781129729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996719158177026559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sscola114514 我喜欢你（原声大碟版"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996719147053731844"
+          ]
+        },
+        "author_id": "1571296108781129729",
+        "conversation_id": "1996479505880514736",
+        "created_at": "2025-12-04T23:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T00:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996719158177026559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oDMPRit7AW",
+              "end": 34,
+              "expanded_url": "https://x.com/sscola114514/status/1996719158177026559/video/1",
+              "media_key": "13_1996719147053731844",
+              "start": 11,
+              "url": "https://t.co/oDMPRit7AW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996719158177026559",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1082,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996479505880514736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 https://t.co/oDMPRit7AW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | 中文名叫洋流 ｜ 日语名是Asuka ｜ 请跟我聊天！｜牡丹鹦鹉uno ｜ 🚪20 ｜ 超级社恐但是谢谢你们 ｜会fo眼熟的！｜",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 1060,
+          "like_count": 12458,
+          "listed_count": 2,
+          "media_count": 408,
+          "tweet_count": 3391
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-18T00:32:52.000Z",
+        "description": "🩵 要开心喵 | 老婆 @6huazhu | 猫猫 @inwal3310 🩵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "6huazhu"
+              },
+              {
+                "end": 36,
+                "start": 26,
+                "username": "inwal3310"
+              }
+            ]
+          }
+        },
+        "id": "1571296108781129729",
+        "location": "希希家",
+        "name": "坂下　子楽🍉",
+        "pinned_tweet_id": "1797355550143140202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957117114676064256/rvyvlqun_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 2574,
+          "like_count": 176817,
+          "listed_count": 5,
+          "media_count": 762,
+          "tweet_count": 9582
+        },
+        "username": "sscola114514",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966431142367965185"
+      ],
+      "media_source_tweet_id": [
+        "1966431148722253931"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "1967132497516654943",
+    "created_at": "2025-09-14T07:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T08:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967132497516654943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1089705882919657473",
+          "start": 3,
+          "username": "mt5_014"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P8AdhNVcqf",
+          "end": 36,
+          "expanded_url": "https://x.com/mt5_014/status/1966431148722253931/photo/1",
+          "media_key": "3_1966431142367965185",
+          "start": 13,
+          "url": "https://t.co/P8AdhNVcqf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967132497516654943",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2340
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966431148722253931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mt5_014: https://t.co/P8AdhNVcqf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966431142367965185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0oqtJQbsAEPBXz.jpg",
+        "width": 1748
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966431142367965185"
+          ],
+          "media_source_tweet_id": [
+            "1966431148722253931"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "1967132497516654943",
+        "created_at": "2025-09-14T07:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T08:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967132497516654943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1089705882919657473",
+              "start": 3,
+              "username": "mt5_014"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P8AdhNVcqf",
+              "end": 36,
+              "expanded_url": "https://x.com/mt5_014/status/1966431148722253931/photo/1",
+              "media_key": "3_1966431142367965185",
+              "start": 13,
+              "url": "https://t.co/P8AdhNVcqf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967132497516654943",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2340
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966431148722253931",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mt5_014: https://t.co/P8AdhNVcqf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966431142367965185"
+          ]
+        },
+        "author_id": "1089705882919657473",
+        "conversation_id": "1966431148722253931",
+        "created_at": "2025-09-12T09:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T10:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966431148722253931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P8AdhNVcqf",
+              "end": 23,
+              "expanded_url": "https://x.com/mt5_014/status/1966431148722253931/photo/1",
+              "media_key": "3_1966431142367965185",
+              "start": 0,
+              "url": "https://t.co/P8AdhNVcqf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966431148722253931",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1897,
+          "impression_count": 329139,
+          "like_count": 29064,
+          "quote_count": 30,
+          "reply_count": 10,
+          "retweet_count": 2340
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/P8AdhNVcqf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 有一只牡丹鹦鹉叫uno！｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "1892793201385492996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 1005,
+          "like_count": 9093,
+          "listed_count": 2,
+          "media_count": 288,
+          "tweet_count": 1918
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-28T02:05:03.000Z",
+        "description": "成人済み／宝石の国のファン／絵の無断使用はやめてください／Please do not use my art without permission.／キュートなアイコンとヘッダーはノヅリさん(@ variant_phi )に描いていただきました♡／skeb(ocのみ)→ https://t.co/3PTaZvnYpp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@mt5_014",
+                "end": 158,
+                "expanded_url": "http://skeb.jp/@mt5_014",
+                "start": 135,
+                "url": "https://t.co/3PTaZvnYpp"
+              }
+            ]
+          }
+        },
+        "id": "1089705882919657473",
+        "name": "めんたいこ",
+        "pinned_tweet_id": "1966431148722253931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610619894621700096/JoeM2eoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41945,
+          "following_count": 233,
+          "like_count": 33050,
+          "listed_count": 244,
+          "media_count": 990,
+          "tweet_count": 32308
+        },
+        "username": "mt5_014",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "1834280457481167235",
+    "created_at": "2024-09-12T17:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T18:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834289359207759941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1714705799107538945",
+          "start": 0,
+          "username": "ljj1319643"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834289359207759941",
+    "in_reply_to_user_id": "1714705799107538945",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834284012053168201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ljj1319643 嗯嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "1834280457481167235",
+        "created_at": "2024-09-12T17:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T18:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834289359207759941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1714705799107538945",
+              "start": 0,
+              "username": "ljj1319643"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834289359207759941",
+        "in_reply_to_user_id": "1714705799107538945",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834284012053168201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ljj1319643 嗯嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714705799107538945",
+        "conversation_id": "1834280457481167235",
+        "created_at": "2024-09-12T17:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T18:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834284012053168201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834284012053168201",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834280457481167235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 睡不着，来说说话吧，随便聊点啥都行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 581,
+          "like_count": 1709,
+          "listed_count": 0,
+          "tweet_count": 253
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T18:11:45.000Z",
+        "description": "",
+        "id": "1714705799107538945",
+        "location": "北京",
+        "name": "索命",
+        "pinned_tweet_id": "1731375951877992518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714705953403400192/-9JEiYka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 8
+        },
+        "username": "ljj1319643",
+        "verified": false
+      }
+    ]
+  }
+}

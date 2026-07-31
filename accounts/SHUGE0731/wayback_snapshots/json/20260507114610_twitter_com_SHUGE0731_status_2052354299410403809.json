@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2052354299410403809",
+    "created_at": "2026-05-07T11:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052354299410403809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/optyrionprimax…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/optyrionprimax/status/2052301822334038113",
+          "start": 19,
+          "url": "https://t.co/ckW37MO6ia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052354299410403809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052301822334038113",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的助手怎么变大了…还是原版画风好看 https://t.co/ckW37MO6ia"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2052301814566146048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHs9oHUa0AAQSiB.jpg",
+        "width": 1200
+      },
+      {
+        "height": 675,
+        "media_key": "3_2052301814553518080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHs9oHRaIAAiBzQ.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2052354299410403809",
+        "created_at": "2026-05-07T11:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052354299410403809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/optyrionprimax…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/optyrionprimax/status/2052301822334038113",
+              "start": 19,
+              "url": "https://t.co/ckW37MO6ia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052354299410403809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052301822334038113",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的助手怎么变大了…还是原版画风好看 https://t.co/ckW37MO6ia"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052301814566146048",
+            "3_2052301814553518080"
+          ]
+        },
+        "author_id": "1407668348511350788",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051561438",
+              "name": "Steins;Gate"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201644971855499264",
+              "name": "Retro gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201644971855499264",
+              "name": "Retro gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027048851",
+              "name": "Xbox"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2052301822334038113",
+        "created_at": "2026-05-07T08:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052301822334038113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9n8E7CQHIb",
+              "end": 52,
+              "expanded_url": "https://x.com/OptyrionPrimax/status/2052301822334038113/photo/1",
+              "media_key": "3_2052301814566146048",
+              "start": 29,
+              "url": "https://t.co/9n8E7CQHIb"
+            },
+            {
+              "display_url": "pic.x.com/9n8E7CQHIb",
+              "end": 52,
+              "expanded_url": "https://x.com/OptyrionPrimax/status/2052301822334038113/photo/1",
+              "media_key": "3_2052301814553518080",
+              "start": 29,
+              "url": "https://t.co/9n8E7CQHIb"
+            },
+            {
+              "display_url": "x.com/kagakuadv/stat…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/kagakuadv/status/2052269870927241694",
+              "start": 53,
+              "url": "https://t.co/fsQi4hYZe9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052301822334038113",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 33921,
+          "like_count": 722,
+          "quote_count": 25,
+          "reply_count": 12,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052269870927241694",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "They buffed Kurisu holy shit https://t.co/9n8E7CQHIb https://t.co/fsQi4hYZe9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 1108,
+          "like_count": 28041,
+          "listed_count": 5,
+          "media_count": 655,
+          "tweet_count": 9662
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-23T11:54:45.000Z",
+        "description": "RISE AND GRIND 💥💥💥🐉🐉💯💯\n                                      | Retired Goon God | Follow my alt: @OptyrionCordux |\nhttps://t.co/di3WmPupTv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 97,
+                "username": "OptyrionCordux"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "optyrionprimax.straw.page",
+                "end": 138,
+                "expanded_url": "http://optyrionprimax.straw.page",
+                "start": 115,
+                "url": "https://t.co/di3WmPupTv"
+              }
+            ]
+          }
+        },
+        "id": "1407668348511350788",
+        "location": "Inside your mom",
+        "name": "Optyrion Primax",
+        "pinned_tweet_id": "1914674325095112719",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 1202,
+          "like_count": 161518,
+          "listed_count": 6,
+          "media_count": 6119,
+          "tweet_count": 41732
+        },
+        "username": "OptyrionPrimax",
+        "verified": false
+      }
+    ]
+  }
+}
