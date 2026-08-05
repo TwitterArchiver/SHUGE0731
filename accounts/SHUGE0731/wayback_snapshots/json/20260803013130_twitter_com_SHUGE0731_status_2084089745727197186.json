@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083947742284705792"
+      ],
+      "media_source_tweet_id": [
+        "2083947749909967275"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2084089745727197186",
+    "created_at": "2026-08-03T01:31:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T02:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084089745727197186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1109546636189921280",
+          "start": 3,
+          "username": "KojimaRie_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/69oRZe40g4",
+          "end": 39,
+          "expanded_url": "https://x.com/KojimaRie_/status/2083947749909967275/photo/1",
+          "media_key": "3_2083947742284705792",
+          "start": 16,
+          "url": "https://t.co/69oRZe40g4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084089745727197186",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 184
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083947749909967275",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KojimaRie_: https://t.co/69oRZe40g4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1335,
+        "media_key": "3_2083947742284705792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOurbi1bcAAZqDp.jpg",
+        "width": 1544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083947742284705792"
+          ]
+        },
+        "author_id": "1109546636189921280",
+        "conversation_id": "2083947749909967275",
+        "created_at": "2026-08-02T16:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083947749909967275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/69oRZe40g4",
+              "end": 23,
+              "expanded_url": "https://x.com/KojimaRie_/status/2083947749909967275/photo/1",
+              "media_key": "3_2083947742284705792",
+              "start": 0,
+              "url": "https://t.co/69oRZe40g4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083947749909967275",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 228,
+          "impression_count": 16385,
+          "like_count": 1962,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 184
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/69oRZe40g4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083947742284705792"
+          ],
+          "media_source_tweet_id": [
+            "2083947749909967275"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2084089745727197186",
+        "created_at": "2026-08-03T01:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084089745727197186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1109546636189921280",
+              "start": 3,
+              "username": "KojimaRie_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/69oRZe40g4",
+              "end": 39,
+              "expanded_url": "https://x.com/KojimaRie_/status/2083947749909967275/photo/1",
+              "media_key": "3_2083947742284705792",
+              "start": 16,
+              "url": "https://t.co/69oRZe40g4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084089745727197186",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 184
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083947749909967275",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KojimaRie_: https://t.co/69oRZe40g4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno（2024.12.20-2026.7.17）｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Dorcus10031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTtCZA"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964（低浮上）",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 1209,
+          "like_count": 35018,
+          "listed_count": 4,
+          "media_count": 759,
+          "tweet_count": 11909
+        },
+        "url": "https://t.co/ApKveTtCZA",
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-23T20:05:07.000Z",
+        "description": "狂暴转发战士\n☝未经允许不准转载到其他平台☝",
+        "id": "1109546636189921280",
+        "name": "cosmiclatte",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886655362352472065/V50Qtc8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14426,
+          "following_count": 260,
+          "like_count": 2150,
+          "listed_count": 102,
+          "media_count": 336,
+          "tweet_count": 1318
+        },
+        "url": "",
+        "username": "KojimaRie_",
+        "verified": false
+      }
+    ]
+  }
+}

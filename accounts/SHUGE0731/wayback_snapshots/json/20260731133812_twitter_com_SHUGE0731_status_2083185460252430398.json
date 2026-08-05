@@ -1,0 +1,553 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311728290139258880",
+          "name": "Animation & comics events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1312128054911619073",
+          "name": "Comiket"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2083185460252430398",
+    "created_at": "2026-07-31T13:38:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:38:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083185460252430398"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0500ml/status/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/0500ml/status/2083131022930268299",
+          "start": 6,
+          "url": "https://t.co/gVkwwaQHiQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083185460252430398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083131022930268299",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "居然还有3 https://t.co/gVkwwaQHiQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2083130982727815168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjEl4YaEAA9uWo.jpg",
+        "width": 1543
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1312128054911619073",
+              "name": "Comiket"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2083185460252430398",
+        "created_at": "2026-07-31T13:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083185460252430398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0500ml/status/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/0500ml/status/2083131022930268299",
+              "start": 6,
+              "url": "https://t.co/gVkwwaQHiQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083185460252430398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083131022930268299",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "居然还有3 https://t.co/gVkwwaQHiQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083130982727815168"
+          ]
+        },
+        "author_id": "3006641078",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1312128054911619073",
+              "name": "Comiket"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          }
+        ],
+        "conversation_id": "2083131022930268299",
+        "created_at": "2026-07-31T10:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083131022930268299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 76,
+              "id": "1369290798991302661",
+              "start": 66,
+              "username": "enden_nix"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q1PGF1L1Cx",
+              "end": 146,
+              "expanded_url": "https://x.com/0500mL/status/2083131022930268299/photo/1",
+              "media_key": "3_2083130982727815168",
+              "start": 123,
+              "url": "https://t.co/q1PGF1L1Cx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083131022930268299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 73982,
+          "like_count": 1509,
+          "quote_count": 30,
+          "reply_count": 3,
+          "retweet_count": 356
+        },
+        "reply_settings": "everyone",
+        "text": "お世話になっております。500mLです。\n「篠澤広に物理学を解説してもらう合同Ⅲ」の表紙を公開します！\n今回も表紙イラストは友人の @enden_nix にお願いしました！\n篠澤物理3はコミケ2日目東ア80abで頒布予定！よろしくお願いします！ https://t.co/q1PGF1L1Cx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno（2024.12.20-2026.7.17）｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Dorcus10031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTtCZA"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964（低浮上）",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 1190,
+          "like_count": 34567,
+          "listed_count": 4,
+          "media_count": 753,
+          "tweet_count": 11752
+        },
+        "url": "https://t.co/ApKveTtCZA",
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-01T12:51:53.000Z",
+        "description": "萌え命 Header:@kougouseitanosi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "kougouseitanosi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "500ml.moe",
+                "end": 23,
+                "expanded_url": "https://500ml.moe",
+                "start": 0,
+                "url": "https://t.co/pWqXezojdV"
+              }
+            ]
+          }
+        },
+        "id": "3006641078",
+        "location": "東京都文京区後楽一丁目二番十二号",
+        "name": "500mL",
+        "pinned_tweet_id": "2083131022930268299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901649742716977152/0haeBP5U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7239,
+          "following_count": 1570,
+          "like_count": 55149,
+          "listed_count": 45,
+          "media_count": 1802,
+          "tweet_count": 121934
+        },
+        "url": "https://t.co/pWqXezojdV",
+        "username": "0500mL",
+        "verified": true
+      }
+    ]
+  }
+}

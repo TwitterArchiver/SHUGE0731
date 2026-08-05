@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2084215624042181058",
+    "created_at": "2026-08-03T11:22:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:22:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084238589018485229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1132729630245265408",
+          "start": 0,
+          "username": "pr80net"
+        },
+        {
+          "end": 19,
+          "id": "38217523",
+          "start": 9,
+          "username": "ZakkysLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084238589018485229",
+    "in_reply_to_user_id": "1132729630245265408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084215624042181058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pr80net @ZakkysLab 真的假的😮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_2084215452390346752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOye6UsbUAAwACy.jpg",
+        "width": 839
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2084215624042181058",
+        "created_at": "2026-08-03T11:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084238589018485229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            },
+            {
+              "end": 19,
+              "id": "38217523",
+              "start": 9,
+              "username": "ZakkysLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084238589018485229",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084215624042181058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net @ZakkysLab 真的假的😮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084215452390346752"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084215624042181058",
+        "created_at": "2026-08-03T09:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084215624042181058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "38217523",
+              "start": 4,
+              "username": "ZakkysLab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MgpowsTTrK",
+              "end": 61,
+              "expanded_url": "https://x.com/pr80net/status/2084215624042181058/photo/1",
+              "media_key": "3_2084215452390346752",
+              "start": 38,
+              "url": "https://t.co/MgpowsTTrK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084215624042181058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 262,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：@ZakkysLab 会不定时随机给永夜安港的互关送一些妙妙小礼物 https://t.co/MgpowsTTrK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno（2024.12.20-2026.7.17）｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Dorcus10031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTtCZA"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964（低浮上）",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 1211,
+          "like_count": 35060,
+          "listed_count": 4,
+          "media_count": 759,
+          "tweet_count": 11941
+        },
+        "url": "https://t.co/ApKveTtCZA",
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2081306817825735152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 455,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 88
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-06T16:33:52.000Z",
+        "description": "welcome to los pollos hermanos.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Zakky979",
+                "end": 23,
+                "expanded_url": "https://t.me/Zakky979",
+                "start": 0,
+                "url": "https://t.co/I2Is12SUjx"
+              }
+            ]
+          }
+        },
+        "id": "38217523",
+        "name": "Zakky's LAB 养号中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083182116012224512/rSNbGMS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 53,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/I2Is12SUjx",
+        "username": "ZakkysLab",
+        "verified": true
+      }
+    ]
+  }
+}

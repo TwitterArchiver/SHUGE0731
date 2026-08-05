@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2084323669359362273",
+    "created_at": "2026-08-04T10:32:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:32:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084588346744132047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1612280433064185859",
+          "start": 0,
+          "username": "c2F4F4F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084588346744132047",
+    "in_reply_to_user_id": "1612280433064185859",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084323669359362273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c2F4F4F 我真服了我靠笑死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3319,
+        "height": 1080,
+        "media_key": "13_2084323638824824832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084323638824824832/img/EJQeq5gNeDbYRWQQ.jpg",
+        "public_metrics": {
+          "view_count": 500
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084323638824824832/vid/avc1/1080x1080/yzqDQoDZ7bEG9FGd.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084323638824824832/vid/avc1/320x320/GXuY3YLhgK8JVZoO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084323638824824832/vid/avc1/540x540/aCuqyLLrmIngiLUA.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084323638824824832/vid/avc1/720x720/yskdKOWJKQPWXn_A.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084323638824824832/pl/9-I0BW8ddg-Faljf.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2084323669359362273",
+        "created_at": "2026-08-04T10:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084588346744132047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1612280433064185859",
+              "start": 0,
+              "username": "c2F4F4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084588346744132047",
+        "in_reply_to_user_id": "1612280433064185859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084323669359362273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c2F4F4F 我真服了我靠笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084323638824824832"
+          ]
+        },
+        "author_id": "1612280433064185859",
+        "conversation_id": "2084323669359362273",
+        "created_at": "2026-08-03T17:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084323669359362273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YLRxfFh4KU",
+              "end": 31,
+              "expanded_url": "https://x.com/c2F4F4F/status/2084323669359362273/video/1",
+              "media_key": "13_2084323638824824832",
+              "start": 8,
+              "url": "https://t.co/YLRxfFh4KU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084323669359362273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1202,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "雷古奶龙变笑川 https://t.co/YLRxfFh4KU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno（2024.12.20-2026.7.17）｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Dorcus10031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTtCZA"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964（低浮上）",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1213,
+          "like_count": 35301,
+          "listed_count": 4,
+          "media_count": 760,
+          "tweet_count": 11993
+        },
+        "url": "https://t.co/ApKveTtCZA",
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-09T02:49:54.000Z",
+        "description": "OD | 是个傻卵二次元 | 画师 | 自残 | 同好互fo | 二游只玩舟 | 精神状态不稳定 | 感官失调中 | 🍥 | 重抑中焦吃药中 |望厨 | This is a parody account",
+        "id": "1612280433064185859",
+        "location": "Kanagawa-ken, Japan",
+        "name": "孙笑川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080135043838816256/H8Ebl5jE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 587,
+          "like_count": 10731,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 1138
+        },
+        "url": "",
+        "username": "c2F4F4F",
+        "verified": true
+      }
+    ]
+  }
+}

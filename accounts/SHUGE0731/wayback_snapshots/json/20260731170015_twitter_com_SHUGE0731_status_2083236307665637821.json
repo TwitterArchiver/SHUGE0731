@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083116120933097472"
+      ],
+      "media_source_tweet_id": [
+        "2083116132253438318"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2083236307665637821",
+    "created_at": "2026-07-31T17:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T18:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083236307665637821"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "ヤニねこ"
+        },
+        {
+          "end": 38,
+          "start": 23,
+          "tag": "yakui_the_maid"
+        },
+        {
+          "end": 45,
+          "start": 39,
+          "tag": "yakui"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1393471785471942656",
+          "start": 3,
+          "username": "Fox_Kikumi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dRD0Ol7jmD",
+          "end": 120,
+          "expanded_url": "https://x.com/Fox_Kikumi/status/2083116132253438318/photo/1",
+          "media_key": "3_2083116120933097472",
+          "start": 97,
+          "url": "https://t.co/dRD0Ol7jmD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083236307665637821",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 140
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083116132253438318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fox_Kikumi: [#ヤニねこ　#yakui_the_maid #yakui]\nyaku💊\n                 💊\n                       💊 https://t.co/dRD0Ol7jmD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1320,
+        "media_key": "3_2083116120933097472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOi3Ez4bYAA_PTX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083116120933097472"
+          ]
+        },
+        "author_id": "1393471785471942656",
+        "conversation_id": "2083116132253438318",
+        "created_at": "2026-07-31T09:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083116132253438318"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 1,
+              "tag": "ヤニねこ"
+            },
+            {
+              "end": 22,
+              "start": 7,
+              "tag": "yakui_the_maid"
+            },
+            {
+              "end": 29,
+              "start": 23,
+              "tag": "yakui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dRD0Ol7jmD",
+              "end": 104,
+              "expanded_url": "https://x.com/Fox_Kikumi/status/2083116132253438318/photo/1",
+              "media_key": "3_2083116120933097472",
+              "start": 81,
+              "url": "https://t.co/dRD0Ol7jmD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083116132253438318",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 10485,
+          "like_count": 1341,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 140
+        },
+        "reply_settings": "everyone",
+        "text": "[#ヤニねこ　#yakui_the_maid #yakui]\nyaku💊\n                 💊\n                       💊 https://t.co/dRD0Ol7jmD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083116120933097472"
+          ],
+          "media_source_tweet_id": [
+            "2083116132253438318"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2083236307665637821",
+        "created_at": "2026-07-31T17:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083236307665637821"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "ヤニねこ"
+            },
+            {
+              "end": 38,
+              "start": 23,
+              "tag": "yakui_the_maid"
+            },
+            {
+              "end": 45,
+              "start": 39,
+              "tag": "yakui"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1393471785471942656",
+              "start": 3,
+              "username": "Fox_Kikumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dRD0Ol7jmD",
+              "end": 120,
+              "expanded_url": "https://x.com/Fox_Kikumi/status/2083116132253438318/photo/1",
+              "media_key": "3_2083116120933097472",
+              "start": 97,
+              "url": "https://t.co/dRD0Ol7jmD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083236307665637821",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 140
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083116132253438318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fox_Kikumi: [#ヤニねこ　#yakui_the_maid #yakui]\nyaku💊\n                 💊\n                       💊 https://t.co/dRD0Ol7jmD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno（2024.12.20-2026.7.17）｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Dorcus10031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTtCZA"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964（低浮上）",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 1192,
+          "like_count": 34666,
+          "listed_count": 4,
+          "media_count": 756,
+          "tweet_count": 11787
+        },
+        "url": "https://t.co/ApKveTtCZA",
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-15T07:42:30.000Z",
+        "description": "#苦米 /Kumi￤🎨 Illustration & Animation￤中文￤依赖于翻译器￤联络📩foxkikumi@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "苦米"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/HfKKMSw",
+                "end": 23,
+                "expanded_url": "https://b23.tv/HfKKMSw",
+                "start": 0,
+                "url": "https://t.co/adZh2cyd96"
+              }
+            ]
+          }
+        },
+        "id": "1393471785471942656",
+        "location": "(´,,•ω•,,)  bilibili➡️",
+        "name": "苦米🩵Fox-Kikumi",
+        "pinned_tweet_id": "1829182660385886650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045708311782453248/dWqKOUXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10237,
+          "following_count": 990,
+          "like_count": 20636,
+          "listed_count": 51,
+          "media_count": 543,
+          "tweet_count": 779
+        },
+        "url": "https://t.co/adZh2cyd96",
+        "username": "Fox_Kikumi",
+        "verified": true
+      }
+    ]
+  }
+}

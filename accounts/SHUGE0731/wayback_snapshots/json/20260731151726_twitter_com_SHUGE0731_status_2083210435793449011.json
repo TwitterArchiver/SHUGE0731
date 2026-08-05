@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2082990998112936070",
+    "created_at": "2026-07-31T15:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083210435793449011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2071264754006691840",
+          "start": 0,
+          "username": "Lulupdol"
+        },
+        {
+          "end": 20,
+          "id": "2082275840851845120",
+          "start": 10,
+          "username": "Mercyxvx1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083210435793449011",
+    "in_reply_to_user_id": "2071264754006691840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082990998112936070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lulupdol @Mercyxvx1 这个超级萌啊！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1656,
+        "media_key": "3_2082990984955310081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhFQ8CaMAENWV9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2082990998112936070",
+        "created_at": "2026-07-31T15:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083210435793449011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2071264754006691840",
+              "start": 0,
+              "username": "Lulupdol"
+            },
+            {
+              "end": 20,
+              "id": "2082275840851845120",
+              "start": 10,
+              "username": "Mercyxvx1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083210435793449011",
+        "in_reply_to_user_id": "2071264754006691840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082990998112936070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lulupdol @Mercyxvx1 这个超级萌啊！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082990984955310081"
+          ]
+        },
+        "author_id": "2071264754006691840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          }
+        ],
+        "conversation_id": "2082990998112936070",
+        "created_at": "2026-07-31T00:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082990998112936070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ZzmZwaafC",
+              "end": 47,
+              "expanded_url": "https://x.com/Lulupdol/status/2082990998112936070/photo/1",
+              "media_key": "3_2082990984955310081",
+              "start": 24,
+              "url": "https://t.co/2ZzmZwaafC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082990998112936070",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 4797,
+          "like_count": 836,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "一想到老了胳膊上有个超天酱和糖糖的刺青就好想笑 https://t.co/2ZzmZwaafC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno（2024.12.20-2026.7.17）｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Dorcus10031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTtCZA"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964（低浮上）",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 1192,
+          "like_count": 34615,
+          "listed_count": 4,
+          "media_count": 754,
+          "tweet_count": 11766
+        },
+        "url": "https://t.co/ApKveTtCZA",
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-28T16:10:11.000Z",
+        "description": "大号已死，想起来就来发日常，我再也不乱发东西, 求饶呜呜呜",
+        "id": "2071264754006691840",
+        "location": "下水道",
+        "name": "小露",
+        "pinned_tweet_id": "2082045738692001844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080401223631728640/01IY1r26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 0,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "Lulupdol",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-29T01:24:46.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR, 💊🔪🩸",
+        "id": "2082275840851845120",
+        "location": "HEAVEN",
+        "name": "Mercy",
+        "pinned_tweet_id": "2083112108426993841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082276321770745857/Y1ng3Ajy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 266,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "Mercyxvx1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2083180795372703848",
+    "created_at": "2026-07-31T13:19:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:19:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083180795372703848"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/neru_sleep/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/neru_sleep/status/2083130585489543600",
+          "start": 6,
+          "url": "https://t.co/OlBCIEemDA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083180795372703848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083130585489543600",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁复活了？ https://t.co/OlBCIEemDA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24290,
+        "height": 1080,
+        "media_key": "13_2083124762155548673",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083124762155548673/img/sx_JbcI8drOUK3Xb.jpg",
+        "public_metrics": {
+          "view_count": 22710
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083124762155548673/vid/avc1/720x720/zbR720hFqfCfP_2j.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083124762155548673/vid/avc1/540x540/9s0sylnAWTwY66Jo.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083124762155548673/vid/avc1/320x320/w7r7HbKip7QKOW2H.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083124762155548673/vid/avc1/1080x1080/fSQNK_Th-ridWKAH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083124762155548673/pl/5IimhJ6D0LenIw7F.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2083180795372703848",
+        "created_at": "2026-07-31T13:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083180795372703848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/neru_sleep/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/neru_sleep/status/2083130585489543600",
+              "start": 6,
+              "url": "https://t.co/OlBCIEemDA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083180795372703848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083130585489543600",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁复活了？ https://t.co/OlBCIEemDA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083124762155548673"
+          ]
+        },
+        "author_id": "191830183",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2083130585489543600",
+        "created_at": "2026-07-31T10:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083130585489543600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1976355654412734464",
+              "start": 24,
+              "username": "9lunui9"
+            },
+            {
+              "end": 104,
+              "id": "1976355654412734464",
+              "start": 96,
+              "username": "9lunui9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XatBFEca56",
+              "end": 128,
+              "expanded_url": "https://x.com/neru_sleep/status/2083130585489543600/video/1",
+              "media_key": "13_2083124762155548673",
+              "start": 105,
+              "url": "https://t.co/XatBFEca56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083130585489543600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 220,
+          "impression_count": 92761,
+          "like_count": 2744,
+          "quote_count": 167,
+          "reply_count": 31,
+          "retweet_count": 1046
+        },
+        "reply_settings": "everyone",
+        "text": "新曲『電脳殺意』公開しました\n映像はlunui @9lunui9 さんです\n\nNEW MUSIC VIDEO\n“cyber_bloodlust” OUT NOW\nMOVIE BY lunui @9lunui9 https://t.co/XatBFEca56"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno（2024.12.20-2026.7.17）｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Dorcus10031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTtCZA"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964（低浮上）",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 1189,
+          "like_count": 34536,
+          "listed_count": 4,
+          "media_count": 753,
+          "tweet_count": 11744
+        },
+        "url": "https://t.co/ApKveTtCZA",
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-17T13:31:40.000Z",
+        "description": "japanese songwriting ninja\nYouTube / https://t.co/rmHHRsP9zr\nNicoNico  / https://t.co/8Jd82jJpNY\nInstagram / https://t.co/MtOYuWaN99\nBusiness / info@neru-official.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "goo.gl/bXQVc0",
+                "end": 60,
+                "expanded_url": "http://goo.gl/bXQVc0",
+                "start": 37,
+                "url": "https://t.co/rmHHRsP9zr"
+              },
+              {
+                "display_url": "goo.gl/VFQYtP",
+                "end": 96,
+                "expanded_url": "http://goo.gl/VFQYtP",
+                "start": 73,
+                "url": "https://t.co/8Jd82jJpNY"
+              },
+              {
+                "display_url": "goo.gl/nM8Ldf",
+                "end": 132,
+                "expanded_url": "http://goo.gl/nM8Ldf",
+                "start": 109,
+                "url": "https://t.co/MtOYuWaN99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "neru-official.com",
+                "end": 23,
+                "expanded_url": "https://www.neru-official.com/",
+                "start": 0,
+                "url": "https://t.co/xlXBR2UYLQ"
+              }
+            ]
+          }
+        },
+        "id": "191830183",
+        "location": "楽曲利用のガイドラインは次URLをご参照下さい。",
+        "name": "Neru",
+        "pinned_tweet_id": "2083130585489543600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/829627160801341440/II2gtFdo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607627,
+          "following_count": 302,
+          "like_count": 1126,
+          "listed_count": 3063,
+          "media_count": 222,
+          "tweet_count": 1426
+        },
+        "url": "https://t.co/xlXBR2UYLQ",
+        "username": "neru_sleep",
+        "verified": true
+      }
+    ]
+  }
+}

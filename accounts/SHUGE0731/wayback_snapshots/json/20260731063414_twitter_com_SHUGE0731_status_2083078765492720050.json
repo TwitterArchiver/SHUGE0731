@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083009767099002880"
+      ],
+      "media_source_tweet_id": [
+        "2083009771209416794"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2083078765492720050",
+    "created_at": "2026-07-31T06:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T07:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083078765492720050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "995291765140680704",
+          "start": 3,
+          "username": "mm__emuemu_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gK4et1Ii5x",
+          "end": 40,
+          "expanded_url": "https://x.com/mm__emuemu_/status/2083009771209416794/photo/1",
+          "media_key": "3_2083009767099002880",
+          "start": 17,
+          "url": "https://t.co/gK4et1Ii5x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083078765492720050",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 657
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083009771209416794",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @mm__emuemu_: https://t.co/gK4et1Ii5x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1276,
+        "media_key": "3_2083009767099002880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhWWM-a8AAThSE.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083009767099002880"
+          ]
+        },
+        "author_id": "995291765140680704",
+        "conversation_id": "2083009771209416794",
+        "created_at": "2026-07-31T02:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083009771209416794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gK4et1Ii5x",
+              "end": 23,
+              "expanded_url": "https://x.com/mm__emuemu_/status/2083009771209416794/photo/1",
+              "media_key": "3_2083009767099002880",
+              "start": 0,
+              "url": "https://t.co/gK4et1Ii5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083009771209416794",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 429,
+          "impression_count": 32641,
+          "like_count": 4458,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 657
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/gK4et1Ii5x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083009767099002880"
+          ],
+          "media_source_tweet_id": [
+            "2083009771209416794"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2083078765492720050",
+        "created_at": "2026-07-31T06:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083078765492720050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "995291765140680704",
+              "start": 3,
+              "username": "mm__emuemu_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gK4et1Ii5x",
+              "end": 40,
+              "expanded_url": "https://x.com/mm__emuemu_/status/2083009771209416794/photo/1",
+              "media_key": "3_2083009767099002880",
+              "start": 17,
+              "url": "https://t.co/gK4et1Ii5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083078765492720050",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 657
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083009771209416794",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @mm__emuemu_: https://t.co/gK4et1Ii5x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno（2024.12.20-2026.7.17）｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 114,
+                "username": "Dorcus10031"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTtCZA"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964（低浮上）",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 1192,
+          "like_count": 34536,
+          "listed_count": 4,
+          "media_count": 753,
+          "tweet_count": 11736
+        },
+        "url": "https://t.co/ApKveTtCZA",
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-12T13:17:03.000Z",
+        "description": "ｽﾃｺ\"ちゃんと初月ちゃんが好き。\nオリジナルはハイライトにまとめています。gs、蒼ぎさという名義で商業本に寄稿しています。各種リンクとskeb詳細はリットリンクに⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/mm19685",
+                "end": 23,
+                "expanded_url": "https://lit.link/mm19685",
+                "start": 0,
+                "url": "https://t.co/6EFd0RoOVr"
+              }
+            ]
+          }
+        },
+        "id": "995291765140680704",
+        "location": "✉️ : emue19685@gmail.com",
+        "name": "mm（gs）🌑c108土-東ヨ16b",
+        "pinned_tweet_id": "2062830925801767322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078106704454303744/WoLYO584_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205002,
+          "following_count": 77,
+          "like_count": 6104,
+          "listed_count": 1293,
+          "media_count": 548,
+          "tweet_count": 1737
+        },
+        "url": "https://t.co/6EFd0RoOVr",
+        "username": "mm__emuemu_",
+        "verified": true
+      }
+    ]
+  }
+}

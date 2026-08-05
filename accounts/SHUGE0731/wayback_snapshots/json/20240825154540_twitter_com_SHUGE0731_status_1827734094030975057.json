@@ -1,0 +1,549 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1827307876890660865"
+      ],
+      "media_source_tweet_id": [
+        "1827609356835184698"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026319212",
+          "name": "McDonald's"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026319212",
+          "name": "McDonald's"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "1827734094030975057",
+    "created_at": "2024-08-25T15:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-25T16:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827734094030975057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "184004752",
+          "start": 3,
+          "username": "McDonaldsJapan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bfaczaa8ug",
+          "end": 75,
+          "expanded_url": "https://twitter.com/McDonaldsJapan/status/1827609356835184698/video/1",
+          "media_key": "13_1827307876890660865",
+          "start": 52,
+          "url": "https://t.co/bfAczAa8UG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827734094030975057",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1748
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827609356835184698",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @McDonaldsJapan: 期間限定、サムライマック®の︎トリプル肉厚ビーフを逃すまじ〜〜 https://t.co/bfAczAa8UG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 87420,
+        "height": 1200,
+        "media_key": "13_1827307876890660865",
+        "preview_image_url": "https://pbs.twimg.com/media/GVvm8KmXgAA1ea7.jpg",
+        "public_metrics": {
+          "view_count": 183879
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1827307876890660865/vid/avc1/1080x720/cYvf9o3IbfZJnb-G.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1827307876890660865/pl/I7DeIwZWAf8by_be.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1827307876890660865/vid/avc1/540x360/XMVC8TX2lmLME9nO.mp4?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1827307876890660865/vid/avc1/404x270/1uQKSXQTpiX8GWQD.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1827307876890660865/vid/avc1/1620x1080/WM3yYbSAt2IyyN34.mp4?tag=16"
+          }
+        ],
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1827307876890660865"
+          ],
+          "media_source_tweet_id": [
+            "1827609356835184698"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1827734094030975057",
+        "created_at": "2024-08-25T15:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T16:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827734094030975057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "184004752",
+              "start": 3,
+              "username": "McDonaldsJapan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bfaczaa8ug",
+              "end": 75,
+              "expanded_url": "https://twitter.com/McDonaldsJapan/status/1827609356835184698/video/1",
+              "media_key": "13_1827307876890660865",
+              "start": 52,
+              "url": "https://t.co/bfAczAa8UG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827734094030975057",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1748
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827609356835184698",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @McDonaldsJapan: 期間限定、サムライマック®の︎トリプル肉厚ビーフを逃すまじ〜〜 https://t.co/bfAczAa8UG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1827307876890660865"
+          ]
+        },
+        "author_id": "184004752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1827609356835184698",
+        "created_at": "2024-08-25T07:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T08:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827609356835184698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bfaczaa8ug",
+              "end": 55,
+              "expanded_url": "https://twitter.com/McDonaldsJapan/status/1827609356835184698/video/1",
+              "media_key": "13_1827307876890660865",
+              "start": 32,
+              "url": "https://t.co/bfAczAa8UG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827609356835184698",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 724,
+          "impression_count": 622314,
+          "like_count": 8166,
+          "quote_count": 174,
+          "reply_count": 84,
+          "retweet_count": 1748
+        },
+        "reply_settings": "everyone",
+        "text": "期間限定、サムライマック®の︎トリプル肉厚ビーフを逃すまじ〜〜 https://t.co/bfAczAa8UG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "北海，要多想 ｜ 一些不太好的碎碎念 ｜ 苦しい😣 | 喜欢可爱的东西小猫小鸟 ｜ 文学 ｜ 欢迎聊天！🦉 ｜ 超级社恐但是谢谢你们❤️",
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer",
+        "pinned_tweet_id": "1670603746433290240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 561,
+          "like_count": 1400,
+          "listed_count": 0,
+          "tweet_count": 193
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-28T12:54:08.000Z",
+        "description": "日本マクドナルド公式アカウントです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mcdonalds.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.mcdonalds.co.jp/",
+                "start": 0,
+                "url": "https://t.co/SnnrXbyVLG"
+              }
+            ]
+          }
+        },
+        "id": "184004752",
+        "name": "マクドナルド",
+        "pinned_tweet_id": "1825653972654256433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820328051378659328/kc5eo9Hx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7338125,
+          "following_count": 291,
+          "like_count": 14473,
+          "listed_count": 10306,
+          "tweet_count": 27501
+        },
+        "url": "https://t.co/SnnrXbyVLG",
+        "username": "McDonaldsJapan",
+        "verified": true
+      }
+    ]
+  }
+}
