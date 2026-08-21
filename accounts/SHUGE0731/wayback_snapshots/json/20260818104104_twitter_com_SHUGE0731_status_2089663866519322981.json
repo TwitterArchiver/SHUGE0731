@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089346164248473601"
+      ],
+      "media_source_tweet_id": [
+        "2089346170904797252"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "conversation_id": "2089663866519322981",
+    "created_at": "2026-08-18T10:41:04.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T11:41:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089663866519322981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1927340386743189504",
+          "start": 3,
+          "username": "oromnt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O4UPh0Z2NP",
+          "end": 38,
+          "expanded_url": "https://x.com/oromnt/status/2089346170904797252/photo/1",
+          "media_key": "3_2089346164248473601",
+          "start": 15,
+          "url": "https://t.co/O4UPh0Z2NP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089663866519322981",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2089346164248473601"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1763
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089346170904797252",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oromnt: 🍗🐎 https://t.co/O4UPh0Z2NP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089346164248473601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7ZRDza8AEV3_z.jpg",
+        "width": 1514
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089346164248473601"
+          ],
+          "media_source_tweet_id": [
+            "2089346170904797252"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "conversation_id": "2089663866519322981",
+        "created_at": "2026-08-18T10:41:04.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089663866519322981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1927340386743189504",
+              "start": 3,
+              "username": "oromnt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O4UPh0Z2NP",
+              "end": 38,
+              "expanded_url": "https://x.com/oromnt/status/2089346170904797252/photo/1",
+              "media_key": "3_2089346164248473601",
+              "start": 15,
+              "url": "https://t.co/O4UPh0Z2NP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089663866519322981",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2089346164248473601"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1763
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089346170904797252",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oromnt: 🍗🐎 https://t.co/O4UPh0Z2NP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089346164248473601"
+          ]
+        },
+        "author_id": "1927340386743189504",
+        "conversation_id": "2089346170904797252",
+        "created_at": "2026-08-17T13:38:39.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089346170904797252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O4UPh0Z2NP",
+              "end": 26,
+              "expanded_url": "https://x.com/oromnt/status/2089346170904797252/photo/1",
+              "media_key": "3_2089346164248473601",
+              "start": 3,
+              "url": "https://t.co/O4UPh0Z2NP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089346170904797252",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2089346164248473601"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1724,
+          "impression_count": 117637,
+          "like_count": 16696,
+          "quote_count": 11,
+          "reply_count": 2,
+          "retweet_count": 1763
+        },
+        "reply_settings": "everyone",
+        "text": "🍗🐎 https://t.co/O4UPh0Z2NP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno（2024.12.20-2026.7.17）｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 小号防炸@KafKa89640 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Dorcus10031"
+              },
+              {
+                "end": 137,
+                "start": 126,
+                "username": "KafKa89640"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTt5a2"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "is_identity_verified": false,
+        "location": "马孔多下雨了",
+        "most_recent_tweet_id": "2089663866519322981",
+        "name": "Stargazer 8964（低浮上）",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662293107738640384/1719297767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 1253,
+          "like_count": 36793,
+          "listed_count": 4,
+          "media_count": 797,
+          "tweet_count": 12722
+        },
+        "url": "https://t.co/ApKveTt5a2",
+        "username": "SHUGE0731",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-27T12:25:50.000Z",
+        "description": "マイブームアカウント( っ¯ ³¯)っ♫🧢🌳🐎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@oromnt",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@oromnt",
+                "start": 0,
+                "url": "https://t.co/JZFIchjTTa"
+              }
+            ]
+          }
+        },
+        "id": "1927340386743189504",
+        "is_identity_verified": false,
+        "location": "skeb oc only",
+        "most_recent_tweet_id": "2089346170904797252",
+        "name": "まだごはん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1927340386743189504/1758961688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940208264660078592/76BgCxAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14251,
+          "following_count": 5,
+          "like_count": 1187,
+          "listed_count": 79,
+          "media_count": 67,
+          "tweet_count": 93
+        },
+        "url": "https://t.co/JZFIchjTTa",
+        "username": "oromnt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

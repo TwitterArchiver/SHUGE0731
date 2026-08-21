@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087923823664586752"
+      ],
+      "media_source_tweet_id": [
+        "2087923888735044012"
+      ]
+    },
+    "author_id": "1662293107738640384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "2087975008526372894",
+    "created_at": "2026-08-13T18:50:09.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T19:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087975008526372894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596477403689144320",
+          "start": 3,
+          "username": "b_nosk2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9pDzBGHmGF",
+          "end": 38,
+          "expanded_url": "https://x.com/b_nosk2/status/2087923888735044012/photo/1",
+          "media_key": "3_2087923823664586752",
+          "start": 15,
+          "url": "https://t.co/9pDzBGHmGF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087975008526372894",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2087923823664586752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087923888735044012",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @b_nosk2: 🍵 https://t.co/9pDzBGHmGF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1203,
+        "media_key": "3_2087923823664586752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnLp8OaYAAh9dC.jpg",
+        "width": 966
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087923823664586752"
+          ]
+        },
+        "author_id": "1596477403689144320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2087923888735044012",
+        "created_at": "2026-08-13T15:27:01.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087923888735044012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9pDzBGHmGF",
+              "end": 25,
+              "expanded_url": "https://x.com/b_nosk2/status/2087923888735044012/photo/1",
+              "media_key": "3_2087923823664586752",
+              "start": 2,
+              "url": "https://t.co/9pDzBGHmGF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087923888735044012",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2087923823664586752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 2775,
+          "like_count": 378,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "🍵 https://t.co/9pDzBGHmGF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087923823664586752"
+          ],
+          "media_source_tweet_id": [
+            "2087923888735044012"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2087975008526372894",
+        "created_at": "2026-08-13T18:50:09.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087975008526372894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596477403689144320",
+              "start": 3,
+              "username": "b_nosk2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9pDzBGHmGF",
+              "end": 38,
+              "expanded_url": "https://x.com/b_nosk2/status/2087923888735044012/photo/1",
+              "media_key": "3_2087923823664586752",
+              "start": 15,
+              "url": "https://t.co/9pDzBGHmGF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087975008526372894",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2087923823664586752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087923888735044012",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @b_nosk2: 🍵 https://t.co/9pDzBGHmGF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno（2024.12.20-2026.7.17）｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 小号防炸@KafKa89640 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Dorcus10031"
+              },
+              {
+                "end": 137,
+                "start": 126,
+                "username": "KafKa89640"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTt5a2"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "is_identity_verified": false,
+        "location": "马孔多下雨了",
+        "most_recent_tweet_id": "2087975008526372894",
+        "name": "Stargazer 8964（低浮上）",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662293107738640384/1719297767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 1238,
+          "like_count": 36309,
+          "listed_count": 4,
+          "media_count": 783,
+          "tweet_count": 12484
+        },
+        "url": "https://t.co/ApKveTt5a2",
+        "username": "SHUGE0731",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T12:14:23.000Z",
+        "description": "本垢→＠b_nosk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "b_nosk"
+              }
+            ]
+          }
+        },
+        "id": "1596477403689144320",
+        "is_identity_verified": false,
+        "location": "ヘッダー:@mugiya_mamさん",
+        "most_recent_tweet_id": "2087923888735044012",
+        "name": "之助",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596477403689144320/1786258099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079034331126026240/FIMjZ_Oo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3049,
+          "following_count": 247,
+          "like_count": 6049,
+          "listed_count": 37,
+          "media_count": 145,
+          "tweet_count": 371
+        },
+        "url": "",
+        "username": "b_nosk2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
