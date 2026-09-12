@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2097691104175116741",
+    "created_at": "2026-09-09T16:08:07.000Z",
+    "display_text_range": [
+      27,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T17:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097718704209604699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1913084413942145024",
+          "start": 0,
+          "username": "Sui_aini"
+        },
+        {
+          "end": 26,
+          "id": "2000386018953101312",
+          "start": 10,
+          "username": "MiraOmicronCeti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097718704209604699",
+    "in_reply_to_user_id": "1913084413942145024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097691104175116741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sui_aini @MiraOmicronCeti 我真的敬佩您 这样的勇气"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2246,
+        "media_key": "3_2097691089876717568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRx-7qSakAAQesc.jpg",
+        "width": 1640
+      },
+      {
+        "height": 1730,
+        "media_key": "3_2097691098584129536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRx-8KubIAAWynX.jpg",
+        "width": 1614
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2097691104175116741",
+        "created_at": "2026-09-09T16:08:07.000Z",
+        "display_text_range": [
+          27,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T17:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097718704209604699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            },
+            {
+              "end": 26,
+              "id": "2000386018953101312",
+              "start": 10,
+              "username": "MiraOmicronCeti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097718704209604699",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097691104175116741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini @MiraOmicronCeti 我真的敬佩您 这样的勇气"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097691089876717568",
+            "3_2097691098584129536"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097691104175116741",
+        "created_at": "2026-09-09T14:18:27.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097691104175116741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 41,
+              "id": "2000386018953101312",
+              "start": 25,
+              "username": "MiraOmicronCeti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cTe7u33cWI",
+              "end": 65,
+              "expanded_url": "https://x.com/Sui_aini/status/2097691104175116741/photo/1",
+              "media_key": "3_2097691089876717568",
+              "start": 42,
+              "url": "https://t.co/cTe7u33cWI"
+            },
+            {
+              "display_url": "pic.x.com/cTe7u33cWI",
+              "end": 65,
+              "expanded_url": "https://x.com/Sui_aini/status/2097691104175116741/photo/1",
+              "media_key": "3_2097691098584129536",
+              "start": 42,
+              "url": "https://t.co/cTe7u33cWI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097691104175116741",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097691089876717568"
+          },
+          {
+            "media_key": "3_2097691098584129536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 267,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么你一家人都这么畜牲啊，不是一家人不进一家门啊 @MiraOmicronCeti https://t.co/cTe7u33cWI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno（2024.12.20-2026.7.17）｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 小号防炸@KafKa89640 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Dorcus10031"
+              },
+              {
+                "end": 137,
+                "start": 126,
+                "username": "KafKa89640"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTt5a2"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "is_identity_verified": false,
+        "location": "马孔多下雨了",
+        "most_recent_tweet_id": "2097718704209604699",
+        "name": "Stargazer 8964（低浮上）",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662293107738640384/1719297767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 1289,
+          "like_count": 38341,
+          "listed_count": 4,
+          "media_count": 819,
+          "tweet_count": 13251
+        },
+        "url": "https://t.co/ApKveTt5a2",
+        "username": "SHUGE0731",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）//「我是我自己的爱人」//我开始了新的生活，我的盛夏：@paedeiaPan//小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "paedeiaPan"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2097691104175116741",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2518,
+          "following_count": 860,
+          "like_count": 6962,
+          "listed_count": 4,
+          "media_count": 966,
+          "tweet_count": 7549
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T02:03:07.000Z",
+        "description": "🟨⬜️🟪⬛️",
+        "id": "2000386018953101312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097197198828327256",
+        "name": "ᎷӀᎡᎪ #蒭藁增二",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000386018953101312/1788771808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096887010720145408/IVpgDs5Q_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 263,
+          "like_count": 7310,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 739
+        },
+        "url": "",
+        "username": "MiraOmicronCeti",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
