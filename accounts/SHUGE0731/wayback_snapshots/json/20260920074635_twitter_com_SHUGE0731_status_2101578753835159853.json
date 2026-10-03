@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2101421005281587279",
+    "created_at": "2026-09-20T07:46:35.000Z",
+    "display_text_range": [
+      10,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T08:46:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101578753835159853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2096172013996089344",
+          "start": 0,
+          "username": "Mintink4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101578753835159853",
+    "in_reply_to_user_id": "2096172013996089344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101421005281587279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mintink4 它看着也太绒了🤤好想摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8241,
+        "height": 1280,
+        "media_key": "13_2101420982590377984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101420982590377984/img/fx4oGsKm1A1fvFDZ.jpg",
+        "public_metrics": {
+          "view_count": 282
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101420982590377984/vid/avc1/320x568/ioI2BEQQlJ3Dejph.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101420982590377984/vid/avc1/480x852/XYTp9CJstiP8EJvC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101420982590377984/vid/avc1/720x1280/03Kcme7TEkPY7FU5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101420982590377984/pl/3rwGXTDtbzcZhrY7.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2101421005281587279",
+        "created_at": "2026-09-20T07:46:35.000Z",
+        "display_text_range": [
+          10,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T08:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101578753835159853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2096172013996089344",
+              "start": 0,
+              "username": "Mintink4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101578753835159853",
+        "in_reply_to_user_id": "2096172013996089344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101421005281587279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink4 它看着也太绒了🤤好想摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101420982590377984"
+          ]
+        },
+        "author_id": "2096172013996089344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Cats",
+              "id": "852263859209478144",
+              "name": "Cats"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cats",
+              "id": "852263859209478144",
+              "name": "Cats"
+            }
+          }
+        ],
+        "conversation_id": "2101421005281587279",
+        "created_at": "2026-09-19T21:19:44.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T22:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101421005281587279"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "cat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7qSPNKGFqJ",
+              "end": 32,
+              "expanded_url": "https://x.com/Mintink4/status/2101421005281587279/video/1",
+              "media_key": "13_2101420982590377984",
+              "start": 9,
+              "url": "https://t.co/7qSPNKGFqJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101421005281587279",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2101420982590377984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 801,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小乖猫 #cat https://t.co/7qSPNKGFqJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno（2024.12.20-2026.7.17）｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 小号防炸@KafKa89640 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Dorcus10031"
+              },
+              {
+                "end": 137,
+                "start": 126,
+                "username": "KafKa89640"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTt5a2"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "is_identity_verified": false,
+        "location": "马孔多下雨了",
+        "most_recent_tweet_id": "2101578753835159853",
+        "name": "Stargazer 8964（低浮上）",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662293107738640384/1719297767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 1294,
+          "like_count": 39401,
+          "listed_count": 4,
+          "media_count": 838,
+          "tweet_count": 13595
+        },
+        "url": "https://t.co/ApKveTt5a2",
+        "username": "SHUGE0731",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-05T09:43:32.000Z",
+        "description": "166cm/41kg/性冷淡/ENTP/高P 前世@Mintink3 💊个人频道https://t.co/7Nto1YSCMk❤️同类互fo请私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Mintink3"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+GWs1Kp_yEDAyY…",
+                "end": 63,
+                "expanded_url": "https://t.me/+GWs1Kp_yEDAyYzc9",
+                "start": 40,
+                "url": "https://t.co/7Nto1YSCMk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+GWs1Kp_yEDAyY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+GWs1Kp_yEDAyYzc9",
+                "start": 0,
+                "url": "https://t.co/7Nto1YSCMk"
+              }
+            ]
+          }
+        },
+        "id": "2096172013996089344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101571401173852457",
+        "name": "Beatrice二世",
+        "pinned_tweet_id": "2097412785592557783",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096172013996089344/1788601626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096173219044896768/yaMgdXAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 457,
+          "like_count": 2424,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/7Nto1YSCMk",
+        "username": "Mintink4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

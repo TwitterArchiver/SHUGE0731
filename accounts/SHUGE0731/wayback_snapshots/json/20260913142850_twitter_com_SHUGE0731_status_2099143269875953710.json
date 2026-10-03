@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1662293107738640384",
+    "conversation_id": "2098742831896785262",
+    "created_at": "2026-09-13T14:28:50.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T15:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099143269875953710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1794266757995343872",
+          "start": 0,
+          "username": "miyuki_114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099143269875953710",
+    "in_reply_to_user_id": "1794266757995343872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098742831896785262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyuki_114 这也太有创造力了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2098742824246366208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSA7eqIa0AAubtk.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662293107738640384",
+        "conversation_id": "2098742831896785262",
+        "created_at": "2026-09-13T14:28:50.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099143269875953710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1794266757995343872",
+              "start": 0,
+              "username": "miyuki_114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099143269875953710",
+        "in_reply_to_user_id": "1794266757995343872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098742831896785262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyuki_114 这也太有创造力了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098742824246366208"
+          ]
+        },
+        "author_id": "1794266757995343872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2098742831896785262",
+        "created_at": "2026-09-12T11:57:38.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T12:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098742831896785262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nd1PgNFTgO",
+              "end": 28,
+              "expanded_url": "https://x.com/miyuki_114/status/2098742831896785262/photo/1",
+              "media_key": "3_2098742824246366208",
+              "start": 5,
+              "url": "https://t.co/nd1PgNFTgO"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2098446469657489646",
+              "start": 29,
+              "url": "https://t.co/w05VSVwYTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098742831896785262",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098742824246366208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 58343,
+          "like_count": 542,
+          "quote_count": 5,
+          "reply_count": 111,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098446469657489646",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉不如 https://t.co/nd1PgNFTgO https://t.co/w05VSVwYTT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "⚠️od/sh负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno（2024.12.20-2026.7.17）｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031 ｜ 小号防炸@KafKa89640 ｜ 提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Dorcus10031"
+              },
+              {
+                "end": 137,
+                "start": 126,
+                "username": "KafKa89640"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sccs49966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sccs49966",
+                "start": 0,
+                "url": "https://t.co/ApKveTt5a2"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "is_identity_verified": false,
+        "location": "马孔多下雨了",
+        "most_recent_tweet_id": "2099143269875953710",
+        "name": "Stargazer 8964（低浮上）",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662293107738640384/1719297767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 1296,
+          "like_count": 38767,
+          "listed_count": 4,
+          "media_count": 824,
+          "tweet_count": 13371
+        },
+        "url": "https://t.co/ApKveTt5a2",
+        "username": "SHUGE0731",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-05-25T07:18:54.000Z",
+        "description": "يا أبناء القسام اضربوا صواريخها على تل أبيب",
+        "id": "1794266757995343872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099142164395745549",
+        "name": "☫Le Fiamme Nere☫",
+        "pinned_tweet_id": "2097255034719477858",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794266757995343872/1789141386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098743852861632512/0XCEq3Qe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 1739,
+          "like_count": 347367,
+          "listed_count": 2,
+          "media_count": 3007,
+          "tweet_count": 65090
+        },
+        "url": "",
+        "username": "miyuki_114",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
